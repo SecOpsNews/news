@@ -91,3 +91,51 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "NCSCthreats" 
+  MicrosoftSecurity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://blogs.technet.com/mmpc/rss.xml"
+          prefix: "[MicrosoftSecurity]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "MicrosoftSecurity"
+  Bugtraq:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://seclists.org/rss/bugtraq.rss"
+          prefix: "[Bugtraq]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "Bugtraq"
+  HIBP:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"
+          prefix: "[HIBP]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "HIBP"
+  NETRESEC:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://www.netresec.com/rss.ashx"
+          prefix: "[NETRESEC]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "NETRESEC"    
