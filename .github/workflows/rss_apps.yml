@@ -43,3 +43,29 @@ jobs:
         dry-run: "false"
         lastTime: "24h"
         labels: "CloudFlare" 
+  Starling:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://starlingbank.statuspage.io/history.atom"
+        prefix: "[Starling]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Starling" 
+  Chase:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://chaseuk.statuspage.io/history.atom"
+        prefix: "[Chase]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Chase"
+
+
