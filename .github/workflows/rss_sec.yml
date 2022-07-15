@@ -1,0 +1,21 @@
+---
+name: RSS Security
+
+on:
+  schedule:
+  - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  CloudFlare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${secrets.GITHUB_TOKEN}
+        feed: "https://blog.cloudflare.com/"
+        prefix: "[CloudFlare]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "CloudFlare"
