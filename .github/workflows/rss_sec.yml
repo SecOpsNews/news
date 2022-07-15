@@ -67,4 +67,27 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "MicrosoftSecurityResponseCenter"
-  
+  NCSCGuidanceFeed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://www.ncsc.gov.uk/feeds/guidance.xml"
+          prefix: "[NCSCGuidanceFeed]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "NCSCGuidanceFeed"
+  NCSCthreats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"
+          prefix: "[NCSCthreats]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "NCSCthreats" 
