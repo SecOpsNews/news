@@ -1,0 +1,45 @@
+---
+name: RSS Apps
+
+on:
+  schedule:
+  - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  OnePassword:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://1password.statuspage.io/history.atom"
+        prefix: "[1Password]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "1Password"      
+  GitHub:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.githubstatus.com/history.rss"
+        prefix: "[GitHub]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "GitHub"                           
+  CloudFlare:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.cloudflarestatus.com/history.atom"
+        prefix: "[CloudFlare]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "CloudFlare, indirect" 
