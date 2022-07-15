@@ -1,0 +1,70 @@
+---
+name: RSS Security
+
+on:
+  schedule:
+  - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  CISA:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://www.us-cert.gov/current/index.rdf"
+          prefix: "[CISA]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "CISA"
+  DataBreaches:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://feeds.feedburner.com/OfficeOfInadequateSecurity"
+          prefix: "[DataBreaches]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "DataBreaches"
+  DarkReading:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://www.darkreading.com/rss/all.xml"
+          prefix: "[DarkReading]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "DarkReading"
+  FullDisclosure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://seclists.org/rss/fulldisclosure.rss"
+          prefix: "[FullDisclosure]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "FullDisclosure"
+  MicrosoftSecurityResponseCenter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "http://blogs.technet.com/msrc/rss.xml"
+          prefix: "[MicrosoftSecurityResponseCenter]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "MicrosoftSecurityResponseCenter"
+  
