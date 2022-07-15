@@ -42,4 +42,4 @@ jobs:
         prefix: "[CloudFlare]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "CloudFlare, indirect" 
+        labels: "CloudFlare" 
