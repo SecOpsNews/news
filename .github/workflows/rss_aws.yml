@@ -1,5 +1,5 @@
 ---
-name: RSS Runner (Aws)
+name: RSS Aws
 
 on:
   schedule:
