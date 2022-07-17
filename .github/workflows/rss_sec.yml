@@ -19,6 +19,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "CISA"
+          
   DataBreaches:
     runs-on: ubuntu-latest
     steps:
@@ -31,6 +32,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "DataBreaches"
+          
   DarkReading:
     runs-on: ubuntu-latest
     steps:
@@ -43,6 +45,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "DarkReading"
+          
   FullDisclosure:
     runs-on: ubuntu-latest
     steps:
@@ -55,6 +58,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "FullDisclosure"
+          
   MicrosoftSecurityResponseCenter:
     runs-on: ubuntu-latest
     steps:
@@ -67,6 +71,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "MicrosoftSecurityResponseCenter"
+          
   NCSCGuidanceFeed:
     runs-on: ubuntu-latest
     steps:
@@ -79,6 +84,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "NCSCGuidanceFeed"
+          
   NCSCthreats:
     runs-on: ubuntu-latest
     steps:
@@ -90,7 +96,8 @@ jobs:
           prefix: "[NCSCthreats]"
           dry-run: "false"
           lastTime: "24h"
-          labels: "NCSCthreats" 
+          labels: "NCSCthreats"
+          
   MicrosoftSecurity:
     runs-on: ubuntu-latest
     steps:
@@ -103,6 +110,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "MicrosoftSecurity"
+          
   Bugtraq:
     runs-on: ubuntu-latest
     steps:
@@ -115,6 +123,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "Bugtraq"
+          
   HIBP:
     runs-on: ubuntu-latest
     steps:
@@ -127,6 +136,7 @@ jobs:
           dry-run: "false"
           lastTime: "24h"
           labels: "HIBP"
+          
   NETRESEC:
     runs-on: ubuntu-latest
     steps:
@@ -138,4 +148,121 @@ jobs:
           prefix: "[NETRESEC]"
           dry-run: "false"
           lastTime: "24h"
-          labels: "NETRESEC"    
+          labels: "NETRESEC"
+          
+  BrianKrebs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://krebsonsecurity.com/feed/"
+          prefix: "[BrianKrebs]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "BrianKrebs"
+    
+  GrahamCluley:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://grahamcluley.com/feed/"
+          prefix: "[GrahamCluley]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "GrahamCluley"
+    
+  TroyHunt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://feeds.feedburner.com/TroyHunt"
+          prefix: "[TroyHunt]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "TroyHunt"
+    
+  HackerNews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://feeds.feedburner.com/TheHackersNews"
+          prefix: "[HackerNews]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "HackerNews"
+
+  SecurityWeek:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://feeds.feedburner.com/securityweek"
+          prefix: "[SecurityWeek]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "SecurityWeek"
+
+  RegisterSec:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://www.theregister.com/security/headlines.atom"
+          prefix: "[RegisterSec]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "RegisterSec"
+          
+  RegisterSoftware:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://www.theregister.com/software/headlines.atom"
+          prefix: "[RegisterSoftware]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "RegisterSoftware"
+        
+  BleepingComputer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://www.bleepingcomputer.com/feed/"
+          prefix: "[BleepingComputer]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "BleepingComputer"
+          
+  ScottHelme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guilhem/rss-issues-action@0.5.2
+        continue-on-error: true
+        with:
+          repo-token: ${secrets.GITHUB_TOKEN}
+          feed: "https://scotthelme.co.uk/rss/"
+          prefix: "[ScottHelme]"
+          dry-run: "false"
+          lastTime: "24h"
+          labels: "ScottHelme"
