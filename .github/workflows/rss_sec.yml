@@ -14,7 +14,7 @@ jobs:
         continue-on-error: true
         with:
           repo-token: ${secrets.GITHUB_TOKEN}
-          feed: "http://www.us-cert.gov/current/index.rdf"
+          feed: "https://www.cisa.gov/uscert/ncas/alerts.xml"
           prefix: "[CISA]"
           dry-run: "false"
           lastTime: "24h"
