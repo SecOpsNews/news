@@ -3,7 +3,7 @@ name: RSS Aws
 
 on:
   schedule:
-  # “At every 30th minute past every hour from 8 through 19 
+  # “At every 30th minute past every hour from 8 through 19
   # on Monday, Tuesday, Wednesday, Thursday, and Friday.”
   - cron: '*/30 * * * *'
   workflow_dispatch:

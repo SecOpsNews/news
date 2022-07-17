@@ -18,7 +18,7 @@ jobs:
         prefix: "[1Password]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "1Password"      
+        labels: "1Password"
   GitHub:
     runs-on: ubuntu-latest
     steps:
@@ -30,7 +30,7 @@ jobs:
         prefix: "[GitHub]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "GitHub"                           
+        labels: "GitHub" 
   CloudFlare:
     runs-on: ubuntu-latest
     steps:
@@ -42,7 +42,7 @@ jobs:
         prefix: "[CloudFlare]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "CloudFlare" 
+        labels: "CloudFlare"
   Starling:
     runs-on: ubuntu-latest
     steps:
@@ -54,7 +54,7 @@ jobs:
         prefix: "[Starling]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "Starling" 
+        labels: "Starling"
   Chase:
     runs-on: ubuntu-latest
     steps:
