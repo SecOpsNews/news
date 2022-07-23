@@ -1,0 +1,248 @@
+name: RSS Third Parties
+
+on:
+  schedule:
+  - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  OnePassword:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://1password.statuspage.io/history.atom"
+        prefix: "[1Password]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "1Password"
+  SonarCloud:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://sonarcloud.statuspage.io/history.atom"
+        prefix: "[SonarCloud]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "SonarCloud"        
+  CodeClimate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.codeclimate.com/history.atom"
+        prefix: "[CodeClimate]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "CodeClimate"               
+  Slack:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.slack.com/feed/rss"
+        prefix: "[Slack]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Slack"            
+  Greenhouse:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://greenhouse.statuspage.io/history.rss"
+        prefix: "[Greenhouse]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Greenhouse"       
+  HashiCorp:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.hashicorp.com/history.rss"
+        prefix: "[HashiCorp]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "HashiCorp"    
+  Confluence:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://confluence.status.atlassian.com/history.rss"
+        prefix: "[Confluence]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Confluence, Ops"    
+  Jira:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://jira-software.status.atlassian.com/history.rss"
+        prefix: "[Jira]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Jira"                   
+  Netlify:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.netlifystatus.com/history.rss"
+        prefix: "[Netlify]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Netlify"         
+  Intelliflo:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://intelliflo.statuspage.io/history.rss"
+        prefix: "[Intelliflo]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Intelliflo"          
+  GitHub:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.githubstatus.com/history.rss"
+        prefix: "[GitHub]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "GitHub"            
+  Optimizely:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.optimizely.com/history.rss"
+        prefix: "[Optimizely]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Optimizely"         
+  MongoDB:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.cloud.mongodb.com/history.rss"
+        prefix: "[MongoDB]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "MongoDB"         
+  npm:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://status.npmjs.org/history.rss"
+        prefix: "[npm]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "npm"          
+  CloudFlare:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.cloudflarestatus.com/history.atom"
+        prefix: "[CloudFlare]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "CloudFlare, indirect" 
+  Postmark:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://feeds.feedburner.com/postmarkstatus"
+        prefix: "[Postmark]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Postmark" 
+  FastHosts:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.fasthosts-status.co.uk/history.atom"
+        prefix: "[FastHosts]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "FastHosts" 
+  Plausible:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://plausible.instatus.com/history.atom"
+        prefix: "[Plausible]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Plausible" 
+  Calendly:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.calendlystatus.com/history.rss"
+        prefix: "[Calendly]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "Calendly" 
+  GoCardless:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.2
+      continue-on-error: true
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://www.gocardless-status.com/history.atom"
+        prefix: "[GoCardless]"
+        dry-run: "false"
+        lastTime: "24h"
+        labels: "GoCardless"
