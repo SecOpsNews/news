@@ -43,4 +43,3 @@ jobs:
         dry-run: "false"
         lastTime: "24h"
         labels: "CloudFlare"
-        
