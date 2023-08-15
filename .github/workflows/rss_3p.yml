@@ -8,6 +8,7 @@ on:
 jobs: 
   Slack:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
     - uses: guilhem/rss-issues-action@0.5.2
       continue-on-error: true
