@@ -9,6 +9,7 @@ on:
 jobs:
   OnePassword:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
     - uses: guilhem/rss-issues-action@0.5.2
       continue-on-error: true
@@ -21,6 +22,7 @@ jobs:
         labels: "1Password"
   GitHub:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
     - uses: guilhem/rss-issues-action@0.5.2
       continue-on-error: true
@@ -33,6 +35,7 @@ jobs:
         labels: "GitHub" 
   CloudFlare:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
     - uses: guilhem/rss-issues-action@0.5.2
       continue-on-error: true
