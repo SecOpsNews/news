@@ -1,6 +1,6 @@
 # Reader
 
-A repository to track third party availability and incidents via GitHub Issues.
+A repository to track third party (RSS) feeds for various security sites as GitHub issues. Quite Noisy.
 
 
 
