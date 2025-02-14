@@ -1,8 +1,6 @@
-# Reader
+# News
 
-A repository to track third party (RSS) feeds for various security sites as GitHub issues. Quite Noisy.
-
-
+A repository to track third party (RSS) feeds from various security sites as GitHub issues. Note this is quite noisy.
 
 ## Adding a new feed
 
