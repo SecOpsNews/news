@@ -82,15 +82,15 @@ def create_rss_feed(issues, repo_owner, repo_name, output_file):
 
     # Add an entry for today's issues summary
     issue_bullets = "\n".join([
-        f"• <a href='{issue['html_url']}'>{issue['title']}</a> "
-        f"({', '.join([label['name'] for label in issue['labels']])})"
+        f"• {issue['title']}\n"
+        f"({', '.join([label['name'] for label in issue['labels']])})\n"
         for issue in issues
     ])
 
     feed.add_item(
         title=f"Open Issues Summary - {now.strftime('%Y-%m-%d')}",
         link=f"https://github.com/{repo_owner}/{repo_name}/issues",
-        description=f"<ul>{issue_bullets}</ul>",
+        description=f"<ul>{issue_bullets}</ul>\n",
         pubdate=now,
         unique_id=f"issues-{now.strftime('%Y-%m-%d')}"
     )
