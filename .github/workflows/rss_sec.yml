@@ -2,315 +2,315 @@
 name: RSS Security
 
 on:
-  schedule:
-  - cron: '*/15 * * * *'
-  workflow_dispatch:
+    schedule:
+        - cron: "*/15 * * * *"
+    workflow_dispatch:
 
 jobs:
-  CISA:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.cisa.gov/uscert/ncas/alerts.xml"
-          prefix: "[CISA]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "CISA"
+    CISA:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.cisa.gov/uscert/ncas/alerts.xml"
+                  prefix: "[CISA]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "CISA"
 
-  DataBreaches:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://feeds.feedburner.com/OfficeOfInadequateSecurity"
-          prefix: "[DataBreaches]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "DataBreaches"
+    DataBreaches:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://feeds.feedburner.com/OfficeOfInadequateSecurity"
+                  prefix: "[DataBreaches]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "DataBreaches"
 
-  DarkReading:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://www.darkreading.com/rss/all.xml"
-          prefix: "[DarkReading]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "DarkReading"
+    DarkReading:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://www.darkreading.com/rss/all.xml"
+                  prefix: "[DarkReading]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "DarkReading"
 
-  FullDisclosure:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://seclists.org/rss/fulldisclosure.rss"
-          prefix: "[FullDisclosure]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "FullDisclosure"
+    FullDisclosure:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://seclists.org/rss/fulldisclosure.rss"
+                  prefix: "[FullDisclosure]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "FullDisclosure"
 
-  MicrosoftSecurityResponseCenter:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://blogs.technet.com/msrc/rss.xml"
-          prefix: "[MicrosoftSecurityResponseCenter]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "MicrosoftSecurityResponseCenter"
+    MicrosoftSecurityResponseCenter:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://blogs.technet.com/msrc/rss.xml"
+                  prefix: "[MicrosoftSecurityResponseCenter]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "MicrosoftSecurityResponseCenter"
 
-  NCSCGuidanceFeed:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.ncsc.gov.uk/feeds/guidance.xml"
-          prefix: "[NCSCGuidanceFeed]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "NCSCGuidanceFeed"
+    NCSCGuidanceFeed:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.ncsc.gov.uk/feeds/guidance.xml"
+                  prefix: "[NCSCGuidanceFeed]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "NCSCGuidanceFeed"
 
-  NCSCthreats:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"
-          prefix: "[NCSCthreats]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "NCSCthreats"
+    NCSCthreats:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"
+                  prefix: "[NCSCthreats]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "NCSCthreats"
 
-  MicrosoftSecurity:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://blogs.technet.com/mmpc/rss.xml"
-          prefix: "[MicrosoftSecurity]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "MicrosoftSecurity"
+    MicrosoftSecurity:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://blogs.technet.com/mmpc/rss.xml"
+                  prefix: "[MicrosoftSecurity]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "MicrosoftSecurity"
 
-  Bugtraq:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://seclists.org/rss/bugtraq.rss"
-          prefix: "[Bugtraq]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "Bugtraq"
+    Bugtraq:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://seclists.org/rss/bugtraq.rss"
+                  prefix: "[Bugtraq]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Bugtraq"
 
-  HIBP:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"
-          prefix: "[HIBP]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "HIBP"
+    HIBP:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"
+                  prefix: "[HIBP]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "HIBP"
 
-  NETRESEC:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "http://www.netresec.com/rss.ashx"
-          prefix: "[NETRESEC]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "NETRESEC"
+    NETRESEC:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "http://www.netresec.com/rss.ashx"
+                  prefix: "[NETRESEC]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "NETRESEC"
 
-  BrianKrebs:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://krebsonsecurity.com/feed/"
-          prefix: "[BrianKrebs]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "BrianKrebs"
+    BrianKrebs:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://krebsonsecurity.com/feed/"
+                  prefix: "[BrianKrebs]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "BrianKrebs"
 
-  GrahamCluley:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://grahamcluley.com/feed/"
-          prefix: "[GrahamCluley]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "GrahamCluley"
+    GrahamCluley:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://grahamcluley.com/feed/"
+                  prefix: "[GrahamCluley]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "GrahamCluley"
 
-  TroyHunt:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://feeds.feedburner.com/TroyHunt"
-          prefix: "[TroyHunt]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "TroyHunt"
+    TroyHunt:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://feeds.feedburner.com/TroyHunt"
+                  prefix: "[TroyHunt]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "TroyHunt"
 
-  HackerNews:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://feeds.feedburner.com/TheHackersNews"
-          prefix: "[HackerNews]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "HackerNews"
+    HackerNews:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://feeds.feedburner.com/TheHackersNews"
+                  prefix: "[HackerNews]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "HackerNews"
 
-  SecurityWeek:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://feeds.feedburner.com/securityweek"
-          prefix: "[SecurityWeek]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "SecurityWeek"
+    SecurityWeek:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://feeds.feedburner.com/securityweek"
+                  prefix: "[SecurityWeek]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "SecurityWeek"
 
-  RegisterSec:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.theregister.com/security/headlines.atom"
-          prefix: "[RegisterSec]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "RegisterSec"
+    RegisterSec:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.theregister.com/security/headlines.atom"
+                  prefix: "[RegisterSec]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "RegisterSec"
 
-  RegisterSoftware:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.theregister.com/software/headlines.atom"
-          prefix: "[RegisterSoftware]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "RegisterSoftware"
+    RegisterSoftware:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.theregister.com/software/headlines.atom"
+                  prefix: "[RegisterSoftware]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "RegisterSoftware"
 
-  BleepingComputer:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://www.bleepingcomputer.com/feed/"
-          prefix: "[BleepingComputer]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "BleepingComputer"
+    BleepingComputer:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.bleepingcomputer.com/feed/"
+                  prefix: "[BleepingComputer]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "BleepingComputer"
 
-  ScottHelme:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://scotthelme.co.uk/rss/"
-          prefix: "[ScottHelme]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "ScottHelme"
+    ScottHelme:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://scotthelme.co.uk/rss/"
+                  prefix: "[ScottHelme]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ScottHelme"
 
-  CloudFlare:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://blog.cloudflare.com/"
-          prefix: "[CloudFlare]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "CloudFlare"
+    CloudFlare:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://blog.cloudflare.com/"
+                  prefix: "[CloudFlare]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "CloudFlare"
 
-  PoliticCyber:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
-      - uses: guilhem/rss-issues-action@0.5.2
-        continue-on-error: true
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          feed: "https://wwww.politico.com/rss/morningcybersecruity.xml"
-          prefix: "[PoliticCyber]"
-          dry-run: "false"
-          lastTime: "24h"
-          labels: "PoliticCyber"
+    PoliticCyber:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://wwww.politico.com/rss/morningcybersecruity.xml"
+                  prefix: "[PoliticCyber]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "PoliticCyber"

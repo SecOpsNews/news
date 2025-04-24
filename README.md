@@ -18,5 +18,5 @@ SourceName:
         prefix: "[SourceName]"
         dry-run: "false"
         lastTime: "24h"
-        labels: "SourceName, [App, DevOps]" 
+        labels: "SourceName, [App, DevOps]"
 ```
