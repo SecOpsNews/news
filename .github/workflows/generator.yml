@@ -27,8 +27,8 @@ jobs:
               run: python _python/feed-generator.py
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  REPO_OWNER: ${{ github.repository_owner }}
-                  REPO_NAME: ${{ github.repository.name }}
+                  REPO_OWNER: SecOpsNews
+                  REPO_NAME: News
                   OUTPUT_FILE: feed.rss
 
             - name: Commit and push
