@@ -29,18 +29,12 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   REPO_OWNER: ${{ github.repository_owner }}
                   REPO_NAME: ${{ github.repository.name }}
-                  OUTPUT_FILE: issues_feed.xml
+                  OUTPUT_FILE: feed.rss
 
-            - name: Upload RSS feed as artifact
-              uses: actions/upload-artifact@v3
-              with:
-                  name: issues-rss-feed
-                  path: issues_feed.xml
-
-            - name: Commit and push feed to repository
-              run: |
-                  git config --global user.name 'GitHub Action'
-                  git config --global user.email 'action@github.com'
-                  git add issues_feed.xml
-                  git commit -m "Update issues RSS feed" || echo "No changes to commit"
+            - name: Commit and push
+              run: |-
+                  git diff
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
+                  git diff --quiet || (git add -A && git commit -m "New Feed")
                   git push
