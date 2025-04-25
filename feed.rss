@@ -12,9 +12,9 @@
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>https://github.com/SecOpsNews/News/issues</link>
-       <guid isPermaLink="false">Daily Rundown for {{ pub_date }}</guid>
+      <guid isPermaLink="false">Daily Rundown for {{ pub_date }}</guid>
       <description>
-      <![CDATA[ {{ contents_of_page.content }} ]]>
+      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
       </description>
       <pubDate>{{ pub_date }}</pubDate>
     </item>
