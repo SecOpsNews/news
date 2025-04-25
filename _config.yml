@@ -1,5 +1,11 @@
 # Build settings
 markdown: kramdown
+highlighter: rouge
+encoding: UTF-8
+future: false
+sass:
+  style: compressed
+
 plugins:
   - jekyll-feed
 

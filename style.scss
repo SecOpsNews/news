@@ -1,0 +1,490 @@
+---
+---
+
+html {
+    font-size: 100%;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+// 16px = 1em
+
+@font-face {
+    font-family: "TheChelsLight";
+    src: url("fonts/TheChelsLight.woff") format("woff");
+}
+
+@font-face {
+    font-family: "TheChelsMedium";
+    src: url("fonts/TheChelsMedium.woff") format("woff");
+    font-weight: bold;
+}
+
+$background: #f5f4f4;
+$primary: #04100d;
+$secondary: #3c4b57;
+$links: #005ca3;
+$accent: #cec452;
+$code: #c0deff;
+$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
+$header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
+$font-mono: ui-monospace, monospace, "Courier New";
+
+.primary {
+    color: $primary;
+}
+.secondary {
+    color: $secondary;
+}
+.links {
+    color: $links;
+}
+.accent {
+    color: $accent;
+}
+.font-stack {
+    font-family: $font-stack;
+}
+.font-mono {
+    font-family: $font-mono;
+}
+
+.highlight > pre {
+    background: $code;
+    color: $primary;
+    padding: 0.525em;
+    border-radius: 0.5em;
+    margin: 0.525em;
+    border: 1px solid #121212;
+}
+
+body {
+    border-top: 16px solid $secondary;
+    margin: 0;
+    font-family: $font-stack;
+    color: $primary;
+    font-size: 1em;
+    background: $background;
+    box-sizing: border-box;
+}
+
+#outer-wrapper {
+    border-top: 16px solid $accent;
+    min-height: 80%;
+    margin-bottom: -40px;
+}
+
+#wrapper {
+    width: 832px;
+    margin: 1em auto;
+    padding: 1em;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.skip-link:not(:focus):not(:active) {
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.skip-link-ul {
+    display: block;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+main:focus {
+    outline: none;
+}
+
+.blog-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    padding-bottom: 0;
+    margin-right: 8px;
+    display: inline-block;
+    outline: none;
+
+    a {
+        text-decoration: none;
+        color: $primary;
+    }
+
+    a:active,
+    a:hover {
+        text-decoration: none;
+    }
+
+    sup {
+        color: $accent;
+    }
+}
+
+.asterisk {
+    font-size: 2.5rem;
+    margin: 0 auto;
+    line-height: 0.5em;
+    text-align: center;
+
+    &:hover {
+        rotate: 180deg;
+        transition: color 1s ease-in-out;
+        text-decoration: none;
+        color: $secondary;
+        display: inline-block;
+    }
+}
+
+.blog-slogan {
+    color: $secondary;
+    margin: 0 0 0 2px;
+    display: block;
+    font-size: 1em;
+}
+
+.blog-menu {
+    margin: 1em 0;
+    color: $accent;
+
+    a {
+        padding: 0 0.3125em;
+    }
+}
+
+.radius {
+    border-radius: 1em;
+}
+
+.blog-image {
+    display: block;
+    float: right;
+    height: 72px;
+    width: 72px;
+    margin-top: 0;
+    background: url("images/TheChels.png") no-repeat;
+
+    &:hover {
+        background: url("images/TheChels-dark.png") no-repeat;
+        transition: all 2s ease-in-out 0.5s;
+    }
+}
+
+.meta {
+    color: $secondary;
+    display: block;
+    float: right;
+    margin-right: 0;
+    display: block;
+    font-size: 12px;
+}
+
+article {
+    margin: 3em 0;
+}
+
+.book-list .book {
+    display: flex;
+}
+
+.book-list {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    max-width: 860px;
+}
+
+.book-list .book-img {
+    flex-shrink: 0;
+    width: 90px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $primary;
+    position: relative;
+    display: block;
+    margin-top: 0.75em;
+    font-family: $header-stack;
+
+    &:hover::after {
+        content: " #";
+        color: $accent;
+    }
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    text-decoration: none;
+    color: $primary;
+
+    &:hover {
+        text-decoration: none;
+    }
+    &:focus {
+        text-decoration: none;
+    }
+}
+
+ol li,
+ul li {
+    margin-bottom: 7px;
+    line-height: 1.4;
+}
+
+ul ul,
+ol ol,
+ol ul,
+ul ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ol li::marker {
+    color: $primary;
+}
+
+ul li::marker {
+    color: $accent;
+}
+
+p {
+    line-height: 1.4;
+}
+
+a {
+    color: $links;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $accent;
+        transition: color 4s ease-in-out;
+        text-decoration: underline;
+    }
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.codeblock {
+    font-family: $font-mono;
+    border: 0.125em solid $secondary;
+    border-radius: 1em;
+    font-size: 0.9em;
+    padding: 0.625em;
+}
+
+pre,
+code {
+    font-family: $font-mono;
+    font-size: 0.75em;
+}
+
+pre > code {
+    font-family: $font-mono;
+    font-size: 0.9em;
+}
+
+blockquote,
+cite {
+    padding: 0 1em;
+    border-left: 0.25em solid $accent;
+    width: 90%;
+    margin-left: 0.625em;
+}
+
+.footnote {
+    font-size: 0.75em;
+    color: $secondary;
+
+    sup {
+        color: $primary;
+        margin-right: 0.3125em;
+    }
+}
+
+.post {
+    position: relative;
+
+    > h2 {
+        margin-top: 60px;
+        margin-right: 130px;
+    }
+}
+
+.entry {
+    margin-bottom: 20px;
+}
+
+.posts {
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 0.75em;
+    transition: all 0.1s;
+}
+
+.floated {
+    float: left;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.content {
+    position: relative;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #bbb;
+
+    th,
+    td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid #d2d2d2;
+    }
+
+    th {
+        background-color: $accent;
+        color: $primary;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+}
+
+img {
+    border: 1px solid $primary;
+}
+
+.book-img img {
+    border: 0;
+}
+
+.highlighter {
+    background: $accent;
+    color: $primary;
+    padding: 0.265em;
+    border-radius: 0.5em;
+    margin: 0.265em;
+    font-size: 0.8em;
+}
+
+.back-to-top {
+    font-size: 2rem;
+    position: fixed;
+    inset: auto 1rem 1rem auto;
+    display: inline-block;
+    padding: 1rem;
+    background-color: $background;
+    border-radius: 0.5rem;
+    border: 1px solid #dbd9d9;
+}
+
+.back-to-top:is(:link, :visited, :hover, :active) {
+    color: $accent;
+    text-decoration: none;
+}
+
+.footer {
+    line-height: 40px;
+    font-size: 0.8em;
+    padding-bottom: 8px;
+
+    .wrapper {
+        width: 860px;
+        margin: 0 auto;
+    }
+}
+
+#outer-wrapper:after {
+    content: "";
+    display: block;
+}
+
+.footer,
+#outer-wrapper:after {
+    height: 40px;
+}
+
+@media screen and (max-width: 1000px) {
+    #wrapper {
+        margin: 2px;
+        width: auto;
+    }
+
+    .book-list {
+        display: grid;
+        grid-gap: 0;
+        grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+    }
+
+    .book-list .book-img {
+        flex-shrink: 0;
+        width: 72px;
+    }
+
+    .footer {
+        line-height: 30px;
+        padding-top: 10px;
+    }
+
+    .footer .wrapper {
+        margin: 0 20px;
+        width: auto;
+    }
+
+    .meta {
+        display: block;
+        float: none;
+        margin-left: 0;
+    }
+
+    .footer,
+    #outer-wrapper:after {
+        height: 60px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .blog-menu {
+        margin-bottom: 1em;
+    }
+
+    .back-to-top a,
+    .back-to-top a:hover,
+    .back-to-top a:active,
+    .back-to-top a:focus {
+        color: $accent;
+        font-size: 1em;
+        float: none;
+        text-decoration: none;
+    }
+}
+
+.sr-only {
+    display: none;
+}
