@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: index
 title: Home
 description: Latest Updates
 
 ---
+
+[Get this as an RSS feed](/feed.rss)
 
 <!-- SecOps start -->
 
@@ -133,7 +135,7 @@ description: Latest Updates
 - [FullDisclosure] APPLE-SA-04-16-2025-1 iOS 18.4.1 and iPadOS 18.4.1 - 1 day ago
 - [FullDisclosure] APPLE-SA-04-16-2025-2 macOS Sequoia 15.4.1 - 1 day ago
 - [FullDisclosure] APPLE-SA-04-16-2025-3 tvOS 18.4.1 - 1 day ago
-- [FullDisclosure] BBOT 2.1.0 - Local Privilege Escalation via Malicious Module	Execution - 1 day ago
+- [FullDisclosure] BBOT 2.1.0 - Local Privilege Escalation via Malicious Module Execution - 1 day ago
 - [FullDisclosure] XSS via SVG Image Upload - AlegroCartv1.2.9 - 1 day ago
 - [FullDisclosure] Stored XSS in "Message" Functionality - AlegroCartv1.2.9 - 1 day ago
 - [FullDisclosure] Business Logic Flaw: Price Manipulation - AlegroCartv1.2.9 - 1 day ago
@@ -613,7 +615,7 @@ description: Latest Updates
 - [BleepingComputer] Microsoft blocks ActiveX by default in Microsoft 365, Office 2024 - 1 week ago
 - [RegisterSoftware] Exchange Server 2019 has less than six months of support left in the tank - 1 week ago
 - [SecurityWeek] Insurance Firm Lemonade Says API Glitch Exposed Some Driver’s License Numbers - 1 week ago
-- [CloudFlare] Cloudflare Website Unavailable (www.cloudflare.com) - 1 week ago
+- [CloudFlare] Cloudflare Website Unavailable (<www.cloudflare.com>) - 1 week ago
 - [RegisterSoftware] Delta Lake and Iceberg communities collide – in a good way - 1 week ago
 - [GrahamCluley] The AI Fix #46: AI can read minds now, and is your co-host a clone? - 1 week ago
 - [DataBreaches] 4chan hacked, internal data leaked on rival image board - 1 week ago
@@ -1007,6 +1009,5 @@ description: Latest Updates
 - [HackerNews] Cryptocurrency Miner and Clipper Malware Spread via SourceForge Cracked Software Listings - 2 weeks ago
 - [HackerNews] Amazon EC2 SSM Agent Flaw Patched After Privilege Escalation via Path Traversal - 2 weeks ago
 - [BleepingComputer] Hackers lurked in Treasury OCC’s systems since June 2023 breach - 2 weeks ago
-
 
 <!-- SecOps end -->
