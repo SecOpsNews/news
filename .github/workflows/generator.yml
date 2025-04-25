@@ -2,7 +2,7 @@ name: Generate GitHub Issues RSS Feed
 
 on:
     schedule:
-        - cron: "0 7 * * *" # Run daily at 7 UTC
+        - cron: "0 7,14 * * *"
     workflow_dispatch: # Allow manual triggering
 
 jobs:
