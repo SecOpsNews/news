@@ -11,7 +11,7 @@ jobs:
 
         steps:
             - name: Checkout repository
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
 
             - name: Set up Python
               uses: actions/setup-python@v5
@@ -29,7 +29,7 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   REPO_OWNER: SecOpsNews
                   REPO_NAME: News
-                  OUTPUT_FILE: feed.rss
+                  OUTPUT_FILE: index.md
 
             - name: Commit and push
               run: |-
