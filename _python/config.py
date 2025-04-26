@@ -1,1 +1,1 @@
-// local config only
+# local config only
