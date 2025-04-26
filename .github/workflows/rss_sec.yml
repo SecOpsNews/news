@@ -314,3 +314,19 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "PoliticCyber"
+                  
+  
+    ITGovernance:
+        runs-on: ubuntu-latest
+        permissions: write-all
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://www.itgovernance.co.uk/blog/feed"
+                  prefix: "[IT Governance]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ITGovernance"  
+
