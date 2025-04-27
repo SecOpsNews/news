@@ -6,10 +6,14 @@ on:
         - cron: "*/15 * * * *"
     workflow_dispatch:
 
+# Define permissions at workflow level that apply to all jobs
+permissions:
+    issues: write
+    contents: read
+
 jobs:
     CISA:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -23,7 +27,6 @@ jobs:
 
     DataBreaches:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -37,7 +40,6 @@ jobs:
 
     DarkReading:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -51,7 +53,6 @@ jobs:
 
     FullDisclosure:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -65,7 +66,6 @@ jobs:
 
     MicrosoftSecurityResponseCenter:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -79,7 +79,6 @@ jobs:
 
     NCSCGuidanceFeed:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -93,7 +92,6 @@ jobs:
 
     NCSCthreats:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -107,7 +105,6 @@ jobs:
 
     MicrosoftSecurity:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -121,7 +118,6 @@ jobs:
 
     Bugtraq:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -135,7 +131,6 @@ jobs:
 
     HIBP:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -149,7 +144,6 @@ jobs:
 
     NETRESEC:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -163,7 +157,6 @@ jobs:
 
     BrianKrebs:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -177,7 +170,6 @@ jobs:
 
     GrahamCluley:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -191,7 +183,6 @@ jobs:
 
     TroyHunt:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -205,7 +196,6 @@ jobs:
 
     HackerNews:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -219,7 +209,6 @@ jobs:
 
     SecurityWeek:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -233,7 +222,6 @@ jobs:
 
     RegisterSec:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -247,7 +235,6 @@ jobs:
 
     RegisterSoftware:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -261,7 +248,6 @@ jobs:
 
     BleepingComputer:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -275,7 +261,6 @@ jobs:
 
     ScottHelme:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -289,7 +274,6 @@ jobs:
 
     CloudFlare:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -303,7 +287,6 @@ jobs:
 
     PoliticCyber:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -318,7 +301,6 @@ jobs:
   
     ITGovernance:
         runs-on: ubuntu-latest
-        permissions: write-all
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
@@ -328,5 +310,5 @@ jobs:
                   prefix: "[IT Governance]"
                   dry-run: "false"
                   lastTime: "24h"
-                  labels: "ITGovernance"  
+                  labels: "ITGovernance"
 

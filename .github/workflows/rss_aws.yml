@@ -8,6 +8,10 @@ on:
         - cron: "*/30 * * * *"
     workflow_dispatch:
 
+permissions:
+    issues: write
+    contents: read
+
 jobs:
     api_gateway_eu-west-1:
         runs-on: ubuntu-latest
