@@ -9,70 +9,92 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Microsoft pitches pay-to-patch reboot reduction subscription for Windows Server 2025 - 35 minutes ago
-- [RegisterSec] Microsoft pitches pay-to-patch reboot reduction subscription for Windows Server 2025 - 35 minutes ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 40 minutes ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 40 minutes ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 40 minutes ago
-- [Cloudflare] AKL (Auckland) on 2025-05-01 - 40 minutes ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 40 minutes ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 40 minutes ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 40 minutes ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 40 minutes ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 40 minutes ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 40 minutes ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 40 minutes ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 40 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 40 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 40 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 40 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 40 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 41 minutes ago
-- [NETRESEC] Decoding njRAT traffic with NetworkMiner - 1 hour ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 1 hour ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 1 hour ago
+- [RegisterSec] From 112k to 4 million folks' data – HR biz attack goes from bad to mega bad - 18 minutes ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 18 minutes ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] CPT (Cape Town) on 2025-05-01 - 18 minutes ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 18 minutes ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 18 minutes ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 18 minutes ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 18 minutes ago
+- [Cloudflare] CPT (Cape Town) on 2025-05-01 - 18 minutes ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 18 minutes ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 18 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 18 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 18 minutes ago
+- [RegisterSec] Back online after 'catastrophic' attack, 4chan says it's too broke for good IT - 43 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs & More - 43 minutes ago
+- [Cloudflare] Network Performance Issues in Osaka - 43 minutes ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 43 minutes ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 43 minutes ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 43 minutes ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 43 minutes ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 43 minutes ago
+- [CloudFlare] Network Performance Issues in Osaka - 43 minutes ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 43 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 43 minutes ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 43 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 43 minutes ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 43 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 43 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 43 minutes ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 43 minutes ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 43 minutes ago
+- [SecurityWeek] 4 Million Affected by VeriSource Data Breach - 1 hour ago
+- [RegisterSec] 4chan back online after 'catastrophic' attack, says it's too broke for good IT - 1 hour ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 1 hour ago
 - [CloudFlare] DEL (New Delhi) on 2025-04-28 - 1 hour ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 1 hour ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 1 hour ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 1 hour ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 1 hour ago
 - [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 1 hour ago
-- [Cloudflare] Elevated 503s from Workers KV - 1 hour ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 1 hour ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 1 hour ago
+- [CloudFlare] CPT (Cape Town) on 2025-05-01 - 1 hour ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 1 hour ago
 - [CloudFlare] AKL (Auckland) on 2025-05-01 - 1 hour ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 1 hour ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 1 hour ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 1 hour ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 1 hour ago
 - [Cloudflare] VIE (Vienna) on 2025-04-28 - 1 hour ago
 - [Cloudflare] PPT (Tahiti) on 2025-04-28 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 1 hour ago
 - [Cloudflare] CHC (Christchurch) on 2025-04-28 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 1 hour ago
 - [Cloudflare] SUV (Suva) on 2025-04-28 - 1 hour ago
 - [Cloudflare] NOU (Noumea) on 2025-04-28 - 1 hour ago
 - [Cloudflare] CBR (Canberra) on 2025-04-28 - 1 hour ago
 - [Cloudflare] DEL (New Delhi) on 2025-04-28 - 1 hour ago
 - [Cloudflare] DMM (Dammam) on 2025-04-28 - 1 hour ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 1 hour ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 1 hour ago
-- [CloudFlare] Elevated 503s from Workers KV - 1 hour ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 1 hour ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 1 hour ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 1 hour ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 1 hour ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 1 hour ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 1 hour ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 1 hour ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 1 hour ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 1 hour ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 1 hour ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 1 hour ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 1 hour ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 1 hour ago
+- [Cloudflare] CPT (Cape Town) on 2025-05-01 - 1 hour ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 2 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 hours ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 2 hours ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-05-01 - 2 hours ago
 - [Cloudflare] AKL (Auckland) on 2025-05-01 - 2 hours ago
@@ -80,19 +102,29 @@ description: Latest Updates
 - [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 2 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 2 hours ago
 - [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 hours ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 hours ago
 - [CloudFlare] CPT (Cape Town) on 2025-04-29 - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 hours ago
 - [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 hours ago
-- [Cloudflare] Elevated 503s from Workers KV - 2 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 hours ago
+- [SecurityWeek] Critical Vulnerabilities Found in Planet Technology Industrial Networking Products - 2 hours ago
+- [HackerNews] How Breaches Start: Breaking Down 5 Real Vulns - 2 hours ago
+- [RegisterSoftware] Fujitsu and its no public sector bids promises... what happened to them? - 2 hours ago
 - [Cloudflare] VIE (Vienna) on 2025-04-28 - 2 hours ago
 - [Cloudflare] PPT (Tahiti) on 2025-04-28 - 2 hours ago
 - [Cloudflare] CHC (Christchurch) on 2025-04-28 - 2 hours ago
@@ -103,24 +135,22 @@ description: Latest Updates
 - [Cloudflare] DMM (Dammam) on 2025-04-28 - 2 hours ago
 - [Cloudflare] CPT (Cape Town) on 2025-04-29 - 2 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 hours ago
-- [CloudFlare] Elevated 503s from Workers KV - 2 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 2 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 hours ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 2 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 hours ago
+- [HackerNews] Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools - 3 hours ago
+- [SecurityWeek] African Telecom Giant MTN Group Discloses Data Breach - 3 hours ago
+- [SecurityWeek] RSA Conference 2025 – Pre-Event Announcements Summary (Part 3) - 3 hours ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 3 hours ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 hours ago
 - [Cloudflare] AKL (Auckland) on 2025-05-01 - 3 hours ago
@@ -128,41 +158,22 @@ description: Latest Updates
 - [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 3 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 3 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 3 hours ago
-- [Cloudflare] Elevated 503s from Workers KV - 3 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 3 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 3 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 3 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 3 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 3 hours ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 3 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 hours ago
 - [CloudFlare] VIE (Vienna) on 2025-04-28 - 3 hours ago
-- [CloudFlare] Elevated 503s from Workers KV - 3 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 3 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 hours ago
 - [CloudFlare] MUC (Munich) on 2025-04-30 - 3 hours ago
 - [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 hours ago
 - [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 hours ago
 - [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 hours ago
@@ -172,192 +183,206 @@ description: Latest Updates
 - [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 hours ago
-- [RegisterSec] Samsung admits Galaxy devices can leak passwords through clipboard wormhole - 3 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 3 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 3 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 3 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 hours ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 3 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 4 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 4 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 4 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 4 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 4 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 4 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 4 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 4 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 4 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 4 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 4 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 4 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 4 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 4 hours ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 4 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 4 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 4 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 4 hours ago
-- [RegisterSoftware] Toyota picks Huawei’s Android-killer HarmonyOS for its Chinese electric sedan - 6 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 6 hours ago
-- [CloudFlare] Elevated 503s from Workers KV - 6 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 6 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 6 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 6 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 6 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 6 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 6 hours ago
+- [RegisterSoftware] Windows isn't an OS, it's a bad habit that wants to become an addiction - 5 hours ago
+- [HackerNews] WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors - 5 hours ago
+- [SecurityWeek] Oregon Agency Won’t Say If Hackers Stole Data in Cyberattack - 5 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 5 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 5 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 5 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 5 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 5 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 5 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 5 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 5 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 5 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 5 hours ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 5 hours ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 5 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 5 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 5 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 5 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 5 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 5 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 5 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 5 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 5 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 5 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 5 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 5 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 5 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 5 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 5 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 5 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 5 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 5 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 5 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 5 hours ago
+- [GitHub] Incident with Git Operations, API Requests and Issues - 5 hours ago
+- [RegisterSoftware] What the **** did you put in that code? The client thinks it's a cyberattack - 6 hours ago
+- [HackerNews] Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised - 6 hours ago
 - [Cloudflare] Elevated 503s from Workers KV - 6 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 6 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 6 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 6 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 6 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 6 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 6 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 6 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 6 hours ago
 - [Cloudflare] CPT (Cape Town) on 2025-04-29 - 6 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 6 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 6 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 6 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 6 hours ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 6 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 6 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 6 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 6 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 6 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 6 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 6 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 6 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 6 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 6 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 6 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 6 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 6 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 6 hours ago
+- [RegisterSoftware] Microsoft pitches pay-to-patch reboot reduction subscription for Windows Server 2025 - 7 hours ago
+- [RegisterSec] Microsoft pitches pay-to-patch reboot reduction subscription for Windows Server 2025 - 7 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 7 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 7 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 7 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 7 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 7 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 7 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 7 hours ago
 - [CloudFlare] PPT (Tahiti) on 2025-04-28 - 7 hours ago
 - [CloudFlare] CHC (Christchurch) on 2025-04-28 - 7 hours ago
 - [CloudFlare] SUV (Suva) on 2025-04-28 - 7 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 7 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 7 hours ago
+- [NETRESEC] Decoding njRAT traffic with NetworkMiner - 7 hours ago
 - [CloudFlare] NOU (Noumea) on 2025-04-28 - 7 hours ago
 - [CloudFlare] CBR (Canberra) on 2025-04-28 - 7 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 7 hours ago
 - [CloudFlare] DEL (New Delhi) on 2025-04-28 - 7 hours ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 7 hours ago
 - [CloudFlare] CPT (Cape Town) on 2025-04-29 - 7 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 7 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 7 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 7 hours ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 7 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 7 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 7 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 7 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 7 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 7 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 7 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 7 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 7 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 7 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-28 - 7 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 7 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 8 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 8 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 8 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 8 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 8 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 8 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 8 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 8 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 8 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 8 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 8 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 7 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 7 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 7 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 7 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 7 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 7 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 8 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 8 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 8 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 8 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 8 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-20 - 8 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 8 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-21 - 8 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 8 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 8 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 8 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 8 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 8 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 8 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-13 - 8 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-14 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 8 hours ago
-- [Cloudflare] Elevated 503s from Workers KV - 8 hours ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 8 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 8 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 8 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 8 hours ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 8 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 8 hours ago
-- [CloudFlare] Elevated 503s from Workers KV - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 8 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 8 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 8 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 8 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-19 - 8 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-20 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 8 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 8 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 8 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 8 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 8 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 8 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 8 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 8 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 8 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 8 hours ago
 - [CloudFlare] CHC (Christchurch) on 2025-04-28 - 8 hours ago
 - [CloudFlare] SUV (Suva) on 2025-04-28 - 8 hours ago
 - [CloudFlare] NOU (Noumea) on 2025-04-28 - 8 hours ago
 - [CloudFlare] CBR (Canberra) on 2025-04-28 - 8 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 8 hours ago
 - [CloudFlare] DEL (New Delhi) on 2025-04-28 - 8 hours ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 8 hours ago
 - [CloudFlare] CPT (Cape Town) on 2025-04-29 - 8 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 8 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 8 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 8 hours ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 8 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 8 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 8 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 8 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-27 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 8 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 8 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 8 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 9 hours ago
 - [Cloudflare] VIE (Vienna) on 2025-04-28 - 9 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 9 hours ago
 - [Cloudflare] PPT (Tahiti) on 2025-04-28 - 9 hours ago
 - [Cloudflare] CHC (Christchurch) on 2025-04-28 - 9 hours ago
 - [Cloudflare] SUV (Suva) on 2025-04-28 - 9 hours ago
 - [Cloudflare] NOU (Noumea) on 2025-04-28 - 9 hours ago
 - [Cloudflare] CBR (Canberra) on 2025-04-28 - 9 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 9 hours ago
 - [Cloudflare] DEL (New Delhi) on 2025-04-28 - 9 hours ago
 - [Cloudflare] DMM (Dammam) on 2025-04-28 - 9 hours ago
 - [Cloudflare] CPT (Cape Town) on 2025-04-29 - 9 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 9 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 9 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 9 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 9 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 9 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 9 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 9 hours ago
-- [Cloudflare] Elevated 503s from Workers KV - 9 hours ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 9 hours ago
-- [CloudFlare] Elevated 503s from Workers KV - 9 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 9 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 9 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 9 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 9 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 9 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 9 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 9 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 9 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-19 - 9 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 9 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-20 - 9 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-21 - 9 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 9 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-27 - 9 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 9 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 9 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 9 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 9 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 9 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 9 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 9 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 9 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 9 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 9 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 9 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 9 hours ago
 - [CloudFlare] DFW (Dallas) on 2025-04-30 - 9 hours ago
 - [CloudFlare] DFW (Dallas) on 2025-05-01 - 9 hours ago
 - [CloudFlare] KIX (Osaka) on 2025-05-05 - 9 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 9 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-13 - 9 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-14 - 9 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 9 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-19 - 9 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-20 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 9 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 9 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 9 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 9 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 9 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 9 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 9 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 9 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 9 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 9 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 9 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 9 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 9 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 9 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 9 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 9 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 9 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 9 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-28 - 9 hours ago
 - [Cloudflare] VIE (Vienna) on 2025-04-28 - 10 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 10 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 10 hours ago
 - [Cloudflare] PPT (Tahiti) on 2025-04-28 - 10 hours ago
 - [Cloudflare] CHC (Christchurch) on 2025-04-28 - 10 hours ago
 - [Cloudflare] SUV (Suva) on 2025-04-28 - 10 hours ago
@@ -368,215 +393,431 @@ description: Latest Updates
 - [Cloudflare] DMM (Dammam) on 2025-04-28 - 10 hours ago
 - [Cloudflare] CPT (Cape Town) on 2025-04-29 - 10 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 10 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 10 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 10 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 10 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 10 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 10 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 10 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 10 hours ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 10 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 10 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 10 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 10 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 10 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 10 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-19 - 10 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 10 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-20 - 10 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-21 - 10 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 10 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-27 - 10 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 10 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-28 - 10 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 10 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 10 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 10 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 10 hours ago
 - [CloudFlare] DFW (Dallas) on 2025-05-01 - 10 hours ago
 - [CloudFlare] KIX (Osaka) on 2025-05-05 - 10 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 10 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 10 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 10 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 10 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 10 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 10 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 10 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-13 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-14 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-19 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-20 - 10 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 10 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 10 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 10 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 10 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 10 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 10 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-21 - 10 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 10 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-27 - 10 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 10 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 10 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 10 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 10 hours ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 10 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 10 hours ago
+- [RegisterSec] Samsung admits Galaxy devices can leak passwords through clipboard wormhole - 10 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 10 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 10 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 10 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 10 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 10 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 10 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 10 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 10 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-04-30 - 10 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 11 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 11 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 11 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 11 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 11 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 11 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 11 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 11 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 11 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 11 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 11 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 11 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 11 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 11 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 11 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 10 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 10 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 10 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 10 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 10 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 10 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 10 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 10 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 10 hours ago
 - [Cloudflare] VIE (Vienna) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 11 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 11 hours ago
 - [Cloudflare] PPT (Tahiti) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 11 hours ago
 - [Cloudflare] CHC (Christchurch) on 2025-04-28 - 11 hours ago
 - [Cloudflare] SUV (Suva) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 11 hours ago
 - [Cloudflare] NOU (Noumea) on 2025-04-28 - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 11 hours ago
 - [Cloudflare] CBR (Canberra) on 2025-04-28 - 11 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 12 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 12 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 12 hours ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 12 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 12 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 12 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 11 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 11 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 11 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 11 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 11 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 11 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 11 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 11 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 11 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 11 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 11 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 11 hours ago
+- [RegisterSoftware] Toyota picks Huawei’s Android-killer HarmonyOS for its Chinese electric sedan - 12 hours ago
 - [CloudFlare] VIE (Vienna) on 2025-04-28 - 12 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 12 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 12 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 12 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 12 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 12 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 12 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 12 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 12 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 12 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 12 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 12 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 12 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 12 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 12 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 12 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 12 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 12 hours ago
 - [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 12 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-13 - 12 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-14 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 12 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-21 - 12 hours ago
 - [CloudFlare] SIN (Singapore) on 2025-05-27 - 12 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 12 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 12 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 12 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 12 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 12 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 12 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 12 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 12 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 12 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 12 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 12 hours ago
 - [Cloudflare] CPT (Cape Town) on 2025-04-29 - 12 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 12 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 12 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-04-30 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 12 hours ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 12 hours ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 12 hours ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 12 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 12 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 12 hours ago
 - [Cloudflare] DFW (Dallas) on 2025-05-01 - 12 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 12 hours ago
 - [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 12 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-13 - 12 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-14 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 12 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-21 - 12 hours ago
 - [Cloudflare] SIN (Singapore) on 2025-05-27 - 12 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 12 hours ago
-- [BleepingComputer] Brave's Cookiecrumbler tool taps community to help block cookie notices - 12 hours ago
-- [BleepingComputer] Coinbase fixes 2FA log error making people think they were hacked - 12 hours ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 12 hours ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 12 hours ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 12 hours ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 12 hours ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 12 hours ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 12 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 12 hours ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 12 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 12 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 12 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 12 hours ago
-- [Cloudflare] VIE (Vienna) on 2025-04-28 - 13 hours ago
-- [Cloudflare] MUC (Munich) on 2025-04-28 - 13 hours ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 13 hours ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 13 hours ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 13 hours ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 13 hours ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 13 hours ago
-- [Cloudflare] AKL (Auckland) on 2025-04-28 - 13 hours ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 13 hours ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 13 hours ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 13 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 13 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 13 hours ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 13 hours ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 13 hours ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 13 hours ago
-- [RegisterSoftware] DARPA to 'radically' rev up mathematics research. And yes, with AI - 13 hours ago
-- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 17 hours ago
-- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 18 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 14 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 14 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 14 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 14 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 14 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 14 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 14 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 14 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 14 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 14 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 14 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 14 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 14 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 14 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 14 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 14 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 14 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 14 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 14 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 14 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 14 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 14 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 14 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 14 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 14 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 14 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 14 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 14 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 14 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 14 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 14 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 14 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 14 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 14 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 14 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 14 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 14 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 15 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 15 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 15 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 15 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 15 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 15 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 15 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 15 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 15 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 15 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 15 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 15 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 15 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 15 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 15 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 15 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 15 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 15 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 15 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 15 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 15 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 15 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 15 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 15 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 15 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 15 hours ago
+- [Cloudflare] Elevated 503s from Workers KV - 15 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 15 hours ago
+- [CloudFlare] Elevated 503s from Workers KV - 15 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 15 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 15 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 15 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 15 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 15 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 15 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 15 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 15 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 15 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 16 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 16 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 16 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 16 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 16 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 16 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 16 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 16 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 16 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 16 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 16 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 16 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 16 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 16 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 16 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 16 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 16 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 16 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 16 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 16 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 16 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 16 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 16 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 16 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 16 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 16 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 16 hours ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 16 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 16 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 16 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 16 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 16 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 16 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 16 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 16 hours ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 16 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 17 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 17 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 17 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 17 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 17 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 17 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 17 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 17 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 17 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 17 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 17 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 17 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 17 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 17 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 17 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 17 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 17 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 17 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 17 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 17 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 17 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 17 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 17 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 17 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 17 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 17 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 17 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 17 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 17 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 17 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 17 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 17 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 17 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 17 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 17 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 17 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 17 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 18 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 18 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 18 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 18 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 18 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 18 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 18 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 18 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 18 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 18 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 18 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 18 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 18 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 18 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 18 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 18 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 18 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 18 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 18 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 18 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 18 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 18 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 18 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 18 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 18 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 18 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 18 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 18 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 18 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 18 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 18 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 18 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 18 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 19 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 19 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 19 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 19 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 19 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 19 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 19 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 19 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 19 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 19 hours ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 19 hours ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 19 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 19 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 19 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 19 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 19 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 19 hours ago
+- [BleepingComputer] Brave's Cookiecrumbler tool taps community to help block cookie notices - 19 hours ago
+- [BleepingComputer] Coinbase fixes 2FA log error making people think they were hacked - 19 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 19 hours ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 19 hours ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 19 hours ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 19 hours ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 19 hours ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 19 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 19 hours ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 19 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 19 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 19 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 19 hours ago
+- [Cloudflare] VIE (Vienna) on 2025-04-28 - 19 hours ago
+- [Cloudflare] MUC (Munich) on 2025-04-28 - 19 hours ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 19 hours ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 19 hours ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 19 hours ago
+- [Cloudflare] AKL (Auckland) on 2025-04-28 - 19 hours ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 19 hours ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 19 hours ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-29 - 19 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 19 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 19 hours ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 19 hours ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 19 hours ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 19 hours ago
+- [RegisterSoftware] DARPA to 'radically' rev up mathematics research. And yes, with AI - 20 hours ago
+- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 23 hours ago
+- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 day ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 day ago
 - [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 1 day ago
 - [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 1 day ago
 - [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 1 day ago
 - [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 1 day ago
 - [TroyHunt] Weekly Update 449 - 1 day ago
-- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 1 day ago
-- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 1 day ago
-- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 1 day ago
-- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 1 day ago
-- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 1 day ago
-- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 1 day ago
-- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 1 day ago
+- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 2 days ago
+- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 2 days ago
+- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 2 days ago
+- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 2 days ago
+- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 2 days ago
+- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 2 days ago
+- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 2 days ago
 - [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 2 days ago
 - [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 2 days ago
 - [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 2 days ago
@@ -609,68 +850,44 @@ description: Latest Updates
 - [BleepingComputer] Windows "inetpub" security fix can be abused to block future updates - 2 days ago
 - [SecurityWeek] Former Google Cloud CISO Phil Venables Joins Ballistic Ventures - 2 days ago
 - [BleepingComputer] Baltimore City Public Schools data breach affects over 31,000 people - 2 days ago
-- [SecurityWeek] M-Trends 2025: State-Sponsored IT Workers Emerge as Global Threat - 2 days ago
-- [BleepingComputer] SAP fixes suspected Netweaver zero-day exploited in attacks - 2 days ago
-- [SecurityWeek] Lattica Emerges From Stealth With FHE Platform for AI - 2 days ago
-- [RegisterSoftware] Google admits depreciation costs are soaring amid furious bit barn build - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 days ago
-- [SecurityWeek] Inside the Verizon 2025 DBIR: Five Trends That Signal a Shift in the Cyber Threat Economy - 2 days ago
-- [BleepingComputer] SAP fixes critical Netweaver flaw exploited in attacks - 2 days ago
-- [HackerNews] New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework - 2 days ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 days ago
-- [SecurityWeek] In Other News: Prison for Disney Hacker, MITRE ATT&CK v17, Massive DDoS Botnet - 2 days ago
-- [SecurityWeek] Manifest Raises $15 Million for SBOM Management Platform - 2 days ago
-- [SecurityWeek] Scamnetic Raises $13 Million to Prevent Scams in Real Time - 2 days ago
-- [CloudFlare] Issues with AI Gateway Performance - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 days ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 2 days ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 days ago
-- [SecurityWeek] South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days - 2 days ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 days ago
-- [SecurityWeek] RSA Conference 2025 – Pre-Event Announcements Summary (Part 2) - 2 days ago
-- [RegisterSoftware] £136M government grant saves troubled Post Office from suboptimal IT - 2 days ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 days ago
-- [HackerNews] Why NHIs Are Security's Most Dangerous Blind Spot - 2 days ago
-- [HackerNews] SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers - 2 days ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 days ago
-- [RegisterSoftware] £13M government grant saves troubled Post Office from suboptimal IT - 2 days ago
-- [GrahamCluley] Hackers access sensitive SIM card data at South Korea’s largest telecoms company - 2 days ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 days ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 2 days ago
-- [RegisterSec] Claims assistance firm fined for cold-calling people who put themselves on opt-out list - 2 days ago
-- [BleepingComputer] FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches - 2 days ago
-- [SecurityWeek] All Major Gen-AI Models Vulnerable to ‘Policy Puppetry’ Prompt Injection Attack - 2 days ago
-- [SecurityWeek] SAP Zero-Day Possibly Exploited by Initial Access Broker - 2 days ago
-- [HackerNews] DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks - 2 days ago
-- [HackerNews] Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers - 2 days ago
-- [SecurityWeek] Cyberattack Knocks Texas City’s Systems Offline - 5 days ago
-- [HackerNews] GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages - 5 days ago
-- [ScottHelme] Shorter certificates are coming! - 5 days ago
-- [DataBreaches] Hospital Español Auxilio Mutuo de Puerto Rico notifies patients of September 2023 cyberattack - 5 days ago
-- [DataBreaches] Ex-employee, firm head booked for data theft - 5 days ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-23 - 5 days ago
-- [1Password] 1Password service is unavailable - 5 days ago
-- [SecurityWeek] Open Source Security Firm Hopper Emerges From Stealth With $7.6M in Funding - 5 days ago
-- [SecurityWeek] SSL.com Scrambles to Patch Certificate Issuance Vulnerability - 5 days ago
-- [RegisterSoftware] <em>El Reg's</em> essential guide to deploying LLMs in production - 5 days ago
-- [HackerNews] Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials - 5 days ago
-- [HackerNews] 5 Major Concerns With Employees Using The Browser - 5 days ago
-- [SecurityWeek] Many Malware Campaigns Linked to Proton66 Network - 5 days ago
-- [CloudFlare] Issues with the Zero Trust & Gateway Dashboard - 5 days ago
-- [RegisterSoftware] UK-based self-driving car startup Wayve heads to Japan for more driving data - 5 days ago
-- [SecurityWeek] Legacy Google Service Abused in Phishing Attacks - 5 days ago
-- [SecurityWeek] UN Researchers Warn That Asian Scam Operations Are Spreading Across the Rest of the World - 5 days ago
-- [SecurityWeek] Two Healthcare Orgs Hit by Ransomware Confirm Data Breaches Impacting Over 100,000 - 5 days ago
-- [CloudFlare] DNS Root Server Issues in Scotland - 5 days ago
-- [RegisterSoftware] How to stay on Windows 10 instead of installing Linux - 5 days ago
-- [RegisterSoftware] Bad trip coming for AI hype as humanity tools up to fight back - 5 days ago
-- [HackerNews] Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach - 5 days ago
-- [CloudFlare] LIS (Lisbon) on 2025-04-22 - 6 days ago
-- [HackerNews] Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware - 6 days ago
+- [SecurityWeek] M-Trends 2025: State-Sponsored IT Workers Emerge as Global Threat - 3 days ago
+- [BleepingComputer] SAP fixes suspected Netweaver zero-day exploited in attacks - 3 days ago
+- [SecurityWeek] Lattica Emerges From Stealth With FHE Platform for AI - 3 days ago
+- [RegisterSoftware] Google admits depreciation costs are soaring amid furious bit barn build - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 days ago
+- [SecurityWeek] Inside the Verizon 2025 DBIR: Five Trends That Signal a Shift in the Cyber Threat Economy - 3 days ago
+- [BleepingComputer] SAP fixes critical Netweaver flaw exploited in attacks - 3 days ago
+- [HackerNews] New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework - 3 days ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 days ago
+- [SecurityWeek] In Other News: Prison for Disney Hacker, MITRE ATT&CK v17, Massive DDoS Botnet - 3 days ago
+- [SecurityWeek] Manifest Raises $15 Million for SBOM Management Platform - 3 days ago
+- [SecurityWeek] Scamnetic Raises $13 Million to Prevent Scams in Real Time - 3 days ago
+- [CloudFlare] Issues with AI Gateway Performance - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 days ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 3 days ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 days ago
+- [SecurityWeek] South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days - 3 days ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 days ago
+- [SecurityWeek] RSA Conference 2025 – Pre-Event Announcements Summary (Part 2) - 3 days ago
+- [RegisterSoftware] £136M government grant saves troubled Post Office from suboptimal IT - 3 days ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 days ago
+- [HackerNews] Why NHIs Are Security's Most Dangerous Blind Spot - 3 days ago
+- [HackerNews] SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers - 3 days ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 days ago
+- [RegisterSoftware] £13M government grant saves troubled Post Office from suboptimal IT - 3 days ago
+- [GrahamCluley] Hackers access sensitive SIM card data at South Korea’s largest telecoms company - 3 days ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 days ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 3 days ago
+- [RegisterSec] Claims assistance firm fined for cold-calling people who put themselves on opt-out list - 3 days ago
+- [BleepingComputer] FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches - 3 days ago
+- [SecurityWeek] All Major Gen-AI Models Vulnerable to ‘Policy Puppetry’ Prompt Injection Attack - 3 days ago
+- [SecurityWeek] SAP Zero-Day Possibly Exploited by Initial Access Broker - 3 days ago
+- [HackerNews] DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks - 3 days ago
+- [HackerNews] Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers - 3 days ago
 - [BrianKrebs] Whistleblower: DOGE Siphoned NLRB Case Data - 6 days ago
 - [TroyHunt] Weekly Update 448 - 6 days ago
 - [RegisterSec] Bug hunter tricked SSL.com into issuing cert for Alibaba Cloud domain in 5 steps - 6 days ago
@@ -705,19 +922,19 @@ description: Latest Updates
 - [SecurityWeek] Exaforce Banks Hefty $75 Million for AI-Powered SOC Remake - 6 days ago
 - [BleepingComputer] Phishers abuse Google OAuth to spoof Google in DKIM replay attack - 6 days ago
 - [BleepingComputer] WordPress ad-fraud plugins generated 1.4 billion ad requests per day - 6 days ago
-- [SecurityWeek] Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform - 6 days ago
-- [RegisterSoftware] Everything you need to get up and running with MCP – Anthropic's USB-C for AI - 6 days ago
-- [SecurityWeek] Bot Traffic Surpasses Humans Online—Driven by AI and Criminal Innovation - 6 days ago
-- [ScottHelme] Hacking my Tesla Powerwalls to be the ultimate home energy solution! - 6 days ago
-- [HackerNews] ⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware & More - 6 days ago
-- [HackerNews] 5 Reasons Device Management Isn't Device Trust​ - 6 days ago
-- [SecurityWeek] Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare - 6 days ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-28 - 6 days ago
-- [CloudFlare] HBA (Hobart) on 2025-04-22 - 6 days ago
-- [CloudFlare] BLR (Bangalore) on 2025-04-22 - 6 days ago
-- [CloudFlare] ARN (Stockholm) on 2025-04-22 - 6 days ago
-- [SecurityWeek] Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking - 6 days ago
-- [HackerNews] Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery - 6 days ago
+- [SecurityWeek] Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform - 1 week ago
+- [RegisterSoftware] Everything you need to get up and running with MCP – Anthropic's USB-C for AI - 1 week ago
+- [SecurityWeek] Bot Traffic Surpasses Humans Online—Driven by AI and Criminal Innovation - 1 week ago
+- [ScottHelme] Hacking my Tesla Powerwalls to be the ultimate home energy solution! - 1 week ago
+- [HackerNews] ⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware & More - 1 week ago
+- [HackerNews] 5 Reasons Device Management Isn't Device Trust​ - 1 week ago
+- [SecurityWeek] Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare - 1 week ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-28 - 1 week ago
+- [CloudFlare] HBA (Hobart) on 2025-04-22 - 1 week ago
+- [CloudFlare] BLR (Bangalore) on 2025-04-22 - 1 week ago
+- [CloudFlare] ARN (Stockholm) on 2025-04-22 - 1 week ago
+- [SecurityWeek] Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking - 1 week ago
+- [HackerNews] Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery - 1 week ago
 - [RegisterSoftware] Developer scored huge own goal by deleting almost every football fan in Europe - 1 week ago
 - [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 1 week ago
 - [DataBreaches] Chinese Ghost Hackers Hit Hospitals And Factories In America And U.K. - 1 week ago
@@ -792,223 +1009,6 @@ description: Latest Updates
 - [RegisterSec] Krebs throws himself on the grenade, resigns from SentinelOne after Trump revokes clearances - 1 week ago
 - [CloudFlare] SIN (Singapore) on 2025-05-19 - 1 week ago
 - [CloudFlare] SIN (Singapore) on 2025-05-28 - 1 week ago
-- [CloudFlare] MEL (Melbourne) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 1 week ago
-- [RegisterSoftware] Congress wants to know if Nvidia superchips slipped through Singapore to DeepSeek - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 1 week ago
-- [DataBreaches] Edmond cybersecurity CEO accused of planting malware on hospital computers - 1 week ago
-- [CloudFlare] Workers with Smart Placement enabled are removing the "Content-Length" header in responses - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 1 week ago
-- [BleepingComputer] Chrome extensions with 6 million installs have hidden tracking code - 1 week ago
-- [CloudFlare] DFW (Dallas) on 2025-04-23 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 1 week ago
-- [RegisterSoftware] Google, AWS say it's too hard for customers to use Linux to swerve Azure - 1 week ago
-- [CloudFlare] DUR (Durban) on 2025-04-21 - 1 week ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-28 - 1 week ago
-- [SecurityWeek] Man Helped Chinese Nationals Get Jobs Involving Sensitive US Government Projects - 1 week ago
-- [RegisterSoftware] Google and AWS say it's too hard for customers to use Linux to dodge Azure - 1 week ago
-- [HackerNews] Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates - 1 week ago
-- [GitHub] Codespaces Scheduled Maintenance - 1 week ago
-- [DataBreaches] British law firm fined after ransomware group publishes confidential client data - 1 week ago
-- [DataBreaches] Former CISA director Chris Krebs vows to fight back against Trump-ordered federal investigation - 1 week ago
-- [BleepingComputer] CTM360 Tracks Global Surge in SMS-Based Reward and Toll Scams - 1 week ago
-- [BleepingComputer] Ahold Delhaize confirms data theft after INC ransomware claims attack - 1 week ago
-- [RegisterSoftware] MX Linux 23.6 brings Debian freshness, without the systemd funk - 1 week ago
-- [BleepingComputer] Microsoft: Office 2016 and Office 2019 reach end of support in October - 1 week ago
-- [SecurityWeek] Demystifying Security Posture Management - 1 week ago
-- [HackerNews] Artificial Intelligence – What's all the fuss? - 1 week ago
-- [HackerNews] State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns - 1 week ago
-- [SecurityWeek] Critical Erlang/OTP SSH Flaw Exposes Many Devices to Remote Hacking - 1 week ago
-- [SecurityWeek] Vulnerabilities Patched in Atlassian, Cisco Products - 1 week ago
-- [SecurityWeek] Why ‘One Community’ Resonates in Cybersecurity - 1 week ago
-- [DataBreaches] A whistleblower’s disclosure details how DOGE may have taken sensitive labor data - 1 week ago
-- [DataBreaches] Hacking group Anonymous targets Russia, releases Trump files - 1 week ago
-- [DataBreaches] CISA warns of increased breach risks following Oracle Cloud leak - 1 week ago
-- [HackerNews] Blockchain Offers Security Benefits – But Don't Neglect Your Passwords - 1 week ago
-- [BleepingComputer] CISA warns of increased breach risks following Oracle Cloud leak - 1 week ago
-- [SecurityWeek] CISA Issues Guidance After Oracle Cloud Hack - 1 week ago
-- [RegisterSec] Brit soldiers tune radio waves to fry drone swarms for pennies - 1 week ago
-- [SecurityWeek] Chinese APT Mustang Panda Updates, Expands Arsenal - 1 week ago
-- [BleepingComputer] New Windows Server emergency updates fix container launch issue - 1 week ago
-- [RegisterSoftware] Bank of England flirts with offline digital dosh - 1 week ago
-- [HackerNews] Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers - 1 week ago
-- [HackerNews] Critical Erlang/OTP SSH Vulnerability (CVSS 10.0) Allows Unauthenticated Code Execution - 1 week ago
-- [SecurityWeek] SonicWall Flags Old Vulnerability as Actively Exploited - 1 week ago
-- [CloudFlare] HBA (Hobart) on 2025-04-22 - 1 week ago
-- [CloudFlare] BLR (Bangalore) on 2025-04-22 - 1 week ago
-- [BleepingComputer] CISA tags SonicWall VPN flaw as actively exploited in attacks - 1 week ago
-- [SecurityWeek] MITRE Hackers’ Backdoor Has Targeted Windows for Years - 1 week ago
-- [CloudFlare] MIA (Miami) on 2025-04-17 - 1 week ago
-- [CloudFlare] BCN (Barcelona) on 2025-04-17 - 1 week ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-17 - 1 week ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-22 - 1 week ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 1 week ago
-- [CloudFlare] LUX (Luxembourg City) on 2025-04-22 - 1 week ago
-- [CloudFlare] GVA (Geneva) on 2025-04-22 - 1 week ago
-- [CloudFlare] PMO (Palermo) on 2025-04-22 - 1 week ago
-- [CloudFlare] ORK (Cork) on 2025-04-22 - 1 week ago
-- [CloudFlare] EDI (Edinburgh) on 2025-04-22 - 1 week ago
-- [CloudFlare] LIS (Lisbon) on 2025-04-22 - 1 week ago
-- [CloudFlare] KEF (Reykjavík) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-23 - 1 week ago
-- [CloudFlare] Cloudflare: Workflows issues - 1 week ago
-- [CloudFlare] Stream Availability Issues - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-17 - 1 week ago
-- [CloudFlare] AKL (Auckland) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 1 week ago
-- [HackerNews] CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices - 1 week ago
-- [CloudFlare] DFW (Dallas) on 2025-04-16 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-07 - 1 week ago
-- [HackerNews] Apple Patches Two Actively Exploited iOS Flaws Used in Sophisticated Targeted Attacks - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 1 week ago
-- [RegisterSec] Whistleblower describes DOGE IT dept rampage at America's labor watchdog - 1 week ago
-- [HackerNews] New Windows Task Scheduler Bugs Let Attackers Bypass UAC and Tamper with Logs - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 1 week ago
-- [CloudFlare] Issue with Cloudflare Workers metrics and analytics - 1 week ago
-- [GrahamCluley] Smashing Security podcast #413: Hacking the hackers… with a credit card? - 1 week ago
-- [RegisterSoftware] Microsoft: Why not let our Copilot fly your computer? - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-01 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-28 - 1 week ago
-- [SecurityWeek] Krebs Exits SentinelOne After Security Clearance Pulled - 1 week ago
-- [CloudFlare] HBA (Hobart) on 2025-04-22 - 1 week ago
-- [CloudFlare] BLR (Bangalore) on 2025-04-22 - 1 week ago
-- [RegisterSoftware] Free Blue Screens of Death for Windows 11 24H2 users - 1 week ago
-- [RegisterSec] Signalgate chats vanish from CIA chief phone - 1 week ago
-- [RegisterSec] Free Blue Screens of Death for Windows 11 24H2 users - 1 week ago
-- [DataBreaches] Nude photos and names: KU Health and Kansas hospital sued for data breach - 1 week ago
-- [RegisterSec] Uncle Sam kills funding for CVE program. Yes, that CVE program - 1 week ago
-- [RegisterSec] Signalgate chats disappear from CIA chief's phone - 1 week ago
-- [BleepingComputer] Over 16,000 Fortinet devices compromised with symlink backdoor - 1 week ago
-- [SecurityWeek] Apple Quashes Two Zero-Days With iOS, MacOS Patches - 1 week ago
-- [RegisterSoftware] Microsoft admits it's not you, Classic Outlook can be a real CPU, power hog sometimes - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-29 - 1 week ago
-- [CloudFlare] BLR (Bangalore) on 2025-04-16 - 1 week ago
-- [Slack] Notice: Trouble with the Zoom integration in Slack - 1 week ago
-- [BleepingComputer] Google blocked over 5 billion ads in 2024 amid rise in AI-powered scams - 1 week ago
-- [RegisterSoftware] First Nvidia, now AMD: Trump trade turmoil threatens $800M in China chip sales - 1 week ago
-- [RegisterSec] Uncle Sam kills funding for CVE program. Yes, that CVE - 1 week ago
-- [RegisterSec] Identifying the cyber risks that matter - 1 week ago
-- [CloudFlare] HBA (Hobart) on 2025-04-18 - 1 week ago
-- [RegisterSoftware] Microsoft blames 'latent code issue' after Windows 11 upgrades sneak past admin blockades - 1 week ago
-- [BleepingComputer] Apple fixes two zero-days exploited in targeted iPhone attacks - 1 week ago
-- [RegisterSoftware] Figma bucks market trends, plunges into IPO waters after Adobe's failed buyout - 1 week ago
-- [HackerNews] Experts Uncover Four New Privilege Escalation Flaws in Windows Task Scheduler - 1 week ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-22 - 1 week ago
-- [RegisterSec] CVE program gets last-minute funding from CISA – and maybe a new home - 1 week ago
-- [CloudFlare] MEX (Mexico City) on 2025-04-16 - 1 week ago
-- [CloudFlare] PHX (Phoenix) on 2025-04-16 - 1 week ago
-- [SecurityWeek] MITRE CVE Program Gets Last-Hour Funding Reprieve - 1 week ago
-- [DataBreaches] Maryland Man Pleads Guilty to Conspiracy to Commit Wire Fraud - 1 week ago
-- [CloudFlare] AKL (Auckland) on 2025-04-16 - 1 week ago
-- [BleepingComputer] Google begins unifying search country domains to Google.com - 1 week ago
-- [RegisterSec] Law firm 'didn't think' data theft was a breach, says ICO. Now it's nursing a £60K fine - 1 week ago
-- [CloudFlare] MIA (Miami) on 2025-04-17 - 1 week ago
-- [BleepingComputer] 41% of Attacks Bypass Defenses: Adversarial Exposure Validation Fixes That - 1 week ago
-- [BleepingComputer] Jira Down: Atlassian users experiencing degraded performance - 1 week ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-17 - 1 week ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 1 week ago
-- [RegisterSoftware] AWS claims 50% of Azure workloads would jump ship if licensing costs allowed - 1 week ago
-- [SecurityWeek] Many Mobile Apps Fail Basic Security—Posing Serious Risks to Enterprises - 1 week ago
-- [CloudFlare] BCN (Barcelona) on 2025-04-17 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-23 - 1 week ago
-- [HackerNews] Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024 - 1 week ago
-- [SecurityWeek] Pillar Security Banks $9M for AI Security Guardrails - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-15 - 1 week ago
-- [CloudFlare] Cloudflare: Workflows issues - 1 week ago
-- [BleepingComputer] CISA extends funding to ensure 'no lapse in critical CVE services' - 1 week ago
-- [CloudFlare] Stream Availability Issues - 1 week ago
-- [RegisterSec] Russians lure European diplomats into malware trap with wine-tasting invite - 1 week ago
-- [DataBreaches] South Africa Introduces Mandatory e-Portal Reporting for Data Breaches - 1 week ago
-- [SecurityWeek] Enhanced Version of ‘BPFDoor’ Linux Backdoor Seen in the Wild - 1 week ago
-- [HackerNews] From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains - 1 week ago
-- [SecurityWeek] Ransomware Group Claims Hacking of Oregon Regulator After Data Breach Denial - 1 week ago
-- [HackerNews] Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins - 1 week ago
-- [RegisterSoftware] In wake of Horizon scandal, forensics prof says digital evidence is a minefield - 1 week ago
-- [BleepingComputer] Microsoft warns of blue screen crashes caused by April updates - 1 week ago
-- [SecurityWeek] Critical Vulnerability Found in Apache Roller Blog Server - 1 week ago
-- [SecurityWeek] Microsoft Warns of Node.js Abuse for Malware Delivery - 1 week ago
-- [RegisterSoftware] Microsoft hits Ctrl-Z after Teams trips over file sharing - 1 week ago
-- [HackerNews] Product Walkthrough: A Look Inside Wing Security's Layered SaaS Identity Defense - 1 week ago
-- [HackerNews] New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks - 1 week ago
-- [SecurityWeek] Chrome 135, Firefox 137 Updates Patch Severe Vulnerabilities - 1 week ago
-- [BleepingComputer] Microsoft: Some devices offered Windows 11 upgrades despite Intune blocks - 1 week ago
-- [SecurityWeek] Oracle Patches 180 Vulnerabilities With April 2025 CPU - 1 week ago
-- [GrahamCluley] Insurance firm Lemonade warns of breach of thousands of driving license numbers - 1 week ago
-- [RegisterSoftware] Legacy tech is the gift that keeps billing for UK's tax collector - 1 week ago
-- [SecurityWeek] Internet Giants Agree to Reduce TLS Certificate Lifespan to 47 Days by 2029 - 1 week ago
-- [RegisterSoftware] TalkTalk Business pulls disappearing act on customer emails - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-17 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-06 - 1 week ago
-- [HackerNews] Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users - 1 week ago
-- [CloudFlare] AKL (Auckland) on 2025-04-22 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-05 - 1 week ago
-- [CloudFlare] SYD (Sydney) on 2025-04-15 - 1 week ago
-- [RegisterSoftware] Apple: Since you care about yOuR pRiVaCy, we'll train our AI on made-up emails - 1 week ago
-- [CloudFlare] Network Performance Issues in Madrid, Spain - 1 week ago
-- [RegisterSec] Guess what happens when ransomware fiends find 'insurance' 'policy' in your files - 1 week ago
-- [BleepingComputer] MITRE warns that funding for critical CVE program expires today - 1 week ago
-- [HackerNews] U.S. Govt. Funding for MITRE's CVE Ends April 16, Cybersecurity Community on Alert - 1 week ago
-- [BrianKrebs] Funding Expires for Key Cyber Vulnerability Database - 1 week ago
-- [CloudFlare] SLC (Salt Lake City) on 2025-04-15 - 1 week ago
-- [CloudFlare] DFW (Dallas) on 2025-04-16 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 1 week ago
-- [DataBreaches] BakerHostetler’s 2025 Data Security Incident Response Report Finds Less Malware Used in 2024 - 1 week ago
-- [RegisterSec] Uncle Sam abruptly turns off funding for CVE program. Yes, that CVE program - 1 week ago
-- [RegisterSoftware] Trump derails Chinese H20 GPU sales, forcing Nvidia to eat $5.5B this quarter - 1 week ago
-- [CloudFlare] Bot Management Issues - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-05-01 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-24 - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-28 - 1 week ago
-- [CloudFlare] Increased Error Rates for Durable Objects in Osaka - 1 week ago
-- [BleepingComputer] ChatGPT 4.1 early benchmarks compared against Google Gemini - 1 week ago
-- [SecurityWeek] MITRE Warns CVE Program Faces Disruption Amid US Funding Uncertainty - 1 week ago
-- [RegisterSec] Now 1.6M people had SSNs, life chapter and verse stolen from insurance IT biz - 1 week ago
-- [SecurityWeek] MITRE Signals Potential CVE Program ‘Deterioration’ as US Gov Funding Expires - 1 week ago
-- [BleepingComputer] Midnight Blizzard deploys new GrapeLoader malware in embassy phishing - 1 week ago
-- [RegisterSoftware] Meta to feed Europe's public posts into AI brains again - 1 week ago
-- [CloudFlare] SIN (Singapore) on 2025-04-29 - 1 week ago
-- [SecurityWeek] Virtue AI Attracts $30M Investment to Address Critical AI Deployment Risks - 1 week ago
-- [CloudFlare] ORD (Chicago) on 2025-04-15 - 1 week ago
-- [CloudFlare] Network Performance Issues in Bogotá - 1 week ago
-- [RegisterSec] 4chan, the 'internet’s litter box,' appears to have been pillaged by rival forum - 1 week ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-22 - 1 week ago
-- [CloudFlare] MEX (Mexico City) on 2025-04-16 - 1 week ago
-- [BleepingComputer] Landmark Admin data breach impact now reaches 1.6 million people - 1 week ago
-- [CloudFlare] PHX (Phoenix) on 2025-04-16 - 1 week ago
-- [BleepingComputer] Infamous message board 4chan taken down following major hack - 1 week ago
-- [RegisterSec] All right, you can have one: DOGE access to Treasury IT OK'd judge - 1 week ago
-- [RegisterSec] China names alleged US snoops over Asian Winter Games attacks - 1 week ago
-- [GrahamCluley] RansomHouse ransomware: what you need to know - 1 week ago
-- [RegisterSec] DOGE access to Treasury IT OK'd by U-turn judge - 1 week ago
-- [BleepingComputer] Microsoft blocks ActiveX by default in Microsoft 365, Office 2024 - 1 week ago
-- [RegisterSoftware] Exchange Server 2019 has less than six months of support left in the tank - 1 week ago
-- [SecurityWeek] Insurance Firm Lemonade Says API Glitch Exposed Some Driver’s License Numbers - 1 week ago
-- [CloudFlare] Cloudflare Website Unavailable (www.cloudflare.com) - 1 week ago
-- [RegisterSoftware] Delta Lake and Iceberg communities collide – in a good way - 1 week ago
-- [GrahamCluley] The AI Fix #46: AI can read minds now, and is your co-host a clone? - 1 week ago
-- [DataBreaches] 4chan hacked, internal data leaked on rival image board - 1 week ago
-- [BleepingComputer] Microsoft: Exchange 2016 and 2019 reach end of support in six months - 1 week ago
-- [CloudFlare] MIA (Miami) on 2025-04-17 - 1 week ago
-- [HackerNews] Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders - 1 week ago
-- [HackerNews] Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence - 1 week ago
-- [HackerNews] Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool - 1 week ago
-- [SecurityWeek] Conduent Says Names, Social Security Numbers Stolen in Cyberattack - 1 week ago
-- [SecurityWeek] Kidney Dialysis Services Provider DaVita Hit by Ransomware - 1 week ago
-- [CloudFlare] VIE (Vienna) on 2025-04-15 - 1 week ago
-- [SecurityWeek] 2.6 Million Impacted by Landmark Admin, Young Consulting Data Breaches - 1 week ago
-- [RegisterSec] Chinese snoops use stealth RAT to backdoor US orgs – still active last week - 1 week ago
-- [BleepingComputer] Google adds Android auto-reboot to block forensic data extractions - 1 week ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 1 week ago
-- [CloudFlare] PHX (Phoenix) on 2025-04-15 - 1 week ago
-- [BleepingComputer] Microsoft warns of CPU spikes when typing in classic Outlook - 1 week ago
-- [SecurityWeek] CISO Conversations: Maarten Van Horenbeeck, SVP & Chief Security Officer at Adobe - 1 week ago
 
 
 <!-- SecOps end -->
