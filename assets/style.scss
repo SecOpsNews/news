@@ -162,14 +162,14 @@ main:focus {
 
 .blog-image {
     display: block;
-    float: right;
+    float: right;ß
     height: 72px;
     width: 72px;
     margin-top: 0;
-    background: url("assets/Secops.png") no-repeat;
+    background: url("Secops.png") no-repeat;
 
     &:hover {
-        background: url("assets/Secops-alt.png") no-repeat;
+        background: url("Secops-alt.png") no-repeat;
         transition: all 2s ease-in-out 0.5s;
     }
 }
