@@ -1,4 +1,4 @@
-name: Azure
+name: RSS Cloud Providers
 
 on:
     schedule:

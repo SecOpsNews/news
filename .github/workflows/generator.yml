@@ -1,4 +1,4 @@
-name: Generate GitHub Issues RSS Feed
+name: Generate Index Feed
 
 on:
     schedule:
