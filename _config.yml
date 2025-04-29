@@ -3,3 +3,5 @@ encoding: UTF-8
 future: false
 sass:
   style: compressed
+permalink: ./:title
+url: https://secops.thechels.uk
