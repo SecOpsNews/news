@@ -10,12 +10,12 @@ html {
 
 @font-face {
     font-family: "TheChelsLight";
-    src: url("TheChelsLight.woff") format("woff");
+    src: url("/assets/TheChelsLight.woff") format("woff");
 }
 
 @font-face {
     font-family: "TheChelsMedium";
-    src: url("TheChelsMedium.woff") format("woff");
+    src: url("/assets/TheChelsMedium.woff") format("woff");
     font-weight: bold;
 }
 
@@ -166,10 +166,10 @@ main:focus {
     height: 72px;
     width: 72px;
     margin-top: 0;
-    background: url("Secops.png") no-repeat;
+    background: url("/assets/Secops.png") no-repeat;
 
     &:hover {
-        background: url("Secops-alt.png") no-repeat;
+        background: url("/assets/Secops-alt.png") no-repeat;
         transition: all 2s ease-in-out 0.5s;
     }
 }
