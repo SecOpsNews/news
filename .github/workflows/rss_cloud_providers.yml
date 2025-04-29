@@ -1,0 +1,48 @@
+name: Azure
+
+on:
+    schedule:
+        - cron: "*/15 * * * *"
+    workflow_dispatch:
+
+permissions:
+    issues: write
+    contents: read
+
+jobs:
+    Azure:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://azurestatusfeed.azurewebsites.net/"
+                  prefix: "[Azure]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Azure"
+    GCP:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://status.cloud.google.com/en/feed.atom"
+                  prefix: "[GCP]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "GCP"
+    AWS:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://status.aws.amazon.com/rss/all.rss"
+                  prefix: "[AWS]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "AWS"

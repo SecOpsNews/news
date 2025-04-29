@@ -297,8 +297,7 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "PoliticCyber"
-                  
-  
+
     ITGovernance:
         runs-on: ubuntu-latest
         steps:
@@ -311,4 +310,3 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "ITGovernance"
-

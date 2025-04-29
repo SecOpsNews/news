@@ -50,3 +50,15 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "CloudFlare"
+    Slack:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://status.slack.com/feed/rss"
+                  prefix: "[Slack]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Slack"
