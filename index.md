@@ -9,53 +9,80 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Foxconn chair predicts AI will end manufacturers' search for cheap labor - 47 minutes ago
-- [RegisterSec] CISA has a new No. 2 ... but still no official top dog - 5 hours ago
-- [RegisterSoftware] Microsoft adds Grok – the most unhinged chatbot – to Azure AI buffet - 5 hours ago
-- [RegisterSec] CISA has a new No. 2 - but still no official top dog - 7 hours ago
-- [BleepingComputer] OpenAI plans to combine multiple models into GPT-5 - 8 hours ago
-- [DataBreaches] Cocospy stalkerware apps go offline after data breach - 9 hours ago
-- [DataBreaches] How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes - 9 hours ago
-- [BleepingComputer] Fake KeePass password manager leads to ESXi ransomware attack - 9 hours ago
-- [TroyHunt] Have I Been Pwned 2.0 is Now Live! - 9 hours ago
-- [RegisterSoftware] Qualcomm confirms it's dipping into datacenter world again, probably for AI - 10 hours ago
-- [RegisterSoftware] Nvidia sets up shop in Taiwan with AI supers and a factory full of ambition - 10 hours ago
-- [RegisterSoftware] Microsoft adds Grok - the most unhinged chatbot - to Azure AI buffet - 10 hours ago
-- [SecurityWeek] BreachRx Lands $15 Million as Investors Bet on Breach-Workflow Software - 11 hours ago
-- [BleepingComputer] O2 UK patches bug leaking mobile user location from call metadata - 11 hours ago
-- [RegisterSec] SEC SIM-swapper who Googled 'signs that the FBI is after you' put behind bars - 11 hours ago
-- [BleepingComputer] Arla Foods confirms cyberattack disrupts production, causes delays - 12 hours ago
-- [BleepingComputer] Windows 10 emergency updates fix BitLocker recovery issues - 12 hours ago
-- [HackerNews] RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer - 13 hours ago
-- [RegisterSoftware] Nvidia builds a server to run x86 workloads alongside agentic AI - 13 hours ago
-- [SecurityWeek] Printer Company Procolored Served Infected Software for Months - 14 hours ago
-- [BleepingComputer] Microsoft open-sources Windows Subsystem for Linux at Build 2025 - 14 hours ago
-- [BleepingComputer] Microsoft confirms new "Advanced" Settings for Windows 11 - 14 hours ago
-- [BleepingComputer] Microsoft unveils Windows AI Foundry for AI-powered PC apps - 14 hours ago
-- [RegisterSoftware] GitHub Copilot angles for promotion from assistant to agent - 14 hours ago
-- [RegisterSoftware] Microsoft open sources Windows Subsystem for Linux – well, most of it - 14 hours ago
-- [HackerNews] Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access - 15 hours ago
-- [BleepingComputer] UK Legal Aid Agency confirms applicant data stolen in data breach - 15 hours ago
-- [RegisterSoftware] When LLMs get personal info they are more persuasive debaters than humans - 15 hours ago
-- [RegisterSoftware] LastOS slaps neon paint on Linux Mint and dares you to run Photoshop - 16 hours ago
-- [BleepingComputer] Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin - 16 hours ago
-- [BleepingComputer] Mozilla fixes Firefox zero-days exploited at hacking contest - 16 hours ago
-- [RegisterSoftware] Latest patch leaves some Windows 10 machines stuck in recovery loops - 17 hours ago
-- [SecurityWeek] UK Legal Aid Agency Finds Data Breach Following Cyberattack - 18 hours ago
-- [GrahamCluley] The AI Fix nominated for top podcast award. Vote now! - 18 hours ago
-- [RegisterSec] Millions at risk after attackers steal UK legal aid data dating back 15 years - 19 hours ago
-- [SecurityWeek] 480,000 Catholic Health Patients Impacted by Serviceaide Data Leak - 19 hours ago
-- [HackerNews] ⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More - 19 hours ago
-- [HackerNews] Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards - 19 hours ago
-- [HackerNews] Why CTEM is the Winning Bet for CISOs in 2025 - 19 hours ago
-- [RegisterSoftware] AI skills shortage more than doubles for UK tech leaders - 20 hours ago
-- [SecurityWeek] 200,000 Harbin Clinic Patients Impacted by NRS Data Breach - 20 hours ago
-- [SecurityWeek] Spiking Neural Networks: Brain-Inspired Chips That Could Keep Your Data Safe - 20 hours ago
-- [SecurityWeek] Prison Sentence for Man Involved in SEC X Account Hack - 21 hours ago
-- [RegisterSec] IT chiefs of UK's massive health service urge vendors to make public security pledge - 21 hours ago
-- [RegisterSoftware] Qualcomm confirms it's getting into the datacenter market, probably for AI - 22 hours ago
-- [SecurityWeek] Hackers Earn Over $1 Million at Pwn2Own Berlin 2025 - 22 hours ago
-- [RegisterSoftware] Automatic UK-to-US English converter produced amazing mistakes by the vanload - 23 hours ago
+- [RegisterSoftware] Actors' union complains about Epic Games cloning Darth Vader - 24 minutes ago
+- [SecurityWeek] Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers - 51 minutes ago
+- [HackerNews] AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation - 52 minutes ago
+- [HackerNews] South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware - 52 minutes ago
+- [RegisterSoftware] Microsoft revives DOS-era Edit in a modern shell - 52 minutes ago
+- [GitHub] Elevated error rates for Claude Sonnet 3.7 - 52 minutes ago
+- [DataBreaches] UK: Post Office to compensate hundreds of data leak victims - 1 hour ago
+- [DataBreaches] Supplier to major UK supermarkets Aldi, Tesco & Sainsbury’s hit by cyber attack with ransom demand - 1 hour ago
+- [RegisterSec] Ransomware attack on food distributor spells more pain for UK supermarkets - 1 hour ago
+- [SecurityWeek] TrustCloud Raises $15 Million for Security Assurance Platform - 1 hour ago
+- [SecurityWeek] Event Preview: 2025 Threat Detection & Incident Response (Virtual) Summit - 1 hour ago
+- [GCP] RESOLVED: Google Compute Engine (GCE) issue impacting multiple dependent GCP services across zones - 1 hour ago
+- [HackerNews] The Crowded Battle: Key Insights from the 2025 State of Pentesting Report - 2 hours ago
+- [RegisterSoftware] Intel bets you'll stack cheap GPUs to avoid spending top dollar on Nvidia Pros - 2 hours ago
+- [GrahamCluley] SEC Twitter hack: Man imprisoned for role in attack that caused Bitcoin’s price to soar. - 2 hours ago
+- [GCP] UPDATE: Google Compute Engine (GCE) issue impacting multiple dependent GCP services across zones - 3 hours ago
+- [SecurityWeek] CloudSEK Raises $19 Million for Threat Intelligence Platform - 3 hours ago
+- [RegisterSoftware] Wanted: A handy metric for gauging if GPUs are being used optimally - 3 hours ago
+- [SecurityWeek] O2 Service Vulnerability Exposed User Location - 3 hours ago
+- [SecurityWeek] Madhu Gottumukkala Officially Announced as CISA Deputy Director - 4 hours ago
+- [HackerNews] Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization - 4 hours ago
+- [RegisterSoftware] Torvalds' typing taste test touches tactile tragedy - 4 hours ago
+- [NCSCGuidanceFeed] Decommissioning assets - 4 hours ago
+- [RegisterSec] Virgin Media O2 patches hole that let callers snoop on your coordinates - 5 hours ago
+- [HackerNews] Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse - 5 hours ago
+- [RegisterSoftware] Techies propose the Agent Name Service: It's like DNS but for AI agents - 6 hours ago
+- [HackerNews] Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts - 6 hours ago
+- [RegisterSoftware] Foxconn chair predicts AI will end manufacturers' search for cheap labor - 7 hours ago
+- [RegisterSec] CISA has a new No. 2 ... but still no official top dog - 12 hours ago
+- [RegisterSoftware] Microsoft adds Grok – the most unhinged chatbot – to Azure AI buffet - 12 hours ago
+- [RegisterSec] CISA has a new No. 2 - but still no official top dog - 14 hours ago
+- [BleepingComputer] OpenAI plans to combine multiple models into GPT-5 - 15 hours ago
+- [DataBreaches] Cocospy stalkerware apps go offline after data breach - 16 hours ago
+- [DataBreaches] How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes - 16 hours ago
+- [BleepingComputer] Fake KeePass password manager leads to ESXi ransomware attack - 16 hours ago
+- [TroyHunt] Have I Been Pwned 2.0 is Now Live! - 16 hours ago
+- [RegisterSoftware] Qualcomm confirms it's dipping into datacenter world again, probably for AI - 17 hours ago
+- [RegisterSoftware] Nvidia sets up shop in Taiwan with AI supers and a factory full of ambition - 17 hours ago
+- [RegisterSoftware] Microsoft adds Grok - the most unhinged chatbot - to Azure AI buffet - 17 hours ago
+- [SecurityWeek] BreachRx Lands $15 Million as Investors Bet on Breach-Workflow Software - 18 hours ago
+- [BleepingComputer] O2 UK patches bug leaking mobile user location from call metadata - 18 hours ago
+- [RegisterSec] SEC SIM-swapper who Googled 'signs that the FBI is after you' put behind bars - 18 hours ago
+- [BleepingComputer] Arla Foods confirms cyberattack disrupts production, causes delays - 19 hours ago
+- [BleepingComputer] Windows 10 emergency updates fix BitLocker recovery issues - 19 hours ago
+- [HackerNews] RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer - 20 hours ago
+- [RegisterSoftware] Nvidia builds a server to run x86 workloads alongside agentic AI - 20 hours ago
+- [SecurityWeek] Printer Company Procolored Served Infected Software for Months - 21 hours ago
+- [BleepingComputer] Microsoft open-sources Windows Subsystem for Linux at Build 2025 - 21 hours ago
+- [BleepingComputer] Microsoft confirms new "Advanced" Settings for Windows 11 - 21 hours ago
+- [BleepingComputer] Microsoft unveils Windows AI Foundry for AI-powered PC apps - 21 hours ago
+- [RegisterSoftware] GitHub Copilot angles for promotion from assistant to agent - 21 hours ago
+- [RegisterSoftware] Microsoft open sources Windows Subsystem for Linux – well, most of it - 21 hours ago
+- [HackerNews] Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access - 22 hours ago
+- [BleepingComputer] UK Legal Aid Agency confirms applicant data stolen in data breach - 22 hours ago
+- [RegisterSoftware] When LLMs get personal info they are more persuasive debaters than humans - 22 hours ago
+- [RegisterSoftware] LastOS slaps neon paint on Linux Mint and dares you to run Photoshop - 23 hours ago
+- [BleepingComputer] Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin - 23 hours ago
+- [BleepingComputer] Mozilla fixes Firefox zero-days exploited at hacking contest - 23 hours ago
+- [RegisterSoftware] Latest patch leaves some Windows 10 machines stuck in recovery loops - 1 day ago
+- [SecurityWeek] UK Legal Aid Agency Finds Data Breach Following Cyberattack - 1 day ago
+- [GrahamCluley] The AI Fix nominated for top podcast award. Vote now! - 1 day ago
+- [RegisterSec] Millions at risk after attackers steal UK legal aid data dating back 15 years - 1 day ago
+- [SecurityWeek] 480,000 Catholic Health Patients Impacted by Serviceaide Data Leak - 1 day ago
+- [HackerNews] ⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More - 1 day ago
+- [HackerNews] Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards - 1 day ago
+- [HackerNews] Why CTEM is the Winning Bet for CISOs in 2025 - 1 day ago
+- [RegisterSoftware] AI skills shortage more than doubles for UK tech leaders - 1 day ago
+- [SecurityWeek] 200,000 Harbin Clinic Patients Impacted by NRS Data Breach - 1 day ago
+- [SecurityWeek] Spiking Neural Networks: Brain-Inspired Chips That Could Keep Your Data Safe - 1 day ago
+- [SecurityWeek] Prison Sentence for Man Involved in SEC X Account Hack - 1 day ago
+- [RegisterSec] IT chiefs of UK's massive health service urge vendors to make public security pledge - 1 day ago
+- [RegisterSoftware] Qualcomm confirms it's getting into the datacenter market, probably for AI - 1 day ago
+- [SecurityWeek] Hackers Earn Over $1 Million at Pwn2Own Berlin 2025 - 1 day ago
+- [RegisterSoftware] Automatic UK-to-US English converter produced amazing mistakes by the vanload - 1 day ago
 - [RegisterSoftware] Nvidia opens up speedy NVLink interconnect to custom CPUs, ASICs - 1 day ago
 - [RegisterSec] Eeek! p0wned Alabama hit by unspecified 'cybersecurity event' - 1 day ago
 - [RegisterSoftware] China launches an AI cloud into orbit -12 sats for now, 2,800 in coming years - 1 day ago
@@ -64,14 +91,14 @@ description: Latest Updates
 - [DataBreaches] Former Sussex Police officer facing trial for rape charged with 18 further offences relating to computer misuse - 1 day ago
 - [DataBreaches] Ex-NSA bad-guy hunter listened to Scattered Spider’s fake help-desk calls: ‘Those guys are good’ - 1 day ago
 - [RegisterSec] Ex-NSA bad-guy hunter listened to Scattered Spider's fake help-desk calls: 'Those guys are good' - 1 day ago
-- [DataBreaches] Fresno County fell victim to $1.6M phishing scam in 2020. One suspected has been arrested, another has been indicted. - 1 day ago
-- [RegisterSoftware] Apple to add fresh accessibility features for 2025 - 1 day ago
+- [DataBreaches] Fresno County fell victim to $1.6M phishing scam in 2020. One suspected has been arrested, another has been indicted. - 2 days ago
+- [RegisterSoftware] Apple to add fresh accessibility features for 2025 - 2 days ago
 - [DataBreaches] Ransomware Attack on ADP Partner Exposes Broadcom Employee Data - 2 days ago
 - [RegisterSec] Boffins devise technique that lets users prove location without giving it away - 2 days ago
 - [BleepingComputer] New 'Defendnot' tool tricks Windows into disabling Microsoft Defender - 2 days ago
-- [DataBreaches] Anne Arundel ransomware attack compromised confidential health data, county says - 2 days ago
-- [DataBreaches] Australian national known as “DR32” sentenced in U.S. federal court - 2 days ago
-- [RegisterSoftware] Google backs down after locking out Nextcloud Files app - 2 days ago
+- [DataBreaches] Anne Arundel ransomware attack compromised confidential health data, county says - 3 days ago
+- [DataBreaches] Australian national known as “DR32” sentenced in U.S. federal court - 3 days ago
+- [RegisterSoftware] Google backs down after locking out Nextcloud Files app - 3 days ago
 - [FullDisclosure] Unauthenticated Blind SQL Injection | RSI queue management system - V 3.0 | CVE-2025-26086 - 3 days ago
 - [FullDisclosure] Persistent Cross-Site Scripting in Economizzer Category Entry - 3 days ago
 - [FullDisclosure] Session Invalidation in Economizzer Allows Unauthorized Access	After Logout - 3 days ago
@@ -113,30 +140,30 @@ description: Latest Updates
 - [BleepingComputer] Ransomware gangs increasingly use Skitnet post-exploitation malware - 3 days ago
 - [SecurityWeek] In Other News: Hackers Not Behind Blackout, CISO Docuseries, Dior Data Breach - 3 days ago
 - [NCSCthreats] Impact of AI on cyber threat from now to 2027 - 3 days ago
-- [GitHub] GitHub Enterprise Importer (GEI) is experiencing degraded throughput - 3 days ago
-- [RegisterSec] Broadcom employee data stolen by ransomware crooks following hit on payroll provider - 3 days ago
-- [GrahamCluley] Prescription for disaster: Sensitive patient data leaked in Ascension breach - 3 days ago
-- [RegisterSoftware] Microsoft proposes sweeping global concessions to Teams for up to a decade - 3 days ago
-- [HackerNews] New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors - 3 days ago
-- [RegisterSoftware] AWS says Britain needs more nuclear power to feed AI datacenter surge - 3 days ago
-- [RegisterSec] Good luck to Atos' 7th CEO and its latest biz transformation - 3 days ago
-- [RegisterSoftware] Good luck to Atos' 7th CEO and its latest biz transformation - 3 days ago
-- [SecurityWeek] From 60 to 4,000: NATO’s Locked Shields Reflects Cyber Defense Growth - 3 days ago
-- [HackerNews] Top 10 Best Practices for Effective Data Protection - 3 days ago
-- [DataBreaches] Breachforums Boss “Pompompurin” to Pay $700k in Healthcare Breach - 3 days ago
-- [RegisterSoftware] How sticky notes saved 'the single biggest digital program in the world' - 3 days ago
-- [SecurityWeek] FBI Warns of Deepfake Messages Impersonating Senior Officials - 3 days ago
-- [SecurityWeek] Russian APT Exploiting Mail Servers Against Government, Defense Organizations - 3 days ago
-- [HackerNews] Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks - 3 days ago
-- [HackerNews] Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks - 3 days ago
-- [BleepingComputer] US charges 12 more suspects linked to $230 million crypto theft - 3 days ago
-- [RegisterSec] From hype to harm: 78% of CISOs see AI attacks already - 3 days ago
-- [RegisterSoftware] From hype to harm: 78% of CISOs see AI attacks already - 3 days ago
-- [RegisterSoftware] Some English hospitals doubt Palantir's utility: We'd 'lose functionality rather than gain it' - 3 days ago
-- [BleepingComputer] CISA tags recently patched Chrome bug as actively exploited - 3 days ago
-- [RegisterSoftware] Dilettante dev wrote rubbish, left no logs, and had no idea why his app wasn't working - 3 days ago
-- [SecurityWeek] Hackers Win $260,000 on First Day of Pwn2Own Berlin 2025 - 3 days ago
-- [HackerNews] [Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications - 3 days ago
+- [GitHub] GitHub Enterprise Importer (GEI) is experiencing degraded throughput - 4 days ago
+- [RegisterSec] Broadcom employee data stolen by ransomware crooks following hit on payroll provider - 4 days ago
+- [GrahamCluley] Prescription for disaster: Sensitive patient data leaked in Ascension breach - 4 days ago
+- [RegisterSoftware] Microsoft proposes sweeping global concessions to Teams for up to a decade - 4 days ago
+- [HackerNews] New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors - 4 days ago
+- [RegisterSoftware] AWS says Britain needs more nuclear power to feed AI datacenter surge - 4 days ago
+- [RegisterSec] Good luck to Atos' 7th CEO and its latest biz transformation - 4 days ago
+- [RegisterSoftware] Good luck to Atos' 7th CEO and its latest biz transformation - 4 days ago
+- [SecurityWeek] From 60 to 4,000: NATO’s Locked Shields Reflects Cyber Defense Growth - 4 days ago
+- [HackerNews] Top 10 Best Practices for Effective Data Protection - 4 days ago
+- [DataBreaches] Breachforums Boss “Pompompurin” to Pay $700k in Healthcare Breach - 4 days ago
+- [RegisterSoftware] How sticky notes saved 'the single biggest digital program in the world' - 4 days ago
+- [SecurityWeek] FBI Warns of Deepfake Messages Impersonating Senior Officials - 4 days ago
+- [SecurityWeek] Russian APT Exploiting Mail Servers Against Government, Defense Organizations - 4 days ago
+- [HackerNews] Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks - 4 days ago
+- [HackerNews] Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks - 4 days ago
+- [BleepingComputer] US charges 12 more suspects linked to $230 million crypto theft - 4 days ago
+- [RegisterSec] From hype to harm: 78% of CISOs see AI attacks already - 4 days ago
+- [RegisterSoftware] From hype to harm: 78% of CISOs see AI attacks already - 4 days ago
+- [RegisterSoftware] Some English hospitals doubt Palantir's utility: We'd 'lose functionality rather than gain it' - 4 days ago
+- [BleepingComputer] CISA tags recently patched Chrome bug as actively exploited - 4 days ago
+- [RegisterSoftware] Dilettante dev wrote rubbish, left no logs, and had no idea why his app wasn't working - 4 days ago
+- [SecurityWeek] Hackers Win $260,000 on First Day of Pwn2Own Berlin 2025 - 4 days ago
+- [HackerNews] [Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications - 4 days ago
 - [RegisterSoftware] Jilted AWS reckons VMware is now crusty like a mainframe - 4 days ago
 - [RegisterSec] DoorDash scam used fake drivers, phantom deliveries to bilk $2.59M - 4 days ago
 - [RegisterSec] Scammers are deepfaking voices of senior US government officials, warns FBI - 4 days ago
@@ -170,32 +197,32 @@ description: Latest Updates
 - [HackerNews] Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails - 4 days ago
 - [RegisterSoftware] Microsoft set to pull the plug on Bing Search APIs in favor of AI alternative - 4 days ago
 - [BleepingComputer] Malicious NPM package uses Unicode steganography to evade detection - 4 days ago
-- [BleepingComputer] Coinbase data breach exposes customer info and government IDs - 4 days ago
-- [BleepingComputer] Malicious npm package using steganography downloaded by hundreds - 4 days ago
-- [RegisterSec] Snowflake CISO on the power of 'shared destiny' and 'yes and' - 4 days ago
-- [DataBreaches] Coinbase says hackers bribed staff to steal customer data and are demanding $20 million ransom - 4 days ago
-- [DataBreaches] Chinese Hackers Hit Drone Sector in Supply Chain Attacks - 4 days ago
-- [SecurityWeek] Production at Steelmaker Nucor Disrupted by Cyberattack - 4 days ago
-- [GitHub] Disruption with Gemini 2.5 Pro - 4 days ago
-- [DataBreaches] Official Indiana .gov email addresses are phishing residents - 4 days ago
-- [DataBreaches] Cybersecurity incident at Central Point School District 6 - 4 days ago
-- [DataBreaches] $28 million in Texas’ cybersecurity funding for schools left unspent - 4 days ago
-- [SecurityWeek] Proofpoint to Acquire Hornetsecurity in Reported $1 Billion Deal - 4 days ago
-- [RegisterSoftware] 70-knot winds blamed for yacht disaster that killed Brit tech tycoon Mike Lynch - 4 days ago
-- [HackerNews] Pen Testing for Compliance Only? It's Time to Change Your Approach - 4 days ago
-- [SecurityWeek] Chinese Hackers Hit Drone Sector in Supply Chain Attacks - 4 days ago
-- [HackerNews] Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper - 4 days ago
-- [HackerNews] Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers - 4 days ago
-- [HackerNews] 5 BCDR Essentials for Effective Ransomware Defense - 4 days ago
-- [SecurityWeek] Ransomware Groups, Chinese APTs Exploit Recent SAP NetWeaver Flaws - 4 days ago
-- [SecurityWeek] Canadian Electric Utility Lists Customer Information Stolen by Hackers - 4 days ago
-- [RegisterSoftware] The 'End of 10' is nigh, but don't bury your PC just yet - 4 days ago
-- [SecurityWeek] Australian Human Rights Commission Discloses Data Breach - 4 days ago
-- [NCSCGuidanceFeed] Data breaches: guidance for individuals and families - 4 days ago
-- [SecurityWeek] Chrome 136 Update Patches Vulnerability With ‘Exploit in the Wild’ - 4 days ago
-- [BleepingComputer] Google fixes high severity Chrome flaw with public exploit - 4 days ago
-- [RegisterSoftware] A year on, Valkey charts path to v9 after break from Redis - 4 days ago
-- [RegisterSoftware] Google DeepMind promises to help you evolve your algos - 4 days ago
+- [BleepingComputer] Coinbase data breach exposes customer info and government IDs - 5 days ago
+- [BleepingComputer] Malicious npm package using steganography downloaded by hundreds - 5 days ago
+- [RegisterSec] Snowflake CISO on the power of 'shared destiny' and 'yes and' - 5 days ago
+- [DataBreaches] Coinbase says hackers bribed staff to steal customer data and are demanding $20 million ransom - 5 days ago
+- [DataBreaches] Chinese Hackers Hit Drone Sector in Supply Chain Attacks - 5 days ago
+- [SecurityWeek] Production at Steelmaker Nucor Disrupted by Cyberattack - 5 days ago
+- [GitHub] Disruption with Gemini 2.5 Pro - 5 days ago
+- [DataBreaches] Official Indiana .gov email addresses are phishing residents - 5 days ago
+- [DataBreaches] Cybersecurity incident at Central Point School District 6 - 5 days ago
+- [DataBreaches] $28 million in Texas’ cybersecurity funding for schools left unspent - 5 days ago
+- [SecurityWeek] Proofpoint to Acquire Hornetsecurity in Reported $1 Billion Deal - 5 days ago
+- [RegisterSoftware] 70-knot winds blamed for yacht disaster that killed Brit tech tycoon Mike Lynch - 5 days ago
+- [HackerNews] Pen Testing for Compliance Only? It's Time to Change Your Approach - 5 days ago
+- [SecurityWeek] Chinese Hackers Hit Drone Sector in Supply Chain Attacks - 5 days ago
+- [HackerNews] Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper - 5 days ago
+- [HackerNews] Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers - 5 days ago
+- [HackerNews] 5 BCDR Essentials for Effective Ransomware Defense - 5 days ago
+- [SecurityWeek] Ransomware Groups, Chinese APTs Exploit Recent SAP NetWeaver Flaws - 5 days ago
+- [SecurityWeek] Canadian Electric Utility Lists Customer Information Stolen by Hackers - 5 days ago
+- [RegisterSoftware] The 'End of 10' is nigh, but don't bury your PC just yet - 5 days ago
+- [SecurityWeek] Australian Human Rights Commission Discloses Data Breach - 5 days ago
+- [NCSCGuidanceFeed] Data breaches: guidance for individuals and families - 5 days ago
+- [SecurityWeek] Chrome 136 Update Patches Vulnerability With ‘Exploit in the Wild’ - 5 days ago
+- [BleepingComputer] Google fixes high severity Chrome flaw with public exploit - 5 days ago
+- [RegisterSoftware] A year on, Valkey charts path to v9 after break from Redis - 5 days ago
+- [RegisterSoftware] Google DeepMind promises to help you evolve your algos - 5 days ago
 - [HackerNews] New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy - 5 days ago
 - [RegisterSec] Here's what we know about the DragonForce ransomware that hit Marks &amp; Spencer - 5 days ago
 - [RegisterSoftware] Meet your new colleague – the ML Admin, who tames LLMs so they're ready to rock - 5 days ago
@@ -232,25 +259,25 @@ description: Latest Updates
 - [RegisterSec] VPN Secure parent company CEO explains why he had to axe thousands of 'lifetime' deals - 5 days ago
 - [GitHub] Disruption with Gemini 2.5 Pro model - 5 days ago
 - [HackerNews] CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users - 5 days ago
-- [BleepingComputer] Kosovo extradites BlackDB admin to face US cybercrime charges - 5 days ago
-- [BleepingComputer] Fashion giant Dior discloses cyberattack, warns of data breach - 5 days ago
-- [SecurityWeek] Kosovar Administrator of Cybercrime Marketplace Extradited to US - 5 days ago
-- [BrianKrebs] Patch Tuesday, May 2025 Edition - 5 days ago
-- [RegisterSec] Go ahead and ignore Patch Tuesday – it might improve your security - 5 days ago
-- [SecurityWeek] EU Cybersecurity Agency ENISA Launches European Vulnerability Database - 5 days ago
-- [RegisterSoftware] Europe plots escape hatch from the enshittification of search - 5 days ago
-- [HackerNews] Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails - 5 days ago
-- [HackerNews] Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team - 5 days ago
-- [HackerNews] Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns - 5 days ago
-- [SecurityWeek] Vulnerabilities Patched by Juniper, VMware and Zoom - 5 days ago
-- [SecurityWeek] Fortinet Patches Zero-Day Exploited Against FortiVoice Appliances - 5 days ago
-- [RegisterSec] Everyone's deploying AI, but no one's securing it – what could go wrong? - 5 days ago
-- [RegisterSoftware] Everyone's deploying AI, but no one's securing it – what could go wrong? - 5 days ago
-- [HackerNews] Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server - 5 days ago
-- [RegisterSoftware] Post Office finally throttles delayed in-house EPOS project - 5 days ago
-- [SecurityWeek] Ivanti Patches Two EPMM Zero-Days Exploited to Hack Customers - 5 days ago
-- [SecurityWeek] ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Phoenix Contact - 5 days ago
-- [RegisterSoftware] EuroHPC lines up AI upgrade for Leonardo supercomputer - 5 days ago
+- [BleepingComputer] Kosovo extradites BlackDB admin to face US cybercrime charges - 6 days ago
+- [BleepingComputer] Fashion giant Dior discloses cyberattack, warns of data breach - 6 days ago
+- [SecurityWeek] Kosovar Administrator of Cybercrime Marketplace Extradited to US - 6 days ago
+- [BrianKrebs] Patch Tuesday, May 2025 Edition - 6 days ago
+- [RegisterSec] Go ahead and ignore Patch Tuesday – it might improve your security - 6 days ago
+- [SecurityWeek] EU Cybersecurity Agency ENISA Launches European Vulnerability Database - 6 days ago
+- [RegisterSoftware] Europe plots escape hatch from the enshittification of search - 6 days ago
+- [HackerNews] Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails - 6 days ago
+- [HackerNews] Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team - 6 days ago
+- [HackerNews] Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns - 6 days ago
+- [SecurityWeek] Vulnerabilities Patched by Juniper, VMware and Zoom - 6 days ago
+- [SecurityWeek] Fortinet Patches Zero-Day Exploited Against FortiVoice Appliances - 6 days ago
+- [RegisterSec] Everyone's deploying AI, but no one's securing it – what could go wrong? - 6 days ago
+- [RegisterSoftware] Everyone's deploying AI, but no one's securing it – what could go wrong? - 6 days ago
+- [HackerNews] Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server - 6 days ago
+- [RegisterSoftware] Post Office finally throttles delayed in-house EPOS project - 6 days ago
+- [SecurityWeek] Ivanti Patches Two EPMM Zero-Days Exploited to Hack Customers - 6 days ago
+- [SecurityWeek] ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Phoenix Contact - 6 days ago
+- [RegisterSoftware] EuroHPC lines up AI upgrade for Leonardo supercomputer - 6 days ago
 - [RegisterSec] Ransomware scum have put a target on the no man's land between IT and operations - 6 days ago
 - [SecurityWeek] SAP Patches Another Exploited NetWeaver Vulnerability - 6 days ago
 - [HackerNews] Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks - 6 days ago
@@ -288,27 +315,27 @@ description: Latest Updates
 - [BleepingComputer] Increase Red Team Operations 10X with Adversarial Exposure Validation - 6 days ago
 - [BleepingComputer] Microsoft will update Office apps on Windows 10 until 2028 - 6 days ago
 - [RegisterSec] 'We still have embeds in CISA': CTO of Brit cyber agency talks post-Trump relationship with US counterpart - 6 days ago
-- [BleepingComputer] M&S says customer data stolen in cyberattack, forces password resets - 6 days ago
-- [DataBreaches] N.W.T.’s medical record system under the microscope after 2 reported cases of snooping - 6 days ago
-- [DataBreaches] Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency - 6 days ago
-- [SecurityWeek] SAP Patches Another Critical NetWeaver Vulnerability - 6 days ago
-- [SecurityWeek] Sharing Intelligence Beyond CTI Teams, Across Wider Functions and Departments - 6 days ago
-- [SecurityWeek] Radware Says Recently Disclosed WAF Bypasses Were Patched in 2023 - 6 days ago
-- [RegisterSoftware] Boffins warn that AI paper mills are swamping science with garbage studies - 6 days ago
-- [HackerNews] North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress - 6 days ago
-- [HackerNews] Deepfake Defense in the Age of AI - 6 days ago
-- [SecurityWeek] Marks & Spencer Says Data Stolen in Ransomware Attack - 6 days ago
-- [SecurityWeek] Output Messenger Zero-Day Exploited by Turkish Hackers for Iraq Spying - 6 days ago
-- [RegisterSec] Marks &amp; Spencer admits cybercrooks made off with customer info - 6 days ago
-- [SecurityWeek] Orca Snaps Up Opus in Cloud Security Automation Push - 6 days ago
-- [SecurityWeek] Suspected DoppelPaymer Ransomware Group Member Arrested - 6 days ago
-- [RegisterSec] As US vuln-tracking falters, EU enters with its own security bug database - 6 days ago
-- [RegisterSoftware] Tech suppliers asked to support single electronic health record across England - 6 days ago
-- [SecurityWeek] CISA Warns of Flaw in TeleMessage App Used by Ex-National Security Advisor - 6 days ago
-- [IT Governance] The Co-Op, M&S, Harrods… You? Mitigating the Risk of Ransomware - 6 days ago
-- [RegisterSoftware] Nextcloud cries foul over Google Play Store app rejection - 6 days ago
-- [RegisterSec] Türkiye-linked spy crew exploited a messaging app zero-day to snoop on Kurdish army in Iraq - 6 days ago
-- [HackerNews] Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency - 6 days ago
+- [BleepingComputer] M&S says customer data stolen in cyberattack, forces password resets - 1 week ago
+- [DataBreaches] N.W.T.’s medical record system under the microscope after 2 reported cases of snooping - 1 week ago
+- [DataBreaches] Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency - 1 week ago
+- [SecurityWeek] SAP Patches Another Critical NetWeaver Vulnerability - 1 week ago
+- [SecurityWeek] Sharing Intelligence Beyond CTI Teams, Across Wider Functions and Departments - 1 week ago
+- [SecurityWeek] Radware Says Recently Disclosed WAF Bypasses Were Patched in 2023 - 1 week ago
+- [RegisterSoftware] Boffins warn that AI paper mills are swamping science with garbage studies - 1 week ago
+- [HackerNews] North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress - 1 week ago
+- [HackerNews] Deepfake Defense in the Age of AI - 1 week ago
+- [SecurityWeek] Marks & Spencer Says Data Stolen in Ransomware Attack - 1 week ago
+- [SecurityWeek] Output Messenger Zero-Day Exploited by Turkish Hackers for Iraq Spying - 1 week ago
+- [RegisterSec] Marks &amp; Spencer admits cybercrooks made off with customer info - 1 week ago
+- [SecurityWeek] Orca Snaps Up Opus in Cloud Security Automation Push - 1 week ago
+- [SecurityWeek] Suspected DoppelPaymer Ransomware Group Member Arrested - 1 week ago
+- [RegisterSec] As US vuln-tracking falters, EU enters with its own security bug database - 1 week ago
+- [RegisterSoftware] Tech suppliers asked to support single electronic health record across England - 1 week ago
+- [SecurityWeek] CISA Warns of Flaw in TeleMessage App Used by Ex-National Security Advisor - 1 week ago
+- [IT Governance] The Co-Op, M&S, Harrods… You? Mitigating the Risk of Ransomware - 1 week ago
+- [RegisterSoftware] Nextcloud cries foul over Google Play Store app rejection - 1 week ago
+- [RegisterSec] Türkiye-linked spy crew exploited a messaging app zero-day to snoop on Kurdish army in Iraq - 1 week ago
+- [HackerNews] Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency - 1 week ago
 - [RegisterSoftware] OpenAI wants to build a subscription for something like an AI OS, with SDKs and APIs and 'surfaces' - 1 week ago
 - [HackerNews] Türkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers - 1 week ago
 - [RegisterSoftware] Linus Torvalds goes back to a mechanical keyboard after making too many typos - 1 week ago
@@ -634,255 +661,255 @@ description: Latest Updates
 - [CloudFlare] LAS (Las Vegas) on 2025-05-08 - 1 week ago
 - [SecurityWeek] US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations - 1 week ago
 - [RegisterSoftware] Top sci-fi convention gets an earful from authors after using AI to screen panelists - 1 week ago
-- [GrahamCluley] Ransomware attacks on critical infrastructure surge, reports FBI - 2 weeks ago
-- [GitHub] Delays for web and email notification delivery - 2 weeks ago
-- [DataBreaches] EFF Leads Prominent Security Experts in Urging Trump Administration to Leave Chris Krebs Alone - 2 weeks ago
-- [DataBreaches] Marks & Spencer breach linked to Scattered Spider ransomware attack - 2 weeks ago
-- [RegisterSec] China is using AI to sharpen every link in its attack chain, FBI warns - 2 weeks ago
-- [HackerNews] Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products - 2 weeks ago
-- [HackerNews] Product Walkthrough: Securing Microsoft Copilot with Reco - 2 weeks ago
-- [SecurityWeek] Google Tracked 75 Zero-Days in 2024 - 2 weeks ago
-- [SecurityWeek] RSA Conference 2025 Announcements Summary (Day 1) - 2 weeks ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [SecurityWeek] Exploited Vulnerability Exposes Over 400 SAP NetWeaver Servers to Attacks - 2 weeks ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [GitHub] Delays for web notification delivery - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [RegisterSoftware] Generative AI is not replacing jobs or hurting wages at all, say economists - 2 weeks ago
-- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 2 weeks ago
-- [RegisterSoftware] Swiss boffins admit to secretly posting AI-penned posts to Reddit in the name of science - 2 weeks ago
-- [RegisterSec] Swiss boffins admit to secretly posting AI-penned posts to Reddit in the name of science - 2 weeks ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 2 weeks ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 2 weeks ago
-- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 2 weeks ago
-- [CloudFlare] MUC (Munich) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] DUB (Dublin) on 2025-04-30 - 2 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 2 weeks ago
-- [CloudFlare] KIX (Osaka) on 2025-05-05 - 2 weeks ago
-- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 2 weeks ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 2 weeks ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 2 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 2 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-19 - 2 weeks ago
+- [GrahamCluley] Ransomware attacks on critical infrastructure surge, reports FBI - 3 weeks ago
+- [GitHub] Delays for web and email notification delivery - 3 weeks ago
+- [DataBreaches] EFF Leads Prominent Security Experts in Urging Trump Administration to Leave Chris Krebs Alone - 3 weeks ago
+- [DataBreaches] Marks & Spencer breach linked to Scattered Spider ransomware attack - 3 weeks ago
+- [RegisterSec] China is using AI to sharpen every link in its attack chain, FBI warns - 3 weeks ago
+- [HackerNews] Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products - 3 weeks ago
+- [HackerNews] Product Walkthrough: Securing Microsoft Copilot with Reco - 3 weeks ago
+- [SecurityWeek] Google Tracked 75 Zero-Days in 2024 - 3 weeks ago
+- [SecurityWeek] RSA Conference 2025 Announcements Summary (Day 1) - 3 weeks ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [SecurityWeek] Exploited Vulnerability Exposes Over 400 SAP NetWeaver Servers to Attacks - 3 weeks ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [GitHub] Delays for web notification delivery - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] PPT (Tahiti) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [Cloudflare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [RegisterSoftware] Generative AI is not replacing jobs or hurting wages at all, say economists - 3 weeks ago
+- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] CPT (Cape Town) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [Cloudflare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
+- [RegisterSoftware] Swiss boffins admit to secretly posting AI-penned posts to Reddit in the name of science - 3 weeks ago
+- [RegisterSec] Swiss boffins admit to secretly posting AI-penned posts to Reddit in the name of science - 3 weeks ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
+- [CloudFlare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
+- [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
+- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
+- [CloudFlare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
+- [CloudFlare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
+- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
+- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
+- [Cloudflare] SIN (Singapore) on 2025-05-19 - 3 weeks ago
 - [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
 - [Cloudflare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
 - [Cloudflare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
@@ -982,33 +1009,6 @@ description: Latest Updates
 - [CloudFlare] MUC (Munich) on 2025-04-30 - 3 weeks ago
 - [CloudFlare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
 - [CloudFlare] CPT (Cape Town) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] Issues with Registering WARP devices and Modifying WARP Settings - 3 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] DMM (Dammam) on 2025-04-28 - 3 weeks ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-20 - 3 weeks ago
-- [CloudFlare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-21 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-27 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-28 - 3 weeks ago
-- [Cloudflare] CHC (Christchurch) on 2025-04-28 - 3 weeks ago
-- [Cloudflare] SUV (Suva) on 2025-04-28 - 3 weeks ago
-- [Cloudflare] NOU (Noumea) on 2025-04-28 - 3 weeks ago
-- [Cloudflare] CBR (Canberra) on 2025-04-28 - 3 weeks ago
-- [Cloudflare] DEL (New Delhi) on 2025-04-28 - 3 weeks ago
-- [Cloudflare] FRA (Frankfurt) on 2025-04-29 - 3 weeks ago
-- [Cloudflare] IAD (Ashburn) on 2025-04-29 - 3 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-04-29 - 3 weeks ago
-- [Cloudflare] MUC (Munich) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] DUB (Dublin) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] CPT (Cape Town) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-04-30 - 3 weeks ago
-- [Cloudflare] DFW (Dallas) on 2025-05-01 - 3 weeks ago
-- [Cloudflare] AKL (Auckland) on 2025-05-01 - 3 weeks ago
-- [Cloudflare] KIX (Osaka) on 2025-05-05 - 3 weeks ago
-- [Cloudflare] HKG (Hong Kong) on 2025-05-06 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-13 - 3 weeks ago
-- [Cloudflare] SIN (Singapore) on 2025-05-14 - 3 weeks ago
 
 
 <!-- SecOps end -->
