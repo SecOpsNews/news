@@ -9,56 +9,98 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] OpenAI working to fix ChatGPT outage affecting users worldwide - 23 minutes ago
-- [RegisterSec] Trump guts digital ID rules, claims they help 'illegal aliens' commit fraud - 51 minutes ago
-- [SecurityWeek] Swimlane Raises $45 Million for Security Automation Platform - 51 minutes ago
-- [SecurityWeek] Hackers Stole 300,000 Crash Reports From Texas Department of Transportation - 51 minutes ago
-- [1Password] Kolide is experiencing issues - 51 minutes ago
-- [BleepingComputer] Five plead guilty to laundering $36 million stolen in investment scams - 1 hour ago
-- [RegisterSec] Cloud brute-force attack cracks Google users' phone numbers in minutes - 1 hour ago
-- [SecurityWeek] Five Zero-Days, 15 Misconfigurations Found in Salesforce Industry Cloud - 1 hour ago
-- [RegisterSoftware] ChatGPT users wake to find it's even more wrong, slower than usual - 1 hour ago
-- [HackerNews] The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier - 1 hour ago
-- [RegisterSoftware] Snowflake and Databricks bank PostgreSQL acquisitions to bring transactions onto their platforms - 2 hours ago
-- [SecurityWeek] Critical Vulnerability Patched in SAP NetWeaver - 2 hours ago
-- [RegisterSec] M&amp;S online ordering system operational 46 days after cyber shutdown - 3 hours ago
-- [SecurityWeek] Sensitive Information Stolen in Sensata Ransomware Attack - 3 hours ago
-- [HackerNews] Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account - 3 hours ago
-- [RegisterSec] Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser - 3 hours ago
-- [SecurityWeek] Exploited Vulnerability Impacts Over 80,000 Roundcube Servers - 4 hours ago
-- [SecurityWeek] Vulnerabilities Exposed Phone Number of Any Google User - 4 hours ago
-- [IT Governance] GDPR Documentation: The Documents You Need to Comply with the UK and EU GDPR - 5 hours ago
-- [HackerNews] Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises - 5 hours ago
-- [SecurityWeek] Whole Foods Distributor United Natural Foods Hit by Cyberattack - 6 hours ago
-- [RegisterSoftware] Apple tries to contain itself with lightweight Linux VMs for macOS - 7 hours ago
-- [RegisterSec] Apple tries to contain itself with lightweight Linux VMs for macOS - 7 hours ago
-- [HackerNews] CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog - 7 hours ago
-- [RegisterSoftware] China orders trial of aged care robots that can cook, clean, and provide emotional support - 10 hours ago
-- [FullDisclosure] Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft - 11 hours ago
-- [FullDisclosure] SEC Consult SA-20250604-0 :: Local Privilege Escalation and Default Credentials in INDAMED - MEDICAL OFFICE (Medical practice management) Demo version - 11 hours ago
-- [BleepingComputer] Stolen Ticketmaster data from Snowflake attacks briefly for sale again - 15 hours ago
-- [RegisterSoftware] Apple goes glass whole as it pours new UI everywhere - 15 hours ago
-- [RegisterSoftware] As AI gallops through the federal workforce, lawmakers once again call for expanded training - 16 hours ago
-- [BleepingComputer] Over 84,000 Roundcube instances vulnerable to actively exploited flaw - 17 hours ago
-- [BleepingComputer] Google patched bug leaking phone numbers tied to accounts - 18 hours ago
-- [BleepingComputer] SentinelOne shares new details on China-linked breach attempt - 19 hours ago
-- [SecurityWeek] Chinese Hackers and User Lapses Turn Smartphones Into a ‘Mobile Security Crisis’ - 19 hours ago
-- [BleepingComputer] Linux Foundation unveils decentralized WordPress plugin manager - 19 hours ago
-- [RegisterSoftware] Apple AI boffins puncture AGI hype as reasoning models flail on complex planning - 19 hours ago
-- [SecurityWeek] Chinese Espionage Crews Circle SentinelOne in Year-Long Reconnaissance Campaign - 19 hours ago
-- [RegisterSec] Let them eat junk food: Major organic supplier to Whole Foods, Walmart, hit by cyberattack - 20 hours ago
-- [HackerNews] Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group - 21 hours ago
-- [RegisterSoftware] Unemployment is spiking for US IT pros - unless you want to babysit bots - 21 hours ago
-- [RegisterSoftware] UK's Isambard-AI super powers up as government goes AI crazy - 21 hours ago
-- [BleepingComputer] Sensata Technologies says personal data stolen by ransomware gang - 21 hours ago
-- [BleepingComputer] Designing Blue Team playbooks with Wazuh for proactive incident response - 22 hours ago
-- [HackerNews] Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks - 22 hours ago
-- [NETRESEC] Detecting PureLogs traffic with CapLoader - 23 hours ago
-- [SecurityWeek] Mirai Botnets Exploiting Wazuh Security Platform Vulnerability - 23 hours ago
-- [SecurityWeek] Guardz Banks $56M Series B for All-in-One SMB Security - 23 hours ago
-- [RegisterSoftware] Europe's cloud datacenter ambition 'completely crazy' says SAP CEO - 23 hours ago
-- [BleepingComputer] Designing Blue Team playbooks with Wazuh for proactive cyber defense - 23 hours ago
-- [SecurityWeek] React Native Aria Packages Backdoored in Supply Chain Attack - 23 hours ago
+- [RegisterSec] CISO who helped unmask Badbox warns: Version 3 is coming - 21 minutes ago
+- [RegisterSoftware] Mozilla frets about Google's push to build AI into Chrome - 3 hours ago
+- [SecurityWeek] How Scammers Are Using AI to Steal College Financial Aid - 5 hours ago
+- [BrianKrebs] Patch Tuesday, June 2025 Edition - 5 hours ago
+- [RegisterSoftware] Cisco president says dredging coding syntax from wetware memory wastes engineers' expensive synapses - 5 hours ago
+- [CloudFlare] DTW (Detroit) on 2025-06-16 - 5 hours ago
+- [CloudFlare] DTW (Detroit) on 2025-06-16 - 5 hours ago
+- [CloudFlare] DTW (Detroit) on 2025-06-16 - 5 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-06-17 - 5 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-06-17 - 5 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-06-17 - 5 hours ago
+- [RegisterSec] Microsoft warns of 66 flaws to fix for this Patch Tuesday, and two are under active attack - 7 hours ago
+- [RegisterSoftware] Cisco president says dredging syntax from wetware memory wastes engineers' expensive synapses - 7 hours ago
+- [BleepingComputer] DanaBot malware operators exposed via C2 bug added in 2022 - 9 hours ago
+- [BleepingComputer] ConnectWise rotating code signing certificates over security concerns - 9 hours ago
+- [RegisterSoftware] Apple-Intel divorce to be final next year - 10 hours ago
+- [BleepingComputer] New Secure Boot flaw lets attackers install bootkit malware, patch now - 10 hours ago
+- [RegisterSoftware] Trump administration's whole-government AI plans leaked on GitHub - 10 hours ago
+- [RegisterSoftware] Tinfoil hat wearers can thank AI for declassification of JFK docs - 11 hours ago
+- [RegisterSec] Texas warns 300,000 crash reports siphoned via compromised user account - 11 hours ago
+- [HackerNews] Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud - 11 hours ago
+- [HackerNews] Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps - 11 hours ago
+- [SecurityWeek] Code Execution Flaws Haunt Adobe Acrobat Reader, Adobe Commerce - 12 hours ago
+- [SecurityWeek] Microsoft Patch Tuesday Covers WebDAV Flaw Marked as ‘Already Exploited’ - 12 hours ago
+- [BleepingComputer] Windows 10 KB5060533 cumulative update released with 7 changes, fixes - 12 hours ago
+- [GitHub] Codespaces billing is delayed - 13 hours ago
+- [HackerNews] FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware - 13 hours ago
+- [BleepingComputer] Windows 11 KB5060842 and KB5060999 cumulative updates released - 13 hours ago
+- [BleepingComputer] Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws - 13 hours ago
+- [RegisterSoftware] Forked-off Xlibre tells Wayland display protocol to DEI in a fire - 13 hours ago
+- [BleepingComputer] Texas Dept. of Transportation breached, 300k crash records stolen - 14 hours ago
+- [BleepingComputer] Microsoft Outlook to block more risky attachments used in attacks - 14 hours ago
+- [GrahamCluley] The AI Fix #54: Will AI collapse under its own garbage, and AI charity “Hunger Games” - 14 hours ago
+- [BleepingComputer] FIN6 hackers pose as job seekers to backdoor recruiters’ devices - 14 hours ago
+- [RegisterSec] Critical Wazuh bug exploited in growing Mirai botnet infection - 14 hours ago
+- [BleepingComputer] Ivanti Workspace Control hardcoded key flaws expose SQL credentials - 15 hours ago
+- [HackerNews] Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users - 15 hours ago
+- [IT Governance] How to Start Your Career in Data Protection and Privacy - 15 hours ago
+- [RegisterSec] Winning the war on ransomware with AI: Four real-world use cases - 15 hours ago
+- [BleepingComputer] AI is a data-breach time bomb, reveals new report - 16 hours ago
+- [BleepingComputer] Massive Heroku outage impacts web platforms worldwide - 16 hours ago
+- [RegisterSoftware] Microsoft rolls out Windows 11 Start Menu updates - 16 hours ago
+- [BleepingComputer] OpenAI working to fix ChatGPT outage affecting users worldwide - 17 hours ago
+- [RegisterSec] Trump guts digital ID rules, claims they help 'illegal aliens' commit fraud - 17 hours ago
+- [SecurityWeek] Swimlane Raises $45 Million for Security Automation Platform - 17 hours ago
+- [SecurityWeek] Hackers Stole 300,000 Crash Reports From Texas Department of Transportation - 17 hours ago
+- [1Password] Kolide is experiencing issues - 17 hours ago
+- [BleepingComputer] Five plead guilty to laundering $36 million stolen in investment scams - 18 hours ago
+- [RegisterSec] Cloud brute-force attack cracks Google users' phone numbers in minutes - 18 hours ago
+- [SecurityWeek] Five Zero-Days, 15 Misconfigurations Found in Salesforce Industry Cloud - 18 hours ago
+- [RegisterSoftware] ChatGPT users wake to find it's even more wrong, slower than usual - 18 hours ago
+- [HackerNews] The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier - 18 hours ago
+- [RegisterSoftware] Snowflake and Databricks bank PostgreSQL acquisitions to bring transactions onto their platforms - 19 hours ago
+- [SecurityWeek] Critical Vulnerability Patched in SAP NetWeaver - 19 hours ago
+- [RegisterSec] M&amp;S online ordering system operational 46 days after cyber shutdown - 20 hours ago
+- [SecurityWeek] Sensitive Information Stolen in Sensata Ransomware Attack - 20 hours ago
+- [HackerNews] Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account - 20 hours ago
+- [RegisterSec] Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser - 20 hours ago
+- [SecurityWeek] Exploited Vulnerability Impacts Over 80,000 Roundcube Servers - 21 hours ago
+- [SecurityWeek] Vulnerabilities Exposed Phone Number of Any Google User - 21 hours ago
+- [IT Governance] GDPR Documentation: The Documents You Need to Comply with the UK and EU GDPR - 22 hours ago
+- [HackerNews] Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises - 22 hours ago
+- [SecurityWeek] Whole Foods Distributor United Natural Foods Hit by Cyberattack - 23 hours ago
+- [RegisterSoftware] Apple tries to contain itself with lightweight Linux VMs for macOS - 1 day ago
+- [RegisterSec] Apple tries to contain itself with lightweight Linux VMs for macOS - 1 day ago
+- [HackerNews] CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog - 1 day ago
+- [RegisterSoftware] China orders trial of aged care robots that can cook, clean, and provide emotional support - 1 day ago
+- [FullDisclosure] Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft - 1 day ago
+- [FullDisclosure] SEC Consult SA-20250604-0 :: Local Privilege Escalation and Default Credentials in INDAMED - MEDICAL OFFICE (Medical practice management) Demo version - 1 day ago
+- [BleepingComputer] Stolen Ticketmaster data from Snowflake attacks briefly for sale again - 1 day ago
+- [RegisterSoftware] Apple goes glass whole as it pours new UI everywhere - 1 day ago
+- [RegisterSoftware] As AI gallops through the federal workforce, lawmakers once again call for expanded training - 1 day ago
+- [BleepingComputer] Over 84,000 Roundcube instances vulnerable to actively exploited flaw - 1 day ago
+- [BleepingComputer] Google patched bug leaking phone numbers tied to accounts - 1 day ago
+- [BleepingComputer] SentinelOne shares new details on China-linked breach attempt - 1 day ago
+- [SecurityWeek] Chinese Hackers and User Lapses Turn Smartphones Into a ‘Mobile Security Crisis’ - 1 day ago
+- [BleepingComputer] Linux Foundation unveils decentralized WordPress plugin manager - 1 day ago
+- [RegisterSoftware] Apple AI boffins puncture AGI hype as reasoning models flail on complex planning - 1 day ago
+- [SecurityWeek] Chinese Espionage Crews Circle SentinelOne in Year-Long Reconnaissance Campaign - 1 day ago
+- [RegisterSec] Let them eat junk food: Major organic supplier to Whole Foods, Walmart, hit by cyberattack - 1 day ago
+- [HackerNews] Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group - 1 day ago
+- [RegisterSoftware] Unemployment is spiking for US IT pros - unless you want to babysit bots - 1 day ago
+- [RegisterSoftware] UK's Isambard-AI super powers up as government goes AI crazy - 1 day ago
+- [BleepingComputer] Sensata Technologies says personal data stolen by ransomware gang - 1 day ago
+- [BleepingComputer] Designing Blue Team playbooks with Wazuh for proactive incident response - 1 day ago
+- [HackerNews] Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks - 1 day ago
+- [NETRESEC] Detecting PureLogs traffic with CapLoader - 1 day ago
+- [SecurityWeek] Mirai Botnets Exploiting Wazuh Security Platform Vulnerability - 1 day ago
+- [SecurityWeek] Guardz Banks $56M Series B for All-in-One SMB Security - 1 day ago
+- [RegisterSoftware] Europe's cloud datacenter ambition 'completely crazy' says SAP CEO - 1 day ago
+- [BleepingComputer] Designing Blue Team playbooks with Wazuh for proactive cyber defense - 1 day ago
+- [SecurityWeek] React Native Aria Packages Backdoored in Supply Chain Attack - 1 day ago
 - [RegisterSoftware] Microsoft cuts the Windows 11 bloat for Xbox handhelds - 1 day ago
 - [SecurityWeek] Malicious NPM Packages Disguised as Express Utilities Allow Attackers to Wipe Systems - 1 day ago
 - [BleepingComputer] Grocery wholesale giant United Natural Foods hit by cyberattack - 1 day ago
@@ -78,33 +120,33 @@ description: Latest Updates
 - [RegisterSec] Are technologists a threat to doing business securely? - 1 day ago
 - [HackerNews] OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups - 1 day ago
 - [SecurityWeek] Trump Cybersecurity Executive Order Targets Digital Identity, Sanctions Policies - 1 day ago
-- [RegisterSoftware] Chap claims Atari 2600 'absolutely wrecked' ChatGPT at chess - 1 day ago
-- [Slack] Incident: Trouble loading Slack - 1 day ago
-- [RegisterSoftware] China’s asteroid-and-comet hunter probe unfurls a ‘solar wing’ - 1 day ago
-- [RegisterSec] China’s asteroid-and-comet hunter probe unfurls a ‘solar wing’ - 1 day ago
-- [RegisterSec] US infrastructure could crumble under cyberattack, ex-NSA advisor warns - 1 day ago
-- [BleepingComputer] Malware found in NPM packages with 1 million weekly downloads - 1 day ago
-- [BleepingComputer] New Mirai botnet infect TBK DVR devices via command injection flaw - 1 day ago
-- [HackerNews] Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025 - 1 day ago
-- [HackerNews] New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally - 1 day ago
+- [RegisterSoftware] Chap claims Atari 2600 'absolutely wrecked' ChatGPT at chess - 2 days ago
+- [Slack] Incident: Trouble loading Slack - 2 days ago
+- [RegisterSoftware] China’s asteroid-and-comet hunter probe unfurls a ‘solar wing’ - 2 days ago
+- [RegisterSec] China’s asteroid-and-comet hunter probe unfurls a ‘solar wing’ - 2 days ago
+- [RegisterSec] US infrastructure could crumble under cyberattack, ex-NSA advisor warns - 2 days ago
+- [BleepingComputer] Malware found in NPM packages with 1 million weekly downloads - 2 days ago
+- [BleepingComputer] New Mirai botnet infect TBK DVR devices via command injection flaw - 2 days ago
+- [HackerNews] Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025 - 2 days ago
+- [HackerNews] New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally - 2 days ago
 - [RegisterSoftware] Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs - 2 days ago
 - [RegisterSec] Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs - 2 days ago
 - [HackerNews] Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025 - 2 days ago
-- [BleepingComputer] Malicious npm packages posing as utilities delete project directories - 2 days ago
-- [BleepingComputer] Supply chain attack hits Gluestack NPM packages with 960K weekly downloads - 2 days ago
-- [RegisterSoftware] Linux Foundation tries to play peacemaker in ongoing WordPress scuffle - 3 days ago
-- [RegisterSec] ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist - 3 days ago
-- [HackerNews] New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users - 3 days ago
-- [BleepingComputer] Microsoft shares script to restore inetpub folder you shouldn’t delete - 3 days ago
-- [BleepingComputer] Tax resolution firm Optima Tax Relief hit by ransomware, data leaked - 3 days ago
-- [RegisterSec] Fresh strain of pro-Russian wiper flushes Ukrainian critical infrastructure - 3 days ago
-- [GrahamCluley] Marks & Spencer’s ransomware nightmare – more details emerge - 3 days ago
-- [Slack] Incident: "Join Channel" button sticking for some users - 3 days ago
-- [BleepingComputer] Kettering Health confirms Interlock ransomware behind cyberattack - 3 days ago
-- [SecurityWeek] In Other News: FBI Warns of BadBox 2, NSO Disputes WhatsApp Fine, 1,000 Leave CISA - 3 days ago
-- [BleepingComputer] New PathWiper data wiper malware hits critical infrastructure in Ukraine - 3 days ago
-- [BleepingComputer] Critical Fortinet flaws now exploited in Qilin ransomware attacks - 3 days ago
-- [GrahamCluley] US offers $10 million reward for tips about state-linked RedLine hackers - 3 days ago
+- [BleepingComputer] Malicious npm packages posing as utilities delete project directories - 3 days ago
+- [BleepingComputer] Supply chain attack hits Gluestack NPM packages with 960K weekly downloads - 3 days ago
+- [RegisterSoftware] Linux Foundation tries to play peacemaker in ongoing WordPress scuffle - 4 days ago
+- [RegisterSec] ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist - 4 days ago
+- [HackerNews] New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users - 4 days ago
+- [BleepingComputer] Microsoft shares script to restore inetpub folder you shouldn’t delete - 4 days ago
+- [BleepingComputer] Tax resolution firm Optima Tax Relief hit by ransomware, data leaked - 4 days ago
+- [RegisterSec] Fresh strain of pro-Russian wiper flushes Ukrainian critical infrastructure - 4 days ago
+- [GrahamCluley] Marks & Spencer’s ransomware nightmare – more details emerge - 4 days ago
+- [Slack] Incident: "Join Channel" button sticking for some users - 4 days ago
+- [BleepingComputer] Kettering Health confirms Interlock ransomware behind cyberattack - 4 days ago
+- [SecurityWeek] In Other News: FBI Warns of BadBox 2, NSO Disputes WhatsApp Fine, 1,000 Leave CISA - 4 days ago
+- [BleepingComputer] New PathWiper data wiper malware hits critical infrastructure in Ukraine - 4 days ago
+- [BleepingComputer] Critical Fortinet flaws now exploited in Qilin ransomware attacks - 4 days ago
+- [GrahamCluley] US offers $10 million reward for tips about state-linked RedLine hackers - 4 days ago
 - [HackerNews] Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam - 4 days ago
 - [HackerNews] Empower Users and Protect Against GenAI Data Loss - 4 days ago
 - [SecurityWeek] Cybersecurity M&A Roundup: 42 Deals Announced in May 2025 - 4 days ago
@@ -123,28 +165,28 @@ description: Latest Updates
 - [BleepingComputer] Police arrests 20 suspects for distributing child sexual abuse content - 4 days ago
 - [SecurityWeek] US Offering $10 Million Reward for RedLine Malware Developer - 4 days ago
 - [HackerNews] Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials - 4 days ago
-- [SecurityWeek] Misconfigured HMIs Expose US Water Systems to Anyone With a Browser - 4 days ago
-- [RegisterSoftware] Broadcom sends VMware to record revenue, margins, as most big customers sign for private cloud bundles - 4 days ago
-- [BleepingComputer] Google’s upcoming Gemini Kingfall is allegedly a coding beast - 4 days ago
-- [RegisterSec] Uncle Sam puts $10M bounty on RedLine dev and Russia-backed cronies - 4 days ago
-- [BleepingComputer] ChatGPT prepares o3-pro model for $200 Pro subscribers - 4 days ago
-- [BrianKrebs] Proxy Services Feast on Ukraine’s IP Address Exodus - 4 days ago
-- [RegisterSec] AT&amp;T not sure if new customer data dump is déjà vu - 4 days ago
-- [BleepingComputer] FBI: BADBOX 2.0 Android malware infects millions of consumer devices - 4 days ago
-- [RegisterSec] Cellebrite buys Corellium to help cops bust phone encryption - 4 days ago
-- [RegisterSec] Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’ - 4 days ago
-- [SecurityWeek] Misconfigured HMIs Expose US Water Systems to Anyone with a Browser - 4 days ago
-- [RegisterSoftware] Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman - 4 days ago
-- [BleepingComputer] Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers - 4 days ago
-- [RegisterSec] BidenCash busted as Feds nuke stolen credit card bazaar - 4 days ago
-- [BleepingComputer] Designing a Windows Service for Security - 4 days ago
-- [BleepingComputer] Hacker selling critical Roundcube webmail exploit as tech info disclosed - 4 days ago
-- [Slack] Incident: Trouble sending or receiving messages and connecting or loading Slack - 4 days ago
-- [HackerNews] Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials - 4 days ago
-- [RegisterSoftware] AI can spew code, but kids should still suffer like we did, says Raspberry Pi - 4 days ago
-- [HackerNews] Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands - 4 days ago
-- [IT Governance] How to FastTrack Your ISO 27001 ISMS Implementation and Certification - 4 days ago
-- [RegisterSec] More than a hundred backdoored malware repos traced to single GitHub user - 4 days ago
+- [SecurityWeek] Misconfigured HMIs Expose US Water Systems to Anyone With a Browser - 5 days ago
+- [RegisterSoftware] Broadcom sends VMware to record revenue, margins, as most big customers sign for private cloud bundles - 5 days ago
+- [BleepingComputer] Google’s upcoming Gemini Kingfall is allegedly a coding beast - 5 days ago
+- [RegisterSec] Uncle Sam puts $10M bounty on RedLine dev and Russia-backed cronies - 5 days ago
+- [BleepingComputer] ChatGPT prepares o3-pro model for $200 Pro subscribers - 5 days ago
+- [BrianKrebs] Proxy Services Feast on Ukraine’s IP Address Exodus - 5 days ago
+- [RegisterSec] AT&amp;T not sure if new customer data dump is déjà vu - 5 days ago
+- [BleepingComputer] FBI: BADBOX 2.0 Android malware infects millions of consumer devices - 5 days ago
+- [RegisterSec] Cellebrite buys Corellium to help cops bust phone encryption - 5 days ago
+- [RegisterSec] Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’ - 5 days ago
+- [SecurityWeek] Misconfigured HMIs Expose US Water Systems to Anyone with a Browser - 5 days ago
+- [RegisterSoftware] Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman - 5 days ago
+- [BleepingComputer] Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers - 5 days ago
+- [RegisterSec] BidenCash busted as Feds nuke stolen credit card bazaar - 5 days ago
+- [BleepingComputer] Designing a Windows Service for Security - 5 days ago
+- [BleepingComputer] Hacker selling critical Roundcube webmail exploit as tech info disclosed - 5 days ago
+- [Slack] Incident: Trouble sending or receiving messages and connecting or loading Slack - 5 days ago
+- [HackerNews] Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials - 5 days ago
+- [RegisterSoftware] AI can spew code, but kids should still suffer like we did, says Raspberry Pi - 5 days ago
+- [HackerNews] Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands - 5 days ago
+- [IT Governance] How to FastTrack Your ISO 27001 ISMS Implementation and Certification - 5 days ago
+- [RegisterSec] More than a hundred backdoored malware repos traced to single GitHub user - 5 days ago
 - [SecurityWeek] Backdoored Open Source Malware Repositories Target Novice Cybercriminals - 5 days ago
 - [RegisterSoftware] LinkedIn CEO takes on second gig to lead Microsoft Office and M365 Copilot - 5 days ago
 - [RegisterSoftware] Datacenters have a public image problem, industry confesses to The Reg - 5 days ago
@@ -167,38 +209,38 @@ description: Latest Updates
 - [SecurityWeek] China Issues Warrants for Alleged Taiwanese Hackers and Bans a Business for Pro-Independence Links - 5 days ago
 - [RegisterSoftware] HashiCorp speaks up about adjusting to life under IBM - 5 days ago
 - [BleepingComputer] Interlock ransomware claims Kettering Health breach, leaks stolen data - 5 days ago
-- [SecurityWeek] Vodafone Germany Fined $51 Million Over Privacy, Security Failures - 5 days ago
-- [RegisterSoftware] AI kept 15-year-old zombie vuln alive, but its time is drawing near - 5 days ago
-- [RegisterSec] AI kept 15-year-old zombie vuln alive, but its time is drawing near - 5 days ago
-- [BleepingComputer] US offers $10M for tips on state hackers tied to RedLine malware - 5 days ago
-- [HackerNews] Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI - 5 days ago
-- [RegisterSec] China accuses Taiwan of running five feeble APT gangs, with US help - 5 days ago
-- [AWS] Service impact: Network Connectivity and Increased Error Rates - 5 days ago
-- [RegisterSec] IBM Cloud login breaks for second time this week and Big Blue isn't saying why - 5 days ago
-- [RegisterSoftware] Reddit sues Anthropic for scraping content into the maw of its eternally ravenous AI - 5 days ago
-- [RegisterSec] Play ransomware crims exploit SimpleHelp flaw in double-extortion schemes - 5 days ago
-- [RegisterSec] Ukraine strikes Russian bomber-maker with hack attack - 5 days ago
-- [BleepingComputer] Microsoft unveils free EU cybersecurity program for governments - 5 days ago
-- [BleepingComputer] FBI: Play ransomware breached 900 victims, including critical orgs - 5 days ago
-- [BleepingComputer] Hacker arrested for breaching 5,000 hosting accounts to mine crypto - 5 days ago
-- [RegisterSec] Ransomware scum leak patient data after disrupting chemo treatments at Kettering - 5 days ago
-- [BleepingComputer] Cisco warns of ISE and CCP flaws with public exploit code - 5 days ago
-- [BleepingComputer] Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker - 5 days ago
-- [BleepingComputer] BidenCash carding market domains seized in international operation - 5 days ago
-- [RegisterSoftware] KDE targets Windows 10 'exiles' claiming 'your computer is toast' - 5 days ago
-- [BleepingComputer] FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets - 5 days ago
-- [IT Governance] Author of the Month: Bridget Kenyon - 5 days ago
-- [DataBreaches] North Shore University Sleep Disorders Center employee charged with secretly recording patients in restrooms - 5 days ago
-- [HackerNews] Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App - 5 days ago
-- [RegisterSec] Fake IT support calls hit 20 orgs, end in stolen Salesforce data and extortion, Google warns - 5 days ago
-- [RegisterSoftware] Fake IT support calls hit 20 orgs, end in stolen Salesforce data and extortion, Google warns - 5 days ago
-- [HackerNews] Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads - 5 days ago
-- [BleepingComputer] Media giant Lee Enterprises says data breach affects 39,000 people - 5 days ago
-- [SecurityWeek] Google Warns of Vishing, Extortion Campaign Targeting Salesforce Customers - 5 days ago
-- [DataBreaches] When ransomware listings create confusion as to who the victim was - 5 days ago
-- [BleepingComputer] Hacker targets other hackers and gamers with backdoored GitHub code - 5 days ago
-- [BleepingComputer] Kerberos AS-REP roasting attacks: What you need to know - 5 days ago
-- [BleepingComputer] Google: Hackers target Salesforce accounts in data extortion attacks - 5 days ago
+- [SecurityWeek] Vodafone Germany Fined $51 Million Over Privacy, Security Failures - 6 days ago
+- [RegisterSoftware] AI kept 15-year-old zombie vuln alive, but its time is drawing near - 6 days ago
+- [RegisterSec] AI kept 15-year-old zombie vuln alive, but its time is drawing near - 6 days ago
+- [BleepingComputer] US offers $10M for tips on state hackers tied to RedLine malware - 6 days ago
+- [HackerNews] Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI - 6 days ago
+- [RegisterSec] China accuses Taiwan of running five feeble APT gangs, with US help - 6 days ago
+- [AWS] Service impact: Network Connectivity and Increased Error Rates - 6 days ago
+- [RegisterSec] IBM Cloud login breaks for second time this week and Big Blue isn't saying why - 6 days ago
+- [RegisterSoftware] Reddit sues Anthropic for scraping content into the maw of its eternally ravenous AI - 6 days ago
+- [RegisterSec] Play ransomware crims exploit SimpleHelp flaw in double-extortion schemes - 6 days ago
+- [RegisterSec] Ukraine strikes Russian bomber-maker with hack attack - 6 days ago
+- [BleepingComputer] Microsoft unveils free EU cybersecurity program for governments - 6 days ago
+- [BleepingComputer] FBI: Play ransomware breached 900 victims, including critical orgs - 6 days ago
+- [BleepingComputer] Hacker arrested for breaching 5,000 hosting accounts to mine crypto - 6 days ago
+- [RegisterSec] Ransomware scum leak patient data after disrupting chemo treatments at Kettering - 6 days ago
+- [BleepingComputer] Cisco warns of ISE and CCP flaws with public exploit code - 6 days ago
+- [BleepingComputer] Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker - 6 days ago
+- [BleepingComputer] BidenCash carding market domains seized in international operation - 6 days ago
+- [RegisterSoftware] KDE targets Windows 10 'exiles' claiming 'your computer is toast' - 6 days ago
+- [BleepingComputer] FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets - 6 days ago
+- [IT Governance] Author of the Month: Bridget Kenyon - 6 days ago
+- [DataBreaches] North Shore University Sleep Disorders Center employee charged with secretly recording patients in restrooms - 6 days ago
+- [HackerNews] Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App - 6 days ago
+- [RegisterSec] Fake IT support calls hit 20 orgs, end in stolen Salesforce data and extortion, Google warns - 6 days ago
+- [RegisterSoftware] Fake IT support calls hit 20 orgs, end in stolen Salesforce data and extortion, Google warns - 6 days ago
+- [HackerNews] Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads - 6 days ago
+- [BleepingComputer] Media giant Lee Enterprises says data breach affects 39,000 people - 6 days ago
+- [SecurityWeek] Google Warns of Vishing, Extortion Campaign Targeting Salesforce Customers - 6 days ago
+- [DataBreaches] When ransomware listings create confusion as to who the victim was - 6 days ago
+- [BleepingComputer] Hacker targets other hackers and gamers with backdoored GitHub code - 6 days ago
+- [BleepingComputer] Kerberos AS-REP roasting attacks: What you need to know - 6 days ago
+- [BleepingComputer] Google: Hackers target Salesforce accounts in data extortion attacks - 6 days ago
 - [RegisterSec] Crims stole 40,000 people's data from our network, admits publisher Lee Enterprises - 6 days ago
 - [GrahamCluley] The AI Fix #53: An AI uses blackmail to save itself, and threats make AIs work better - 6 days ago
 - [RegisterSoftware] Please tell us Reg: Why are AI PC sales slower than expected? - 6 days ago
@@ -216,38 +258,38 @@ description: Latest Updates
 - [RegisterSec] UK CyberEM Command to spearhead new era of armed conflict - 6 days ago
 - [SecurityWeek] 35,000 Solar Power Systems Exposed to Internet - 6 days ago
 - [RegisterSec] Ukraine war spurred infosec vet Mikko Hyppönen to pivot to drones - 6 days ago
-- [HackerNews] HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass - 6 days ago
-- [SecurityWeek] Trustifi Raises $25 Million for AI-Powered Email Security - 6 days ago
-- [RegisterSec] ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources - 6 days ago
-- [1Password] Some users may experience degraded performance on 1Password.ca - 6 days ago
-- [DataBreaches] Texas gastroenterology and surgical practice victim of ransomware attack - 6 days ago
-- [RegisterSec] Meta pauses mobile port tracking tech on Android after researchers cry foul - 6 days ago
-- [RegisterSec] You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … - 6 days ago
-- [BleepingComputer] OpenAI is hopeful GPT-5 will compete a little more - 6 days ago
-- [BleepingComputer] Hewlett Packard Enterprise warns of critical StoreOnce auth bypass - 6 days ago
-- [BleepingComputer] ChatGPT rolls out Memory upgrade for free users - 6 days ago
-- [RegisterSec] Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild - 6 days ago
-- [RegisterSoftware] Microsoft will stop pestering Windows users about Edge in EU - 6 days ago
-- [RegisterSec] X's new 'encrypted' XChat feature seems no more secure than the failure that came before it - 6 days ago
-- [RegisterSec] Crooks fleece The North Face accounts with recycled logins - 6 days ago
-- [BleepingComputer] Coinbase breach tied to bribed TaskUs support agents in India - 6 days ago
-- [SecurityWeek] The UK Brings Cyberwarfare Out of the Closet - 6 days ago
-- [IT Governance] The GDPR in 2025: What’s the Difference between Personal Data and Special Category Data? - 6 days ago
-- [IT Governance] CCTV and the GDPR in 2025: What Employers Must Know - 6 days ago
-- [BleepingComputer] Malicious RubyGems pose as Fastlane to steal Telegram API data - 6 days ago
-- [BleepingComputer] Microsoft adds quick machine recovery to Windows 11 settings - 6 days ago
-- [RegisterSoftware] Windows 11 market share stalls ahead of Windows 10 cutoff - 6 days ago
-- [HackerNews] Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack - 6 days ago
-- [BleepingComputer] Mozilla launches new system to detect Firefox crypto drainer add-ons - 6 days ago
-- [SecurityWeek] Mikko Hypponen Leaves Anti-Malware Industry to Fight Against Drones - 6 days ago
-- [BleepingComputer] CISA warns of ConnectWise ScreenConnect bug exploited in attacks - 6 days ago
-- [SecurityWeek] Why Scamming Can’t Be Stopped—But It Can Be Managed - 6 days ago
-- [BleepingComputer] Scattered Spider: Three things the news doesn’t tell you - 6 days ago
-- [FullDisclosure] ERPNext v15.53.1 Stored XSS in user_image Field Allows Script Execution via Injected Image Path - 6 days ago
-- [FullDisclosure] ERPNext v15.53.1 Stored XSS in bio Field Allows Arbitrary Script Execution in Profile Page - 6 days ago
-- [FullDisclosure] CVE-2025-45542: Time-Based Blind SQL Injection in CloudClassroom PHP Project v1.0 - 6 days ago
-- [FullDisclosure] Defense in depth -- the Microsoft way (part 89): user group	policies don't deserve tamper protection - 6 days ago
-- [HackerNews] Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code - 6 days ago
+- [HackerNews] HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass - 1 week ago
+- [SecurityWeek] Trustifi Raises $25 Million for AI-Powered Email Security - 1 week ago
+- [RegisterSec] ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources - 1 week ago
+- [1Password] Some users may experience degraded performance on 1Password.ca - 1 week ago
+- [DataBreaches] Texas gastroenterology and surgical practice victim of ransomware attack - 1 week ago
+- [RegisterSec] Meta pauses mobile port tracking tech on Android after researchers cry foul - 1 week ago
+- [RegisterSec] You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … - 1 week ago
+- [BleepingComputer] OpenAI is hopeful GPT-5 will compete a little more - 1 week ago
+- [BleepingComputer] Hewlett Packard Enterprise warns of critical StoreOnce auth bypass - 1 week ago
+- [BleepingComputer] ChatGPT rolls out Memory upgrade for free users - 1 week ago
+- [RegisterSec] Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild - 1 week ago
+- [RegisterSoftware] Microsoft will stop pestering Windows users about Edge in EU - 1 week ago
+- [RegisterSec] X's new 'encrypted' XChat feature seems no more secure than the failure that came before it - 1 week ago
+- [RegisterSec] Crooks fleece The North Face accounts with recycled logins - 1 week ago
+- [BleepingComputer] Coinbase breach tied to bribed TaskUs support agents in India - 1 week ago
+- [SecurityWeek] The UK Brings Cyberwarfare Out of the Closet - 1 week ago
+- [IT Governance] The GDPR in 2025: What’s the Difference between Personal Data and Special Category Data? - 1 week ago
+- [IT Governance] CCTV and the GDPR in 2025: What Employers Must Know - 1 week ago
+- [BleepingComputer] Malicious RubyGems pose as Fastlane to steal Telegram API data - 1 week ago
+- [BleepingComputer] Microsoft adds quick machine recovery to Windows 11 settings - 1 week ago
+- [RegisterSoftware] Windows 11 market share stalls ahead of Windows 10 cutoff - 1 week ago
+- [HackerNews] Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack - 1 week ago
+- [BleepingComputer] Mozilla launches new system to detect Firefox crypto drainer add-ons - 1 week ago
+- [SecurityWeek] Mikko Hypponen Leaves Anti-Malware Industry to Fight Against Drones - 1 week ago
+- [BleepingComputer] CISA warns of ConnectWise ScreenConnect bug exploited in attacks - 1 week ago
+- [SecurityWeek] Why Scamming Can’t Be Stopped—But It Can Be Managed - 1 week ago
+- [BleepingComputer] Scattered Spider: Three things the news doesn’t tell you - 1 week ago
+- [FullDisclosure] ERPNext v15.53.1 Stored XSS in user_image Field Allows Script Execution via Injected Image Path - 1 week ago
+- [FullDisclosure] ERPNext v15.53.1 Stored XSS in bio Field Allows Arbitrary Script Execution in Profile Page - 1 week ago
+- [FullDisclosure] CVE-2025-45542: Time-Based Blind SQL Injection in CloudClassroom PHP Project v1.0 - 1 week ago
+- [FullDisclosure] Defense in depth -- the Microsoft way (part 89): user group	policies don't deserve tamper protection - 1 week ago
+- [HackerNews] Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code - 1 week ago
 - [BleepingComputer] Victoria’s Secret delays earnings release after security incident - 1 week ago
 - [SecurityWeek] 1,000 Instantel Industrial Monitoring Devices Possibly Exposed to Hacking - 1 week ago
 - [RegisterSec] Microsoft patches the patch that put Windows 11 in a coma - 1 week ago
@@ -497,35 +539,35 @@ description: Latest Updates
 - [HackerNews] How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds - 1 week ago
 - [RegisterSec] The cost of compromise: Why password attacks are still winning in 2025 - 1 week ago
 - [SecurityWeek] $223 Million Stolen in Cetus Protocol Hack - 1 week ago
-- [RegisterSec] DragonForce double-whammy: First hit an MSP, then use RMM software to push ransomware - 1 week ago
-- [HackerNews] Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats - 1 week ago
-- [AWS] Service is operating normally: [RESOLVED] EMR Cluster Launch Failures - 1 week ago
-- [FullDisclosure] Structured Query Language Injection in	frappe.desk.reportview.get_list Endpoint in Frappe Framework - 1 week ago
-- [FullDisclosure] SEC Consult SA-20250521-0 :: Multiple Vulnerabilities in eCharge Hardy Barth cPH2 and cPP2 charging stations - 1 week ago
-- [AWS] Service impact: EMR Cluster Launch Failures - 1 week ago
-- [RegisterSec] ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it - 1 week ago
-- [RegisterSoftware] ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it - 1 week ago
-- [RegisterSec] Don't click on that Facebook ad for a text-to-AI-video tool - 1 week ago
-- [BleepingComputer] DragonForce ransomware abuses SimpleHelp in MSP supply chain attack - 1 week ago
-- [GrahamCluley] Adidas customers’ personal information at risk after data breach - 1 week ago
-- [GitHub] [Retroactive] Incident with Git Operations - 1 week ago
-- [BleepingComputer] DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers - 1 week ago
-- [SecurityWeek] Zscaler to Acquire MDR Specialist Red Canary - 1 week ago
-- [RegisterSoftware] Oracle's $40B Nvidia hardware haul may be too hot for OpenAI's Abilene, Texas DC to handle - 1 week ago
-- [HackerNews] Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets - 1 week ago
-- [BleepingComputer] Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years - 1 week ago
-- [RegisterSoftware] AI agents don't care about your pretty website or tempting ads - 1 week ago
-- [SecurityWeek] Iranian Man Pleads Guilty to Role in Baltimore Ransomware Attack - 1 week ago
-- [DataBreaches] Iranian Man Pleaded Guilty to Role in Robbinhood Ransomware - 1 week ago
-- [RegisterSec] New Russian cyber-spy crew Laundry Bear joins the email-stealing pack - 1 week ago
-- [HackerNews] New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency - 1 week ago
-- [GrahamCluley] The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal - 1 week ago
-- [RegisterSoftware] Ex-Meta exec: Copyright consent obligation = end of AI biz - 1 week ago
-- [SecurityWeek] DragonForce Ransomware Hackers Exploiting SimpleHelp Vulnerabilities - 1 week ago
-- [SecurityWeek] Russian Government Hackers Caught Buying Passwords from Cybercriminals - 1 week ago
-- [BleepingComputer] Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable - 1 week ago
-- [RegisterSec] Adidas confirms criminals stole data from customer service provider - 1 week ago
-- [SecurityWeek] Ongoing Campaign Uses 60 NPM Packages to Steal Data - 1 week ago
+- [RegisterSec] DragonForce double-whammy: First hit an MSP, then use RMM software to push ransomware - 2 weeks ago
+- [HackerNews] Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats - 2 weeks ago
+- [AWS] Service is operating normally: [RESOLVED] EMR Cluster Launch Failures - 2 weeks ago
+- [FullDisclosure] Structured Query Language Injection in	frappe.desk.reportview.get_list Endpoint in Frappe Framework - 2 weeks ago
+- [FullDisclosure] SEC Consult SA-20250521-0 :: Multiple Vulnerabilities in eCharge Hardy Barth cPH2 and cPP2 charging stations - 2 weeks ago
+- [AWS] Service impact: EMR Cluster Launch Failures - 2 weeks ago
+- [RegisterSec] ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it - 2 weeks ago
+- [RegisterSoftware] ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it - 2 weeks ago
+- [RegisterSec] Don't click on that Facebook ad for a text-to-AI-video tool - 2 weeks ago
+- [BleepingComputer] DragonForce ransomware abuses SimpleHelp in MSP supply chain attack - 2 weeks ago
+- [GrahamCluley] Adidas customers’ personal information at risk after data breach - 2 weeks ago
+- [GitHub] [Retroactive] Incident with Git Operations - 2 weeks ago
+- [BleepingComputer] DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers - 2 weeks ago
+- [SecurityWeek] Zscaler to Acquire MDR Specialist Red Canary - 2 weeks ago
+- [RegisterSoftware] Oracle's $40B Nvidia hardware haul may be too hot for OpenAI's Abilene, Texas DC to handle - 2 weeks ago
+- [HackerNews] Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets - 2 weeks ago
+- [BleepingComputer] Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years - 2 weeks ago
+- [RegisterSoftware] AI agents don't care about your pretty website or tempting ads - 2 weeks ago
+- [SecurityWeek] Iranian Man Pleads Guilty to Role in Baltimore Ransomware Attack - 2 weeks ago
+- [DataBreaches] Iranian Man Pleaded Guilty to Role in Robbinhood Ransomware - 2 weeks ago
+- [RegisterSec] New Russian cyber-spy crew Laundry Bear joins the email-stealing pack - 2 weeks ago
+- [HackerNews] New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency - 2 weeks ago
+- [GrahamCluley] The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal - 2 weeks ago
+- [RegisterSoftware] Ex-Meta exec: Copyright consent obligation = end of AI biz - 2 weeks ago
+- [SecurityWeek] DragonForce Ransomware Hackers Exploiting SimpleHelp Vulnerabilities - 2 weeks ago
+- [SecurityWeek] Russian Government Hackers Caught Buying Passwords from Cybercriminals - 2 weeks ago
+- [BleepingComputer] Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable - 2 weeks ago
+- [RegisterSec] Adidas confirms criminals stole data from customer service provider - 2 weeks ago
+- [SecurityWeek] Ongoing Campaign Uses 60 NPM Packages to Steal Data - 2 weeks ago
 - [SecurityWeek] Dutch Intelligence Agencies Say Russian Hackers Stole Police Data in Cyberattack - 2 weeks ago
 - [BleepingComputer] MATLAB dev confirms ransomware attack behind service outage - 2 weeks ago
 - [SecurityWeek] Inside the $111 Billion Cloud Security Market: Acquisition, Expansion, and Where to Aim Next - 2 weeks ago
@@ -733,36 +775,36 @@ description: Latest Updates
 - [HackerNews] Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager - 2 weeks ago
 - [RegisterSec] Scattered Spider snared financial orgs before targeting shops in Britain, America - 2 weeks ago
 - [SecurityWeek] Critical OpenPGP.js Vulnerability Allows Spoofing - 2 weeks ago
-- [RegisterSoftware] AI can't replace devs until it understands office politics - 2 weeks ago
-- [RegisterSoftware] Nvidia CEO Jensen Huang labels US GPU export bans ‘precisely wrong’ and ‘a failure’ - 2 weeks ago
-- [RegisterSec] 'Ongoing' Ivanti hijack bug exploitation reaches clouds - 2 weeks ago
-- [RegisterSoftware] Google crowns Jules to be its agent and spreads the AI love - 2 weeks ago
-- [BleepingComputer] PowerSchool hacker pleads guilty to student data extortion scheme - 2 weeks ago
-- [DataBreaches] Massachusetts hacker to plead guilty to PowerSchool data breach - 2 weeks ago
-- [BrianKrebs] KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS - 2 weeks ago
-- [BleepingComputer] Mobile carrier Cellcom confirms cyberattack behind extended outages - 2 weeks ago
-- [RegisterSoftware] Google, high on AI, flogs Gemini for all things - 2 weeks ago
-- [DataBreaches] Cyberattack brings down Kettering Health phone lines, MyChart patient portal access (1) - 2 weeks ago
-- [BleepingComputer] Premium WordPress 'Motors' theme vulnerable to admin takeover attacks - 2 weeks ago
-- [RegisterSoftware] How open systems drive AI performance - 2 weeks ago
-- [GitHub] Incident with Copilot - 2 weeks ago
-- [RegisterSoftware] Trump's 'Big Beautiful Bill' would create a regulation-free AI hellscape, AGs warn - 2 weeks ago
-- [BleepingComputer] VanHelsing ransomware builder leaked on hacking forum - 2 weeks ago
-- [DataBreaches] Gujarat ATS arrests 18-year-old for cyberattacks during Operation Sindoor - 2 weeks ago
-- [BleepingComputer] SK Telecom says malware breach lasted 3 years, impacted 27 million numbers - 2 weeks ago
-- [RegisterSoftware] Dell creates one private cloud to rule them all and in the datacenter bind them - 2 weeks ago
-- [HackerNews] Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery - 2 weeks ago
-- [RegisterSoftware] Adobe turns subscription screw again, telling users to pay up or downgrade - 2 weeks ago
-- [RegisterSoftware] Freshly discovered bug in OpenPGP.js undermines whole point of encrypted comms - 2 weeks ago
-- [BleepingComputer] Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains - 2 weeks ago
-- [RegisterSec] Freshly discovered bug in OpenPGP.js undermines whole point of encrypted comms - 2 weeks ago
-- [DataBreaches] Hackers Nab 15 Years of UK Legal Aid Applicant Data - 2 weeks ago
-- [RegisterSoftware] Foxconn chairman predicts AI will end manufacturers' search for cheap labor - 2 weeks ago
-- [HackerNews] 100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads - 2 weeks ago
-- [BleepingComputer] Service desks are under attack: What can you do about it? - 2 weeks ago
-- [BleepingComputer] RVTools hit in supply chain attack to deliver Bumblebee malware - 2 weeks ago
-- [GrahamCluley] The AI Fix #51: Divorce by coffee grounds, and why AI robots need your brain - 2 weeks ago
-- [SecurityWeek] NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch - 2 weeks ago
+- [RegisterSoftware] AI can't replace devs until it understands office politics - 3 weeks ago
+- [RegisterSoftware] Nvidia CEO Jensen Huang labels US GPU export bans ‘precisely wrong’ and ‘a failure’ - 3 weeks ago
+- [RegisterSec] 'Ongoing' Ivanti hijack bug exploitation reaches clouds - 3 weeks ago
+- [RegisterSoftware] Google crowns Jules to be its agent and spreads the AI love - 3 weeks ago
+- [BleepingComputer] PowerSchool hacker pleads guilty to student data extortion scheme - 3 weeks ago
+- [DataBreaches] Massachusetts hacker to plead guilty to PowerSchool data breach - 3 weeks ago
+- [BrianKrebs] KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS - 3 weeks ago
+- [BleepingComputer] Mobile carrier Cellcom confirms cyberattack behind extended outages - 3 weeks ago
+- [RegisterSoftware] Google, high on AI, flogs Gemini for all things - 3 weeks ago
+- [DataBreaches] Cyberattack brings down Kettering Health phone lines, MyChart patient portal access (1) - 3 weeks ago
+- [BleepingComputer] Premium WordPress 'Motors' theme vulnerable to admin takeover attacks - 3 weeks ago
+- [RegisterSoftware] How open systems drive AI performance - 3 weeks ago
+- [GitHub] Incident with Copilot - 3 weeks ago
+- [RegisterSoftware] Trump's 'Big Beautiful Bill' would create a regulation-free AI hellscape, AGs warn - 3 weeks ago
+- [BleepingComputer] VanHelsing ransomware builder leaked on hacking forum - 3 weeks ago
+- [DataBreaches] Gujarat ATS arrests 18-year-old for cyberattacks during Operation Sindoor - 3 weeks ago
+- [BleepingComputer] SK Telecom says malware breach lasted 3 years, impacted 27 million numbers - 3 weeks ago
+- [RegisterSoftware] Dell creates one private cloud to rule them all and in the datacenter bind them - 3 weeks ago
+- [HackerNews] Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery - 3 weeks ago
+- [RegisterSoftware] Adobe turns subscription screw again, telling users to pay up or downgrade - 3 weeks ago
+- [RegisterSoftware] Freshly discovered bug in OpenPGP.js undermines whole point of encrypted comms - 3 weeks ago
+- [BleepingComputer] Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains - 3 weeks ago
+- [RegisterSec] Freshly discovered bug in OpenPGP.js undermines whole point of encrypted comms - 3 weeks ago
+- [DataBreaches] Hackers Nab 15 Years of UK Legal Aid Applicant Data - 3 weeks ago
+- [RegisterSoftware] Foxconn chairman predicts AI will end manufacturers' search for cheap labor - 3 weeks ago
+- [HackerNews] 100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads - 3 weeks ago
+- [BleepingComputer] Service desks are under attack: What can you do about it? - 3 weeks ago
+- [BleepingComputer] RVTools hit in supply chain attack to deliver Bumblebee malware - 3 weeks ago
+- [GrahamCluley] The AI Fix #51: Divorce by coffee grounds, and why AI robots need your brain - 3 weeks ago
+- [SecurityWeek] NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch - 3 weeks ago
 - [RegisterSoftware] Actors' union complains about Epic Games cloning Darth Vader - 3 weeks ago
 - [SecurityWeek] Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers - 3 weeks ago
 - [HackerNews] AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation - 3 weeks ago
@@ -967,48 +1009,6 @@ description: Latest Updates
 - [SecurityWeek] Chinese Hackers Hit Drone Sector in Supply Chain Attacks - 3 weeks ago
 - [HackerNews] Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper - 3 weeks ago
 - [HackerNews] Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers - 3 weeks ago
-- [HackerNews] 5 BCDR Essentials for Effective Ransomware Defense - 3 weeks ago
-- [SecurityWeek] Ransomware Groups, Chinese APTs Exploit Recent SAP NetWeaver Flaws - 3 weeks ago
-- [SecurityWeek] Canadian Electric Utility Lists Customer Information Stolen by Hackers - 3 weeks ago
-- [RegisterSoftware] The 'End of 10' is nigh, but don't bury your PC just yet - 3 weeks ago
-- [SecurityWeek] Australian Human Rights Commission Discloses Data Breach - 3 weeks ago
-- [NCSCGuidanceFeed] Data breaches: guidance for individuals and families - 3 weeks ago
-- [SecurityWeek] Chrome 136 Update Patches Vulnerability With ‘Exploit in the Wild’ - 3 weeks ago
-- [BleepingComputer] Google fixes high severity Chrome flaw with public exploit - 3 weeks ago
-- [RegisterSoftware] A year on, Valkey charts path to v9 after break from Redis - 3 weeks ago
-- [RegisterSoftware] Google DeepMind promises to help you evolve your algos - 3 weeks ago
-- [HackerNews] New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy - 3 weeks ago
-- [RegisterSec] Here's what we know about the DragonForce ransomware that hit Marks &amp; Spencer - 3 weeks ago
-- [RegisterSoftware] Meet your new colleague – the ML Admin, who tames LLMs so they're ready to rock - 3 weeks ago
-- [RegisterSoftware] Chip bans? LOL! Chinese web giant Tencent says it has enough GPUs for future AI model training - 3 weeks ago
-- [GrahamCluley] Smashing Security podcast #417: Hello, Pervert! – Sextortion scams and Discord disasters - 3 weeks ago
-- [DataBreaches] Turkish Group Hacks Zero-Day Flaw to Spy on Kurdish Forces - 3 weeks ago
-- [RegisterSec] Metal maker meltdown: Nucor stops production after cyber-intrusion - 3 weeks ago
-- [BleepingComputer] Google Chrome to block admin-level browser launches for better security - 3 weeks ago
-- [BleepingComputer] Hackers behind UK retail attacks now targeting US companies - 3 weeks ago
-- [RegisterSoftware] RHEL 10 quietly leaks ahead of Red Hat Summit - 3 weeks ago
-- [RegisterSoftware] The future of LLMs is open source, Salesforce's Benioff says - 3 weeks ago
-- [RegisterSec] Why CVSS is failing us and what we can do about it - 3 weeks ago
-- [SecurityWeek] Google Ships Android ‘Advanced Protection’ Mode to Thwart Surveillance Spyware - 3 weeks ago
-- [HackerNews] BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan - 3 weeks ago
-- [HackerNews] Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit - 3 weeks ago
-- [RegisterSec] Uncle Sam pulls $2.4B Leidos deal to support CISA after rival alleges foul play - 3 weeks ago
-- [BleepingComputer] Ransomware gangs join ongoing SAP NetWeaver attacks - 3 weeks ago
-- [RegisterSoftware] Intel Xeon 6 CPUs make their name in AI, HPC - 3 weeks ago
-- [RegisterSec] Ivanti patches two zero-days under active attack as intel agency warns customers - 3 weeks ago
-- [HackerNews] Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering - 3 weeks ago
-- [BleepingComputer] Australian Human Rights Commission leaks docs to search engines - 3 weeks ago
-- [DataBreaches] Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States - 3 weeks ago
-- [DataBreaches] Dior faces scrutiny, fine in Korea for insufficient data breach reporting; data of wealthy clients in China, South Korea stolen - 3 weeks ago
-- [DataBreaches] Cyberattacks on Long Island Schools Highlight Growing Threat - 3 weeks ago
-- [RegisterSoftware] Meta's still violating GDPR rules with latest plan to train AI on EU user data, says noyb - 3 weeks ago
-- [RegisterSec] Meta's still violating GDPR rules with latest plan to train AI on EU user data, says noyb - 3 weeks ago
-- [BleepingComputer] Microsoft fixes Linux boot issues on dual-boot Windows systems - 3 weeks ago
-- [SecurityWeek] Is AI Use in the Workplace Out of Control? - 3 weeks ago
-- [DataBreaches] Personal information exposed by Australian Human Rights Commission data breach - 3 weeks ago
-- [DataBreaches] Twilio denies breach following leak of alleged Steam 2FA codes - 3 weeks ago
-- [BleepingComputer] Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation - 3 weeks ago
-- [BleepingComputer] Steel giant Nucor Corporation facing disruptions after cyberattack - 3 weeks ago
 
 
 <!-- SecOps end -->
