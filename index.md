@@ -9,20 +9,43 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] VMware and Siemens spar over where to stage software licence showdown - 1 hour ago
-- [RegisterSec] Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme - 4 hours ago
-- [RegisterSec] Dems demand audit of CVE program as Federal funding remains uncertain - 8 hours ago
-- [BleepingComputer] ChatGPT's AI coder Codex now lets you choose the best solution - 10 hours ago
-- [BleepingComputer] ChatGPT Search gets an upgrade as OpenAI takes aim at Google - 14 hours ago
-- [BleepingComputer] Over 46,000 Grafana instances exposed to account takeover bug - 17 hours ago
-- [RegisterSoftware] The launch of ChatGPT polluted the world forever, like the first atomic weapons tests - 20 hours ago
+- [RegisterSoftware] Salesforce study finds LLM agents flunk CRM and confidentiality tests - 22 minutes ago
+- [RegisterSec] Salesforce study finds LLM agents flunk CRM and confidentiality tests - 22 minutes ago
+- [SecurityWeek] Archetyp Dark Web Market Shut Down by Law Enforcement - 50 minutes ago
+- [RegisterSoftware] Microsoft adds export option to Windows Recall in Europe - 51 minutes ago
+- [RegisterSec] Microsoft adds export option to Windows Recall in Europe - 51 minutes ago
+- [SecurityWeek] Zoomcar Says Hackers Accessed Data of 8.4 Million Users - 1 hour ago
+- [SecurityWeek] Asheville Eye Associates Says 147,000 Impacted by Data Breach - 1 hour ago
+- [RegisterSoftware] BT chief says AI could deliver more job cuts, hints at Openreach sell-off - 1 hour ago
+- [HackerNews] Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More - 1 hour ago
+- [BleepingComputer] Microsoft shares temp fix for Outlook crashes when opening emails - 1 hour ago
+- [BleepingComputer] Police seizes Archetyp Market drug marketplace, arrests admin - 2 hours ago
+- [SecurityWeek] 240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco - 2 hours ago
+- [RegisterSec] Spy school dropout: GCHQ intern jailed for swiping classified data - 3 hours ago
+- [RegisterSoftware] Spy school dropout: GCHQ intern jailed for swiping classified data - 3 hours ago
+- [SecurityWeek] Red Teaming AI: The Build Vs Buy Debate - 3 hours ago
+- [SecurityWeek] Anubis Ransomware Packs a Wiper to Permanently Delete Files - 3 hours ago
+- [BleepingComputer] Microsoft: June Windows Server security updates cause DHCP issues - 4 hours ago
+- [RegisterSoftware] Northern Ireland government confirms it did not ask Fujitsu to continue bidding for project - 4 hours ago
+- [SecurityWeek] High-Severity Vulnerabilities Patched in Tenable Nessus Agent - 4 hours ago
+- [RegisterSoftware] Put Large Reasoning Models under pressure and they stop making sense, say boffins - 5 hours ago
+- [SecurityWeek] Canadian Airline WestJet Hit by Cyberattack - 5 hours ago
+- [RegisterSec] How collaborative security can build you a better business - 5 hours ago
+- [HackerNews] Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data - 6 hours ago
+- [RegisterSoftware] VMware and Siemens spar over where to stage software licence showdown - 8 hours ago
+- [RegisterSec] Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme - 11 hours ago
+- [RegisterSec] Dems demand audit of CVE program as Federal funding remains uncertain - 15 hours ago
+- [BleepingComputer] ChatGPT's AI coder Codex now lets you choose the best solution - 17 hours ago
+- [BleepingComputer] ChatGPT Search gets an upgrade as OpenAI takes aim at Google - 21 hours ago
+- [BleepingComputer] Over 46,000 Grafana instances exposed to account takeover bug - 23 hours ago
+- [RegisterSoftware] The launch of ChatGPT polluted the world forever, like the first atomic weapons tests - 1 day ago
 - [DataBreaches] India: Servers of two city hospitals hacked; police register FIR - 1 day ago
 - [DataBreaches] Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” - 1 day ago
 - [DataBreaches] WestJet investigates cyberattack disrupting internal systems - 1 day ago
 - [BleepingComputer] Windows 11 users want these five features back - 1 day ago
 - [BleepingComputer] Anubis ransomware adds wiper to destroy files beyond recovery - 1 day ago
 - [BleepingComputer] WestJet investigates cyberattack disrupting internal systems - 1 day ago
-- [RegisterSoftware] As RHEL clones hit version 10, Rocky and Alma chart diverging paths - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
