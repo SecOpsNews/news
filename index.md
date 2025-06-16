@@ -9,37 +9,20 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] The launch of ChatGPT polluted the world forever, like the first atomic weapons tests - 3 hours ago
-- [DataBreaches] India: Servers of two city hospitals hacked; police register FIR - 9 hours ago
-- [DataBreaches] Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” - 9 hours ago
-- [DataBreaches] WestJet investigates cyberattack disrupting internal systems - 9 hours ago
-- [BleepingComputer] Windows 11 users want these five features back - 20 hours ago
-- [BleepingComputer] Anubis ransomware adds wiper to destroy files beyond recovery - 20 hours ago
-- [BleepingComputer] WestJet investigates cyberattack disrupting internal systems - 20 hours ago
+- [RegisterSoftware] VMware and Siemens spar over where to stage software licence showdown - 1 hour ago
+- [RegisterSec] Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme - 4 hours ago
+- [RegisterSec] Dems demand audit of CVE program as Federal funding remains uncertain - 8 hours ago
+- [BleepingComputer] ChatGPT's AI coder Codex now lets you choose the best solution - 10 hours ago
+- [BleepingComputer] ChatGPT Search gets an upgrade as OpenAI takes aim at Google - 14 hours ago
+- [BleepingComputer] Over 46,000 Grafana instances exposed to account takeover bug - 17 hours ago
+- [RegisterSoftware] The launch of ChatGPT polluted the world forever, like the first atomic weapons tests - 20 hours ago
+- [DataBreaches] India: Servers of two city hospitals hacked; police register FIR - 1 day ago
+- [DataBreaches] Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” - 1 day ago
+- [DataBreaches] WestJet investigates cyberattack disrupting internal systems - 1 day ago
+- [BleepingComputer] Windows 11 users want these five features back - 1 day ago
+- [BleepingComputer] Anubis ransomware adds wiper to destroy files beyond recovery - 1 day ago
+- [BleepingComputer] WestJet investigates cyberattack disrupting internal systems - 1 day ago
 - [RegisterSoftware] As RHEL clones hit version 10, Rocky and Alma chart diverging paths - 1 day ago
-- [HackerNews] Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets - 1 day ago
-- [RegisterSec] Cyber weapons in the Israel-Iran conflict may hit the US - 1 day ago
-- [GrahamCluley] Dutch police identify users as young as 11-year-old on Cracked.io hacking forum - 1 day ago
-- [1Password] Account Administration: Trouble loading the People view - 1 day ago
-- [AWS] Service is operating normally: [RESOLVED] Increased Queue Processing Time - 1 day ago
-- [RegisterSec] Do you trust Xi with your 'private' browsing data? Apple, Google stores still offer China-based VPNs, report says - 1 day ago
-- [RegisterSoftware] Larry Ellison is still not the world's richest person - 1 day ago
-- [RegisterSoftware] Meta offered one AI researcher at least $10,000,000 to join up - 1 day ago
-- [BleepingComputer] Google links massive cloud outage to API management issue - 1 day ago
-- [RegisterSoftware] Enterprise AI adoption stalls as inferencing costs confound cloud customers - 1 day ago
-- [RegisterSoftware] Meta offered one AI researcher an eight-figure salary to join up - 1 day ago
-- [AWS] Service impact: Increased Queue Processing Time - 1 day ago
-- [BleepingComputer] Discord flaw lets hackers reuse expired invites in malware campaign - 1 day ago
-- [RegisterSec] Apple fixes zero-click exploit underpinning Paragon spyware attacks - 1 day ago
-- [RegisterSoftware] UK unis to cough up to £10M on Java to keep Oracle off their backs - 1 day ago
-- [GrahamCluley] Why Denmark is breaking up with Microsoft - 1 day ago
-- [GrahamCluley] Bert ransomware: what you need to know - 1 day ago
-- [HackerNews] Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month - 1 day ago
-- [SecurityWeek] In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria’s Secret Cyberattack Cost - 2 days ago
-- [RegisterSec] Wanted: Junior cybersecurity staff with 10 years' experience and a PhD - 2 days ago
-- [BleepingComputer] Microsoft confirms auth issues affecting Microsoft 365 users - 2 days ago
-- [RegisterSoftware] Danish department determined to dump Microsoft - 2 days ago
-- [BleepingComputer] Microsoft: KB5060533 update triggers boot errors on Surface Hub v1 devices - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
