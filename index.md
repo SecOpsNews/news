@@ -9,25 +9,26 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 3 hours ago
-- [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 4 hours ago
-- [RegisterSec] Netflix, Apple, BofA websites hijacked with fake help-desk numbers - 16 hours ago
-- [RegisterSoftware] New GitHub Copilot limits push AI users to pricier tiers - 17 hours ago
-- [RegisterSoftware] US patent office wants an AI to scan for prior art, but doesn't want to pay for it - 18 hours ago
-- [RegisterSec] Looks like Aflac is the latest insurance giant snagged in Scattered Spider’s web - 19 hours ago
-- [BleepingComputer] BitoPro exchange links Lazarus hackers to $11 million crypto heist - 19 hours ago
-- [RegisterSoftware] EDB enhances analytics in PostgreSQL with open source add-ons - 19 hours ago
-- [RegisterSec] Qilin ransomware top dogs treat their minions to on-call lawyers for fierier negotiations - 20 hours ago
-- [CloudFlare] SFO (San Francisco) on 2025-07-02 - 20 hours ago
-- [HackerNews] Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms - 20 hours ago
-- [RegisterSoftware] Xlibre fork lights a fire under long-dormant X.org development - 21 hours ago
-- [BleepingComputer] Microsoft investigates OneDrive bug that breaks file search - 21 hours ago
-- [GrahamCluley] Krispy Kreme hack exposed sensitive data of over 160,000 people - 21 hours ago
-- [BleepingComputer] Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider - 21 hours ago
-- [HackerNews] New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft - 22 hours ago
-- [BleepingComputer] Aflac discloses breach amidst Scattered Spider insurance attacks - 23 hours ago
-- [BleepingComputer] Can users reset their own passwords without sacrificing security? - 23 hours ago
-- [SecurityWeek] In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer - 23 hours ago
+- [TroyHunt] Weekly Update 457 - 12 hours ago
+- [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 20 hours ago
+- [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 21 hours ago
+- [RegisterSec] Netflix, Apple, BofA websites hijacked with fake help-desk numbers - 1 day ago
+- [RegisterSoftware] New GitHub Copilot limits push AI users to pricier tiers - 1 day ago
+- [RegisterSoftware] US patent office wants an AI to scan for prior art, but doesn't want to pay for it - 1 day ago
+- [RegisterSec] Looks like Aflac is the latest insurance giant snagged in Scattered Spider’s web - 1 day ago
+- [BleepingComputer] BitoPro exchange links Lazarus hackers to $11 million crypto heist - 1 day ago
+- [RegisterSoftware] EDB enhances analytics in PostgreSQL with open source add-ons - 1 day ago
+- [RegisterSec] Qilin ransomware top dogs treat their minions to on-call lawyers for fierier negotiations - 1 day ago
+- [CloudFlare] SFO (San Francisco) on 2025-07-02 - 1 day ago
+- [HackerNews] Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms - 1 day ago
+- [RegisterSoftware] Xlibre fork lights a fire under long-dormant X.org development - 1 day ago
+- [BleepingComputer] Microsoft investigates OneDrive bug that breaks file search - 1 day ago
+- [GrahamCluley] Krispy Kreme hack exposed sensitive data of over 160,000 people - 1 day ago
+- [BleepingComputer] Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider - 1 day ago
+- [HackerNews] New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft - 1 day ago
+- [BleepingComputer] Aflac discloses breach amidst Scattered Spider insurance attacks - 1 day ago
+- [BleepingComputer] Can users reset their own passwords without sacrificing security? - 1 day ago
+- [SecurityWeek] In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer - 1 day ago
 - [BleepingComputer] Microsoft to remove legacy drivers from Windows Update for security boost - 1 day ago
 - [SecurityWeek] Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider - 1 day ago
 - [GrahamCluley] Qilin offers “Call a lawyer” button for affiliates attempting to extort ransoms from victims who won’t pay - 1 day ago
@@ -48,27 +49,8 @@ description: Latest Updates
 - [SecurityWeek] Cloudflare Tunnels Abused in New Malware Campaign - 1 day ago
 - [SecurityWeek] 161,000 People Impacted by Krispy Kreme Data Breach - 1 day ago
 - [HackerNews] 67 Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers - 1 day ago
-- [SecurityWeek] Hackers Access Legacy Systems in Oxford City Council Cyberattack - 1 day ago
-- [BleepingComputer] No, the 16 billion credentials leak is not a new data breach - 1 day ago
-- [RegisterSoftware] American coders are most likely to use AI - 1 day ago
-- [BleepingComputer] Godfather Android malware now uses virtualization to hijack banking apps - 1 day ago
-- [RegisterSec] Boffins devise voice-altering tech to jam 'vishing' schemes - 1 day ago
-- [HackerNews] New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft - 1 day ago
-- [RegisterSoftware] Microsoft 365 brings the shutters down on legacy protocols - 1 day ago
-- [HackerNews] BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware - 1 day ago
-- [BleepingComputer] Webinar: Stolen credentials are the new front door to your network - 1 day ago
-- [IT Governance] The Data (Use and Access) Act and How it Affects the UK GDPR and DPA 2018, and PECR - 1 day ago
-- [RegisterSec] Uncle Sam seeks time in tower dump data grab case after judge calls it 'unconstitutional' - 1 day ago
-- [SecurityWeek] Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War - 1 day ago
-- [BleepingComputer] OpenAI’s Sam Altman discusses GPT-5 release date - 1 day ago
-- [BleepingComputer] US recovers $225 million of crypto stolen in investment scams - 1 day ago
-- [BleepingComputer] Microsoft unveils new security defaults for Windows 365 Cloud PCs - 1 day ago
-- [BleepingComputer] Special Webinar: Key Insights from Verizon’s 2025 DBIR - 1 day ago
-- [BleepingComputer] ChatGPT will analyze Gmail emails, manage schedule on Google Calendar - 2 days ago
-- [RegisterSec] Glazed and confused: Hole lotta highly sensitive data nicked from Krispy Kreme - 2 days ago
-- [BleepingComputer] Telecom giant Viasat breached by China's Salt Typhoon hackers - 2 days ago
-- [BleepingComputer] DuckDuckGo beefs up scam defense to block fake stores, crypto sites - 2 days ago
-- [RegisterSec] Iran’s internet goes offline for hours amid claims of ‘enemy abuse’ - 2 days ago
+- [SecurityWeek] Hackers Access Legacy Systems in Oxford City Council Cyberattack - 2 days ago
+- [RegisterSec] Iran’s internet goes offline for hours amid claims of ‘enemy abuse’ - 3 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
