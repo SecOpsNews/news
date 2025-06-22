@@ -9,9 +9,10 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [TroyHunt] Weekly Update 457 - 12 hours ago
-- [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 20 hours ago
-- [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 21 hours ago
+- [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 3 hours ago
+- [TroyHunt] Weekly Update 457 - 19 hours ago
+- [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 1 day ago
+- [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 1 day ago
 - [RegisterSec] Netflix, Apple, BofA websites hijacked with fake help-desk numbers - 1 day ago
 - [RegisterSoftware] New GitHub Copilot limits push AI users to pricier tiers - 1 day ago
 - [RegisterSoftware] US patent office wants an AI to scan for prior art, but doesn't want to pay for it - 1 day ago
@@ -29,28 +30,11 @@ description: Latest Updates
 - [BleepingComputer] Aflac discloses breach amidst Scattered Spider insurance attacks - 1 day ago
 - [BleepingComputer] Can users reset their own passwords without sacrificing security? - 1 day ago
 - [SecurityWeek] In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer - 1 day ago
-- [BleepingComputer] Microsoft to remove legacy drivers from Windows Update for security boost - 1 day ago
-- [SecurityWeek] Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider - 1 day ago
-- [GrahamCluley] Qilin offers “Call a lawyer” button for affiliates attempting to extort ransoms from victims who won’t pay - 1 day ago
-- [IT Governance] The Critical Role of a DPO: Why Outsourcing is the Smart Choice - 1 day ago
-- [RegisterSoftware] Broadcom's answer to VMware pricing outrage: You're using it wrong - 1 day ago
-- [RegisterSoftware] Windows 11 migration heats up... on desktops - 1 day ago
-- [HackerNews] Iran's State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist - 1 day ago
-- [SecurityWeek] Godfather Android Trojan Creates Sandbox on Infected Devices - 1 day ago
-- [SecurityWeek] Motors Theme Vulnerability Exploited to Hack WordPress Websites - 1 day ago
-- [RegisterSec] Attack on Oxford City Council exposes 21 years of election worker data - 1 day ago
-- [GitHub] Disruption with the GitHub mobile android application - 1 day ago
-- [HackerNews] Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider - 1 day ago
-- [HackerNews] 6 Steps to 24/7 In-House SOC Success - 1 day ago
-- [SecurityWeek] FreeType Zero-Day Found by Meta Exploited in Paragon Spyware Attacks - 1 day ago
-- [RegisterSoftware] Deal to 'save' UK colleges £45M in Oracle Java licensing fees followed audit requests - 1 day ago
-- [HackerNews] 200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers - 1 day ago
-- [CloudFlare] TXL (Berlin) on 2025-06-26 - 1 day ago
-- [SecurityWeek] Cloudflare Tunnels Abused in New Malware Campaign - 1 day ago
-- [SecurityWeek] 161,000 People Impacted by Krispy Kreme Data Breach - 1 day ago
-- [HackerNews] 67 Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers - 1 day ago
-- [SecurityWeek] Hackers Access Legacy Systems in Oxford City Council Cyberattack - 2 days ago
-- [RegisterSec] Iran’s internet goes offline for hours amid claims of ‘enemy abuse’ - 3 days ago
+- [BleepingComputer] Microsoft to remove legacy drivers from Windows Update for security boost - 2 days ago
+- [SecurityWeek] Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider - 2 days ago
+- [GrahamCluley] Qilin offers “Call a lawyer” button for affiliates attempting to extort ransoms from victims who won’t pay - 2 days ago
+- [IT Governance] The Critical Role of a DPO: Why Outsourcing is the Smart Choice - 2 days ago
+- [RegisterSoftware] Broadcom's answer to VMware pricing outrage: You're using it wrong - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
