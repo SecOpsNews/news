@@ -9,32 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 3 hours ago
-- [TroyHunt] Weekly Update 457 - 19 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 52 minutes ago
+- [AWS] Service impact: Increased Error Rates - 1 hour ago
+- [RegisterSoftware] AI-hosted infomercial shifts $7.5 million worth of product in China - 3 hours ago
+- [RegisterSec] Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China - 5 hours ago
+- [BleepingComputer] Windows Snipping Tool now lets you create animated GIF recordings - 9 hours ago
+- [BleepingComputer] Oxford City Council suffers breach exposing two decades of data - 9 hours ago
+- [BleepingComputer] CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup - 9 hours ago
+- [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 20 hours ago
+- [TroyHunt] Weekly Update 457 - 1 day ago
 - [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 1 day ago
 - [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 1 day ago
-- [RegisterSec] Netflix, Apple, BofA websites hijacked with fake help-desk numbers - 1 day ago
-- [RegisterSoftware] New GitHub Copilot limits push AI users to pricier tiers - 1 day ago
-- [RegisterSoftware] US patent office wants an AI to scan for prior art, but doesn't want to pay for it - 1 day ago
-- [RegisterSec] Looks like Aflac is the latest insurance giant snagged in Scattered Spider’s web - 1 day ago
-- [BleepingComputer] BitoPro exchange links Lazarus hackers to $11 million crypto heist - 1 day ago
-- [RegisterSoftware] EDB enhances analytics in PostgreSQL with open source add-ons - 1 day ago
-- [RegisterSec] Qilin ransomware top dogs treat their minions to on-call lawyers for fierier negotiations - 1 day ago
-- [CloudFlare] SFO (San Francisco) on 2025-07-02 - 1 day ago
-- [HackerNews] Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms - 1 day ago
-- [RegisterSoftware] Xlibre fork lights a fire under long-dormant X.org development - 1 day ago
-- [BleepingComputer] Microsoft investigates OneDrive bug that breaks file search - 1 day ago
-- [GrahamCluley] Krispy Kreme hack exposed sensitive data of over 160,000 people - 1 day ago
-- [BleepingComputer] Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider - 1 day ago
-- [HackerNews] New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft - 1 day ago
-- [BleepingComputer] Aflac discloses breach amidst Scattered Spider insurance attacks - 1 day ago
-- [BleepingComputer] Can users reset their own passwords without sacrificing security? - 1 day ago
-- [SecurityWeek] In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer - 1 day ago
-- [BleepingComputer] Microsoft to remove legacy drivers from Windows Update for security boost - 2 days ago
-- [SecurityWeek] Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider - 2 days ago
-- [GrahamCluley] Qilin offers “Call a lawyer” button for affiliates attempting to extort ransoms from victims who won’t pay - 2 days ago
-- [IT Governance] The Critical Role of a DPO: Why Outsourcing is the Smart Choice - 2 days ago
-- [RegisterSoftware] Broadcom's answer to VMware pricing outrage: You're using it wrong - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
