@@ -9,17 +9,33 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 52 minutes ago
-- [AWS] Service impact: Increased Error Rates - 1 hour ago
-- [RegisterSoftware] AI-hosted infomercial shifts $7.5 million worth of product in China - 3 hours ago
-- [RegisterSec] Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China - 5 hours ago
-- [BleepingComputer] Windows Snipping Tool now lets you create animated GIF recordings - 9 hours ago
-- [BleepingComputer] Oxford City Council suffers breach exposing two decades of data - 9 hours ago
-- [BleepingComputer] CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup - 9 hours ago
-- [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 20 hours ago
+- [HackerNews] XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks - 21 minutes ago
+- [RegisterSoftware] Breaking the nerd internet: Three overlapping generations of tech history – in one selfie - 21 minutes ago
+- [HackerNews] How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout - 1 hour ago
+- [BleepingComputer] Steel giant Nucor confirms hackers stole data in recent breach - 1 hour ago
+- [SecurityWeek] US Braces for Cyberattacks After Bombing Iranian Nuclear Sites - 2 hours ago
+- [SecurityWeek] Critical Authentication Bypass Flaw Patched in Teleport - 2 hours ago
+- [SecurityWeek] 743,000 Impacted by McLaren Health Care Data Breach - 2 hours ago
+- [RegisterSec] Experts count staggering costs incurred by UK retail amid cyberattack hell - 2 hours ago
+- [HackerNews] Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks - 2 hours ago
+- [Slack] Incident: Legacy webhooks may be causing issues with app configurations - 2 hours ago
+- [SecurityWeek] US Braces for Cyberattacks After Joining Israel-Iran War - 3 hours ago
+- [RegisterSoftware] Economists sceptical over UK Spending Review's partly AI-driven 10% budget cuts - 3 hours ago
+- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More - 4 hours ago
+- [CloudFlare] YYZ (Toronto) on 2025-07-02 - 4 hours ago
+- [SecurityWeek] Steelmaker Nucor Says Hackers Stole Data in Recent Attack - 5 hours ago
+- [RegisterSoftware] The one thing SME IT can do that the big guys can’t: Change the world - 5 hours ago
+- [RegisterSoftware] The AIpocalypse is here for websites as search referrals plunge - 6 hours ago
+- [RegisterSoftware] Techie went home rather than fix mistake that caused a massive meltdown - 6 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 7 hours ago
+- [AWS] Service impact: Increased Error Rates - 8 hours ago
+- [RegisterSoftware] AI-hosted infomercial shifts $7.5 million worth of product in China - 10 hours ago
+- [RegisterSec] Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China - 12 hours ago
+- [BleepingComputer] Windows Snipping Tool now lets you create animated GIF recordings - 16 hours ago
+- [BleepingComputer] Oxford City Council suffers breach exposing two decades of data - 16 hours ago
+- [BleepingComputer] CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup - 16 hours ago
+- [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 1 day ago
 - [TroyHunt] Weekly Update 457 - 1 day ago
-- [HackerNews] Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages - 1 day ago
-- [SecurityWeek] Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
