@@ -9,33 +9,71 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks - 21 minutes ago
-- [RegisterSoftware] Breaking the nerd internet: Three overlapping generations of tech history – in one selfie - 21 minutes ago
-- [HackerNews] How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout - 1 hour ago
-- [BleepingComputer] Steel giant Nucor confirms hackers stole data in recent breach - 1 hour ago
-- [SecurityWeek] US Braces for Cyberattacks After Bombing Iranian Nuclear Sites - 2 hours ago
-- [SecurityWeek] Critical Authentication Bypass Flaw Patched in Teleport - 2 hours ago
-- [SecurityWeek] 743,000 Impacted by McLaren Health Care Data Breach - 2 hours ago
-- [RegisterSec] Experts count staggering costs incurred by UK retail amid cyberattack hell - 2 hours ago
-- [HackerNews] Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks - 2 hours ago
-- [Slack] Incident: Legacy webhooks may be causing issues with app configurations - 2 hours ago
-- [SecurityWeek] US Braces for Cyberattacks After Joining Israel-Iran War - 3 hours ago
-- [RegisterSoftware] Economists sceptical over UK Spending Review's partly AI-driven 10% budget cuts - 3 hours ago
-- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More - 4 hours ago
-- [CloudFlare] YYZ (Toronto) on 2025-07-02 - 4 hours ago
-- [SecurityWeek] Steelmaker Nucor Says Hackers Stole Data in Recent Attack - 5 hours ago
-- [RegisterSoftware] The one thing SME IT can do that the big guys can’t: Change the world - 5 hours ago
-- [RegisterSoftware] The AIpocalypse is here for websites as search referrals plunge - 6 hours ago
-- [RegisterSoftware] Techie went home rather than fix mistake that caused a massive meltdown - 6 hours ago
-- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 7 hours ago
-- [AWS] Service impact: Increased Error Rates - 8 hours ago
-- [RegisterSoftware] AI-hosted infomercial shifts $7.5 million worth of product in China - 10 hours ago
-- [RegisterSec] Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China - 12 hours ago
-- [BleepingComputer] Windows Snipping Tool now lets you create animated GIF recordings - 16 hours ago
-- [BleepingComputer] Oxford City Council suffers breach exposing two decades of data - 16 hours ago
-- [BleepingComputer] CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup - 16 hours ago
+- [RegisterSoftware] 'Psylo' browser tries to obscure digital fingerprints by giving very tab its own IP address - 20 minutes ago
+- [RegisterSoftware] Lenovo shows what a Chromebook packing a MediaTek Kompanio Ultra can do - 20 minutes ago
+- [RegisterSec] 'Psylo' browser tries to obscure digital fingerprints by giving very tab its own IP address - 20 minutes ago
+- [CloudFlare] BGW (Baghdad) on 2025-07-01 - 21 minutes ago
+- [CloudFlare] BSR (Basra) on 2025-07-01 - 48 minutes ago
+- [CloudFlare] NJF (Najaf) on 2025-07-01 - 1 hour ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-07-01 - 1 hour ago
+- [CloudFlare] BGW (Baghdad) on 2025-07-02 - 1 hour ago
+- [RegisterSoftware] Omnissa brings VDI-style app packaging to physical PCs - 2 hours ago
+- [CloudFlare] BSR (Basra) on 2025-07-02 - 2 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-07-02 - 2 hours ago
+- [HackerNews] China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom - 3 hours ago
+- [FullDisclosure] Disclosure Yealink Cloud vulnerabilities - 3 hours ago
+- [FullDisclosure] RansomLord (NG v1.0) anti-ransomware exploit tool - 3 hours ago
+- [FullDisclosure] CVE-2025-32975 - Quest KACE SMA Authentication Bypass - 3 hours ago
+- [FullDisclosure] CVE-2025-32976 - Quest KACE SMA 2FA Bypass - 3 hours ago
+- [FullDisclosure] CVE-2025-32977 - Quest KACE Unauthenticated Backup Upload - 3 hours ago
+- [FullDisclosure] CVE-2025-32978 - Quest KACE SMA Unauthenticated License	Replacement - 3 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-07-02 - 3 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-07-03 - 4 hours ago
+- [CloudFlare] BSR (Basra) on 2025-07-03 - 5 hours ago
+- [RegisterSec] Typhoon-like gang slinging TLS certificate 'signed' by the Los Angeles Police Department - 7 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-07-03 - 7 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-07-03 - 7 hours ago
+- [CloudFlare] BOM (Mumbai) on 2025-07-02 - 7 hours ago
+- [BleepingComputer] APT28 hackers use Signal chats to launch new malware attacks on Ukraine - 8 hours ago
+- [RegisterSec] Iran cyberattacks against US biz more likely following air strikes - 12 hours ago
+- [BleepingComputer] Malware on Google Play, Apple App Store stole your photos—and crypto - 12 hours ago
+- [BleepingComputer] US Homeland Security warns of escalating Iranian cyberattack risks - 14 hours ago
+- [SecurityWeek] North Korean Hackers Take Over Victims’ Systems Using Zoom Meeting - 14 hours ago
+- [HackerNews] DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes - 14 hours ago
+- [HackerNews] Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content - 14 hours ago
+- [RegisterSec] Second attack on McLaren Health Care in a year affects 743k people - 15 hours ago
+- [BleepingComputer] Canada says Salt Typhoon hacked telecom firm via Cisco flaw - 15 hours ago
+- [RegisterSoftware] Private equity types to snap up NoSQL biz Couchbase - 15 hours ago
+- [BleepingComputer] Revil ransomware members released after time served on carding charges - 15 hours ago
+- [BleepingComputer] McLaren Health Care says data breach impacts 743,000 patients - 16 hours ago
+- [SecurityWeek] New AI Jailbreak Bypasses Guardrails With Ease - 16 hours ago
+- [SecurityWeek] China’s Salt Typhoon Hackers Target Canadian Telecom Firms - 16 hours ago
+- [HackerNews] XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks - 17 hours ago
+- [RegisterSoftware] Breaking the nerd internet: Three overlapping generations of tech history – in one selfie - 17 hours ago
+- [HackerNews] How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout - 18 hours ago
+- [BleepingComputer] Steel giant Nucor confirms hackers stole data in recent breach - 18 hours ago
+- [SecurityWeek] US Braces for Cyberattacks After Bombing Iranian Nuclear Sites - 19 hours ago
+- [SecurityWeek] Critical Authentication Bypass Flaw Patched in Teleport - 19 hours ago
+- [SecurityWeek] 743,000 Impacted by McLaren Health Care Data Breach - 19 hours ago
+- [RegisterSec] Experts count staggering costs incurred by UK retail amid cyberattack hell - 19 hours ago
+- [HackerNews] Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks - 19 hours ago
+- [Slack] Incident: Legacy webhooks may be causing issues with app configurations - 19 hours ago
+- [SecurityWeek] US Braces for Cyberattacks After Joining Israel-Iran War - 20 hours ago
+- [RegisterSoftware] Economists sceptical over UK Spending Review's partly AI-driven 10% budget cuts - 20 hours ago
+- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More - 21 hours ago
+- [CloudFlare] YYZ (Toronto) on 2025-07-02 - 21 hours ago
+- [SecurityWeek] Steelmaker Nucor Says Hackers Stole Data in Recent Attack - 22 hours ago
+- [RegisterSoftware] The one thing SME IT can do that the big guys can’t: Change the world - 22 hours ago
+- [RegisterSoftware] The AIpocalypse is here for websites as search referrals plunge - 23 hours ago
+- [RegisterSoftware] Techie went home rather than fix mistake that caused a massive meltdown - 23 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 1 day ago
+- [AWS] Service impact: Increased Error Rates - 1 day ago
+- [RegisterSoftware] AI-hosted infomercial shifts $7.5 million worth of product in China - 1 day ago
+- [RegisterSec] Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China - 1 day ago
+- [BleepingComputer] Windows Snipping Tool now lets you create animated GIF recordings - 1 day ago
+- [BleepingComputer] Oxford City Council suffers breach exposing two decades of data - 1 day ago
+- [BleepingComputer] CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup - 1 day ago
 - [RegisterSoftware] The AIpocalypse is here for web sites as search referrals plunge - 1 day ago
-- [TroyHunt] Weekly Update 457 - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 month ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 month ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 month ago
