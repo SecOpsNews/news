@@ -9,26 +9,33 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 2 hours ago
-- [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 5 hours ago
-- [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 5 hours ago
-- [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 5 hours ago
-- [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 6 hours ago
-- [RegisterSoftware] Anthropic chucks chump change at studies on job-killing tech - 14 hours ago
-- [RegisterSec] Crims are posing as insurance companies to steal health records and payment info - 14 hours ago
-- [RegisterSoftware] Uncle Sam wants you – to use memory-safe programming languages - 17 hours ago
-- [RegisterSoftware] Fed chair Powell says AI is coming for your job - 18 hours ago
-- [RegisterSec] Aloha, you’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 19 hours ago
-- [BleepingComputer] Scattered Spider hackers shift focus to aviation, transportation firms - 19 hours ago
-- [RegisterSec] Cisco punts network-security integration as key for agentic AI - 20 hours ago
-- [RegisterSec] Aloha, you might’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 20 hours ago
-- [SecurityWeek] Windows’ Infamous ‘Blue Screen of Death’ Will Soon Turn Black - 21 hours ago
-- [HackerNews] Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign - 21 hours ago
-- [BleepingComputer] Russia’s throttling of Cloudflare makes sites inaccessible - 22 hours ago
-- [RegisterSec] So you CAN turn an entire car into a video game controller - 22 hours ago
-- [BleepingComputer] Citrix Bleed 2 flaw now believed to be exploited in attacks - 23 hours ago
-- [SecurityWeek] In Other News: Norway Dam Hacked, $177M Data Breach Settlement, UNFI Attack Update - 23 hours ago
-- [HackerNews] PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack - 23 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-06-29 - 3 hours ago
+- [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 16 hours ago
+- [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 16 hours ago
+- [DataBreaches] Alert: Scattered Spider has added North American airline and transportation organizations to their target list - 16 hours ago
+- [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 16 hours ago
+- [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 16 hours ago
+- [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 16 hours ago
+- [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 19 hours ago
+- [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 22 hours ago
+- [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 22 hours ago
+- [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 22 hours ago
+- [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 23 hours ago
+- [RegisterSoftware] Anthropic chucks chump change at studies on job-killing tech - 1 day ago
+- [RegisterSec] Crims are posing as insurance companies to steal health records and payment info - 1 day ago
+- [RegisterSoftware] Uncle Sam wants you – to use memory-safe programming languages - 1 day ago
+- [RegisterSoftware] Fed chair Powell says AI is coming for your job - 1 day ago
+- [RegisterSec] Aloha, you’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 1 day ago
+- [BleepingComputer] Scattered Spider hackers shift focus to aviation, transportation firms - 1 day ago
+- [RegisterSec] Cisco punts network-security integration as key for agentic AI - 1 day ago
+- [RegisterSec] Aloha, you might’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 1 day ago
+- [SecurityWeek] Windows’ Infamous ‘Blue Screen of Death’ Will Soon Turn Black - 1 day ago
+- [HackerNews] Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign - 1 day ago
+- [BleepingComputer] Russia’s throttling of Cloudflare makes sites inaccessible - 1 day ago
+- [RegisterSec] So you CAN turn an entire car into a video game controller - 1 day ago
+- [BleepingComputer] Citrix Bleed 2 flaw now believed to be exploited in attacks - 1 day ago
+- [SecurityWeek] In Other News: Norway Dam Hacked, $177M Data Breach Settlement, UNFI Attack Update - 1 day ago
+- [HackerNews] PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack - 1 day ago
 - [GrahamCluley] SafePay ransomware: What you need to know - 1 day ago
 - [RegisterSec] Data spill in aisle 5: Grocery giant Ahold Delhaize says 2.2M affected after cyberattack - 1 day ago
 - [CloudFlare] BSR (Basra) on 2025-06-29 - 1 day ago
@@ -62,37 +69,7 @@ description: Latest Updates
 - [SecurityWeek] Vulnerability Exposed All Open VSX Repositories to Takeover - 1 day ago
 - [HackerNews] OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors - 1 day ago
 - [BleepingComputer] Windows 11 KB5060829 update released with 38 new changes, fixes - 1 day ago
-- [RegisterSoftware] HPE customers on agentic AI: No, you go first - 1 day ago
-- [BleepingComputer] Whole Foods supplier UNFI restores core systems after cyberattack - 1 day ago
-- [BleepingComputer] Hawaiian Airlines discloses cyberattack, flights not affected - 1 day ago
-- [RegisterSoftware] More trouble for authors as Meta wins Llama drama AI scraping case - 1 day ago
-- [BleepingComputer] FTC approves $126 million in Fortnite refunds over ‘dark patterns’ - 1 day ago
-- [RegisterSoftware] Back in black: Microsoft Blue Screen of Death is going dark - 1 day ago
-- [RegisterSec] FBI used bitcoin wallet records to peg notorious IntelBroker as UK national - 1 day ago
-- [RegisterSoftware] What if Microsoft just turned you off? Security pro counts the cost of dependency - 1 day ago
-- [RegisterSec] What if Microsoft just turned you off? Security pro counts the cost of dependency - 1 day ago
-- [HackerNews] Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks - 1 day ago
-- [BleepingComputer] Brother printer bug in 689 models exposes default admin passwords - 1 day ago
-- [RegisterSec] Cisco fixes two critical make-me-root bugs on Identity Services Engine components - 1 day ago
-- [BleepingComputer] Ex-student charged over hacking university for cheap parking, data breaches - 1 day ago
-- [SecurityWeek] Bipartisan Bill Aims to Block Chinese AI From Federal Agencies - 1 day ago
-- [RegisterSoftware] Exif marks the spot as fresh version of PNG image standard arrives - 1 day ago
-- [BleepingComputer] Cisco warns of max severity RCE flaws in Identity Services Engine - 1 day ago
-- [RegisterSoftware] The SmartNIC revolution fell flat, but AI might change that - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2025-07-02 - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2025-07-05 - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-07-05 - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-07-05 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-07-05 - 1 day ago
-- [HackerNews] New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks - 1 day ago
-- [HackerNews] Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access - 1 day ago
-- [RegisterSoftware] Gridlocked: AI's power needs could short-circuit US infrastructure - 1 day ago
-- [GitHub] GitHub Enterprise Importer delays - 1 day ago
-- [BleepingComputer] 3 key takeaways from the Scattered Spider attacks on insurance firms - 1 day ago
-- [BleepingComputer] Man pleads guilty to hacking networks to pitch security services - 1 day ago
-- [BleepingComputer] Microsoft 365 'Direct Send' abused to send phishing as internal users - 2 days ago
-- [RegisterSoftware] Kaseya CEO: Why AI adoption is below industry expectations - 2 days ago
-- [SecurityWeek] Man Who Hacked Organizations to Advertise Security Services Pleads Guilty - 2 days ago
+- [RegisterSoftware] HPE customers on agentic AI: No, you go first - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
