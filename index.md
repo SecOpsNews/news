@@ -9,18 +9,19 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] BGW (Baghdad) on 2025-06-29 - 3 hours ago
-- [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 16 hours ago
-- [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 16 hours ago
-- [DataBreaches] Alert: Scattered Spider has added North American airline and transportation organizations to their target list - 16 hours ago
-- [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 16 hours ago
-- [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 16 hours ago
-- [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 16 hours ago
-- [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 19 hours ago
-- [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 22 hours ago
-- [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 22 hours ago
-- [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 22 hours ago
-- [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 23 hours ago
+- [RegisterSoftware] AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all - 2 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-06-29 - 10 hours ago
+- [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 23 hours ago
+- [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 23 hours ago
+- [DataBreaches] Alert: Scattered Spider has added North American airline and transportation organizations to their target list - 23 hours ago
+- [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 23 hours ago
+- [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 23 hours ago
+- [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 23 hours ago
+- [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 1 day ago
+- [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 1 day ago
+- [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 1 day ago
+- [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 1 day ago
+- [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 1 day ago
 - [RegisterSoftware] Anthropic chucks chump change at studies on job-killing tech - 1 day ago
 - [RegisterSec] Crims are posing as insurance companies to steal health records and payment info - 1 day ago
 - [RegisterSoftware] Uncle Sam wants you – to use memory-safe programming languages - 1 day ago
@@ -36,40 +37,8 @@ description: Latest Updates
 - [BleepingComputer] Citrix Bleed 2 flaw now believed to be exploited in attacks - 1 day ago
 - [SecurityWeek] In Other News: Norway Dam Hacked, $177M Data Breach Settlement, UNFI Attack Update - 1 day ago
 - [HackerNews] PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack - 1 day ago
-- [GrahamCluley] SafePay ransomware: What you need to know - 1 day ago
-- [RegisterSec] Data spill in aisle 5: Grocery giant Ahold Delhaize says 2.2M affected after cyberattack - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-06-29 - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-06-29 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-06-29 - 1 day ago
-- [SecurityWeek] Microsoft to Preview New Windows Endpoint Security Platform After CrowdStrike Outage - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2025-07-01 - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-07-01 - 1 day ago
-- [RegisterSoftware] The network is indeed trying to become the computer - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-07-01 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-07-01 - 1 day ago
-- [HackerNews] Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit - 1 day ago
-- [HackerNews] Business Case for Agentic AI SOC Analysts - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2025-07-02 - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-07-02 - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-07-02 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-07-02 - 1 day ago
-- [RegisterSoftware] The year of the European Union Linux desktop may finally arrive - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2025-07-02 - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2025-07-03 - 1 day ago
-- [SecurityWeek] RevEng.ai Raises $4.15 Million to Secure Software Supply Chain - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-07-03 - 1 day ago
-- [SecurityWeek] Chinese Hackers Target Chinese Users With RAT, Rootkit - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-07-03 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-07-03 - 1 day ago
-- [SecurityWeek] Evidence Suggests Exploitation of CitrixBleed 2 Vulnerability - 1 day ago
-- [BleepingComputer] Retail giant Ahold Delhaize says data breach affects 2.2 million people - 1 day ago
-- [CloudFlare] OSL (Oslo) on 2025-06-30 - 1 day ago
-- [HackerNews] MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted - 1 day ago
-- [SecurityWeek] Microsoft 365 Direct Send Abused for Phishing - 1 day ago
-- [SecurityWeek] Vulnerability Exposed All Open VSX Repositories to Takeover - 1 day ago
-- [HackerNews] OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors - 1 day ago
-- [BleepingComputer] Windows 11 KB5060829 update released with 38 new changes, fixes - 1 day ago
-- [RegisterSoftware] HPE customers on agentic AI: No, you go first - 2 days ago
+- [GrahamCluley] SafePay ransomware: What you need to know - 2 days ago
+- [RegisterSec] Data spill in aisle 5: Grocery giant Ahold Delhaize says 2.2M affected after cyberattack - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
