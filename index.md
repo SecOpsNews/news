@@ -9,36 +9,28 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all - 2 hours ago
-- [CloudFlare] BGW (Baghdad) on 2025-06-29 - 10 hours ago
-- [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 23 hours ago
-- [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 23 hours ago
-- [DataBreaches] Alert: Scattered Spider has added North American airline and transportation organizations to their target list - 23 hours ago
-- [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 23 hours ago
-- [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 23 hours ago
-- [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 23 hours ago
+- [RegisterSoftware] Don't pay for AI support failures, says Gradient Labs CEO - 21 minutes ago
+- [CloudFlare] CGK (Jakarta) on 2025-07-16 - 1 hour ago
+- [RegisterSec] Canada orders Chinese CCTV biz Hikvision to quit the country ASAP - 3 hours ago
+- [RegisterSec] It's 2025 and almost half of you are still paying ransomware operators - 5 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-07-07 - 5 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-07-08 - 5 hours ago
+- [BleepingComputer] Google rolls out Veo 3 video generator, try it for free using credits - 7 hours ago
+- [BleepingComputer] Cloudflare open-sources Orange Meets with End-to-End encryption - 14 hours ago
+- [BleepingComputer] Bluetooth flaws could let hackers spy through your microphone - 14 hours ago
+- [RegisterSoftware] AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all - 19 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-06-29 - 1 day ago
+- [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 1 day ago
+- [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 1 day ago
+- [DataBreaches] Alert: Scattered Spider has added North American airline and transportation organizations to their target list - 1 day ago
+- [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 1 day ago
+- [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 1 day ago
+- [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 1 day ago
 - [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 1 day ago
 - [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 1 day ago
 - [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 1 day ago
 - [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 1 day ago
 - [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 1 day ago
-- [RegisterSoftware] Anthropic chucks chump change at studies on job-killing tech - 1 day ago
-- [RegisterSec] Crims are posing as insurance companies to steal health records and payment info - 1 day ago
-- [RegisterSoftware] Uncle Sam wants you – to use memory-safe programming languages - 1 day ago
-- [RegisterSoftware] Fed chair Powell says AI is coming for your job - 1 day ago
-- [RegisterSec] Aloha, you’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 1 day ago
-- [BleepingComputer] Scattered Spider hackers shift focus to aviation, transportation firms - 1 day ago
-- [RegisterSec] Cisco punts network-security integration as key for agentic AI - 1 day ago
-- [RegisterSec] Aloha, you might’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’ - 1 day ago
-- [SecurityWeek] Windows’ Infamous ‘Blue Screen of Death’ Will Soon Turn Black - 1 day ago
-- [HackerNews] Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign - 1 day ago
-- [BleepingComputer] Russia’s throttling of Cloudflare makes sites inaccessible - 1 day ago
-- [RegisterSec] So you CAN turn an entire car into a video game controller - 1 day ago
-- [BleepingComputer] Citrix Bleed 2 flaw now believed to be exploited in attacks - 1 day ago
-- [SecurityWeek] In Other News: Norway Dam Hacked, $177M Data Breach Settlement, UNFI Attack Update - 1 day ago
-- [HackerNews] PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack - 1 day ago
-- [GrahamCluley] SafePay ransomware: What you need to know - 2 days ago
-- [RegisterSec] Data spill in aisle 5: Grocery giant Ahold Delhaize says 2.2M affected after cyberattack - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
