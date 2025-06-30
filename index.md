@@ -9,16 +9,62 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Don't pay for AI support failures, says Gradient Labs CEO - 21 minutes ago
-- [CloudFlare] CGK (Jakarta) on 2025-07-16 - 1 hour ago
-- [RegisterSec] Canada orders Chinese CCTV biz Hikvision to quit the country ASAP - 3 hours ago
-- [RegisterSec] It's 2025 and almost half of you are still paying ransomware operators - 5 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-07-07 - 5 hours ago
-- [CloudFlare] DEL (New Delhi) on 2025-07-08 - 5 hours ago
-- [BleepingComputer] Google rolls out Veo 3 video generator, try it for free using credits - 7 hours ago
-- [BleepingComputer] Cloudflare open-sources Orange Meets with End-to-End encryption - 14 hours ago
-- [BleepingComputer] Bluetooth flaws could let hackers spy through your microphone - 14 hours ago
-- [RegisterSoftware] AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all - 19 hours ago
+- [BleepingComputer] Europol helps disrupt $540 million crypto investment fraud ring - 22 minutes ago
+- [BleepingComputer] Microsoft warns of Windows update delays due to wrong timestamp - 22 minutes ago
+- [RegisterSec] Sinaloa drug cartel hired a cybersnoop to identify and kill FBI informants - 51 minutes ago
+- [BleepingComputer] FBI: Cybercriminals steal health data posing as fraud investigators - 51 minutes ago
+- [IT Governance] Building Your Cyber Security Career: The Credentials Needed for Management and Specialist Roles - 1 hour ago
+- [RegisterSoftware] Microsoft's next Windows 11 update is more 'enablement' than upgrade - 1 hour ago
+- [SecurityWeek] Hacker Conversations: Rachel Tobac and the Art of Social Engineering - 1 hour ago
+- [CloudFlare] BGW (Baghdad) on 2025-07-03 - 1 hour ago
+- [CloudFlare] BSR (Basra) on 2025-07-03 - 1 hour ago
+- [CloudFlare] NJF (Najaf) on 2025-07-03 - 1 hour ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-07-03 - 1 hour ago
+- [CloudFlare] YHZ (Halifax) on 2025-07-09 - 1 hour ago
+- [CloudFlare] PHL (Philadelphia) on 2025-07-09 - 1 hour ago
+- [CloudFlare] BGI (Bridgetown) on 2025-07-09 - 1 hour ago
+- [CloudFlare] BGR (Bangor) on 2025-07-09 - 1 hour ago
+- [CloudFlare] FSD (Sioux Falls) on 2025-07-09 - 1 hour ago
+- [BleepingComputer] Over 1,200 Citrix servers unpatched against critical auth bypass flaw - 2 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-07-05 - 2 hours ago
+- [CloudFlare] BSR (Basra) on 2025-07-05 - 2 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-07-05 - 2 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-07-05 - 2 hours ago
+- [CloudFlare] STI (Santiago de los Caballeros) on 2025-07-08 - 2 hours ago
+- [CloudFlare] SJU (San Juan) on 2025-07-08 - 2 hours ago
+- [CloudFlare] SDQ (Santo Domingo) on 2025-07-08 - 2 hours ago
+- [CloudFlare] KIN (Kingston) on 2025-07-08 - 2 hours ago
+- [RegisterSoftware] Arm muscles into server market – but can't wrestle control from x86 just yet - 2 hours ago
+- [SecurityWeek] Casie Antalis Named Executive Director of CISA - 2 hours ago
+- [HackerNews] ⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more - 2 hours ago
+- [HackerNews] Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories - 2 hours ago
+- [CloudFlare] GUA (Guatemala City) on 2025-07-02 - 2 hours ago
+- [CloudFlare] GDL (Guadalajara) on 2025-07-02 - 2 hours ago
+- [CloudFlare] QRO (Queretaro) on 2025-07-02 - 2 hours ago
+- [CloudFlare] ANC (Anchorage) on 2025-07-02 - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-07-02 - 2 hours ago
+- [IT Governance] Unlocking Access: How to Respond to a DSAR (Data Subject Access Request) - 2 hours ago
+- [SecurityWeek] Airoha Chip Vulnerabilities Expose Headphones to Takeover - 2 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-07-03 - 2 hours ago
+- [CloudFlare] TXL (Berlin) on 2025-07-03 - 3 hours ago
+- [SecurityWeek] Canada Gives Hikvision the Boot on National Security Grounds - 3 hours ago
+- [RegisterSoftware] Cloud lobby warns EU: Clamp down on water rules and we'll evaporate - 4 hours ago
+- [SecurityWeek] Patrick Ware Named Executive Director of US Cyber Command - 4 hours ago
+- [CloudFlare] LHR (London) on 2025-07-04 - 4 hours ago
+- [RegisterSec] Your browser has ad tech's fingerprints all over it, but there's a clean-up squad in town - 5 hours ago
+- [SecurityWeek] Hawaiian Airlines Hacked as Aviation Sector Warned of Scattered Spider Attacks - 5 hours ago
+- [RegisterSoftware] Junior sysadmin’s first lines of code set off alarms. His next lot crashed the company - 6 hours ago
+- [SecurityWeek] Ahold Delhaize Data Breach Impacts 2.2 Million People - 6 hours ago
+- [RegisterSoftware] Don't pay for AI support failures, says Gradient Labs CEO - 7 hours ago
+- [CloudFlare] CGK (Jakarta) on 2025-07-16 - 8 hours ago
+- [RegisterSec] Canada orders Chinese CCTV biz Hikvision to quit the country ASAP - 10 hours ago
+- [RegisterSec] It's 2025 and almost half of you are still paying ransomware operators - 12 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-07-07 - 12 hours ago
+- [CloudFlare] DEL (New Delhi) on 2025-07-08 - 12 hours ago
+- [BleepingComputer] Google rolls out Veo 3 video generator, try it for free using credits - 14 hours ago
+- [BleepingComputer] Cloudflare open-sources Orange Meets with End-to-End encryption - 21 hours ago
+- [BleepingComputer] Bluetooth flaws could let hackers spy through your microphone - 21 hours ago
+- [RegisterSoftware] AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all - 1 day ago
 - [CloudFlare] BGW (Baghdad) on 2025-06-29 - 1 day ago
 - [DataBreaches] Privacy commissioner reviewing reported Ontario Health atHome data breach - 1 day ago
 - [DataBreaches] Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected - 1 day ago
@@ -26,11 +72,6 @@ description: Latest Updates
 - [DataBreaches] Battlefords Union Hospitals notifies patients of employee snooping in their records - 1 day ago
 - [DataBreaches] Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 - 1 day ago
 - [RegisterSec] Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' - 1 day ago
-- [HackerNews] FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering - 1 day ago
-- [RegisterSoftware] How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC - 1 day ago
-- [GrahamCluley] BreachForums broken up? French police arrest five members of notorious cybercrime site - 1 day ago
-- [HackerNews] GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool - 1 day ago
-- [HackerNews] Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
