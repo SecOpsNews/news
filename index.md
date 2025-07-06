@@ -9,18 +9,19 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Massive spike in use of .es domains for phishing abuse - 57 minutes ago
-- [HackerNews] Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS - 7 hours ago
-- [HackerNews] Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties - 7 hours ago
-- [BleepingComputer] Google's AI video maker Veo 3 is now available via $20 Gemini - 14 hours ago
-- [BleepingComputer] ChatGPT Deep Research tests new connectors for more context - 15 hours ago
-- [RegisterSoftware] Ousted US copyright chief argues Trump did not have power to remove her - 18 hours ago
-- [RegisterSoftware] Microsoft finally bids farewell to PowerShell 2.0 - 20 hours ago
-- [GrahamCluley] Catwatchful stalkerware app spills secrets of 62,000 users – including its own admin - 21 hours ago
-- [GrahamCluley] Technical difficulties or cyber attack? Ingram Micro’s website goes down just in time for the holiday weekend - 21 hours ago
-- [RegisterSoftware] Amazon built a massive AI supercluster for Anthropic called Project Rainier – here's what we know so far - 22 hours ago
-- [BleepingComputer] Hacker leaks Telefónica data allegedly stolen in a new breach - 22 hours ago
-- [BleepingComputer] Ingram Micro suffers global outage as internal systems inaccessible - 22 hours ago
+- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 14 hours ago
+- [RegisterSec] Massive spike in use of .es domains for phishing abuse - 17 hours ago
+- [HackerNews] Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS - 1 day ago
+- [HackerNews] Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties - 1 day ago
+- [BleepingComputer] Google's AI video maker Veo 3 is now available via $20 Gemini - 1 day ago
+- [BleepingComputer] ChatGPT Deep Research tests new connectors for more context - 1 day ago
+- [RegisterSoftware] Ousted US copyright chief argues Trump did not have power to remove her - 1 day ago
+- [RegisterSoftware] Microsoft finally bids farewell to PowerShell 2.0 - 1 day ago
+- [GrahamCluley] Catwatchful stalkerware app spills secrets of 62,000 users – including its own admin - 1 day ago
+- [GrahamCluley] Technical difficulties or cyber attack? Ingram Micro’s website goes down just in time for the holiday weekend - 1 day ago
+- [RegisterSoftware] Amazon built a massive AI supercluster for Anthropic called Project Rainier – here's what we know so far - 1 day ago
+- [BleepingComputer] Hacker leaks Telefónica data allegedly stolen in a new breach - 1 day ago
+- [BleepingComputer] Ingram Micro suffers global outage as internal systems inaccessible - 1 day ago
 - [HackerNews] NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors - 1 day ago
 - [RegisterSoftware] We're number 1! Windows 11 finally overtakes Windows 10 - 1 day ago
 - [GrahamCluley] Hunters International ransomware group shuts down – but will it regroup under a new guise? - 1 day ago
@@ -44,35 +45,8 @@ description: Latest Updates
 - [CloudFlare] XNH (Nasiriyah) on 2025-07-05 - 1 day ago
 - [CloudFlare] STI (Santiago de los Caballeros) on 2025-07-08 - 1 day ago
 - [CloudFlare] SJU (San Juan) on 2025-07-08 - 1 day ago
-- [RegisterSoftware] EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players - 1 day ago
-- [CloudFlare] Elevated errors observed for WARP users. - 1 day ago
-- [CloudFlare] SDQ (Santo Domingo) on 2025-07-08 - 1 day ago
-- [CloudFlare] KIN (Kingston) on 2025-07-08 - 1 day ago
-- [CloudFlare] SOF (Sofia) on 2025-07-15 - 1 day ago
-- [BleepingComputer] Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch - 1 day ago
-- [RegisterSoftware] Microsoft leaves Pakistan but promises customers won't notice the change - 1 day ago
-- [CloudFlare] BRU (Brussels) on 2025-07-09 - 1 day ago
-- [HIBP] Catwatchful - 61,641 breached accounts - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2025-07-08 - 1 day ago
-- [CloudFlare] TXL (Berlin) on 2025-07-10 - 1 day ago
-- [CloudFlare] Durable Objects Failing To Wake From Hibernation - 1 day ago
-- [RegisterSoftware] AI models just don't understand what they're talking about - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2025-07-03 - 1 day ago
-- [CloudFlare] BRU (Brussels) on 2025-07-02 - 1 day ago
-- [CloudFlare] Cloudflare WAF Zone Lockdown Impacted - 1 day ago
-- [BleepingComputer] xAI prepares Grok 4 Code as it plans to take on Claude and Gemini - 1 day ago
-- [BleepingComputer] Police dismantles investment fraud ring stealing €10 million - 1 day ago
-- [Slack] Incident: Issues with searching Slack API documentation - 1 day ago
-- [RegisterSec] Microsoft Windows Firewall complains about Microsoft code - 1 day ago
-- [BleepingComputer] Grafana releases critical security update for Image Renderer plugin - 1 day ago
-- [BrianKrebs] Big Tech’s Mixed Response to U.S. Treasury Sanctions - 1 day ago
-- [HackerNews] Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams - 1 day ago
-- [RegisterSoftware] Microsoft Windows Firewall complains about Microsoft code - 1 day ago
-- [BleepingComputer] IdeaLab confirms data stolen in ransomware attack last year - 1 day ago
-- [BleepingComputer] Microsoft investigates ongoing SharePoint Online access issues - 1 day ago
-- [RegisterSec] Young Consulting finds even more folks affected in breach mess – now over 1 million - 1 day ago
-- [RegisterSoftware] Tariffs and trade turmoil driving up cost and build times for datacenters - 2 days ago
-- [RegisterSec] Meta calls €200M EU fine over pay-or-consent ad model 'unlawful' - 2 days ago
+- [RegisterSoftware] EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players - 2 days ago
+- [CloudFlare] Elevated errors observed for WARP users. - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
