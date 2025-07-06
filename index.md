@@ -9,8 +9,9 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 14 hours ago
-- [RegisterSec] Massive spike in use of .es domains for phishing abuse - 17 hours ago
+- [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 55 minutes ago
+- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 21 hours ago
+- [RegisterSec] Massive spike in use of .es domains for phishing abuse - 1 day ago
 - [HackerNews] Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS - 1 day ago
 - [HackerNews] Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties - 1 day ago
 - [BleepingComputer] Google's AI video maker Veo 3 is now available via $20 Gemini - 1 day ago
@@ -22,31 +23,7 @@ description: Latest Updates
 - [RegisterSoftware] Amazon built a massive AI supercluster for Anthropic called Project Rainier – here's what we know so far - 1 day ago
 - [BleepingComputer] Hacker leaks Telefónica data allegedly stolen in a new breach - 1 day ago
 - [BleepingComputer] Ingram Micro suffers global outage as internal systems inaccessible - 1 day ago
-- [HackerNews] NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors - 1 day ago
-- [RegisterSoftware] We're number 1! Windows 11 finally overtakes Windows 10 - 1 day ago
-- [GrahamCluley] Hunters International ransomware group shuts down – but will it regroup under a new guise? - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2025-07-07 - 1 day ago
-- [CloudFlare] UIO (Quito) on 2025-07-09 - 1 day ago
-- [CloudFlare] YHZ (Halifax) on 2025-07-09 - 1 day ago
-- [SecurityWeek] In Other News: Hacker Helps Kill Informants, Crylock Developer Sentenced, Ransomware Negotiator Probed - 1 day ago
-- [CloudFlare] PHL (Philadelphia) on 2025-07-09 - 1 day ago
-- [HackerNews] Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros - 1 day ago
-- [HackerNews] Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It - 1 day ago
-- [CloudFlare] BGI (Bridgetown) on 2025-07-09 - 1 day ago
-- [IT Governance] How ISO 42001 supports EU AI Act compliance - 1 day ago
-- [CloudFlare] BGR (Bangor) on 2025-07-09 - 1 day ago
-- [RegisterSoftware] Former and current Microsofties react to the latest round of layoffs - 1 day ago
-- [CloudFlare] FSD (Sioux Falls) on 2025-07-09 - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2025-07-05 - 1 day ago
-- [IT Governance] Global Data Breaches and Cyber Attacks in June 2025: Over 16 billion records exposed - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-07-05 - 1 day ago
-- [HackerNews] Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission - 1 day ago
-- [CloudFlare] NJF (Najaf) on 2025-07-05 - 1 day ago
-- [CloudFlare] XNH (Nasiriyah) on 2025-07-05 - 1 day ago
-- [CloudFlare] STI (Santiago de los Caballeros) on 2025-07-08 - 1 day ago
-- [CloudFlare] SJU (San Juan) on 2025-07-08 - 1 day ago
-- [RegisterSoftware] EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players - 2 days ago
-- [CloudFlare] Elevated errors observed for WARP users. - 2 days ago
+- [HackerNews] NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
