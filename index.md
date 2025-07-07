@@ -9,16 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors - 1 hour ago
-- [RegisterSoftware] VMware’s rivals ramp up their efforts to create alternative stacks - 1 hour ago
-- [BleepingComputer] Hands on with Windows 11 Notepad's new markdown support - 5 hours ago
-- [BleepingComputer] OpenAI says GPT-5 will unify breakthroughs from different models - 5 hours ago
-- [RegisterSoftware] Atlassian migrated 4 million Postgres databases to shrink AWS bill - 5 hours ago
-- [BleepingComputer] ChatGPT is testing disruptive Study Together feature - 7 hours ago
-- [RegisterSec] Stalkerware firm gets scooped by SQL-slinging security snoop - 10 hours ago
-- [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 17 hours ago
+- [RegisterSoftware] Game, set, botch: AI umpiring at Wimbledon goes long - 23 minutes ago
+- [SecurityWeek] Ingram Micro Scrambling to Restore Systems After Ransomware Attack - 51 minutes ago
+- [HackerNews] Manufacturing Security: Why Default Passwords Must Go - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More - 1 hour ago
+- [RegisterSec] Phishing platforms, infostealers blamed as identity attacks soar - 1 hour ago
+- [RegisterSoftware] AI scores a huge own goal if you play up and play the game - 5 hours ago
+- [RegisterSoftware] Yes, I wrote a very expensive bug. In my defense I was only seven years old at the time - 6 hours ago
+- [HackerNews] TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors - 8 hours ago
+- [RegisterSoftware] VMware’s rivals ramp up their efforts to create alternative stacks - 8 hours ago
+- [BleepingComputer] Hands on with Windows 11 Notepad's new markdown support - 12 hours ago
+- [BleepingComputer] OpenAI says GPT-5 will unify breakthroughs from different models - 12 hours ago
+- [RegisterSoftware] Atlassian migrated 4 million Postgres databases to shrink AWS bill - 12 hours ago
+- [BleepingComputer] ChatGPT is testing disruptive Study Together feature - 14 hours ago
+- [RegisterSec] Stalkerware firm gets scooped by SQL-slinging security snoop - 17 hours ago
+- [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 1 day ago
 - [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 1 day ago
-- [RegisterSec] Massive spike in use of .es domains for phishing abuse - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
