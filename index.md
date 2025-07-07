@@ -9,21 +9,16 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 55 minutes ago
-- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 21 hours ago
+- [HackerNews] TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors - 1 hour ago
+- [RegisterSoftware] VMware’s rivals ramp up their efforts to create alternative stacks - 1 hour ago
+- [BleepingComputer] Hands on with Windows 11 Notepad's new markdown support - 5 hours ago
+- [BleepingComputer] OpenAI says GPT-5 will unify breakthroughs from different models - 5 hours ago
+- [RegisterSoftware] Atlassian migrated 4 million Postgres databases to shrink AWS bill - 5 hours ago
+- [BleepingComputer] ChatGPT is testing disruptive Study Together feature - 7 hours ago
+- [RegisterSec] Stalkerware firm gets scooped by SQL-slinging security snoop - 10 hours ago
+- [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 17 hours ago
+- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 1 day ago
 - [RegisterSec] Massive spike in use of .es domains for phishing abuse - 1 day ago
-- [HackerNews] Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS - 1 day ago
-- [HackerNews] Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties - 1 day ago
-- [BleepingComputer] Google's AI video maker Veo 3 is now available via $20 Gemini - 1 day ago
-- [BleepingComputer] ChatGPT Deep Research tests new connectors for more context - 1 day ago
-- [RegisterSoftware] Ousted US copyright chief argues Trump did not have power to remove her - 1 day ago
-- [RegisterSoftware] Microsoft finally bids farewell to PowerShell 2.0 - 1 day ago
-- [GrahamCluley] Catwatchful stalkerware app spills secrets of 62,000 users – including its own admin - 1 day ago
-- [GrahamCluley] Technical difficulties or cyber attack? Ingram Micro’s website goes down just in time for the holiday weekend - 1 day ago
-- [RegisterSoftware] Amazon built a massive AI supercluster for Anthropic called Project Rainier – here's what we know so far - 1 day ago
-- [BleepingComputer] Hacker leaks Telefónica data allegedly stolen in a new breach - 1 day ago
-- [BleepingComputer] Ingram Micro suffers global outage as internal systems inaccessible - 1 day ago
-- [HackerNews] NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
