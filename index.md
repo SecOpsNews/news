@@ -9,22 +9,46 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Game, set, botch: AI umpiring at Wimbledon goes long - 23 minutes ago
-- [SecurityWeek] Ingram Micro Scrambling to Restore Systems After Ransomware Attack - 51 minutes ago
-- [HackerNews] Manufacturing Security: Why Default Passwords Must Go - 1 hour ago
-- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More - 1 hour ago
-- [RegisterSec] Phishing platforms, infostealers blamed as identity attacks soar - 1 hour ago
-- [RegisterSoftware] AI scores a huge own goal if you play up and play the game - 5 hours ago
-- [RegisterSoftware] Yes, I wrote a very expensive bug. In my defense I was only seven years old at the time - 6 hours ago
-- [HackerNews] TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors - 8 hours ago
-- [RegisterSoftware] VMware’s rivals ramp up their efforts to create alternative stacks - 8 hours ago
-- [BleepingComputer] Hands on with Windows 11 Notepad's new markdown support - 12 hours ago
-- [BleepingComputer] OpenAI says GPT-5 will unify breakthroughs from different models - 12 hours ago
-- [RegisterSoftware] Atlassian migrated 4 million Postgres databases to shrink AWS bill - 12 hours ago
-- [BleepingComputer] ChatGPT is testing disruptive Study Together feature - 14 hours ago
-- [RegisterSec] Stalkerware firm gets scooped by SQL-slinging security snoop - 17 hours ago
+- [RegisterSec] Suspected Scattered Spider domains target everyone from manufacturers to Chipotle - 21 minutes ago
+- [HackerNews] CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation - 1 hour ago
+- [BleepingComputer] Public exploits released for Citrix Bleed 2 NetScaler flaw, patch now - 2 hours ago
+- [FullDisclosure] Session Fixation - bluditv3.16.2 - 4 hours ago
+- [FullDisclosure] Stored XSS "Add New Content" Functionality - bluditv3.16.2 - 4 hours ago
+- [FullDisclosure] XSS via SVG File Uploa - bluditv3.16.2 - 4 hours ago
+- [FullDisclosure] Directory Traversal "Site Title" - bluditv3.16.2 - 4 hours ago
+- [BleepingComputer] Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage - 4 hours ago
+- [RegisterSoftware] Samsung predicts profit slump as its HBM3e apparently continues to underwhelm Nvidia - 5 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-07-10 - 5 hours ago
+- [BleepingComputer] Public exploits released for CitrixBleed 2 NetScaler flaw, patch now - 7 hours ago
+- [RegisterSoftware] Scholars sneaking phrases into papers to fool AI reviewers - 8 hours ago
+- [RegisterSec] CitrixBleed 2 exploits are on the loose as security researchers yell and wave their hands - 10 hours ago
+- [BleepingComputer] Employee gets $920 for credentials used in $140 million bank heist - 11 hours ago
+- [SecurityWeek] Grafana Patches Chromium Bugs, Including Zero-Day Exploited in the Wild - 12 hours ago
+- [BleepingComputer] Atomic macOS infostealer adds backdoor for persistent attacks - 12 hours ago
+- [HackerNews] SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools - 13 hours ago
+- [BleepingComputer] Qantas is being extorted in recent data-theft cyberattack - 13 hours ago
+- [BleepingComputer] 'Batavia' Windows spyware campaign targets dozens of Russian orgs - 14 hours ago
+- [GrahamCluley] Employee arrested after Brazil’s central bank service provider hacked for US $140 million - 14 hours ago
+- [1Password] Delay in processing billing updates - 14 hours ago
+- [BleepingComputer] Hackers abuse leaked Shellter red team tool to deploy infostealers - 16 hours ago
+- [IT Governance] The 5 CISA Domains Explained - 16 hours ago
+- [RegisterSoftware] Move over bit barns, here come Japan’s floating bit barges - 16 hours ago
+- [SecurityWeek] Hunters International Shuts Down, Offers Free Decryptors as It Morphs Into World Leaks - 16 hours ago
+- [RegisterSoftware] Game, set, botch: AI umpiring at Wimbledon goes long - 17 hours ago
+- [SecurityWeek] Ingram Micro Scrambling to Restore Systems After Ransomware Attack - 17 hours ago
+- [HackerNews] Manufacturing Security: Why Default Passwords Must Go - 18 hours ago
+- [HackerNews] ⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More - 18 hours ago
+- [RegisterSec] Phishing platforms, infostealers blamed as identity attacks soar - 18 hours ago
+- [RegisterSoftware] AI scores a huge own goal if you play up and play the game - 22 hours ago
+- [RegisterSoftware] Yes, I wrote a very expensive bug. In my defense I was only seven years old at the time - 23 hours ago
+- [HackerNews] TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors - 1 day ago
+- [RegisterSoftware] VMware’s rivals ramp up their efforts to create alternative stacks - 1 day ago
+- [BleepingComputer] Hands on with Windows 11 Notepad's new markdown support - 1 day ago
+- [BleepingComputer] OpenAI says GPT-5 will unify breakthroughs from different models - 1 day ago
+- [RegisterSoftware] Atlassian migrated 4 million Postgres databases to shrink AWS bill - 1 day ago
+- [BleepingComputer] ChatGPT is testing disruptive Study Together feature - 1 day ago
+- [RegisterSec] Stalkerware firm gets scooped by SQL-slinging security snoop - 1 day ago
 - [RegisterSec] Ingram Micro confirms ransomware behind multi-day outage - 1 day ago
-- [BleepingComputer] Ingram Micro outage caused by SafePay ransomware attack - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
