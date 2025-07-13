@@ -9,20 +9,24 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HIBP] Omnicuris - 215,298 breached accounts - 21 minutes ago
-- [TroyHunt] Weekly Update 460 - 3 hours ago
-- [FullDisclosure] Missing Critical Security Headers in OpenBlow - 3 hours ago
-- [DataBreaches] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 7 hours ago
-- [DataBreaches] Qilin Emerged as The Most Active Group, Exploiting Unpatched Fortinet Vulnerabilities - 7 hours ago
-- [DataBreaches] Chinese hackers suspected in breach of powerful DC law firm - 7 hours ago
-- [HackerNews] GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - 13 hours ago
-- [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job chatbot applications - 15 hours ago
-- [BleepingComputer] Hackers are exploiting critical RCE flaw in Wing FTP Server - 15 hours ago
-- [SecurityWeek] Grok-4 Falls to a Jailbreak Two days After Its Release - 15 hours ago
-- [HackerNews] Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - 17 hours ago
-- [RegisterSoftware] The price of software freedom is eternal politics - 19 hours ago
-- [RegisterSoftware] If MCP is the USB-C of AI agents, A2A is their Ethernet - 19 hours ago
-- [IT Governance] Choosing the Right PCI DSS SAQ: A Practical Guide - 22 hours ago
+- [CloudFlare] Verified Bots Issues - 54 minutes ago
+- [RegisterSec] You have a fake North Korean IT worker problem - here's how to stop it - 2 hours ago
+- [CloudFlare] Browser Isolation Issues - 5 hours ago
+- [SecurityWeek] Grok-4 Falls to a Jailbreak Two Days After Its Release - 6 hours ago
+- [HIBP] Omnicuris - 215,298 breached accounts - 7 hours ago
+- [TroyHunt] Weekly Update 460 - 9 hours ago
+- [FullDisclosure] Missing Critical Security Headers in OpenBlow - 10 hours ago
+- [DataBreaches] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 14 hours ago
+- [DataBreaches] Qilin Emerged as The Most Active Group, Exploiting Unpatched Fortinet Vulnerabilities - 14 hours ago
+- [DataBreaches] Chinese hackers suspected in breach of powerful DC law firm - 14 hours ago
+- [HackerNews] GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - 20 hours ago
+- [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job chatbot applications - 22 hours ago
+- [BleepingComputer] Hackers are exploiting critical RCE flaw in Wing FTP Server - 22 hours ago
+- [SecurityWeek] Grok-4 Falls to a Jailbreak Two days After Its Release - 22 hours ago
+- [HackerNews] Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - 1 day ago
+- [RegisterSoftware] The price of software freedom is eternal politics - 1 day ago
+- [RegisterSoftware] If MCP is the USB-C of AI agents, A2A is their Ethernet - 1 day ago
+- [IT Governance] Choosing the Right PCI DSS SAQ: A Practical Guide - 1 day ago
 - [CloudFlare] IAD (Ashburn) on 2025-07-16 - 1 day ago
 - [RegisterSoftware] Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites - 1 day ago
 - [CloudFlare] Workers cron triggers execution issue - 1 day ago
@@ -44,28 +48,6 @@ description: Latest Updates
 - [BleepingComputer] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 1 day ago
 - [GrahamCluley] Russian basketball player arrested in ransomware case despite being “useless with computers” - 1 day ago
 - [RegisterSoftware] Microsoft fixes the ESU blues for Windows 10 users - 1 day ago
-- [HackerNews] PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution - 1 day ago
-- [RegisterSoftware] More license upheaval to come after SAP kills RISE with SAP products, users warn - 1 day ago
-- [SecurityWeek] EU Unveils AI Code of Practice to Help Businesses Comply With Bloc’s Rules - 1 day ago
-- [SecurityWeek] In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs - 1 day ago
-- [FullDisclosure] SAP NetWeaver S/4HANA - ABAP Code Execution via Internal	Function - 1 day ago
-- [SecurityWeek] Cyberstarts Launches $300M Liquidity Fund to Help Startups Retain Top Talent - 1 day ago
-- [GrahamCluley] Paddy Power and BetFair have suffered a data breach - 1 day ago
-- [RegisterSoftware] Telefónica Germany offloads VMware support to Spinnaker due to high renewal costs - 1 day ago
-- [HackerNews] Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals - 1 day ago
-- [HackerNews] Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild - 1 day ago
-- [HackerNews] Securing Data in the AI Era - 1 day ago
-- [RegisterSec] UK Online Safety Act 'not up to scratch' on misinformation, warn MPs - 1 day ago
-- [SecurityWeek] McDonald’s Chatbot Recruitment Platform Leaked 64 Million Job Applications - 1 day ago
-- [BleepingComputer] Four arrested in UK over M&S, Co-op, Harrods cyberattacks - 1 day ago
-- [SecurityWeek] Critical Wing FTP Server Vulnerability Exploited - 1 day ago
-- [SecurityWeek] TikTok Faces Fresh European Privacy Investigation Over China Data Transfers - 1 day ago
-- [SecurityWeek] July 2025 Breaks a Decade of Monthly Android Patches - 1 day ago
-- [SecurityWeek] Rowhammer Attack Demonstrated Against Nvidia GPU - 1 day ago
-- [RegisterSec] Security company hired a used car salesman to build a website, and it didn't end well - 1 day ago
-- [RegisterSec] French cops cuff Russian pro basketball player on ransomware charges - 2 days ago
-- [RegisterSec] Chinese censorship-busters claim Tencent is trying to kill its WeChat archive - 2 days ago
-- [HackerNews] CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
