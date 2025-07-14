@@ -9,45 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] Verified Bots Issues - 54 minutes ago
-- [RegisterSec] You have a fake North Korean IT worker problem - here's how to stop it - 2 hours ago
-- [CloudFlare] Browser Isolation Issues - 5 hours ago
-- [SecurityWeek] Grok-4 Falls to a Jailbreak Two Days After Its Release - 6 hours ago
-- [HIBP] Omnicuris - 215,298 breached accounts - 7 hours ago
-- [TroyHunt] Weekly Update 460 - 9 hours ago
-- [FullDisclosure] Missing Critical Security Headers in OpenBlow - 10 hours ago
-- [DataBreaches] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 14 hours ago
-- [DataBreaches] Qilin Emerged as The Most Active Group, Exploiting Unpatched Fortinet Vulnerabilities - 14 hours ago
-- [DataBreaches] Chinese hackers suspected in breach of powerful DC law firm - 14 hours ago
-- [HackerNews] GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - 20 hours ago
-- [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job chatbot applications - 22 hours ago
-- [BleepingComputer] Hackers are exploiting critical RCE flaw in Wing FTP Server - 22 hours ago
-- [SecurityWeek] Grok-4 Falls to a Jailbreak Two days After Its Release - 22 hours ago
+- [RegisterSoftware] Google’s Gemini refuses to play Chess against the mighty Atari 2600 after realizing it can't match ancient console - 20 minutes ago
+- [HackerNews] eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks - 1 hour ago
+- [RegisterSec] Iran seeks at least three cloud providers to power its government - 1 hour ago
+- [SecurityWeek] 13 Romanians Arrested for Phishing the UK’s Tax Service - 2 hours ago
+- [SecurityWeek] Thirteen Romanians Arrested for Phishing the UK’s Tax Service - 3 hours ago
+- [RegisterSec] Nvidia warns its GPUs – even Blackwells – need protection against Rowhammer attacks - 7 hours ago
+- [BleepingComputer] Windows 10 KB5062554 update breaks emoji panel search feature - 12 hours ago
+- [BleepingComputer] Google Gemini flaw hijacks email summaries for phishing - 16 hours ago
+- [CloudFlare] Verified Bots Issues - 18 hours ago
+- [RegisterSec] You have a fake North Korean IT worker problem - here's how to stop it - 20 hours ago
+- [CloudFlare] Browser Isolation Issues - 22 hours ago
+- [SecurityWeek] Grok-4 Falls to a Jailbreak Two Days After Its Release - 23 hours ago
+- [HIBP] Omnicuris - 215,298 breached accounts - 1 day ago
+- [TroyHunt] Weekly Update 460 - 1 day ago
+- [FullDisclosure] Missing Critical Security Headers in OpenBlow - 1 day ago
+- [DataBreaches] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 1 day ago
+- [DataBreaches] Qilin Emerged as The Most Active Group, Exploiting Unpatched Fortinet Vulnerabilities - 1 day ago
+- [DataBreaches] Chinese hackers suspected in breach of powerful DC law firm - 1 day ago
+- [HackerNews] GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - 1 day ago
+- [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job chatbot applications - 1 day ago
+- [BleepingComputer] Hackers are exploiting critical RCE flaw in Wing FTP Server - 1 day ago
+- [SecurityWeek] Grok-4 Falls to a Jailbreak Two days After Its Release - 1 day ago
 - [HackerNews] Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - 1 day ago
 - [RegisterSoftware] The price of software freedom is eternal politics - 1 day ago
 - [RegisterSoftware] If MCP is the USB-C of AI agents, A2A is their Ethernet - 1 day ago
 - [IT Governance] Choosing the Right PCI DSS SAQ: A Practical Guide - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-07-16 - 1 day ago
-- [RegisterSoftware] Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites - 1 day ago
-- [CloudFlare] Workers cron triggers execution issue - 1 day ago
-- [RegisterSoftware] AI coding tools make developers slower but they think they're faster, study finds - 1 day ago
-- [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job applicants - 1 day ago
-- [BleepingComputer] '123456' password exposed info for 64 million McDonald’s job applicants - 1 day ago
-- [RegisterSoftware] Tech to protect images against AI scrapers can be beaten, researchers show - 1 day ago
-- [BleepingComputer] WordPress Gravity Forms developer hacked to push backdoored plugins - 1 day ago
-- [BleepingComputer] Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now - 1 day ago
-- [RegisterSec] CVSS 10 RCE in Wing FTP exploited within 24 hours, security researchers warn - 1 day ago
-- [RegisterSoftware] Rimini Street, Oracle edge toward truce after years of legal warfare - 1 day ago
-- [RegisterSoftware] British Perl guru Matt Trout dead at 42 - 1 day ago
-- [SecurityWeek] McDonald’s Chatbot Recruitment Platform Exposed 64 Million Job Applications - 1 day ago
-- [BleepingComputer] NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks - 1 day ago
-- [RegisterSoftware] Users of PostgreSQL in the cloud say the uptime just ain't up to it - 1 day ago
-- [BleepingComputer] NVIDIA issues guidance to defend GDDR6 GPUs against Rowhammer attacks - 1 day ago
-- [BleepingComputer] The zero-day that could've compromised every Cursor and Windsurf user - 1 day ago
-- [HackerNews] Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257) - 1 day ago
-- [BleepingComputer] CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch - 1 day ago
-- [GrahamCluley] Russian basketball player arrested in ransomware case despite being “useless with computers” - 1 day ago
-- [RegisterSoftware] Microsoft fixes the ESU blues for Windows 10 users - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
