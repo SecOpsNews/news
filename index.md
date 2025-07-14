@@ -9,18 +9,35 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Google’s Gemini refuses to play Chess against the mighty Atari 2600 after realizing it can't match ancient console - 20 minutes ago
-- [HackerNews] eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks - 1 hour ago
-- [RegisterSec] Iran seeks at least three cloud providers to power its government - 1 hour ago
-- [SecurityWeek] 13 Romanians Arrested for Phishing the UK’s Tax Service - 2 hours ago
-- [SecurityWeek] Thirteen Romanians Arrested for Phishing the UK’s Tax Service - 3 hours ago
-- [RegisterSec] Nvidia warns its GPUs – even Blackwells – need protection against Rowhammer attacks - 7 hours ago
-- [BleepingComputer] Windows 10 KB5062554 update breaks emoji panel search feature - 12 hours ago
-- [BleepingComputer] Google Gemini flaw hijacks email summaries for phishing - 16 hours ago
-- [CloudFlare] Verified Bots Issues - 18 hours ago
-- [RegisterSec] You have a fake North Korean IT worker problem - here's how to stop it - 20 hours ago
-- [CloudFlare] Browser Isolation Issues - 22 hours ago
-- [SecurityWeek] Grok-4 Falls to a Jailbreak Two Days After Its Release - 23 hours ago
+- [HackerNews] ⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More - 20 minutes ago
+- [SecurityWeek] Google Gemini Tricked Into Showing Phishing Message Hidden in Email - 20 minutes ago
+- [CloudFlare] BSB (Brasilia) on 2025-07-15 - 20 minutes ago
+- [CloudFlare] CNF (Belo Horizonte) on 2025-07-15 - 20 minutes ago
+- [CloudFlare] CGB (Cuiaba) on 2025-07-15 - 20 minutes ago
+- [CloudFlare] BSB (Brasilia) on 2025-07-16 - 20 minutes ago
+- [RegisterSoftware] EU-sponsored report says GenAI's 'fair use' defense does not compute - 49 minutes ago
+- [SecurityWeek] New Interlock RAT Variant Distributed via FileFix Attacks - 1 hour ago
+- [SecurityWeek] Flaws in Gigabyte Firmware Allow Security Bypass, Backdoor Deployment - 2 hours ago
+- [SecurityWeek] Louis Vuitton Data Breach Hits Customers in Several Countries - 2 hours ago
+- [RegisterSoftware] Stopping the rot when good software goes bad means new rules from the start - 2 hours ago
+- [RegisterSec] GPS on the fritz? Britain and France plot a backup plan - 3 hours ago
+- [GrahamCluley] Elmo has been hacked, claims Trump is in Epstein files, calls for Jews to be exterminated - 3 hours ago
+- [SecurityWeek] Hackers Inject Malware Into Gravity Forms WordPress Plugin - 4 hours ago
+- [CloudFlare] WAW (Warsaw) on 2025-07-15 - 4 hours ago
+- [RegisterSec] UK's NCA disputes claim it's nearly three times less efficient than the FBI - 5 hours ago
+- [HackerNews] CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center - 5 hours ago
+- [RegisterSoftware] Google’s Gemini refuses to play Chess against the mighty Atari 2600 after realizing it can't match ancient console - 7 hours ago
+- [HackerNews] eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks - 8 hours ago
+- [RegisterSec] Iran seeks at least three cloud providers to power its government - 8 hours ago
+- [SecurityWeek] 13 Romanians Arrested for Phishing the UK’s Tax Service - 9 hours ago
+- [SecurityWeek] Thirteen Romanians Arrested for Phishing the UK’s Tax Service - 10 hours ago
+- [RegisterSec] Nvidia warns its GPUs – even Blackwells – need protection against Rowhammer attacks - 14 hours ago
+- [BleepingComputer] Windows 10 KB5062554 update breaks emoji panel search feature - 19 hours ago
+- [BleepingComputer] Google Gemini flaw hijacks email summaries for phishing - 23 hours ago
+- [CloudFlare] Verified Bots Issues - 1 day ago
+- [RegisterSec] You have a fake North Korean IT worker problem - here's how to stop it - 1 day ago
+- [CloudFlare] Browser Isolation Issues - 1 day ago
+- [SecurityWeek] Grok-4 Falls to a Jailbreak Two Days After Its Release - 1 day ago
 - [HIBP] Omnicuris - 215,298 breached accounts - 1 day ago
 - [TroyHunt] Weekly Update 460 - 1 day ago
 - [FullDisclosure] Missing Critical Security Headers in OpenBlow - 1 day ago
@@ -31,10 +48,7 @@ description: Latest Updates
 - [BleepingComputer] '123456' password exposed chats for 64 million McDonald’s job chatbot applications - 1 day ago
 - [BleepingComputer] Hackers are exploiting critical RCE flaw in Wing FTP Server - 1 day ago
 - [SecurityWeek] Grok-4 Falls to a Jailbreak Two days After Its Release - 1 day ago
-- [HackerNews] Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - 1 day ago
-- [RegisterSoftware] The price of software freedom is eternal politics - 1 day ago
-- [RegisterSoftware] If MCP is the USB-C of AI agents, A2A is their Ethernet - 1 day ago
-- [IT Governance] Choosing the Right PCI DSS SAQ: A Practical Guide - 1 day ago
+- [HackerNews] Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
