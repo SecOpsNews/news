@@ -9,11 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] Multiple vulnerabilities in the web management interface of	Intelbras routers - 20 minutes ago
-- [BleepingComputer] Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack - 13 hours ago
-- [BleepingComputer] Popular npm linter packages hijacked via phishing to drop malware - 17 hours ago
-- [BleepingComputer] ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch - 18 hours ago
-- [RegisterSec] Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days - 22 hours ago
+- [HackerNews] Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 23 minutes ago
+- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - 23 minutes ago
+- [RegisterSec] UK uncovers novel Microsoft snooping malware, blames and sanctions GRU cyberspies - 2 hours ago
+- [HackerNews] Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 3 hours ago
+- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations - 3 hours ago
+- [HackerNews] Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers - 4 hours ago
+- [TroyHunt] Weekly Update 461 - 6 hours ago
+- [FullDisclosure] Multiple vulnerabilities in the web management interface of	Intelbras routers - 7 hours ago
+- [BleepingComputer] Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack - 20 hours ago
+- [BleepingComputer] Popular npm linter packages hijacked via phishing to drop malware - 1 day ago
+- [BleepingComputer] ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch - 1 day ago
+- [RegisterSec] Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days - 1 day ago
 - [BleepingComputer] OpenAI, Anthropic, Google may disrupt education market with new AI tools - 1 day ago
 - [BleepingComputer] New CrushFTP zero-day exploited in attacks to hijack servers - 1 day ago
 - [CloudFlare] DNS Change Delays - 1 day ago
@@ -44,30 +51,9 @@ description: Latest Updates
 - [GCP] UPDATE: We are investigating elevated error rates with multiple products in us-east1 - 1 day ago
 - [BleepingComputer] Hackers scanning for TeleMessage Signal clone flaw exposing passwords - 1 day ago
 - [IT Governance] Nine Steps to Conducting a GDPR Gap Analysis - 1 day ago
-- [RegisterSec] As companies race to add AI, terms of service changes are going to freak a lot of people out - 1 day ago
-- [SecurityWeek] In Other News: Law Firm Hacked by China, Symantec Flaw, Meta AI Hack, FIDO Key Bypass - 1 day ago
-- [CloudFlare] Some API calls to disable SSL Automatic mode are showing a 500 error - 1 day ago
-- [HackerNews] CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign - 1 day ago
-- [SecurityWeek] Email Protection Startup StrongestLayer Emerges From Stealth Mode - 1 day ago
-- [RegisterSoftware] Backup tool Rescuezilla resurrects itself across six Ubuntus - 1 day ago
-- [GrahamCluley] Loaf and order: Belgian police launch bread-based cybersecurity campaign - 1 day ago
-- [CloudFlare] NRT (Tokyo) on 2025-07-24 - 1 day ago
-- [HackerNews] From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware - 1 day ago
-- [HackerNews] Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services - 1 day ago
-- [HackerNews] Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices - 1 day ago
-- [SecurityWeek] Fortinet FortiWeb Flaw Exploited in the Wild After PoC Publication - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-07-21 - 1 day ago
-- [SecurityWeek] Fraud: A Growth Industry Powered by Gen-AI - 1 day ago
-- [SecurityWeek] 1.4 Million Affected by Data Breach at Virginia Radiology Practice - 1 day ago
-- [BleepingComputer] OpenAI: GPT-5 is coming, "we'll see" if it creates a shockwave - 1 day ago
-- [SecurityWeek] CitrixBleed 2: 100 Organizations Hacked, Thousands of Instances Still Vulnerable - 1 day ago
-- [IT Governance] Are You Ready for Cyber Essentials? - 1 day ago
-- [RegisterSoftware] AWS goes full speed ahead on the AI agent train - 1 day ago
-- [RegisterSoftware] Laid-off AWS employee describes cuts as 'cold and soulless' - 1 day ago
-- [SecurityWeek] Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet - 1 day ago
-- [SecurityWeek] Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking - 1 day ago
-- [SecurityWeek] Anne Arundel Dermatology Data Breach Impacts 1.9 Million People - 1 day ago
-- [SecurityWeek] Settlement Reached in Investors’ Lawsuit Against Meta CEO Mark Zuckerberg and Other Company Leaders - 2 days ago
+- [RegisterSec] As companies race to add AI, terms of service changes are going to freak a lot of people out - 2 days ago
+- [SecurityWeek] In Other News: Law Firm Hacked by China, Symantec Flaw, Meta AI Hack, FIDO Key Bypass - 2 days ago
+- [CloudFlare] Some API calls to disable SSL Automatic mode are showing a 500 error - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
