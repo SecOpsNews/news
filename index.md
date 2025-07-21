@@ -9,36 +9,56 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - 20 minutes ago
-- [RegisterSoftware] Alaska Airlines grounds itself due to mysterious IT problem - 43 minutes ago
-- [RegisterSec] Japan discovers object out beyond Pluto that rewrites the Planet 9 theory - 43 minutes ago
-- [RegisterSec] Alaska Airlines grounds itself due to mysterious IT problem - 43 minutes ago
-- [CloudFlare] DUB (Dublin) on 2025-07-24 - 46 minutes ago
-- [BleepingComputer] Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks - 2 hours ago
-- [HackerNews] 3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics - 2 hours ago
-- [HackerNews] Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access - 2 hours ago
-- [HackerNews] Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks - 2 hours ago
-- [CloudFlare] FCO (Rome) on 2025-07-22 - 2 hours ago
-- [RegisterSoftware] Vibe coding service Replit deleted user’s production database, faked data, told fibs galore - 3 hours ago
-- [RegisterSec] Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack - 5 hours ago
-- [CloudFlare] FCO (Rome) on 2025-07-21 - 5 hours ago
-- [HackerNews] EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware - 14 hours ago
-- [BleepingComputer] HPE warns of hardcoded passwords in Aruba access points - 15 hours ago
-- [BleepingComputer] Microsoft SharePoint zero-day exploited in RCE attacks, no patch available - 15 hours ago
-- [SecurityWeek] SharePoint Under Attack: Microsoft Warns of Zero-Day Exploited in the Wild – No Patch Available - 17 hours ago
-- [HackerNews] Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 17 hours ago
-- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - 17 hours ago
-- [RegisterSec] UK uncovers novel Microsoft snooping malware, blames and sanctions GRU cyberspies - 20 hours ago
-- [HackerNews] Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 21 hours ago
-- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations - 21 hours ago
-- [HackerNews] Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers - 22 hours ago
-- [TroyHunt] Weekly Update 461 - 23 hours ago
+- [SecurityWeek] Iranian APT Targets Android Users With New Variants of DCHSpy Spyware - 49 minutes ago
+- [RegisterSec] Four new Android spyware samples linked to Iran's intel agency - 1 hour ago
+- [GrahamCluley] Europol targets Kremlin-backed cybercrime gang NoName057(16) - 2 hours ago
+- [SecurityWeek] Marketing, Law Firms Say Data Breaches Impact Over 200,000 People - 2 hours ago
+- [BleepingComputer] Dell confirms breach of test lab platform by World Leaks extortion group - 2 hours ago
+- [BleepingComputer] Learn 14 Languages from Babbel with this exclusive StackSocial deal - 2 hours ago
+- [BleepingComputer] Over 1,000 CrushFTP servers exposed to ongoing hijack attacks - 2 hours ago
+- [HackerNews] Assessing the Role of AI in Zero Trust - 2 hours ago
+- [HackerNews] ⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More - 2 hours ago
+- [IT Governance] How One Weak Password Destroyed a 158-Year-Old Company - 2 hours ago
+- [DataBreaches] Bitcoin holds steady as hackers drain over $40 million from CoinCDX, India’s top exchange - 3 hours ago
+- [DataBreaches] Premier Health Partners issues a press release about a breach two years ago. Why was this needed now? - 3 hours ago
+- [DataBreaches] Michigan ‘ATM jackpotting’: Florida men allegedly forced machines to dispense $107K - 3 hours ago
+- [DataBreaches] UK sanctions Russian cyber spies accused of facilitating murders - 3 hours ago
+- [RegisterSoftware] Microsoft patches under-attack SharePoint 2019 and SE - 3 hours ago
+- [TroyHunt] Good Riddance Teespring, Hello Fourthwall - 4 hours ago
+- [SecurityWeek] Surveillance Firm Bypasses SS7 Protections to Retrieve User Location - 4 hours ago
+- [SecurityWeek] 750,000 Impacted by Data Breach at The Alcohol & Drug Testing Service - 4 hours ago
+- [SecurityWeek] Microsoft Patches ‘ToolShell’ Zero-Days Exploited to Hack SharePoint Servers - 5 hours ago
+- [GitHub] Some Copilot Models Experiencing Degraded Performance - 6 hours ago
+- [RegisterSoftware] Alaska Airlines grounded itself due to mysterious IT problem - 6 hours ago
+- [RegisterSec] Alaska Airlines grounded itself due to mysterious IT problem - 6 hours ago
+- [SecurityWeek] Exploited CrushFTP Zero-Day Provides Admin Access to Servers - 6 hours ago
+- [GitHub] Incident with Issues - 6 hours ago
+- [HackerNews] PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - 7 hours ago
+- [RegisterSoftware] Alaska Airlines grounds itself due to mysterious IT problem - 7 hours ago
+- [RegisterSec] Japan discovers object out beyond Pluto that rewrites the Planet 9 theory - 7 hours ago
+- [RegisterSec] Alaska Airlines grounds itself due to mysterious IT problem - 7 hours ago
+- [CloudFlare] DUB (Dublin) on 2025-07-24 - 7 hours ago
+- [BleepingComputer] Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks - 9 hours ago
+- [HackerNews] 3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics - 9 hours ago
+- [HackerNews] Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access - 9 hours ago
+- [HackerNews] Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks - 9 hours ago
+- [CloudFlare] FCO (Rome) on 2025-07-22 - 9 hours ago
+- [RegisterSoftware] Vibe coding service Replit deleted user’s production database, faked data, told fibs galore - 10 hours ago
+- [RegisterSec] Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack - 12 hours ago
+- [CloudFlare] FCO (Rome) on 2025-07-21 - 12 hours ago
+- [HackerNews] EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware - 21 hours ago
+- [BleepingComputer] HPE warns of hardcoded passwords in Aruba access points - 22 hours ago
+- [BleepingComputer] Microsoft SharePoint zero-day exploited in RCE attacks, no patch available - 22 hours ago
+- [SecurityWeek] SharePoint Under Attack: Microsoft Warns of Zero-Day Exploited in the Wild – No Patch Available - 23 hours ago
+- [HackerNews] Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 1 day ago
+- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - 1 day ago
+- [RegisterSec] UK uncovers novel Microsoft snooping malware, blames and sanctions GRU cyberspies - 1 day ago
+- [HackerNews] Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack - 1 day ago
+- [HackerNews] Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations - 1 day ago
+- [HackerNews] Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers - 1 day ago
+- [TroyHunt] Weekly Update 461 - 1 day ago
 - [FullDisclosure] Multiple vulnerabilities in the web management interface of	Intelbras routers - 1 day ago
 - [BleepingComputer] Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack - 1 day ago
-- [BleepingComputer] Popular npm linter packages hijacked via phishing to drop malware - 1 day ago
-- [BleepingComputer] ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch - 1 day ago
-- [RegisterSec] Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days - 1 day ago
-- [BleepingComputer] OpenAI, Anthropic, Google may disrupt education market with new AI tools - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 2 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 2 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 2 months ago
