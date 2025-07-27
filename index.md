@@ -9,26 +9,8 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [Slack] Incident: Some users unable to connect to Slack - 5 hours ago
-- [CloudFlare] KIV (Chișinău) on 2025-07-29 - 1 day ago
-- [BleepingComputer] Microsoft lifts Windows 11 update block for Easy Anti-Cheat users - 1 day ago
-- [SecurityWeek] UK Student Sentenced to Prison for Selling Phishing Kits - 1 day ago
-- [RegisterSec] Advisor to Brit tech contractors Qdos confirms client data leak - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-08-01 - 1 day ago
-- [SecurityWeek] Chinese Spies Target Networking and Virtualization Flaws to Breach Isolated Environments - 1 day ago
-- [CloudFlare] KGL (Kigali) on 2025-08-01 - 1 day ago
-- [SecurityWeek] No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking - 1 day ago
-- [CloudFlare] LUN (Lusaka) on 2025-08-01 - 1 day ago
-- [RegisterSoftware] Microsoft walks us through Copilot Search with a domain it doesn't even own - 1 day ago
-- [CloudFlare] MPM (Maputo) on 2025-08-01 - 1 day ago
-- [SecurityWeek] US Targets North Korea’s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam - 1 day ago
-- [CloudFlare] LAD (Luanda) on 2025-08-01 - 1 day ago
-- [CloudFlare] CPT (Cape Town) on 2025-08-04 - 1 day ago
-- [RegisterSoftware] Problem PC had graybeards stumped until trainee rummaged through trash - 1 day ago
-- [CloudFlare] EBB (Kampala) on 2025-08-04 - 1 day ago
-- [CloudFlare] DAR (Dar es Salaam) on 2025-08-04 - 1 day ago
-- [RegisterSec] DNS security is important but DNSSEC may be a failed experiment - 2 days ago
-- [CloudFlare] MBA (Mombasa) on 2025-08-04 - 2 days ago
+- [RegisterSoftware] Seeing is believing in biomedicine, which isn't great when AI gets it wrong - 2 hours ago
+- [Slack] Incident: Some users unable to connect to Slack - 12 hours ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
