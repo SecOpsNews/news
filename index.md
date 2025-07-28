@@ -9,11 +9,24 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure - 20 minutes ago
-- [HackerNews] Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide - 2 hours ago
-- [RegisterSec] US spy satellite agency breached, but insists no classified secrets spilled - 5 hours ago
-- [BleepingComputer] Scattered Spider is running a VMware ESXi hacking spree - 16 hours ago
-- [RegisterSoftware] Seeing is believing in biomedicine, which isn't great when AI gets it wrong - 19 hours ago
+- [RegisterSoftware] Windows 11 is a minefield of micro-aggressions in the shipping lane of progress - 19 minutes ago
+- [HackerNews] ⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More - 19 minutes ago
+- [SecurityWeek] NASCAR Confirms Personal Information Stolen in Ransomware Attack - 49 minutes ago
+- [SecurityWeek] Scattered Spider Targeting VMware vSphere Environments - 1 hour ago
+- [SecurityWeek] Root Evidence Launches With $12.5 Million in Seed Funding - 1 hour ago
+- [RegisterSec] Aeroflot aeroflops over 'IT issues' after attackers claim year-long compromise - 1 hour ago
+- [HackerNews] Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach - 2 hours ago
+- [SecurityWeek] Allianz Life Data Breach Impacts Most of 1.4 Million US Customers - 2 hours ago
+- [SecurityWeek] BlackSuit Ransomware Group Transitioning to ‘Chaos’ Amid Leak Site Seizure - 2 hours ago
+- [TroyHunt] Weekly Update 462 - 3 hours ago
+- [RegisterSoftware] Intel cutting cutting-edge node funds would mean no more Moore's Law - 4 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-07-30 - 4 hours ago
+- [SecurityWeek] Flaw Allowing Website Takeover Found in WordPress Plugin With 400k Installations - 5 hours ago
+- [HackerNews] Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure - 7 hours ago
+- [HackerNews] Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide - 9 hours ago
+- [RegisterSec] US spy satellite agency breached, but insists no classified secrets spilled - 12 hours ago
+- [BleepingComputer] Scattered Spider is running a VMware ESXi hacking spree - 22 hours ago
+- [RegisterSoftware] Seeing is believing in biomedicine, which isn't great when AI gets it wrong - 1 day ago
 - [Slack] Incident: Some users unable to connect to Slack - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
