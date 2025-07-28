@@ -9,8 +9,12 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Seeing is believing in biomedicine, which isn't great when AI gets it wrong - 2 hours ago
-- [Slack] Incident: Some users unable to connect to Slack - 12 hours ago
+- [HackerNews] Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure - 20 minutes ago
+- [HackerNews] Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide - 2 hours ago
+- [RegisterSec] US spy satellite agency breached, but insists no classified secrets spilled - 5 hours ago
+- [BleepingComputer] Scattered Spider is running a VMware ESXi hacking spree - 16 hours ago
+- [RegisterSoftware] Seeing is believing in biomedicine, which isn't great when AI gets it wrong - 19 hours ago
+- [Slack] Incident: Some users unable to connect to Slack - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
