@@ -9,20 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] APPLE-SA-07-30-2025-1 Safari 18.6 - 3 hours ago
-- [FullDisclosure] Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) - 3 hours ago
-- [HackerNews] CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign - 13 hours ago
-- [DataBreaches] Oklahoma Substantially Amends Its Data Breach Notification Statute - 14 hours ago
-- [DataBreaches] Highlands Oncology Group notifies 113,575 people after ransomware attack by Medusa - 14 hours ago
-- [DataBreaches] HCA Healthcare settled two lawsuits this week; one was over its 2023 data breach - 14 hours ago
-- [DataBreaches] Qilin Ransomware Affiliate Panel Login Credentials Exposed Online - 14 hours ago
-- [DataBreaches] Aftermath: More than 99% of providers opted to have Change Healthcare notify patients of its massive data breach - 14 hours ago
-- [HackerNews] New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft - 16 hours ago
-- [BleepingComputer] OpenAI prepares new open weight models along with GPT-5 - 20 hours ago
-- [RegisterSoftware] Reddit is people! Which means its search might not be so damaged by AI slop - 20 hours ago
-- [BleepingComputer] Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - 21 hours ago
-- [RegisterSec] CISA roasts unnamed critical national infrastructure body for shoddy security hygiene - 22 hours ago
-- [HackerNews] Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices - 23 hours ago
+- [RegisterSec] Silent Push CEO on cybercrime takedowns: 'It's an ongoing cat-and-mouse game' - 2 hours ago
+- [TroyHunt] Weekly Update 463 - 6 hours ago
+- [FullDisclosure] APPLE-SA-07-30-2025-1 Safari 18.6 - 10 hours ago
+- [FullDisclosure] Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) - 10 hours ago
+- [HackerNews] CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign - 20 hours ago
+- [DataBreaches] Oklahoma Substantially Amends Its Data Breach Notification Statute - 21 hours ago
+- [DataBreaches] Highlands Oncology Group notifies 113,575 people after ransomware attack by Medusa - 21 hours ago
+- [DataBreaches] HCA Healthcare settled two lawsuits this week; one was over its 2023 data breach - 21 hours ago
+- [DataBreaches] Qilin Ransomware Affiliate Panel Login Credentials Exposed Online - 21 hours ago
+- [DataBreaches] Aftermath: More than 99% of providers opted to have Change Healthcare notify patients of its massive data breach - 21 hours ago
+- [HackerNews] New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft - 23 hours ago
+- [BleepingComputer] OpenAI prepares new open weight models along with GPT-5 - 1 day ago
+- [RegisterSoftware] Reddit is people! Which means its search might not be so damaged by AI slop - 1 day ago
+- [BleepingComputer] Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - 1 day ago
+- [RegisterSec] CISA roasts unnamed critical national infrastructure body for shoddy security hygiene - 1 day ago
+- [HackerNews] Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices - 1 day ago
 - [RegisterSoftware] Rampant emoji use suggests crypto-stealing NPM package was written by AI - 1 day ago
 - [RegisterSoftware] OpenAI removes ChatGPT self-doxing option - 1 day ago
 - [RegisterSec] OpenAI removes ChatGPT self-doxing option - 1 day ago
@@ -45,24 +47,6 @@ description: Latest Updates
 - [BleepingComputer] AI-powered Cursor IDE vulnerable to prompt-injection attacks - 1 day ago
 - [CloudFlare] NBO (Nairobi) on 2025-08-05 - 1 day ago
 - [CloudFlare] Cloudflare Workers Issues - 1 day ago
-- [SecurityWeek] Microsoft Boosts .NET Bounty Program Rewards to $40,000 - 1 day ago
-- [RegisterSec] Florida prison email blunder exposes visitor contact info to inmates - 1 day ago
-- [HackerNews] AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown - 1 day ago
-- [SecurityWeek] Russian Cyberspies Target Foreign Embassies in Moscow via AitM Attacks: Microsoft - 1 day ago
-- [RegisterSoftware] Enterprise software giants weaponize AI to kill discounts and deepen lock-in - 1 day ago
-- [RegisterSoftware] Oracle offers workaround to Windows boot issue in the cloud instead of fix - 1 day ago
-- [HackerNews] You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them - 1 day ago
-- [BleepingComputer] Pwn2Own hacking contest pays $1 million for WhatsApp exploit - 1 day ago
-- [SecurityWeek] Cyber Risk Management Firm Safe Raises $70 Million - 1 day ago
-- [CloudFlare] MXP (Milan) on 2025-08-07 - 1 day ago
-- [RegisterSec] Cybercrooks attached Raspberry Pi to bank network and drained ATM cash - 1 day ago
-- [HackerNews] Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks - 1 day ago
-- [CloudFlare] Cloudflare WARP: connectivity issues in Dubai - 1 day ago
-- [RegisterSoftware] Windows 10 @ 10: How Microsoft led developers round in circles - 1 day ago
-- [SecurityWeek] Echo Raises $15M in Seed Funding for Vulnerability-Free Container Images - 1 day ago
-- [IT Governance] The Six Data Processing Principles of the UK GDPR Explained - 1 day ago
-- [SecurityWeek] Bill Aims to Create National Strategy for Quantum Cybersecurity Migration - 1 day ago
-- [SecurityWeek] $1 Million Offered for WhatsApp Exploit at Pwn2Own Ireland 2025 - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
