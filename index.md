@@ -9,44 +9,62 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Silent Push CEO on cybercrime takedowns: 'It's an ongoing cat-and-mouse game' - 2 hours ago
-- [TroyHunt] Weekly Update 463 - 6 hours ago
-- [FullDisclosure] APPLE-SA-07-30-2025-1 Safari 18.6 - 10 hours ago
-- [FullDisclosure] Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) - 10 hours ago
-- [HackerNews] CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign - 20 hours ago
-- [DataBreaches] Oklahoma Substantially Amends Its Data Breach Notification Statute - 21 hours ago
-- [DataBreaches] Highlands Oncology Group notifies 113,575 people after ransomware attack by Medusa - 21 hours ago
-- [DataBreaches] HCA Healthcare settled two lawsuits this week; one was over its 2023 data breach - 21 hours ago
-- [DataBreaches] Qilin Ransomware Affiliate Panel Login Credentials Exposed Online - 21 hours ago
-- [DataBreaches] Aftermath: More than 99% of providers opted to have Change Healthcare notify patients of its massive data breach - 21 hours ago
-- [HackerNews] New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft - 23 hours ago
+- [RegisterSec] China’s botched Great Firewall upgrade invites attacks on its censorship infrastructure - 27 minutes ago
+- [CloudFlare] BGW (Baghdad) on 2025-08-07 - 2 hours ago
+- [CloudFlare] KWI (Kuwait City) on 2025-08-07 - 2 hours ago
+- [CloudFlare] DXB (Dubai) on 2025-08-11 - 3 hours ago
+- [CloudFlare] MCT (Muscat) on 2025-08-11 - 3 hours ago
+- [CloudFlare] EVN (Yerevan) on 2025-08-11 - 3 hours ago
+- [CloudFlare] EBL (Erbil) on 2025-08-11 - 3 hours ago
+- [CloudFlare] JED (Jeddah) on 2025-08-11 - 3 hours ago
+- [CloudFlare] RUH (Riyadh) on 2025-08-11 - 3 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-08-11 - 3 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-08-12 - 3 hours ago
+- [CloudFlare] JED (Jeddah) on 2025-08-12 - 3 hours ago
+- [CloudFlare] AMM (Amman) on 2025-08-12 - 3 hours ago
+- [CloudFlare] AMM (Amman) on 2025-08-13 - 3 hours ago
+- [CloudFlare] EVN (Yerevan) on 2025-08-18 - 3 hours ago
+- [CloudFlare] LLK (Astara) on 2025-08-18 - 3 hours ago
+- [CloudFlare] DOH (Doha) on 2025-08-18 - 3 hours ago
+- [CloudFlare] JED (Jeddah) on 2025-08-18 - 3 hours ago
+- [CloudFlare] AMM (Amman) on 2025-08-18 - 3 hours ago
+- [CloudFlare] DMM (Dammam) on 2025-08-18 - 3 hours ago
+- [CloudFlare] BAH (Manama) on 2025-08-19 - 3 hours ago
+- [CloudFlare] ZDM (Ramallah) on 2025-08-19 - 3 hours ago
+- [CloudFlare] TLV (Tel Aviv) on 2025-08-19 - 3 hours ago
+- [CloudFlare] HFA (Haifa) on 2025-08-19 - 3 hours ago
+- [CloudFlare] TLV (Tel Aviv) on 2025-08-20 - 3 hours ago
+- [CloudFlare] DOH (Doha) on 2025-08-20 - 3 hours ago
+- [RegisterSec] Lazarus Group rises again, this time with malware-laden fake FOSS - 5 hours ago
+- [CloudFlare] MCT (Muscat) on 2025-08-05 - 5 hours ago
+- [CloudFlare] GYD (Baku) on 2025-08-05 - 5 hours ago
+- [CloudFlare] EVN (Yerevan) on 2025-08-05 - 5 hours ago
+- [CloudFlare] ADB (Izmir) on 2025-08-05 - 5 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-08-06 - 5 hours ago
+- [CloudFlare] TLV (Tel Aviv) on 2025-08-06 - 5 hours ago
+- [CloudFlare] AMM (Amman) on 2025-08-06 - 5 hours ago
+- [CloudFlare] ISU (Sulaymaniyah) on 2025-08-06 - 5 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-08-07 - 5 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-08-07 - 5 hours ago
+- [CloudFlare] KWI (Kuwait City) on 2025-08-07 - 5 hours ago
+- [DataBreaches] Why we shouldn’t just repeat ransomware groups’ claims, Sunday edition - 15 hours ago
+- [DataBreaches] Are Scattered Spider and ShinyHunters one group or two? And who did France arrest? - 15 hours ago
+- [RegisterSec] Silent Push CEO on cybercrime takedowns: 'It's an ongoing cat-and-mouse game' - 19 hours ago
+- [TroyHunt] Weekly Update 463 - 23 hours ago
+- [FullDisclosure] APPLE-SA-07-30-2025-1 Safari 18.6 - 1 day ago
+- [FullDisclosure] Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) - 1 day ago
+- [HackerNews] CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign - 1 day ago
+- [DataBreaches] Oklahoma Substantially Amends Its Data Breach Notification Statute - 1 day ago
+- [DataBreaches] Highlands Oncology Group notifies 113,575 people after ransomware attack by Medusa - 1 day ago
+- [DataBreaches] HCA Healthcare settled two lawsuits this week; one was over its 2023 data breach - 1 day ago
+- [DataBreaches] Qilin Ransomware Affiliate Panel Login Credentials Exposed Online - 1 day ago
+- [DataBreaches] Aftermath: More than 99% of providers opted to have Change Healthcare notify patients of its massive data breach - 1 day ago
+- [HackerNews] New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft - 1 day ago
 - [BleepingComputer] OpenAI prepares new open weight models along with GPT-5 - 1 day ago
 - [RegisterSoftware] Reddit is people! Which means its search might not be so damaged by AI slop - 1 day ago
 - [BleepingComputer] Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - 1 day ago
 - [RegisterSec] CISA roasts unnamed critical national infrastructure body for shoddy security hygiene - 1 day ago
-- [HackerNews] Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices - 1 day ago
-- [RegisterSoftware] Rampant emoji use suggests crypto-stealing NPM package was written by AI - 1 day ago
-- [RegisterSoftware] OpenAI removes ChatGPT self-doxing option - 1 day ago
-- [RegisterSec] OpenAI removes ChatGPT self-doxing option - 1 day ago
-- [BleepingComputer] OpenAI may be testing a cheaper paid plan for ChatGPT - 1 day ago
-- [RegisterSoftware] Gadget geeks aghast at guru's geriatric GPU - 1 day ago
-- [RegisterSec] Tested: Microsoft Recall can still capture credit cards and passwords, a treasure trove for crooks - 1 day ago
-- [RegisterSec] China says US spies exploited Microsoft Exchange zero-day to steal military info - 1 day ago
-- [RegisterSec] Top spy says LinkedIn profiles that list defense work 'recklessly invite attention of foreign intelligence services' - 1 day ago
-- [RegisterSoftware] Court upholds Epic win in Google Play Store antitrust battle - 1 day ago
-- [BleepingComputer] SonicWall firewall devices hit in surge of Akira ransomware attacks - 1 day ago
-- [HackerNews] Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection - 1 day ago
-- [BleepingComputer] Pi-hole discloses data breach triggered by WordPress plugin flaw - 1 day ago
-- [SecurityWeek] Gen Z in the Crosshairs: Cybercriminals Shift Focus to Young, Digital-Savvy Workers - 1 day ago
-- [RegisterSoftware] Microsoft gives in to Chromebook bullies and drops Windows 11 SE - 1 day ago
-- [CloudFlare] JIB (Djibouti) on 2025-08-04 - 1 day ago
-- [HackerNews] Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts - 1 day ago
-- [CloudFlare] CAI (Cairo) on 2025-08-05 - 1 day ago
-- [RegisterSoftware] Another one bites the dust as KubeSphere kills open source edition - 1 day ago
-- [SecurityWeek] In Other News: Microsoft Probes ToolShell Leak, Port Cybersecurity, Raspberry Pi ATM Hack - 1 day ago
-- [BleepingComputer] AI-powered Cursor IDE vulnerable to prompt-injection attacks - 1 day ago
-- [CloudFlare] NBO (Nairobi) on 2025-08-05 - 1 day ago
-- [CloudFlare] Cloudflare Workers Issues - 1 day ago
+- [HackerNews] Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
