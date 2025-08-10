@@ -9,15 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] The inside story of the Telemessage saga, and how you can view the data - 5 hours ago
-- [BleepingComputer] 60 malicious Ruby gems downloaded 275,000 times steal credentials - 11 hours ago
-- [BleepingComputer] Google confirms data breach exposed potential Google Ads customers' info - 11 hours ago
-- [HackerNews] Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks - 11 hours ago
-- [DataBreaches] Scattered Spider has a new Telegram channel to list its attacks - 13 hours ago
-- [HackerNews] Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - 15 hours ago
-- [RegisterSoftware] The dead need right to delete their data so they can't be AI-ified, lawyer says - 18 hours ago
-- [SecurityWeek] Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking - 19 hours ago
-- [RegisterSoftware] The International Obfuscated C Code Contest is back for 2024 - 21 hours ago
+- [DataBreaches] Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks - 53 minutes ago
+- [HackerNews] Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation - 53 minutes ago
+- [RegisterSec] DEF CON hackers plug security holes in US water systems amid tsunami of threats - 1 hour ago
+- [DataBreaches] NCERT Issues Advisory on “Blue Locker” Ransomware Targeting Pakistan’s Key Institutions - 2 hours ago
+- [DataBreaches] Bank of America Refused To Reimburse Georgia Customer After Hackers Hit Account. Then a News Station Showed Up. - 2 hours ago
+- [RegisterSoftware] How OpenAI used a new data type to cut inference costs by 75% - 4 hours ago
+- [HackerNews] Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models - 4 hours ago
+- [RegisterSec] The inside story of the Telemessage saga, and how you can view the data - 12 hours ago
+- [BleepingComputer] 60 malicious Ruby gems downloaded 275,000 times steal credentials - 18 hours ago
+- [BleepingComputer] Google confirms data breach exposed potential Google Ads customers' info - 18 hours ago
+- [HackerNews] Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks - 18 hours ago
+- [DataBreaches] Scattered Spider has a new Telegram channel to list its attacks - 20 hours ago
+- [HackerNews] Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - 22 hours ago
+- [RegisterSoftware] The dead need right to delete their data so they can't be AI-ified, lawyer says - 1 day ago
+- [SecurityWeek] Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking - 1 day ago
+- [RegisterSoftware] The International Obfuscated C Code Contest is back for 2024 - 1 day ago
 - [HackerNews] CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials - 1 day ago
 - [CloudFlare] ATL (Atlanta) on 2025-08-13 - 1 day ago
 - [BleepingComputer] WinRAR zero-day exploited to plant malware on archive extraction - 1 day ago
@@ -42,35 +49,6 @@ description: Latest Updates
 - [DataBreaches] Pakistan Petroleum thwarts ransomware attempt, says no critical data compromised - 1 day ago
 - [SecurityWeek] Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector - 1 day ago
 - [RegisterSoftware] Sudden spike in demand causes issues in Azure East US region - 1 day ago
-- [RegisterSec] Ex-White House cyber, counter-terrorism guru: Microsoft considers security an annoyance, not a necessity - 1 day ago
-- [DataBreaches] ShinyHunters sent Google an extortion demand;  Shiny comments on current activities - 1 day ago
-- [SecurityWeek] In Other News: Nvidia Says No to Backdoors, Satellite Hacking, Energy Sector Assessment - 1 day ago
-- [DataBreaches] 6.4 million Bouygues Telecom just had their data exposed in a huge data breach – and it’s the second to hit French telecoms operators in a month - 1 day ago
-- [DataBreaches] Samourai CEO Keonne Rodriguez and Samourai CTO William Lonergan Hill Pled Guilty to Operating a Money Transmitting Business, Samourai Wallet, That Transmitted Over $200 Million in Criminal Proceeds - 1 day ago
-- [DataBreaches] Air France and KLM alert customers to data breach on external platform - 1 day ago
-- [RegisterSoftware] Infosec hounds spot prompt injection vuln in Google Gemini apps - 1 day ago
-- [RegisterSec] Infosec hounds spot prompt injection vuln in Google Gemini apps - 1 day ago
-- [HackerNews] RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes - 1 day ago
-- [HackerNews] Leaked Credentials Up 160%: What Attackers Are Doing With Them - 1 day ago
-- [BleepingComputer] Microsoft 365 apps to soon block file access via FPRPC by default - 1 day ago
-- [SecurityWeek] Black Hat USA 2025 – Summary of Vendor Announcements (Part 4) - 1 day ago
-- [RegisterSec] UK secretly allows facial recognition scans of passport, immigration databases - 1 day ago
-- [SecurityWeek] Columbia University Data Breach Impacts 860,000 - 1 day ago
-- [RegisterSoftware] UK secretly allows facial recognition scans of passport, immigration databases - 1 day ago
-- [DataBreaches] AU: Privacy watchdog sues Optus over mass data breach in 2022 - 1 day ago
-- [BleepingComputer] Microsoft will kill the Lens PDF scanner app for iOS, Android - 1 day ago
-- [RegisterSoftware] Sopra Steria bags £115 million legacy extension from UK pensions department after delays to replacement ERP project - 1 day ago
-- [RegisterSec] UK proxy traffic surges as users consider VPN alternatives amid Online Safety Act - 1 day ago
-- [IT Governance] Data Protection Enforcement: Your Cookie Compliance Questions Answered - 1 day ago
-- [GrahamCluley] TeaOnHer copies everything from Tea – including the data breaches - 1 day ago
-- [RegisterSoftware] After 30 years PHP still evolving: Team adds pipe operator, considers generics - 1 day ago
-- [BleepingComputer] Columbia University data breach impacts nearly 870,000 individuals - 1 day ago
-- [HackerNews] GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions - 1 day ago
-- [RegisterSoftware] Mexit, not Brexit, is the new priority for the UK - 1 day ago
-- [SecurityWeek] French Telecom Firm Bouygues Says Data Breach Affects 6.4M Customers - 1 day ago
-- [BleepingComputer] Royal and BlackSuit ransomware gangs hit over 450 US companies - 1 day ago
-- [RegisterSec] Prohibition never works, but that didn't stop the UK's Online Safety Act - 2 days ago
-- [HIBP] Unigame - 843,696 breached accounts - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
