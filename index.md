@@ -9,46 +9,31 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks - 53 minutes ago
-- [HackerNews] Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation - 53 minutes ago
-- [RegisterSec] DEF CON hackers plug security holes in US water systems amid tsunami of threats - 1 hour ago
-- [DataBreaches] NCERT Issues Advisory on “Blue Locker” Ransomware Targeting Pakistan’s Key Institutions - 2 hours ago
-- [DataBreaches] Bank of America Refused To Reimburse Georgia Customer After Hackers Hit Account. Then a News Station Showed Up. - 2 hours ago
-- [RegisterSoftware] How OpenAI used a new data type to cut inference costs by 75% - 4 hours ago
-- [HackerNews] Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models - 4 hours ago
-- [RegisterSec] The inside story of the Telemessage saga, and how you can view the data - 12 hours ago
-- [BleepingComputer] 60 malicious Ruby gems downloaded 275,000 times steal credentials - 18 hours ago
-- [BleepingComputer] Google confirms data breach exposed potential Google Ads customers' info - 18 hours ago
-- [HackerNews] Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks - 18 hours ago
-- [DataBreaches] Scattered Spider has a new Telegram channel to list its attacks - 20 hours ago
-- [HackerNews] Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - 22 hours ago
+- [BleepingComputer] Google Calendar invites let researchers hijack Gemini to leak user data - 38 minutes ago
+- [BleepingComputer] How to restore GPT-4o when you've GPT-5 - 38 minutes ago
+- [HackerNews] WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately - 38 minutes ago
+- [RegisterSoftware] Google fixing Gemini so it doesn't channel paranoid androids quite so often - 1 hour ago
+- [CloudFlare] PER (Perth) on 2025-08-13 - 3 hours ago
+- [DataBreaches] Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks (CORRECTED) - 7 hours ago
+- [DataBreaches] Connex Credit Union notifies 172,000 members of hacking incident - 8 hours ago
+- [RegisterSec] Trend Micro offers weak workaround for already-exploited critical vuln in management console - 8 hours ago
+- [HackerNews] New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP - 11 hours ago
+- [DataBreaches] Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks - 18 hours ago
+- [HackerNews] Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation - 18 hours ago
+- [RegisterSec] DEF CON hackers plug security holes in US water systems amid tsunami of threats - 18 hours ago
+- [DataBreaches] NCERT Issues Advisory on “Blue Locker” Ransomware Targeting Pakistan’s Key Institutions - 19 hours ago
+- [DataBreaches] Bank of America Refused To Reimburse Georgia Customer After Hackers Hit Account. Then a News Station Showed Up. - 19 hours ago
+- [RegisterSoftware] How OpenAI used a new data type to cut inference costs by 75% - 21 hours ago
+- [HackerNews] Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models - 21 hours ago
+- [RegisterSec] The inside story of the Telemessage saga, and how you can view the data - 1 day ago
+- [BleepingComputer] 60 malicious Ruby gems downloaded 275,000 times steal credentials - 1 day ago
+- [BleepingComputer] Google confirms data breach exposed potential Google Ads customers' info - 1 day ago
+- [HackerNews] Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks - 1 day ago
+- [DataBreaches] Scattered Spider has a new Telegram channel to list its attacks - 1 day ago
+- [HackerNews] Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - 1 day ago
 - [RegisterSoftware] The dead need right to delete their data so they can't be AI-ified, lawyer says - 1 day ago
 - [SecurityWeek] Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking - 1 day ago
 - [RegisterSoftware] The International Obfuscated C Code Contest is back for 2024 - 1 day ago
-- [HackerNews] CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-08-13 - 1 day ago
-- [BleepingComputer] WinRAR zero-day exploited to plant malware on archive extraction - 1 day ago
-- [BrianKrebs] KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series - 1 day ago
-- [BleepingComputer] OpenAI to fix GPT-5 issues, double rate limits for paid users after outrage - 1 day ago
-- [DataBreaches] SC: Spartanburg County hit by cyberattack, some online services disrupted - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-08-13 - 1 day ago
-- [BleepingComputer] WinRAR zero-day flaw exploited by RomCom hackers in phishing attacks - 1 day ago
-- [RegisterSoftware] Humans make better content cops than AI, but cost 40x more - 1 day ago
-- [RegisterSec] Chinese biz using AI to hit US politicians, influencers with propaganda - 1 day ago
-- [RegisterSoftware] Meet President Willian H. Brusen from the great state of Onegon - 1 day ago
-- [SecurityWeek] Red Teams Jailbreak GPT-5 With Ease, Warn It’s ‘Nearly Unusable’ for Enterprise - 1 day ago
-- [BleepingComputer] FTC: older adults lost record $700 million to scammers in 2024 - 1 day ago
-- [HackerNews] AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-08-12 - 1 day ago
-- [RegisterSoftware] Ubuntu 24.04.3: Noble Numbat point release slips out quietly - 1 day ago
-- [SecurityWeek] CodeSecCon 2025: Where Software Security’s Next Chapter Unfolds - 1 day ago
-- [CloudFlare] TPE (Taipei) on 2025-08-13 - 1 day ago
-- [BleepingComputer] U.S. Judiciary confirms breach of court electronic records service - 1 day ago
-- [RegisterSoftware] Star leaky app of the week: StarDict - 1 day ago
-- [RegisterSec] Star leaky app of the week: StarDict - 1 day ago
-- [DataBreaches] Pakistan Petroleum thwarts ransomware attempt, says no critical data compromised - 1 day ago
-- [SecurityWeek] Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector - 1 day ago
-- [RegisterSoftware] Sudden spike in demand causes issues in Azure East US region - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
