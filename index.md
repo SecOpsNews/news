@@ -9,25 +9,27 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] Intermittent 520s for Authenticated Origin Pulls - 7 hours ago
-- [TroyHunt] Weekly Update 465 - 7 hours ago
-- [BleepingComputer] OpenAI prepares Chromium-based AI browser to take on Google - 9 hours ago
-- [DataBreaches] Government papers found in an Alaskan hotel reveal new details of Trump-Putin summit - 10 hours ago
-- [BleepingComputer] Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere - 10 hours ago
-- [BleepingComputer] Microsoft Teams to protect against malicious URLs, dangerous file types - 10 hours ago
-- [BleepingComputer] Researcher to release exploit for full auth bypass on FortiWeb - 10 hours ago
-- [BleepingComputer] OpenAI is improving ChatGPT voice mode - 10 hours ago
-- [RegisterSec] Election workers fear threats and intimidation without feds' support in 2026 - 14 hours ago
-- [CloudFlare] Usage Analytics for Durable Objects and D1 Delayed - 16 hours ago
-- [SecurityWeek] Watch Now: CodeSecCon – Where Software Security’s Next Chapter Unfolds (Virtual Event) - 17 hours ago
-- [DataBreaches] Data breach at Fundamental Administrative Services affected 56,235 patients at long-term care facilities - 17 hours ago
-- [DataBreaches] UK: HMRC sacks dozens of staff for snooping on taxpayers - 19 hours ago
-- [DataBreaches] Kokomo24/7, provider of telehealth services for LAUSD students, reports data breach - 19 hours ago
-- [DataBreaches] Thousands more Afghans affected by second data breach, ministers say - 19 hours ago
-- [DataBreaches] NYDFS Secures $2 Million Cybersecurity Settlement with Healthplex, Inc. - 19 hours ago
-- [HackerNews] ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure - 19 hours ago
-- [RegisterSoftware] Microsoft keeps adding stuff into Windows we don't want - here's what we actually need - 19 hours ago
-- [RegisterSoftware] Minority Report: Now with more spreadsheets and guesswork - 22 hours ago
+- [DataBreaches] 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam - 2 hours ago
+- [RegisterSoftware] Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI - 2 hours ago
+- [CloudFlare] Intermittent 520s for Authenticated Origin Pulls - 14 hours ago
+- [TroyHunt] Weekly Update 465 - 14 hours ago
+- [BleepingComputer] OpenAI prepares Chromium-based AI browser to take on Google - 16 hours ago
+- [DataBreaches] Government papers found in an Alaskan hotel reveal new details of Trump-Putin summit - 17 hours ago
+- [BleepingComputer] Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere - 17 hours ago
+- [BleepingComputer] Microsoft Teams to protect against malicious URLs, dangerous file types - 17 hours ago
+- [BleepingComputer] Researcher to release exploit for full auth bypass on FortiWeb - 17 hours ago
+- [BleepingComputer] OpenAI is improving ChatGPT voice mode - 17 hours ago
+- [RegisterSec] Election workers fear threats and intimidation without feds' support in 2026 - 21 hours ago
+- [CloudFlare] Usage Analytics for Durable Objects and D1 Delayed - 23 hours ago
+- [SecurityWeek] Watch Now: CodeSecCon – Where Software Security’s Next Chapter Unfolds (Virtual Event) - 1 day ago
+- [DataBreaches] Data breach at Fundamental Administrative Services affected 56,235 patients at long-term care facilities - 1 day ago
+- [DataBreaches] UK: HMRC sacks dozens of staff for snooping on taxpayers - 1 day ago
+- [DataBreaches] Kokomo24/7, provider of telehealth services for LAUSD students, reports data breach - 1 day ago
+- [DataBreaches] Thousands more Afghans affected by second data breach, ministers say - 1 day ago
+- [DataBreaches] NYDFS Secures $2 Million Cybersecurity Settlement with Healthplex, Inc. - 1 day ago
+- [HackerNews] ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure - 1 day ago
+- [RegisterSoftware] Microsoft keeps adding stuff into Windows we don't want - here's what we actually need - 1 day ago
+- [RegisterSoftware] Minority Report: Now with more spreadsheets and guesswork - 1 day ago
 - [HackerNews] Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware - 1 day ago
 - [CloudFlare] ORD (Chicago) on 2025-08-15 - 1 day ago
 - [CloudFlare] KIV (Chișinău) on 2025-08-18 - 1 day ago
@@ -65,29 +67,7 @@ description: Latest Updates
 - [RegisterSoftware] Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good - 1 day ago
 - [BleepingComputer] Microsoft reminds of Windows 10 support ending in two months - 1 day ago
 - [BleepingComputer] Cisco warns of max severity flaw in Firewall Management Center - 1 day ago
-- [RegisterSoftware] Microsoft kills volume rebates in name of 'transparency' - 1 day ago
-- [DataBreaches] Keenan & Associates settles 2023 data breach litigation for $14M - 1 day ago
-- [RegisterSoftware] Little LLM on the RAM: Google's Gemma 270M hits the scene - 1 day ago
-- [SecurityWeek] In Other News: Critical Zoom Flaw, City’s Water Threatened by Hack, $330 Billion OT Cyber Risk - 1 day ago
-- [RegisterSec] Cyberattack on Dutch prosecution service is keeping speed cameras offline - 1 day ago
-- [BleepingComputer] Plex warns users to patch security vulnerability immediately - 1 day ago
-- [HackerNews] Zero Trust + AI: Privacy in the Age of Agentic AI - 1 day ago
-- [HackerNews] U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions - 1 day ago
-- [RegisterSoftware] Are you willing to pay $100k a year per developer on AI? - 1 day ago
-- [RegisterSec] Telco giant Colt suffers attack, takes systems offline - 1 day ago
-- [Slack] Incident: Trouble loading Slack sidebar content - 1 day ago
-- [SecurityWeek] Tight Cybersecurity Budgets Accelerate the Shift to AI-Driven Defense - 1 day ago
-- [SecurityWeek] Google Says Android pKVM Earns Highest Level of Security Assurance - 1 day ago
-- [RegisterSoftware] Why the UK public sector still creaks along on COBOL - 1 day ago
-- [BleepingComputer] US sanctions Grinex crypto-exchange, successor to Garantex - 1 day ago
-- [BleepingComputer] US sanctions Grinex crypto-exchange, Garantex’s successor - 1 day ago
-- [RegisterSoftware] LLM chatbots trivial to weaponise for data theft, say boffins - 1 day ago
-- [SecurityWeek] Critical Flaws Patched in Rockwell FactoryTalk, Micro800, ControlLogix Products - 1 day ago
-- [RegisterSec] LLM chatbots trivial to weaponise for data theft, say boffins - 1 day ago
-- [SecurityWeek] Cisco Patches Critical Vulnerability in Firewall Management Platform - 1 day ago
-- [HackerNews] Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution - 1 day ago
-- [RegisterSoftware] Should UK.gov save money by looking for open source alternatives to Microsoft? You decide - 2 days ago
-- [RegisterSec] Should UK.gov save money by looking for open source alternatives to Microsoft? You decide - 2 days ago
+- [RegisterSoftware] Microsoft kills volume rebates in name of 'transparency' - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
