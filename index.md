@@ -9,18 +9,26 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam - 2 hours ago
-- [RegisterSoftware] Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI - 2 hours ago
-- [CloudFlare] Intermittent 520s for Authenticated Origin Pulls - 14 hours ago
-- [TroyHunt] Weekly Update 465 - 14 hours ago
-- [BleepingComputer] OpenAI prepares Chromium-based AI browser to take on Google - 16 hours ago
-- [DataBreaches] Government papers found in an Alaskan hotel reveal new details of Trump-Putin summit - 17 hours ago
-- [BleepingComputer] Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere - 17 hours ago
-- [BleepingComputer] Microsoft Teams to protect against malicious URLs, dangerous file types - 17 hours ago
-- [BleepingComputer] Researcher to release exploit for full auth bypass on FortiWeb - 17 hours ago
-- [BleepingComputer] OpenAI is improving ChatGPT voice mode - 17 hours ago
-- [RegisterSec] Election workers fear threats and intimidation without feds' support in 2026 - 21 hours ago
-- [CloudFlare] Usage Analytics for Durable Objects and D1 Delayed - 23 hours ago
+- [RegisterSec] Someone's poking the bear with infostealers targeting Russian crypto developers - 19 minutes ago
+- [RegisterSoftware] In Otter news, transcription app accused of illegally recording users’ voices - 1 hour ago
+- [CloudFlare] OSL (Oslo) on 2025-08-20 - 2 hours ago
+- [RegisterSoftware] Google admits anticompetitive conduct in Australia, agrees to modest fine - 5 hours ago
+- [RegisterSec] P2P payment service Zelle sued for enabling payment fraud hell - 8 hours ago
+- [BleepingComputer] Anthropic: Claude can now end conversations to prevent harmful uses - 16 hours ago
+- [BleepingComputer] U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator - 16 hours ago
+- [BleepingComputer] Google is adding "Projects" feature to Gemini to run research tasks - 16 hours ago
+- [DataBreaches] 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam - 19 hours ago
+- [RegisterSoftware] Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI - 20 hours ago
+- [CloudFlare] Intermittent 520s for Authenticated Origin Pulls - 1 day ago
+- [TroyHunt] Weekly Update 465 - 1 day ago
+- [BleepingComputer] OpenAI prepares Chromium-based AI browser to take on Google - 1 day ago
+- [DataBreaches] Government papers found in an Alaskan hotel reveal new details of Trump-Putin summit - 1 day ago
+- [BleepingComputer] Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere - 1 day ago
+- [BleepingComputer] Microsoft Teams to protect against malicious URLs, dangerous file types - 1 day ago
+- [BleepingComputer] Researcher to release exploit for full auth bypass on FortiWeb - 1 day ago
+- [BleepingComputer] OpenAI is improving ChatGPT voice mode - 1 day ago
+- [RegisterSec] Election workers fear threats and intimidation without feds' support in 2026 - 1 day ago
+- [CloudFlare] Usage Analytics for Durable Objects and D1 Delayed - 1 day ago
 - [SecurityWeek] Watch Now: CodeSecCon – Where Software Security’s Next Chapter Unfolds (Virtual Event) - 1 day ago
 - [DataBreaches] Data breach at Fundamental Administrative Services affected 56,235 patients at long-term care facilities - 1 day ago
 - [DataBreaches] UK: HMRC sacks dozens of staff for snooping on taxpayers - 1 day ago
@@ -30,44 +38,6 @@ description: Latest Updates
 - [HackerNews] ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure - 1 day ago
 - [RegisterSoftware] Microsoft keeps adding stuff into Windows we don't want - here's what we actually need - 1 day ago
 - [RegisterSoftware] Minority Report: Now with more spreadsheets and guesswork - 1 day ago
-- [HackerNews] Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-08-15 - 1 day ago
-- [CloudFlare] KIV (Chișinău) on 2025-08-18 - 1 day ago
-- [CloudFlare] EVN (Yerevan) on 2025-08-18 - 1 day ago
-- [CloudFlare] LLK (Astara) on 2025-08-18 - 1 day ago
-- [CloudFlare] DOH (Doha) on 2025-08-18 - 1 day ago
-- [CloudFlare] JED (Jeddah) on 2025-08-18 - 1 day ago
-- [RegisterSoftware] Codeberg beset by AI bots that now bypass Anubis tarpit - 1 day ago
-- [CloudFlare] AMM (Amman) on 2025-08-18 - 1 day ago
-- [CloudFlare] DMM (Dammam) on 2025-08-18 - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2025-08-19 - 1 day ago
-- [CloudFlare] MXP (Milan) on 2025-08-19 - 1 day ago
-- [CloudFlare] BAH (Manama) on 2025-08-19 - 1 day ago
-- [CloudFlare] ZDM (Ramallah) on 2025-08-19 - 1 day ago
-- [CloudFlare] TLV (Tel Aviv) on 2025-08-19 - 1 day ago
-- [CloudFlare] HFA (Haifa) on 2025-08-19 - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-09-03 - 1 day ago
-- [CloudFlare] FUK (Fukuoka) on 2025-08-20 - 1 day ago
-- [CloudFlare] TLV (Tel Aviv) on 2025-08-20 - 1 day ago
-- [CloudFlare] DOH (Doha) on 2025-08-20 - 1 day ago
-- [RegisterSec] Typhoon-adjacent Chinese crew broke into Taiwanese web host - 1 day ago
-- [CloudFlare] CPH (Copenhagen) on 2025-08-22 - 1 day ago
-- [CloudFlare] DEN (Denver) on 2025-08-25 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-08-19 - 1 day ago
-- [RegisterSoftware] Linux is about to lose a feature – over a personality clash - 1 day ago
-- [BrianKrebs] Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme - 1 day ago
-- [RegisterSoftware] LLM chatbots trivial to weaponize for data theft, say boffins - 1 day ago
-- [RegisterSec] LLM chatbots trivial to weaponize for data theft, say boffins - 1 day ago
-- [RegisterSec] Cisco's Secure Firewall Management Center now not-so secure, springs a CVSS 10 RCE hole - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2025-08-18 - 1 day ago
-- [HackerNews] Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools - 1 day ago
-- [CloudFlare] D1 availability issues - 1 day ago
-- [BleepingComputer] Colt Telecom attack claimed by WarLock ransomware, data up for sale - 1 day ago
-- [RegisterSoftware] Boy riding bubble realizes what he's on, asks for more air - 1 day ago
-- [RegisterSoftware] Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good - 1 day ago
-- [BleepingComputer] Microsoft reminds of Windows 10 support ending in two months - 1 day ago
-- [BleepingComputer] Cisco warns of max severity flaw in Firewall Management Center - 1 day ago
-- [RegisterSoftware] Microsoft kills volume rebates in name of 'transparency' - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
