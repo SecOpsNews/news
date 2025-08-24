@@ -9,13 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] KUL (Kuala Lumpur) on 2025-08-26 - 12 hours ago
-- [RegisterSoftware] Search-capable AI agents may cheat on benchmark tests - 16 hours ago
-- [DataBreaches] Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud - 19 hours ago
-- [DataBreaches] Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships - 19 hours ago
-- [RegisterSoftware] VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support - 19 hours ago
-- [RegisterSoftware] The Unix Epochalypse might be sooner than you think - 22 hours ago
-- [HackerNews] GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets - 23 hours ago
+- [HackerNews] Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot - 20 minutes ago
+- [DataBreaches] Google Deletes Millions of Android Apps After Malware Discovery - 1 hour ago
+- [DataBreaches] The EU NIS2 Directive and intra-group IT services - 1 hour ago
+- [RegisterSoftware] Tinker with LLMs in the privacy of your own home using Llama.cpp - 2 hours ago
+- [RegisterSec] Bug bounties: The good, the bad, and the frankly ridiculous ways to do it - 5 hours ago
+- [CloudFlare] KUL (Kuala Lumpur) on 2025-08-26 - 19 hours ago
+- [RegisterSoftware] Search-capable AI agents may cheat on benchmark tests - 23 hours ago
+- [DataBreaches] Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud - 1 day ago
+- [DataBreaches] Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships - 1 day ago
+- [RegisterSoftware] VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support - 1 day ago
+- [RegisterSoftware] The Unix Epochalypse might be sooner than you think - 1 day ago
+- [HackerNews] GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets - 1 day ago
 - [CloudFlare] JDO (Juazeiro do Norte) on 2025-08-26 - 1 day ago
 - [BleepingComputer] Murky Panda hackers exploit cloud trust to hack downstream customers - 1 day ago
 - [RegisterSec] Short circuit: Electronics supplier to tech giants suffers ransomware shutdown - 1 day ago
@@ -39,30 +44,10 @@ description: Latest Updates
 - [HackerNews] Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection - 1 day ago
 - [RegisterSec] Interpol bags 1,209 suspects, $97M in cybercrime operation focused on Africa - 1 day ago
 - [CloudFlare] WARP connectivity issues in China - 1 day ago
-- [SecurityWeek] Chinese Silk Typhoon Hackers Exploited Commvault Zero-Day - 1 day ago
-- [SecurityWeek] In Other News: McDonald’s Hack, 1,200 Arrested in Africa, DaVita Breach Grows to 2.7M - 1 day ago
-- [RegisterSoftware] Microsoft puts the squeeze on onmicrosoft.com freeloaders - 1 day ago
-- [CloudFlare] YHZ (Halifax) on 2025-08-27 - 1 day ago
-- [DataBreaches] Developer jailed for taking down employer’s network with kill switch malware - 1 day ago
-- [DataBreaches] African authorities dismantle massive cybercrime and fraud networks, recover millions - 1 day ago
-- [BleepingComputer] Microsoft: August Windows updates cause severe streaming issues - 1 day ago
-- [HackerNews] INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown - 1 day ago
-- [HackerNews] Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage - 1 day ago
-- [RegisterSoftware] Arch Linux takes a pounding as DDoS attack enters week two - 1 day ago
-- [SecurityWeek] Developer Who Hacked Former Employer’s Systems Sentenced to Prison - 1 day ago
-- [HackerNews] Automation Is Redefining Pentest Delivery - 1 day ago
-- [RegisterSoftware] Everything is 'different on Windows': Zed port delays highlight dev friction - 1 day ago
-- [SecurityWeek] CPAP Medical Data Breach Impacts 90,000 People - 1 day ago
-- [BleepingComputer] Massive anti-cybercrime operation leads to over 1,200 arrests in Africa - 1 day ago
-- [RegisterSoftware] IBM, NASA cook up AI model to predict solar tantrums - 1 day ago
-- [BleepingComputer] DaVita says ransomware gang stole data of nearly 2.7 million people - 1 day ago
-- [SecurityWeek] AWS Trusted Advisor Tricked Into Showing Unprotected S3 Buckets as Secure - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-08-27 - 1 day ago
-- [SecurityWeek] Hundreds Targeted in New Atomic macOS Stealer Campaign - 1 day ago
-- [SecurityWeek] MITRE Updates List of Most Common Hardware Weaknesses - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-08-21 - 1 day ago
-- [CloudFlare] Rate Limiting counting issue - 1 day ago
-- [HackerNews] Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware - 2 days ago
+- [SecurityWeek] Chinese Silk Typhoon Hackers Exploited Commvault Zero-Day - 2 days ago
+- [SecurityWeek] In Other News: McDonald’s Hack, 1,200 Arrested in Africa, DaVita Breach Grows to 2.7M - 2 days ago
+- [RegisterSoftware] Microsoft puts the squeeze on onmicrosoft.com freeloaders - 2 days ago
+- [CloudFlare] YHZ (Halifax) on 2025-08-27 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
@@ -71,13 +56,13 @@ description: Latest Updates
 - [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 3 months ago
 - [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 3 months ago
 - [TroyHunt] Weekly Update 449 - 3 months ago
-- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 3 months ago
-- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 3 months ago
-- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 3 months ago
-- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 3 months ago
-- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 3 months ago
-- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 3 months ago
-- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 3 months ago
+- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 4 months ago
+- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 4 months ago
+- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 4 months ago
+- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 4 months ago
+- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 4 months ago
+- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 4 months ago
+- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 4 months ago
 - [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 4 months ago
 - [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 4 months ago
 - [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 4 months ago
