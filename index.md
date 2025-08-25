@@ -9,53 +9,30 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot - 20 minutes ago
-- [DataBreaches] Google Deletes Millions of Android Apps After Malware Discovery - 1 hour ago
-- [DataBreaches] The EU NIS2 Directive and intra-group IT services - 1 hour ago
-- [RegisterSoftware] Tinker with LLMs in the privacy of your own home using Llama.cpp - 2 hours ago
-- [RegisterSec] Bug bounties: The good, the bad, and the frankly ridiculous ways to do it - 5 hours ago
-- [CloudFlare] KUL (Kuala Lumpur) on 2025-08-26 - 19 hours ago
-- [RegisterSoftware] Search-capable AI agents may cheat on benchmark tests - 23 hours ago
+- [SecurityWeek] Farmers Insurance Data Breach Impacts Over 1 Million People - 44 minutes ago
+- [RegisterSec] Australian university used Wi-Fi location data to identify student protestors - 2 hours ago
+- [RegisterSec] AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp - 5 hours ago
+- [CloudFlare] Cache Purging Delays in Western North America - 12 hours ago
+- [HackerNews] Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot - 17 hours ago
+- [DataBreaches] Google Deletes Millions of Android Apps After Malware Discovery - 18 hours ago
+- [DataBreaches] The EU NIS2 Directive and intra-group IT services - 18 hours ago
+- [RegisterSoftware] Tinker with LLMs in the privacy of your own home using Llama.cpp - 19 hours ago
+- [RegisterSec] Bug bounties: The good, the bad, and the frankly ridiculous ways to do it - 22 hours ago
+- [CloudFlare] KUL (Kuala Lumpur) on 2025-08-26 - 1 day ago
+- [RegisterSoftware] Search-capable AI agents may cheat on benchmark tests - 1 day ago
 - [DataBreaches] Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud - 1 day ago
 - [DataBreaches] Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships - 1 day ago
 - [RegisterSoftware] VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support - 1 day ago
 - [RegisterSoftware] The Unix Epochalypse might be sooner than you think - 1 day ago
 - [HackerNews] GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets - 1 day ago
-- [CloudFlare] JDO (Juazeiro do Norte) on 2025-08-26 - 1 day ago
-- [BleepingComputer] Murky Panda hackers exploit cloud trust to hack downstream customers - 1 day ago
-- [RegisterSec] Short circuit: Electronics supplier to tech giants suffers ransomware shutdown - 1 day ago
-- [RegisterSoftware] AI giants call for energy grid kumbaya - 1 day ago
-- [RegisterSoftware] Thunderbird 142 lands with modest upgrades – plus talk of Pro service ahead - 1 day ago
-- [BleepingComputer] APT36 hackers abuse Linux .desktop files to install malware in new attacks - 1 day ago
-- [RegisterSec] Kidney dialysis giant DaVita tells 2.4M people they were snared in ransomware data theft nightmare - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-08-28 - 1 day ago
-- [BleepingComputer] APT36 hackers abuse Linux .desktop files to install malware - 1 day ago
-- [RegisterSoftware] OneNote for Windows 10 support clock counts down - 1 day ago
-- [RegisterSoftware] Saved you a click: Firefox 142 offers AI summaries of links - 1 day ago
-- [CloudFlare] Stream video uploads processing slowly - 1 day ago
-- [GrahamCluley] Europol says Telegram post about 50,000 Qilin ransomware award is fake - 1 day ago
-- [SecurityWeek] Chinese Silk Typhoon Hackers Targeting Multiple Industries in North America - 1 day ago
-- [SecurityWeek] Large Interpol Cybercrime Crackdown in Africa Leads to the Arrest of Over 1,200 Suspects - 1 day ago
-- [RegisterSec] Criminal background checker APCS faces data breach - 1 day ago
-- [RegisterSoftware] Windows Security Update turns smooth NDI streams into jittery messes - 1 day ago
-- [BleepingComputer] Fake Mac fixes trick users into installing new Shamos infostealer - 1 day ago
-- [RegisterSec] Fake CAPTCHA tests trick users into running malware - 1 day ago
-- [RegisterSoftware] Microsoft lets devs tell Copilot to STFU in Visual Studio - 1 day ago
-- [HackerNews] Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection - 1 day ago
-- [RegisterSec] Interpol bags 1,209 suspects, $97M in cybercrime operation focused on Africa - 1 day ago
-- [CloudFlare] WARP connectivity issues in China - 1 day ago
-- [SecurityWeek] Chinese Silk Typhoon Hackers Exploited Commvault Zero-Day - 2 days ago
-- [SecurityWeek] In Other News: McDonald’s Hack, 1,200 Arrested in Africa, DaVita Breach Grows to 2.7M - 2 days ago
-- [RegisterSoftware] Microsoft puts the squeeze on onmicrosoft.com freeloaders - 2 days ago
-- [CloudFlare] YHZ (Halifax) on 2025-08-27 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
-- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 3 months ago
-- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 3 months ago
-- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 3 months ago
-- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 3 months ago
-- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 3 months ago
-- [TroyHunt] Weekly Update 449 - 3 months ago
+- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
+- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 4 months ago
+- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 4 months ago
+- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 4 months ago
+- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 4 months ago
+- [TroyHunt] Weekly Update 449 - 4 months ago
 - [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 4 months ago
 - [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 4 months ago
 - [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 4 months ago
