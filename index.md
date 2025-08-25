@@ -9,24 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Farmers Insurance Data Breach Impacts Over 1 Million People - 44 minutes ago
-- [RegisterSec] Australian university used Wi-Fi location data to identify student protestors - 2 hours ago
-- [RegisterSec] AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp - 5 hours ago
-- [CloudFlare] Cache Purging Delays in Western North America - 12 hours ago
-- [HackerNews] Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot - 17 hours ago
-- [DataBreaches] Google Deletes Millions of Android Apps After Malware Discovery - 18 hours ago
-- [DataBreaches] The EU NIS2 Directive and intra-group IT services - 18 hours ago
-- [RegisterSoftware] Tinker with LLMs in the privacy of your own home using Llama.cpp - 19 hours ago
-- [RegisterSec] Bug bounties: The good, the bad, and the frankly ridiculous ways to do it - 22 hours ago
+- [SecurityWeek] Pakistani Hackers Back at Targeting Indian Government Entities - 26 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits & More - 53 minutes ago
+- [SecurityWeek] Aspire Rural Health System Data Breach Impacts Nearly 140,000 - 53 minutes ago
+- [HackerNews] Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations - 1 hour ago
+- [SecurityWeek] Chip Programming Firm Data I/O Hit by Ransomware - 1 hour ago
+- [BleepingComputer] New Android malware poses as antivirus from Russian intelligence agency - 1 hour ago
+- [SecurityWeek] Anatsa Android Banking Trojan Now Targeting 830 Financial Apps - 2 hours ago
+- [SecurityWeek] CISA Requests Public Feedback on Updated SBOM Guidance - 3 hours ago
+- [SecurityWeek] SASE Company Netskope Files for IPO - 4 hours ago
+- [HackerNews] Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing - 4 hours ago
+- [SecurityWeek] Arch Linux Project Responding to Week-Long DDoS Attack - 5 hours ago
+- [CloudFlare] ICN (Seoul) on 2025-08-27 - 5 hours ago
+- [TroyHunt] Weekly Update 466 - 6 hours ago
+- [SecurityWeek] Farmers Insurance Data Breach Impacts Over 1 Million People - 7 hours ago
+- [RegisterSec] Australian university used Wi-Fi location data to identify student protestors - 9 hours ago
+- [RegisterSec] AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp - 12 hours ago
+- [CloudFlare] Cache Purging Delays in Western North America - 19 hours ago
+- [HackerNews] Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot - 1 day ago
+- [DataBreaches] Google Deletes Millions of Android Apps After Malware Discovery - 1 day ago
+- [DataBreaches] The EU NIS2 Directive and intra-group IT services - 1 day ago
+- [RegisterSoftware] Tinker with LLMs in the privacy of your own home using Llama.cpp - 1 day ago
+- [RegisterSec] Bug bounties: The good, the bad, and the frankly ridiculous ways to do it - 1 day ago
 - [CloudFlare] KUL (Kuala Lumpur) on 2025-08-26 - 1 day ago
 - [RegisterSoftware] Search-capable AI agents may cheat on benchmark tests - 1 day ago
-- [DataBreaches] Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud - 1 day ago
-- [DataBreaches] Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships - 1 day ago
-- [RegisterSoftware] VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support - 1 day ago
-- [RegisterSoftware] The Unix Epochalypse might be sooner than you think - 1 day ago
-- [HackerNews] GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 3 months ago
-- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 3 months ago
+- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
 - [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 4 months ago
 - [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 4 months ago
