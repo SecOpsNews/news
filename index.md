@@ -9,11 +9,14 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 14 hours ago
-- [HackerNews] Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling - 17 hours ago
-- [DataBreaches] Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. - 18 hours ago
-- [DataBreaches] Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) - 18 hours ago
-- [RegisterSoftware] Programmers: you have to watch your weight, too - 20 hours ago
+- [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 2 hours ago
+- [TroyHunt] Weekly Update 467 - 2 hours ago
+- [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 6 hours ago
+- [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 21 hours ago
+- [HackerNews] Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling - 1 day ago
+- [DataBreaches] Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. - 1 day ago
+- [DataBreaches] Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) - 1 day ago
+- [RegisterSoftware] Programmers: you have to watch your weight, too - 1 day ago
 - [HackerNews] Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce - 1 day ago
 - [HackerNews] WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices - 1 day ago
 - [Slack] Incident: Trouble installing custom apps/integrations - 1 day ago
@@ -33,28 +36,16 @@ description: Latest Updates
 - [BleepingComputer] Microsoft says recent Windows update didn't kill your SSD - 1 day ago
 - [SecurityWeek] VerifTools Fake ID Operation Dismantled by Law Enforcement - 1 day ago
 - [SecurityWeek] In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks - 1 day ago
-- [HackerNews] Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign - 1 day ago
-- [HackerNews] Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication - 1 day ago
-- [RegisterSec] Enterprise password management outfit Passwordstate patches Emergency Access bug - 1 day ago
-- [SecurityWeek] TransUnion Data Breach Impacts 4.4 Million - 1 day ago
-- [SecurityWeek] Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign - 1 day ago
-- [DataBreaches] EuroFins cancer screening hack far bigger than thought, agency says - 1 day ago
-- [DataBreaches] FBI cyber cop: Salt Typhoon pwned ‘nearly every American’ - 1 day ago
-- [HackerNews] Salt Typhoon Exploits Flaws in Edge Network Devices to Breach 600 Organizations Worldwide - 1 day ago
-- [SecurityWeek] Ransomware Group Exploits Hybrid Cloud Gaps, Gains Full Azure Control in Enterprise Attacks - 1 day ago
-- [SecurityWeek] US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers - 1 day ago
-- [SecurityWeek] Nevada Confirms Ransomware Attack Behind Statewide Service Disruptions - 1 day ago
-- [HackerNews] Can Your Security Stack See ChatGPT? Why Network Visibility Matters - 1 day ago
-- [DataBreaches] CISA steps in to help Nevada state government recover from cyberattack - 1 day ago
-- [RegisterSec] UK government dragged for incomplete security reforms after Afghan leak fallout - 1 day ago
-- [DataBreaches] 3rd Circuit Clarifies Scope of Computer Fraud Abuse Act With Employer’s Policies - 1 day ago
-- [DataBreaches] Fake ID website busted; Dutch police deal a blow to criminal infrastructure - 1 day ago
-- [RegisterSoftware] Windows Mobile Plans app to be disconnected in 2026 - 1 day ago
-- [HackerNews] FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available - 1 day ago
-- [HackerNews] Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page - 1 day ago
-- [HackerNews] Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain - 1 day ago
-- [HackerNews] Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations - 1 day ago
-- [NCSCGuidanceFeed] Social Media: how to use it safely - 2 days ago
+- [HackerNews] Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign - 2 days ago
+- [HackerNews] Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication - 2 days ago
+- [RegisterSec] Enterprise password management outfit Passwordstate patches Emergency Access bug - 2 days ago
+- [SecurityWeek] TransUnion Data Breach Impacts 4.4 Million - 2 days ago
+- [SecurityWeek] Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign - 2 days ago
+- [DataBreaches] EuroFins cancer screening hack far bigger than thought, agency says - 2 days ago
+- [DataBreaches] FBI cyber cop: Salt Typhoon pwned ‘nearly every American’ - 2 days ago
+- [HackerNews] Salt Typhoon Exploits Flaws in Edge Network Devices to Breach 600 Organizations Worldwide - 2 days ago
+- [RegisterSec] UK government dragged for incomplete security reforms after Afghan leak fallout - 2 days ago
+- [DataBreaches] 3rd Circuit Clarifies Scope of Computer Fraud Abuse Act With Employer’s Policies - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
@@ -192,8 +183,8 @@ description: Latest Updates
 - [BrianKrebs] Nearly a Year Later, Mozilla is Still Promoting OneRep - 6 months ago
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 6 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 6 months ago
-- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 6 months ago
-- [TroyHunt] Weekly Update 437 - 6 months ago
+- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 7 months ago
+- [TroyHunt] Weekly Update 437 - 7 months ago
 - [HIBP] 9Lives - 109,515 breached accounts - 7 months ago
 - [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 7 months ago
 - [RegisterSoftware] Intel has officially missed the boat for AI in the datacenter - 7 months ago
