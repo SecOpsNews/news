@@ -9,17 +9,27 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Traffic to government domains often crosses national borders, or flows through risky bottlenecks - 45 minutes ago
-- [RegisterSoftware] China launches new ‘AI+’ policy to ‘deepen information technology revolution’ - 3 hours ago
-- [RegisterSec] WhatsApp warns of 'attack against specific targeted users' - 5 hours ago
-- [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 19 hours ago
-- [TroyHunt] Weekly Update 467 - 19 hours ago
-- [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 23 hours ago
+- [HackerNews] ⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More - 27 minutes ago
+- [BleepingComputer] Anthropic is testing GPT Codex-like Claude Code web app - 53 minutes ago
+- [BleepingComputer] OpenAI releases big upgrade for ChatGPT Codex for agentic coding - 53 minutes ago
+- [BleepingComputer] Brokewell Android malware delivered through fake TradingView ads - 53 minutes ago
+- [RegisterSoftware] Larry Ellison bankrolling £118M AI vaccine research at Oxford University - 1 hour ago
+- [HackerNews] When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider - 1 hour ago
+- [RegisterSec] Norway's £10B UK frigate deal could delay Royal Navy ships - 2 hours ago
+- [RegisterSec] DDoS is the neglected cybercrime that's getting bigger. Let's kill it off - 2 hours ago
+- [HIBP] Giglio - 1,026,468 breached accounts - 2 hours ago
+- [RegisterSoftware] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 4 hours ago
+- [RegisterSec] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 4 hours ago
+- [HackerNews] ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics - 5 hours ago
+- [GrahamCluley] Hacker suspected of trying to cheat his way into university is arrested in Spain - 5 hours ago
+- [Slack] Incident: Microsoft Outlook and Related Connectors – Connection Issues - 5 hours ago
+- [RegisterSec] Traffic to government domains often crosses national borders, or flows through risky bottlenecks - 7 hours ago
+- [RegisterSoftware] China launches new ‘AI+’ policy to ‘deepen information technology revolution’ - 10 hours ago
+- [RegisterSec] WhatsApp warns of 'attack against specific targeted users' - 12 hours ago
+- [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 1 day ago
+- [TroyHunt] Weekly Update 467 - 1 day ago
+- [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 1 day ago
 - [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 1 day ago
-- [HackerNews] Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling - 1 day ago
-- [DataBreaches] Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. - 1 day ago
-- [DataBreaches] Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) - 1 day ago
-- [RegisterSoftware] Programmers: you have to watch your weight, too - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
