@@ -9,43 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 2 hours ago
-- [TroyHunt] Weekly Update 467 - 2 hours ago
-- [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 6 hours ago
-- [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 21 hours ago
+- [RegisterSec] Traffic to government domains often crosses national borders, or flows through risky bottlenecks - 45 minutes ago
+- [RegisterSoftware] China launches new ‘AI+’ policy to ‘deepen information technology revolution’ - 3 hours ago
+- [RegisterSec] WhatsApp warns of 'attack against specific targeted users' - 5 hours ago
+- [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 19 hours ago
+- [TroyHunt] Weekly Update 467 - 19 hours ago
+- [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 23 hours ago
+- [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 1 day ago
 - [HackerNews] Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling - 1 day ago
 - [DataBreaches] Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. - 1 day ago
 - [DataBreaches] Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) - 1 day ago
 - [RegisterSoftware] Programmers: you have to watch your weight, too - 1 day ago
-- [HackerNews] Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce - 1 day ago
-- [HackerNews] WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices - 1 day ago
-- [Slack] Incident: Trouble installing custom apps/integrations - 1 day ago
-- [RegisterSec] Researcher who found McDonald's free-food hack turns her attention to Chinese restaurant robots - 1 day ago
-- [RegisterSoftware] Alibaba looks to end reliance on Nvidia for AI inference - 1 day ago
-- [BleepingComputer] Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager - 1 day ago
-- [GrahamCluley] Sweden scrambles after ransomware attack puts sensitive worker data at risk - 1 day ago
-- [HackerNews] Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution - 1 day ago
-- [BleepingComputer] Microsoft fixes bug behind Windows certificate enrollment errors - 1 day ago
-- [RegisterSoftware] AI web crawlers are destroying websites in their never-ending hunger for any and all content - 1 day ago
-- [RegisterSec] AWS catches Russia's Cozy Bear clawing at Microsoft credentials - 1 day ago
-- [RegisterSoftware] GitHub engineer claims team was 'coerced' to put Grok into Copilot - 1 day ago
-- [HackerNews] Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook - 1 day ago
-- [BleepingComputer] WhatsApp patches vulnerability exploited in zero-day attacks - 1 day ago
-- [BleepingComputer] Microsoft to enforce MFA for Azure resource management in October - 1 day ago
-- [RegisterSoftware] RefreshOS 2.5: The Debian remix that borrows from every desk in the house - 1 day ago
-- [BleepingComputer] Microsoft says recent Windows update didn't kill your SSD - 1 day ago
-- [SecurityWeek] VerifTools Fake ID Operation Dismantled by Law Enforcement - 1 day ago
-- [SecurityWeek] In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks - 1 day ago
-- [HackerNews] Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign - 2 days ago
-- [HackerNews] Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication - 2 days ago
-- [RegisterSec] Enterprise password management outfit Passwordstate patches Emergency Access bug - 2 days ago
-- [SecurityWeek] TransUnion Data Breach Impacts 4.4 Million - 2 days ago
-- [SecurityWeek] Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign - 2 days ago
-- [DataBreaches] EuroFins cancer screening hack far bigger than thought, agency says - 2 days ago
-- [DataBreaches] FBI cyber cop: Salt Typhoon pwned ‘nearly every American’ - 2 days ago
-- [HackerNews] Salt Typhoon Exploits Flaws in Edge Network Devices to Breach 600 Organizations Worldwide - 2 days ago
-- [RegisterSec] UK government dragged for incomplete security reforms after Afghan leak fallout - 2 days ago
-- [DataBreaches] 3rd Circuit Clarifies Scope of Computer Fraud Abuse Act With Employer’s Policies - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
