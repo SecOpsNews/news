@@ -9,27 +9,36 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] ⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More - 27 minutes ago
-- [BleepingComputer] Anthropic is testing GPT Codex-like Claude Code web app - 53 minutes ago
-- [BleepingComputer] OpenAI releases big upgrade for ChatGPT Codex for agentic coding - 53 minutes ago
-- [BleepingComputer] Brokewell Android malware delivered through fake TradingView ads - 53 minutes ago
-- [RegisterSoftware] Larry Ellison bankrolling £118M AI vaccine research at Oxford University - 1 hour ago
-- [HackerNews] When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider - 1 hour ago
-- [RegisterSec] Norway's £10B UK frigate deal could delay Royal Navy ships - 2 hours ago
-- [RegisterSec] DDoS is the neglected cybercrime that's getting bigger. Let's kill it off - 2 hours ago
-- [HIBP] Giglio - 1,026,468 breached accounts - 2 hours ago
-- [RegisterSoftware] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 4 hours ago
-- [RegisterSec] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 4 hours ago
-- [HackerNews] ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics - 5 hours ago
-- [GrahamCluley] Hacker suspected of trying to cheat his way into university is arrested in Spain - 5 hours ago
-- [Slack] Incident: Microsoft Outlook and Related Connectors – Connection Issues - 5 hours ago
-- [RegisterSec] Traffic to government domains often crosses national borders, or flows through risky bottlenecks - 7 hours ago
-- [RegisterSoftware] China launches new ‘AI+’ policy to ‘deepen information technology revolution’ - 10 hours ago
-- [RegisterSec] WhatsApp warns of 'attack against specific targeted users' - 12 hours ago
+- [RegisterSec] Europe Putin the blame on Russia after GPS jamming disrupts president’s plane - 21 minutes ago
+- [HackerNews] Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets - 1 hour ago
+- [RegisterSoftware] In the rush to adopt hot new tech, security is often forgotten. AI is no exception - 1 hour ago
+- [RegisterSec] In the rush to adopt hot new tech, security is often forgotten. AI is no exception - 1 hour ago
+- [BrianKrebs] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft - 8 hours ago
+- [HackerNews] Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans - 12 hours ago
+- [DataBreaches] Gmail’s protections are strong and effective, and claims of a major Gmail security warning are false. - 13 hours ago
+- [BleepingComputer] Zscaler data breach exposes customer info after Salesloft Drift compromise - 13 hours ago
+- [RegisterSoftware] Laravel inventor tells devs to quit writing 'cathedrals of complexity' - 15 hours ago
+- [BleepingComputer] Amazon disrupts Russian APT29 hackers targeting Microsoft 365 - 15 hours ago
+- [HackerNews] ⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More - 17 hours ago
+- [BleepingComputer] Anthropic is testing GPT Codex-like Claude Code web app - 17 hours ago
+- [BleepingComputer] OpenAI releases big upgrade for ChatGPT Codex for agentic coding - 17 hours ago
+- [BleepingComputer] Brokewell Android malware delivered through fake TradingView ads - 17 hours ago
+- [RegisterSoftware] Larry Ellison bankrolling £118M AI vaccine research at Oxford University - 18 hours ago
+- [HackerNews] When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider - 18 hours ago
+- [RegisterSec] Norway's £10B UK frigate deal could delay Royal Navy ships - 19 hours ago
+- [RegisterSec] DDoS is the neglected cybercrime that's getting bigger. Let's kill it off - 19 hours ago
+- [HIBP] Giglio - 1,026,468 breached accounts - 19 hours ago
+- [RegisterSoftware] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 21 hours ago
+- [RegisterSec] LegalPwn: Tricking LLMs by burying badness in lawyerly fine print - 21 hours ago
+- [HackerNews] ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics - 22 hours ago
+- [GrahamCluley] Hacker suspected of trying to cheat his way into university is arrested in Spain - 22 hours ago
+- [Slack] Incident: Microsoft Outlook and Related Connectors – Connection Issues - 22 hours ago
+- [RegisterSec] Traffic to government domains often crosses national borders, or flows through risky bottlenecks - 1 day ago
+- [RegisterSoftware] China launches new ‘AI+’ policy to ‘deepen information technology revolution’ - 1 day ago
+- [RegisterSec] WhatsApp warns of 'attack against specific targeted users' - 1 day ago
 - [BleepingComputer] OpenAI is testing "Thinking effort" for ChatGPT - 1 day ago
 - [TroyHunt] Weekly Update 467 - 1 day ago
 - [RegisterSoftware] Bring your own brain? Why local LLMs are taking off - 1 day ago
-- [BleepingComputer] TamperedChef infostealer delivered through fraudulent PDF Editor - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
