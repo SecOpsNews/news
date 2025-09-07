@@ -9,12 +9,15 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 11 hours ago
-- [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 11 hours ago
-- [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 14 hours ago
-- [RegisterSoftware] No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease - 19 hours ago
-- [RegisterSoftware] Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley - 22 hours ago
-- [HackerNews] Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys - 22 hours ago
+- [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 1 hour ago
+- [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 2 hours ago
+- [TroyHunt] Weekly Update 468 - 4 hours ago
+- [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 18 hours ago
+- [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 18 hours ago
+- [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 21 hours ago
+- [RegisterSoftware] No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease - 1 day ago
+- [RegisterSoftware] Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley - 1 day ago
+- [HackerNews] Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys - 1 day ago
 - [BrianKrebs] GOP Cries Censorship Over Spam Filters That Work - 1 day ago
 - [RegisterSoftware] OpenAI reorg at risk as Attorneys General push AI safety - 1 day ago
 - [RegisterSoftware] Let us git rid of it, angry GitHub users say of forced Copilot features - 1 day ago
@@ -39,22 +42,9 @@ description: Latest Updates
 - [BleepingComputer] Don’t let outdated IGA hold back your security, compliance, and growth - 1 day ago
 - [BleepingComputer] Microsoft gives US students a free year of Microsoft 365 Personal - 1 day ago
 - [RegisterSoftware] Linux Mint 22.2 polishes the desktop, but kernel updates are the real deal - 1 day ago
-- [SecurityWeek] Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool - 1 day ago
-- [BleepingComputer] Critical SAP S/4HANA vulnerability now exploited in attacks - 1 day ago
-- [RegisterSoftware] Trump tells Big Tech: Your power woes? Totally fixable - 1 day ago
-- [SecurityWeek] In Other News: Scammers Abuse Grok, US Manufacturing Attacks, Gmail Security Claims Debunked - 1 day ago
-- [SecurityWeek] FireCompass Raises $20 Million for Offensive Security Platform - 1 day ago
-- [DataBreaches] Qantas CEO, top executives lose $522,000 in pay for major cyber breach - 1 day ago
-- [HackerNews] SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild - 1 day ago
-- [RegisterSoftware] OpenAI eats jobs, then offers to help you find a new one at Walmart - 1 day ago
-- [RegisterSoftware] Fujitsu under fire for bidding on UK public sector deals despite Horizon scandal vow - 1 day ago
-- [SecurityWeek] North Korean Hackers Targeted Hundreds in Fake Job Interview Attacks - 1 day ago
-- [RegisterSec] Knock-on effects of software dev break-in hit schools trust - 1 day ago
-- [SecurityWeek] More Cybersecurity Firms Hit by Salesforce-Salesloft Drift Breach - 1 day ago
-- [HackerNews] Automation Is Redefining Pentest Delivery - 1 day ago
-- [SecurityWeek] Recent SAP S/4HANA Vulnerability Exploited in Attacks - 1 day ago
-- [HackerNews] VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages - 1 day ago
-- [RegisterSoftware] AI code assistants make developers more efficient at creating security problems - 2 days ago
+- [SecurityWeek] Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool - 2 days ago
+- [BleepingComputer] Critical SAP S/4HANA vulnerability now exploited in attacks - 2 days ago
+- [RegisterSoftware] Trump tells Big Tech: Your power woes? Totally fixable - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
