@@ -9,42 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 1 hour ago
-- [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 2 hours ago
-- [TroyHunt] Weekly Update 468 - 4 hours ago
-- [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 18 hours ago
-- [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 18 hours ago
-- [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 21 hours ago
+- [RegisterSoftware] Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated - 1 hour ago
+- [RegisterSoftware] All IT work to involve AI by 2030, says Gartner, but jobs are safe - 3 hours ago
+- [BleepingComputer] Google to make it easier to access AI Mode as default - 5 hours ago
+- [BleepingComputer] ChatGPT makes Projects feature free, adds a toggle to split chat - 7 hours ago
+- [DataBreaches] Salesloft+Drift Update on Investigation Results - 9 hours ago
+- [BleepingComputer] Czech cyber agency warns against Chinese tech in critical infrastructure - 14 hours ago
+- [BleepingComputer] iCloud Calendar abused to send phishing emails from Apple’s servers - 14 hours ago
+- [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 18 hours ago
+- [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 19 hours ago
+- [TroyHunt] Weekly Update 468 - 21 hours ago
+- [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 1 day ago
+- [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 1 day ago
+- [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 1 day ago
 - [RegisterSoftware] No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease - 1 day ago
 - [RegisterSoftware] Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley - 1 day ago
 - [HackerNews] Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys - 1 day ago
-- [BrianKrebs] GOP Cries Censorship Over Spam Filters That Work - 1 day ago
-- [RegisterSoftware] OpenAI reorg at risk as Attorneys General push AI safety - 1 day ago
-- [RegisterSoftware] Let us git rid of it, angry GitHub users say of forced Copilot features - 1 day ago
-- [RegisterSoftware] If Broadcom is helping OpenAI build AI chips, here's what they might look like - 1 day ago
-- [RegisterSoftware] The crazy, true story behind the first AI-powered ransomware - 1 day ago
-- [RegisterSec] The crazy, true story behind the first AI-powered ransomware - 1 day ago
-- [RegisterSec] Shell to pay: Crims invade your PC with CastleRAT malware, now in C and Python - 1 day ago
-- [BleepingComputer] Microsoft now enforces MFA on Azure Portal sign-ins for all tenants - 1 day ago
-- [DataBreaches] Idaho man who threatened his hacking victims appeals his sentence in Georgia - 1 day ago
-- [RegisterSec] Critical, make-me-super-user SAP S/4HANA bug under active exploitation - 1 day ago
-- [RegisterSoftware] Bot shots: US Army enlists AI startup to provide target-tracking - 1 day ago
-- [BleepingComputer] EU fines Google $3.5 billion for anti-competitive ad practices - 1 day ago
-- [HackerNews] CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation - 1 day ago
-- [RegisterSoftware] Firefox ESR 115 won't quit Windows 7 – at least not until March 2026 - 1 day ago
-- [BleepingComputer] Financial services firm Wealthsimple discloses data breach - 1 day ago
-- [BleepingComputer] Max severity Argo CD API flaw leaks repository credentials - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-09-12 - 1 day ago
-- [HackerNews] TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations - 1 day ago
-- [GrahamCluley] Parents warned that robot toys spied on children’s location without consent - 1 day ago
-- [GrahamCluley] Germany charges hacker with Rosneft cyberattack in latest wake-up call for critical infrastructure - 1 day ago
-- [SecurityWeek] How to Close the AI Governance Gap in Software Development - 1 day ago
-- [BleepingComputer] Don’t let outdated IGA hold back your security, compliance, and growth - 1 day ago
-- [BleepingComputer] Microsoft gives US students a free year of Microsoft 365 Personal - 1 day ago
-- [RegisterSoftware] Linux Mint 22.2 polishes the desktop, but kernel updates are the real deal - 1 day ago
-- [SecurityWeek] Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool - 2 days ago
-- [BleepingComputer] Critical SAP S/4HANA vulnerability now exploited in attacks - 2 days ago
-- [RegisterSoftware] Trump tells Big Tech: Your power woes? Totally fixable - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
