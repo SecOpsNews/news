@@ -9,22 +9,38 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated - 1 hour ago
-- [RegisterSoftware] All IT work to involve AI by 2030, says Gartner, but jobs are safe - 3 hours ago
-- [BleepingComputer] Google to make it easier to access AI Mode as default - 5 hours ago
-- [BleepingComputer] ChatGPT makes Projects feature free, adds a toggle to split chat - 7 hours ago
-- [DataBreaches] Salesloft+Drift Update on Investigation Results - 9 hours ago
-- [BleepingComputer] Czech cyber agency warns against Chinese tech in critical infrastructure - 14 hours ago
-- [BleepingComputer] iCloud Calendar abused to send phishing emails from Apple’s servers - 14 hours ago
-- [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 18 hours ago
-- [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 19 hours ago
-- [TroyHunt] Weekly Update 468 - 21 hours ago
+- [RegisterSec] PACER buckles under MFA rollout as courts warn of support delays - 26 minutes ago
+- [SecurityWeek] Salesloft GitHub Account Compromised Months Before Salesforce Attack - 54 minutes ago
+- [SecurityWeek] GitHub Workflows Attack Affects Hundreds of Repos, Thousands of Secrets - 54 minutes ago
+- [RegisterSoftware] Red Hat back-office team to be Big and Blue whether they like it or not - 1 hour ago
+- [RegisterSec] CISA sounds alarm over TP-Link wireless routers under attack - 2 hours ago
+- [DataBreaches] CISA Delays Cyber Incident Reporting Rule for Critical Infrastructure - 2 hours ago
+- [RegisterSoftware] UK tech minister booted out in weekend cabinet reshuffle - 2 hours ago
+- [RegisterSec] UK tech minister booted out in weekend cabinet reshuffle - 2 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2025-09-09 - 2 hours ago
+- [RegisterSoftware] Pre-owned software trial kicks off in UK as Microsoft pushes resale ban - 3 hours ago
+- [HackerNews] ⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More - 3 hours ago
+- [SecurityWeek] Over 6,700 Private Repositories Made Public in Nx Supply Chain Attack - 3 hours ago
+- [HackerNews] You Didn’t Get Phished — You Onboarded the Attacker - 4 hours ago
+- [SecurityWeek] Fintech Firm Wealthsimple Says Supply Chain Attack Resulted in Data Breach - 4 hours ago
+- [RegisterSoftware] VMware's in court again. Customer relationships rarely go this wrong - 5 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-09-10 - 5 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Management Console Error Rates - 5 hours ago
+- [SecurityWeek] Cybersecurity M&A Roundup: 27 Deals Announced in August 2025 - 5 hours ago
+- [AWS] Service impact: Management Console Error Rates - 6 hours ago
+- [RegisterSoftware] Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated - 8 hours ago
+- [RegisterSoftware] All IT work to involve AI by 2030, says Gartner, but jobs are safe - 10 hours ago
+- [BleepingComputer] Google to make it easier to access AI Mode as default - 12 hours ago
+- [BleepingComputer] ChatGPT makes Projects feature free, adds a toggle to split chat - 14 hours ago
+- [DataBreaches] Salesloft+Drift Update on Investigation Results - 16 hours ago
+- [BleepingComputer] Czech cyber agency warns against Chinese tech in critical infrastructure - 21 hours ago
+- [BleepingComputer] iCloud Calendar abused to send phishing emails from Apple’s servers - 21 hours ago
+- [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 1 day ago
+- [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 1 day ago
+- [TroyHunt] Weekly Update 468 - 1 day ago
 - [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 1 day ago
 - [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 1 day ago
 - [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 1 day ago
-- [RegisterSoftware] No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease - 1 day ago
-- [RegisterSoftware] Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley - 1 day ago
-- [HackerNews] Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
