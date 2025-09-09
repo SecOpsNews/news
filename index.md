@@ -9,38 +9,132 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] PACER buckles under MFA rollout as courts warn of support delays - 26 minutes ago
-- [SecurityWeek] Salesloft GitHub Account Compromised Months Before Salesforce Attack - 54 minutes ago
-- [SecurityWeek] GitHub Workflows Attack Affects Hundreds of Repos, Thousands of Secrets - 54 minutes ago
-- [RegisterSoftware] Red Hat back-office team to be Big and Blue whether they like it or not - 1 hour ago
-- [RegisterSec] CISA sounds alarm over TP-Link wireless routers under attack - 2 hours ago
-- [DataBreaches] CISA Delays Cyber Incident Reporting Rule for Critical Infrastructure - 2 hours ago
-- [RegisterSoftware] UK tech minister booted out in weekend cabinet reshuffle - 2 hours ago
-- [RegisterSec] UK tech minister booted out in weekend cabinet reshuffle - 2 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2025-09-09 - 2 hours ago
-- [RegisterSoftware] Pre-owned software trial kicks off in UK as Microsoft pushes resale ban - 3 hours ago
-- [HackerNews] ⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More - 3 hours ago
-- [SecurityWeek] Over 6,700 Private Repositories Made Public in Nx Supply Chain Attack - 3 hours ago
-- [HackerNews] You Didn’t Get Phished — You Onboarded the Attacker - 4 hours ago
-- [SecurityWeek] Fintech Firm Wealthsimple Says Supply Chain Attack Resulted in Data Breach - 4 hours ago
-- [RegisterSoftware] VMware's in court again. Customer relationships rarely go this wrong - 5 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-09-10 - 5 hours ago
-- [AWS] Service is operating normally: [RESOLVED] Management Console Error Rates - 5 hours ago
-- [SecurityWeek] Cybersecurity M&A Roundup: 27 Deals Announced in August 2025 - 5 hours ago
-- [AWS] Service impact: Management Console Error Rates - 6 hours ago
-- [RegisterSoftware] Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated - 8 hours ago
-- [RegisterSoftware] All IT work to involve AI by 2030, says Gartner, but jobs are safe - 10 hours ago
-- [BleepingComputer] Google to make it easier to access AI Mode as default - 12 hours ago
-- [BleepingComputer] ChatGPT makes Projects feature free, adds a toggle to split chat - 14 hours ago
-- [DataBreaches] Salesloft+Drift Update on Investigation Results - 16 hours ago
-- [BleepingComputer] Czech cyber agency warns against Chinese tech in critical infrastructure - 21 hours ago
-- [BleepingComputer] iCloud Calendar abused to send phishing emails from Apple’s servers - 21 hours ago
+- [RegisterSec] UK toughens Online Safety Act with ban on self-harm content - 23 minutes ago
+- [RegisterSoftware] Use it or lose it: AI may cause you to forget some skills - 1 hour ago
+- [RegisterSoftware] Forget disappearing messages – now Signal will store 100MB of them for you for free - 3 hours ago
+- [RegisterSec] Forget disappearing messages – now Signal will store 100MB of them for you for free - 3 hours ago
+- [RegisterSoftware] Citrix products sold under old licenses will get glitchy unless users upgrade - 4 hours ago
+- [RegisterSoftware] Rethinking application delivery for the hybrid world - 5 hours ago
+- [FullDisclosure] DjVuLibre 3.5.29 IW44EncodeCodec Integer Overflow (Negative Left Shift in IW44Image::Map::Encode) - 5 hours ago
+- [FullDisclosure] DjVuLibre 3.5.29 ZPCodec Unsigned Integer Overflow in	Arithmetic Encoding - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Heap Use-After-Free in FFmpeg HLS Demuxer	(libavformat/utils.c) - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Integer Overflow in FFmpeg yuvcmp Tool Leads to Out-of-Bounds Allocation - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Type Confusion in FFmpeg Function Pointer Calls	(libavformat/utils.c) - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ NULL Pointer Dereference in FFmpeg String Handling	(avstring.c) - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ LADSPA Filter Arbitrary Shared Object Loading via Unsanitized Environment Variables - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Integer Overflow in UDP Protocol Handler	(fifo_size option) - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Integer Overflow in DSCP Option Handling of FFmpeg	UDP Protocol - 5 hours ago
+- [FullDisclosure] FFmpeg 7.0+ Integer Overflow in FFmpeg cache: Protocol	(CacheEntry::size) - 5 hours ago
+- [FullDisclosure] SEC Consult SA-20250908-0 :: NFC Card Vulnerability Exploitation Leading to Free Top-Up in KioSoft "Stored Value" Unattended Payment Solution (Mifare) - 5 hours ago
+- [FullDisclosure] Submission of Critical Firmware Parameters – PCIe HCA Cards - 5 hours ago
+- [HackerNews] 45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage - 5 hours ago
+- [FullDisclosure] Critical Security Report – Remote Code Execution via Persistent Discord WebRTC Automation - 5 hours ago
+- [FullDisclosure] Defense in depth -- the Microsoft way (part 92): more stupid	blunders of Windows' File Explorer - 5 hours ago
+- [BleepingComputer] Plex tells users to reset passwords after new data breach - 5 hours ago
+- [FullDisclosure] libheif v1.21.0 Out-of-Bounds Read in FullBox::get_flags - 7 hours ago
+- [FullDisclosure] libheif v1.21.0 Null Pointer Dereference in	Box_hdlr::get_handler_type - 7 hours ago
+- [FullDisclosure] libheif v1.21.0 Null Pointer Dereference in	std::vector<unsigned>::empty - 7 hours ago
+- [FullDisclosure] libheif v1.21.0 Integer Overflow in Y4M Loader leading to Uncontrolled Memory Allocation - 7 hours ago
+- [RegisterSec] WhatsApp's former security boss claims reporting infosec failings led to ousting - 7 hours ago
+- [FullDisclosure] libheif v1.21.0 Heap Buffer Overflow in Chunk::Chunk - 7 hours ago
+- [FullDisclosure] libheif 1.21.0 Use-After-Free / Dangling shared_ptr in Track	Chunk Handling - 7 hours ago
+- [FullDisclosure] libheif v1.21.0 Out-of-Bounds Read in	Box_stts::get_sample_duration - 7 hours ago
+- [RegisterSoftware] Chip designer SiFive aims to cram more RISC-V cores into AI chips - 7 hours ago
+- [BrianKrebs] 18 Popular Code Packages Hacked, Rigged to Steal Crypto - 7 hours ago
+- [FullDisclosure] APPLE-SA-08-20-2025-2 iPadOS 17.7.10 - 7 hours ago
+- [FullDisclosure] APPLE-SA-08-20-2025-3 macOS Sequoia 15.6.1 - 7 hours ago
+- [FullDisclosure] APPLE-SA-08-20-2025-4 macOS Sonoma 14.7.8 - 7 hours ago
+- [FullDisclosure] APPLE-SA-08-20-2025-5 macOS Ventura 13.7.8 - 7 hours ago
+- [FullDisclosure] CVE-2024-45438 - SpamTitan Unauthenticated User Creation - 7 hours ago
+- [FullDisclosure] Asterisk Security Release 22.5.2 - 8 hours ago
+- [FullDisclosure] Host Header Injection - silverstripecmsv6.0.0 - 8 hours ago
+- [FullDisclosure] CSV Injection - silverstripecmsv6.0.0 - 8 hours ago
+- [FullDisclosure] APPLE-SA-08-20-2025-1 iOS 18.6.2 and iPadOS 18.6.2 - 8 hours ago
+- [RegisterSoftware] Linus has had enough of links that point to 'stupid useless garbage' - 8 hours ago
+- [FullDisclosure] Apple’s A17 Pro Chip: Critical Flaw Causes Dual Subsystem Failure & Forensic Log Loss - 8 hours ago
+- [FullDisclosure] Asterisk Security Release 18.26.4 - 8 hours ago
+- [FullDisclosure] Asterisk Security Release 21.10.2 - 8 hours ago
+- [FullDisclosure] Asterisk Security Release 20.15.2 - 8 hours ago
+- [FullDisclosure] Certified Asterisk Security Release certified-18.9-cert17 - 8 hours ago
+- [FullDisclosure] (iOS 18.6.2) Improper Input Validation in Siri Shortcuts and	Shared Web Credentials - 8 hours ago
+- [FullDisclosure] [Zero-Day] AppleMediaServices Fail-Open Auth Bypass (All	Platforms) - 8 hours ago
+- [BleepingComputer] Surge in networks scans targeting Cisco ASA devices raise concerns - 9 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-09-10 - 9 hours ago
+- [CloudFlare] RUH (Riyadh) on 2025-09-10 - 9 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-09-11 - 9 hours ago
+- [CloudFlare] MIA (Miami) on 2025-09-10 - 9 hours ago
+- [CloudFlare] DXB (Dubai) on 2025-09-10 - 9 hours ago
+- [CloudFlare] BEY (Beirut) on 2025-09-10 - 9 hours ago
+- [CloudFlare] WDH (Windhoek) on 2025-09-11 - 9 hours ago
+- [CloudFlare] BSR (Basra) on 2025-09-11 - 9 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-09-11 - 9 hours ago
+- [RegisterSec] The US government has no idea how many cybersecurity pros it employs - 9 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-09-11 - 9 hours ago
+- [CloudFlare] ATL (Atlanta) on 2025-09-11 - 9 hours ago
+- [CloudFlare] KWI (Kuwait City) on 2025-09-11 - 9 hours ago
+- [CloudFlare] ADB (Izmir) on 2025-09-11 - 10 hours ago
+- [CloudFlare] BGW (Baghdad) on 2025-09-13 - 10 hours ago
+- [CloudFlare] NJF (Najaf) on 2025-09-13 - 10 hours ago
+- [RegisterSec] Drift massive attack traced back to loose Salesloft GitHub account - 10 hours ago
+- [CloudFlare] XNH (Nasiriyah) on 2025-09-13 - 10 hours ago
+- [CloudFlare] BSR (Basra) on 2025-09-13 - 10 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-09-20 - 10 hours ago
+- [RegisterSec] How huge breach started: Drift attackers gained entry via a Salesloft GitHub account - 10 hours ago
+- [BleepingComputer] Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-09-10 - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-09-11 - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-09-12 - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-09-15 - 10 hours ago
+- [DataBreaches] Vietnam’s national credit registration and reporting agency hacked; most of the population affected - 11 hours ago
+- [BleepingComputer] Signal adds secure cloud backups to save and restore chats - 11 hours ago
+- [RegisterSoftware] Dev snared in crypto phishing net, 18 npm packages compromised - 11 hours ago
+- [RegisterSec] Dev snared in crypto phishing net, 18 npm packages compromised - 11 hours ago
+- [RegisterSoftware] AI chip startup d-Matrix aspires to rack scale with JetStream I/O cards - 12 hours ago
+- [BleepingComputer] Sports streaming piracy service with 123M yearly visits shut down - 12 hours ago
+- [BleepingComputer] Lovesac confirms data breach after ransomware attack claims - 12 hours ago
+- [RegisterSec] Salt Typhoon used dozens of domains, going back five years. Did you visit one? - 12 hours ago
+- [BleepingComputer] Hackers hijack npm packages with 2 billion weekly downloads in supply chain attack - 13 hours ago
+- [HackerNews] GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies - 14 hours ago
+- [RegisterSoftware] Microsoft hits pause on Copilot ... in SQL Server Management Studio - 14 hours ago
+- [RegisterSoftware] Perplexity wants to get discounted AI products into the US government too - 14 hours ago
+- [BleepingComputer] Salesloft: March GitHub repo breach led to Salesforce data theft attacks - 15 hours ago
+- [IT Governance] Global Data Breaches and Cyber Attacks in August 2025: over 17.3 million records exposed - 15 hours ago
+- [SecurityWeek] Chinese Spies Impersonated US Lawmaker to Deliver Malware to Trade Groups: Report - 15 hours ago
+- [HackerNews] GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms - 15 hours ago
+- [RegisterSoftware] Ubuntu users left waiting after Canonical's servers take weekend off - 15 hours ago
+- [BleepingComputer] Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management - 16 hours ago
+- [SecurityWeek] PromptLock Only PoC, but AI-Powered Ransomware Is Real - 16 hours ago
+- [RegisterSoftware] The AI-powered future of work arrives at Zoomtopia 2025 - 16 hours ago
+- [RegisterSoftware] French datacenter biz signs 12-year nuclear pact with EDF - 16 hours ago
+- [RegisterSec] PACER buckles under MFA rollout as courts warn of support delays - 17 hours ago
+- [SecurityWeek] Salesloft GitHub Account Compromised Months Before Salesforce Attack - 17 hours ago
+- [SecurityWeek] GitHub Workflows Attack Affects Hundreds of Repos, Thousands of Secrets - 17 hours ago
+- [RegisterSoftware] Red Hat back-office team to be Big and Blue whether they like it or not - 18 hours ago
+- [RegisterSec] CISA sounds alarm over TP-Link wireless routers under attack - 19 hours ago
+- [DataBreaches] CISA Delays Cyber Incident Reporting Rule for Critical Infrastructure - 19 hours ago
+- [RegisterSoftware] UK tech minister booted out in weekend cabinet reshuffle - 19 hours ago
+- [RegisterSec] UK tech minister booted out in weekend cabinet reshuffle - 19 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2025-09-09 - 19 hours ago
+- [RegisterSoftware] Pre-owned software trial kicks off in UK as Microsoft pushes resale ban - 20 hours ago
+- [HackerNews] ⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More - 20 hours ago
+- [SecurityWeek] Over 6,700 Private Repositories Made Public in Nx Supply Chain Attack - 20 hours ago
+- [HackerNews] You Didn’t Get Phished — You Onboarded the Attacker - 21 hours ago
+- [SecurityWeek] Fintech Firm Wealthsimple Says Supply Chain Attack Resulted in Data Breach - 21 hours ago
+- [RegisterSoftware] VMware's in court again. Customer relationships rarely go this wrong - 22 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-09-10 - 22 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Management Console Error Rates - 22 hours ago
+- [SecurityWeek] Cybersecurity M&A Roundup: 27 Deals Announced in August 2025 - 22 hours ago
+- [AWS] Service impact: Management Console Error Rates - 23 hours ago
+- [RegisterSoftware] Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated - 1 day ago
+- [RegisterSoftware] All IT work to involve AI by 2030, says Gartner, but jobs are safe - 1 day ago
+- [BleepingComputer] Google to make it easier to access AI Mode as default - 1 day ago
+- [BleepingComputer] ChatGPT makes Projects feature free, adds a toggle to split chat - 1 day ago
+- [DataBreaches] Salesloft+Drift Update on Investigation Results - 1 day ago
+- [BleepingComputer] Czech cyber agency warns against Chinese tech in critical infrastructure - 1 day ago
+- [BleepingComputer] iCloud Calendar abused to send phishing emails from Apple’s servers - 1 day ago
 - [RegisterSoftware] Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says - 1 day ago
 - [DataBreaches] CISA orders federal agencies to patch Sitecore zero-day following hacking reports - 1 day ago
 - [TroyHunt] Weekly Update 468 - 1 day ago
-- [BleepingComputer] AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack - 1 day ago
-- [BleepingComputer] VirusTotal finds hidden malware phishing campaign in SVG files - 1 day ago
-- [HackerNews] Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
