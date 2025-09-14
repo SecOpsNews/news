@@ -9,13 +9,16 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations - 5 hours ago
-- [DataBreaches] China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries - 12 hours ago
-- [DataBreaches] FBI Flash Alert:  Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion - 14 hours ago
-- [GitHub] Repository search is degraded - 18 hours ago
-- [RegisterSoftware] Bring back your old Mac: 5 ways to refresh the OS on elderly Apples - 19 hours ago
-- [HackerNews] FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks - 21 hours ago
-- [TroyHunt] Weekly Update 469 - 22 hours ago
+- [RegisterSec] Data destruction done wrong could cost your company millions - 48 minutes ago
+- [DataBreaches] Union urges government intervention with 100,000 jobs at risk after JLR cyber attack - 48 minutes ago
+- [DataBreaches] Uvalde CISD to close most of next week due to ransomware issue - 48 minutes ago
+- [DataBreaches] Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations - 12 hours ago
+- [DataBreaches] China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries - 19 hours ago
+- [DataBreaches] FBI Flash Alert:  Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion - 21 hours ago
+- [GitHub] Repository search is degraded - 1 day ago
+- [RegisterSoftware] Bring back your old Mac: 5 ways to refresh the OS on elderly Apples - 1 day ago
+- [HackerNews] FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks - 1 day ago
+- [TroyHunt] Weekly Update 469 - 1 day ago
 - [CloudFlare] CGK (Jakarta) on 2025-09-05 - 1 day ago
 - [DataBreaches] “Pompompurin’s” re-sentencing is scheduled for Tuesday. What will the judge do this time? - 1 day ago
 - [CloudFlare] JNB (Johannesburg) on 2025-09-12 - 1 day ago
@@ -50,51 +53,9 @@ description: Latest Updates
 - [SecurityWeek] In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research - 1 day ago
 - [BleepingComputer] The first three things you’ll want during a cyberattack - 1 day ago
 - [RegisterSec] 1,200 undergrads hung out to dry after jailbreak attack on laundry machines - 1 day ago
-- [HackerNews] Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning - 1 day ago
-- [HackerNews] New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit - 1 day ago
-- [SecurityWeek] DELMIA Factory Software Vulnerability Exploited in Attacks - 1 day ago
-- [RegisterSoftware] Google lands £400M MoD contract for secure UK cloud services - 1 day ago
-- [RegisterSoftware] I'm out, says OpenSUSE: We're dropping bcachefs support from next kernel version - 1 day ago
-- [SecurityWeek] Apple Sends Fresh Wave of Spyware Notifications to French Users - 1 day ago
-- [DataBreaches] U.S. Senator accuses Microsoft of “gross cybersecurity negligence” - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-09-16 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-09-17 - 1 day ago
-- [BleepingComputer] Man gets over 4 years in prison for selling unreleased movies - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-09-15 - 1 day ago
-- [SecurityWeek] F5 to Acquire CalypsoAI for $180 Million - 1 day ago
-- [SecurityWeek] CISA: CVE Program to Focus on Vulnerability Data Quality - 1 day ago
-- [RegisterSoftware] EU regulators let Microsoft off the hook after Teams unbundling pledge - 1 day ago
-- [CloudFlare] Cloudflare API service issues - 1 day ago
-- [RegisterSec] Privacy activists warn digital ID won’t stop small boats – but will enable mass surveillance - 1 day ago
-- [SecurityWeek] VMScape: Academics Break Cloud Isolation With New Spectre Attack - 1 day ago
-- [BleepingComputer] Samsung patches actively exploited zero-day reported by WhatsApp - 1 day ago
-- [RegisterSec] Hack to school: Parents told to keep their little script kiddies in line - 1 day ago
-- [HackerNews] Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage - 1 day ago
-- [CloudFlare] KWI (Kuwait City) on 2025-09-11 - 1 day ago
-- [CloudFlare] ADB (Izmir) on 2025-09-11 - 1 day ago
-- [CloudFlare] ZRH (Zurich) on 2025-09-12 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-09-11 - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-09-11 - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2025-09-11 - 1 day ago
-- [CloudFlare] Increase in 500 errors for Lisbon and Salt Lake City - 1 day ago
-- [CloudFlare] HKG (Hong Kong) on 2025-09-11 - 1 day ago
-- [CloudFlare] DEX Analytics Latency - 1 day ago
-- [CloudFlare] User Subscription Update Issues - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2025-09-11 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-09-12 - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-09-12 - 1 day ago
-- [CloudFlare] Bot Management Issues - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2025-09-12 - 1 day ago
-- [RegisterSoftware] Terminators: AI-driven robot war machines on the march - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2025-09-15 - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-09-17 - 1 day ago
-- [CloudFlare] SLC (Salt Lake City) on 2025-09-29 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-15 - 1 day ago
-- [SecurityWeek] Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm - 1 day ago
-- [BleepingComputer] Microsoft fixes Exchange Online outage affecting users worldwide - 1 day ago
-- [RegisterSoftware] Neo4j's property sharding' promises to overcome scalability struggle - 1 day ago
-- [RegisterSec] Huntress's 'hilarious' attacker surveillance splits infosec community - 1 day ago
-- [RegisterSoftware] ‘IT manager’ needed tech support because they had never heard of a command line - 2 days ago
+- [HackerNews] Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning - 2 days ago
+- [HackerNews] New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit - 2 days ago
+- [SecurityWeek] DELMIA Factory Software Vulnerability Exploited in Attacks - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
