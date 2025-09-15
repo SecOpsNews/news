@@ -9,23 +9,40 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] After deleting a web server, I started checking what I typed before hitting 'Enter' - 21 minutes ago
-- [HackerNews] HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks - 46 minutes ago
-- [RegisterSoftware] Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy - 1 hour ago
-- [RegisterSec] Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike - 4 hours ago
-- [RegisterSec] 15 ransomware gangs ‘go dark’ to enjoy 'golden parachutes' - 5 hours ago
-- [BleepingComputer] FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data - 8 hours ago
-- [BleepingComputer] New VoidProxy phishing service targets Microsoft 365, Google accounts - 10 hours ago
-- [RegisterSec] Data destruction done wrong could cost your company millions - 17 hours ago
-- [DataBreaches] Union urges government intervention with 100,000 jobs at risk after JLR cyber attack - 17 hours ago
-- [DataBreaches] Uvalde CISD to close most of next week due to ransomware issue - 17 hours ago
+- [RegisterSoftware] Even fantasy money can buy a lot of power, just ask Larry Ellison - 22 minutes ago
+- [BleepingComputer] Microsoft fixes Windows 11 audio issues confirmed in December - 22 minutes ago
+- [DataBreaches] Ex-WhatsApp cybersecurity executive says Meta endangered billions of users in new suit - 31 minutes ago
+- [DataBreaches] Alphabet’s Verily covered up HIPAA violations, whistleblower says in lawsuit - 31 minutes ago
+- [SecurityWeek] Terra Security Raises $30 Million for AI Penetration Testing Platform - 31 minutes ago
+- [BleepingComputer] Microsoft says Windows September updates break SMBv1 shares - 57 minutes ago
+- [RegisterSec] Former FinWise employee may have accessed nearly 700K customer records - 57 minutes ago
+- [CloudFlare] Issues with API Shield - 57 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More - 1 hour ago
+- [HackerNews] 6 Browser-Based Attacks Security Teams Need to Prepare For Right Now - 1 hour ago
+- [RegisterSec] Nork snoops whip up fake South Korean military ID with help from ChatGPT - 1 hour ago
+- [RegisterSoftware] Nork snoops whip up fake South Korean military ID with help from ChatGPT - 1 hour ago
+- [RegisterSec] China turns the screws on Nvidia with antitrust probe - 2 hours ago
+- [SecurityWeek] FBI Shares IoCs for Recent Salesforce Intrusion Campaigns - 2 hours ago
+- [SecurityWeek] Google Launched Behind-the-Scenes Campaign Against California Privacy Legislation; It Passed Anyway - 2 hours ago
+- [RegisterSec] Jaguar Land Rover supply chain workers must get Covid-style support, says union - 3 hours ago
+- [SecurityWeek] West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach - 4 hours ago
+- [RegisterSoftware] UK.gov decides tech projects worth billions are major but not 'mega' - 4 hours ago
+- [RegisterSec] UK Lords take aim at Ofcom's 'child-protection' upgrades to Online Safety Act - 5 hours ago
+- [HackerNews] AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns - 5 hours ago
+- [SecurityWeek] Samsung Patches Zero-Day Exploited Against Android Users - 5 hours ago
+- [RegisterSoftware] After deleting a web server, I started checking what I typed before hitting 'Enter' - 7 hours ago
+- [HackerNews] HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks - 7 hours ago
+- [RegisterSoftware] Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy - 8 hours ago
+- [RegisterSec] Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike - 11 hours ago
+- [RegisterSec] 15 ransomware gangs ‘go dark’ to enjoy 'golden parachutes' - 12 hours ago
+- [BleepingComputer] FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data - 15 hours ago
+- [BleepingComputer] New VoidProxy phishing service targets Microsoft 365, Google accounts - 17 hours ago
+- [RegisterSec] Data destruction done wrong could cost your company millions - 1 day ago
+- [DataBreaches] Union urges government intervention with 100,000 jobs at risk after JLR cyber attack - 1 day ago
+- [DataBreaches] Uvalde CISD to close most of next week due to ransomware issue - 1 day ago
 - [DataBreaches] Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations - 1 day ago
 - [DataBreaches] China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries - 1 day ago
 - [DataBreaches] FBI Flash Alert:  Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion - 1 day ago
-- [GitHub] Repository search is degraded - 1 day ago
-- [RegisterSoftware] Bring back your old Mac: 5 ways to refresh the OS on elderly Apples - 1 day ago
-- [HackerNews] FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks - 1 day ago
-- [TroyHunt] Weekly Update 469 - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
