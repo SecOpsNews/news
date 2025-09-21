@@ -9,13 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] Cloudflare Dashboard and API may return rate limit errors when modifying IP Lists - 48 minutes ago
-- [BleepingComputer] Canada dismantles TradeOgre exchange, seizes $40 million in crypto - 13 hours ago
-- [CloudFlare] Cloudflare Dashboard and Communication Preferences API - 15 hours ago
-- [Slack] Incident: Issues Opening the Slack App version 25.09.40 on Android - 17 hours ago
-- [DataBreaches] Cyberattack disrupts European airports including Heathrow, Brussels - 19 hours ago
-- [RegisterSoftware] Britain jumps into bed with Palantir in £1.5B defense pact - 22 hours ago
-- [HackerNews] LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer - 22 hours ago
+- [HackerNews] DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams - 2 hours ago
+- [TroyHunt] Weekly Update 470 - 5 hours ago
+- [RegisterSoftware] Make Windows 11 more useful and less annoying with these 11 Registry hacks - 5 hours ago
+- [HIBP] Animeify - 808,034 breached accounts - 5 hours ago
+- [CloudFlare] Cloudflare Dashboard and API may return rate limit errors when modifying IP Lists - 7 hours ago
+- [BleepingComputer] Canada dismantles TradeOgre exchange, seizes $40 million in crypto - 20 hours ago
+- [CloudFlare] Cloudflare Dashboard and Communication Preferences API - 22 hours ago
+- [Slack] Incident: Issues Opening the Slack App version 25.09.40 on Android - 1 day ago
+- [DataBreaches] Cyberattack disrupts European airports including Heathrow, Brussels - 1 day ago
+- [RegisterSoftware] Britain jumps into bed with Palantir in £1.5B defense pact - 1 day ago
+- [HackerNews] LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer - 1 day ago
 - [HackerNews] Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell - 1 day ago
 - [HackerNews] ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent - 1 day ago
 - [DataBreaches] Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case - 1 day ago
@@ -45,33 +49,9 @@ description: Latest Updates
 - [SecurityWeek] In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek’s Coding Bias - 1 day ago
 - [CloudFlare] Issues with WARP Connectivity and Website Traffic - 1 day ago
 - [HackerNews] 17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge - 1 day ago
-- [SecurityWeek] Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions - 1 day ago
-- [RegisterSec] Scattered Spider teen cuffed after buying games and meals with extortion bitcoin - 1 day ago
-- [DataBreaches] FOIA Document on Breach of Sensitive DHS Domestic Intelligence Sharing Portal - 1 day ago
-- [BleepingComputer] ChatGPT Search is now smarter as OpenAI takes on Google Search - 1 day ago
-- [BleepingComputer] OpenAI's $4 GPT Go plan may expand to more regions - 1 day ago
-- [BleepingComputer] Steam will stop running on Windows 32-bit in January 2026 - 1 day ago
-- [RegisterSec] One token to pwn them all: Entra ID bug could have granted access to every tenant - 1 day ago
-- [RegisterSoftware] Nice try, sinners: Pope nixes idea of AI pontiff blessing netizens - 1 day ago
-- [HackerNews] How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines - 1 day ago
-- [IT Governance] UK GDPR Representative Services: What You Need to Know - 1 day ago
-- [SecurityWeek] CISA Analyzes Malware From Ivanti EPMM Intrusions - 1 day ago
-- [RegisterSoftware] User group says SAP's licensing models make cloud migration harder - 1 day ago
-- [SecurityWeek] ChatGPT Tricked Into Solving CAPTCHAs - 1 day ago
-- [CloudFlare] WARP connectivity - 1 day ago
-- [SecurityWeek] Netskope Raises Over $908 Million in IPO - 1 day ago
-- [RegisterSec] OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes - 1 day ago
-- [RegisterSoftware] OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes - 1 day ago
-- [RegisterSec] Charities warn Ofcom too soft on Online Safety Act violators - 1 day ago
-- [RegisterSec] Google pushes emergency patch for Chrome 0-day – check your browser version now - 1 day ago
-- [SecurityWeek] Two Scattered Spider Suspects Arrested in UK; One Charged in US - 1 day ago
-- [RegisterSoftware] British spreadsheet wizard will take mad skillz to Vegas after taking national Excel crown - 1 day ago
-- [HackerNews] Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine - 1 day ago
-- [SecurityWeek] Unpatched Vulnerabilities Expose Novakon HMIs to Remote Hacking - 1 day ago
-- [RegisterSoftware] Word to the wise: Don't tell your IT manager they're not in Excel - 1 day ago
-- [HackerNews] U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack - 1 day ago
-- [GrahamCluley] Vastaamo psychotherapy hack: US citizen charged in latest twist of notorious data breach - 1 day ago
-- [RegisterSec] MI6 reveals 'Silent Courier' dark web portal upgrade it hopes will help it recruit new spies - 2 days ago
+- [SecurityWeek] Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions - 2 days ago
+- [RegisterSec] Scattered Spider teen cuffed after buying games and meals with extortion bitcoin - 2 days ago
+- [DataBreaches] FOIA Document on Breach of Sensitive DHS Domestic Intelligence Sharing Portal - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
