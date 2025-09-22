@@ -9,49 +9,28 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams - 2 hours ago
-- [TroyHunt] Weekly Update 470 - 5 hours ago
-- [RegisterSoftware] Make Windows 11 more useful and less annoying with these 11 Registry hacks - 5 hours ago
-- [HIBP] Animeify - 808,034 breached accounts - 5 hours ago
-- [CloudFlare] Cloudflare Dashboard and API may return rate limit errors when modifying IP Lists - 7 hours ago
-- [BleepingComputer] Canada dismantles TradeOgre exchange, seizes $40 million in crypto - 20 hours ago
-- [CloudFlare] Cloudflare Dashboard and Communication Preferences API - 22 hours ago
+- [HackerNews] Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants - 46 minutes ago
+- [RegisterSec] Trump says Michael Dell is part of the team buying TikTok, with Larry Ellison and maybe some Murdochs - 46 minutes ago
+- [RegisterSec] Tech troubles create aviation chaos on both sides of the Atlantic - 1 hour ago
+- [RegisterSoftware] Huawei used its own silicon to re-educate DeepSeek so its output won’t bother Beijing - 4 hours ago
+- [RegisterSec] Ransomware attack linked to museum break-in and theft of golden exhibits - 5 hours ago
+- [DataBreaches] The Pennsylvania Attorney General’s Office Updates Ransomware Attack Incident - 8 hours ago
+- [DataBreaches] When “Goodbye” isn’t the end:  Scattered LAPSUS$ Hunters hack on - 11 hours ago
+- [BleepingComputer] Microsoft Entra ID flaw allowed hijacking any company's tenant - 13 hours ago
+- [SecurityWeek] Airport Cyberattack Disrupts More Flights Across Europe - 14 hours ago
+- [SecurityWeek] Cyberattack Disrupts Check-In Systems at Major European Airports - 15 hours ago
+- [HackerNews] DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams - 20 hours ago
+- [TroyHunt] Weekly Update 470 - 22 hours ago
+- [RegisterSoftware] Make Windows 11 more useful and less annoying with these 11 Registry hacks - 22 hours ago
+- [HIBP] Animeify - 808,034 breached accounts - 22 hours ago
+- [CloudFlare] Cloudflare Dashboard and API may return rate limit errors when modifying IP Lists - 1 day ago
+- [BleepingComputer] Canada dismantles TradeOgre exchange, seizes $40 million in crypto - 1 day ago
+- [CloudFlare] Cloudflare Dashboard and Communication Preferences API - 1 day ago
 - [Slack] Incident: Issues Opening the Slack App version 25.09.40 on Android - 1 day ago
 - [DataBreaches] Cyberattack disrupts European airports including Heathrow, Brussels - 1 day ago
 - [RegisterSoftware] Britain jumps into bed with Palantir in £1.5B defense pact - 1 day ago
 - [HackerNews] LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer - 1 day ago
-- [HackerNews] Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell - 1 day ago
-- [HackerNews] ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent - 1 day ago
-- [DataBreaches] Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case - 1 day ago
-- [CloudFlare] Workers AI experiencing degraded availability in some models - 1 day ago
-- [CloudFlare] Unable to modify bindings in Workers dashboard - 1 day ago
-- [CloudFlare] Cloudflare Pages GitLab Repository Connection Issues - 1 day ago
-- [BleepingComputer] Microsoft starts rolling out Gaming Copilot on Windows 11 PCs - 1 day ago
-- [RegisterSoftware] ChatGPT joins human league, now solves CAPTCHAs for the right prompt - 1 day ago
-- [RegisterSec] ChatGPT joins human league, now solves CAPTCHAs for the right prompt - 1 day ago
-- [RegisterSoftware] Sorry, but DeepSeek didn’t really train its flagship model for $294,000 - 1 day ago
-- [RegisterSec] Ivanti EPMM holes let miscreants plant shady listeners, CISA says - 1 day ago
-- [BleepingComputer] FBI warns of cybercriminals using fake FBI crime reporting portals - 1 day ago
-- [DataBreaches] Medical Associates of Brevard notifies 246,711 patients after cyberattack - 1 day ago
-- [RegisterSoftware] Microsoft insists Copilot+ PCs are 'empowering the future' – reality disagrees - 1 day ago
-- [HackerNews] UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware - 1 day ago
-- [BleepingComputer] CISA exposes malware kits deployed in Ivanti EPMM attacks - 1 day ago
-- [HackerNews] Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability - 1 day ago
-- [DataBreaches] ‘I Was a Weird Kid’: Jailhouse Confessions of a Teen Hacker - 1 day ago
-- [HackerNews] SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers - 1 day ago
-- [BleepingComputer] ChatGPT now gives you greater control over GPT-5 Thinking model - 1 day ago
-- [BleepingComputer] ChatGPT Search is now smarter as OpenAI takes on Google Search - 1 day ago
-- [BleepingComputer] OpenAI's $4 GPT Go plan may expand to more regions - 1 day ago
-- [BleepingComputer] Steam will stop running on Windows 32-bit in January 2026 - 1 day ago
-- [BleepingComputer] Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses - 1 day ago
-- [BleepingComputer] Fortra warns of max severity flaw in GoAnywhere MFT’s License Servlet - 1 day ago
-- [RegisterSec] Ding ding: Fortra rings the perfect-10 bell over latest GoAnywhere MFT bug - 1 day ago
-- [SecurityWeek] In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek’s Coding Bias - 1 day ago
-- [CloudFlare] Issues with WARP Connectivity and Website Traffic - 1 day ago
-- [HackerNews] 17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge - 1 day ago
-- [SecurityWeek] Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions - 2 days ago
-- [RegisterSec] Scattered Spider teen cuffed after buying games and meals with extortion bitcoin - 2 days ago
-- [DataBreaches] FOIA Document on Breach of Sensitive DHS Domestic Intelligence Sharing Portal - 2 days ago
+- [HackerNews] Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 4 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 4 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 4 months ago
