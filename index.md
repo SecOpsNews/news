@@ -9,30 +9,46 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Intern had no idea what not to do, so nearly mangled a mainframe - 21 minutes ago
-- [CloudFlare] Cloudflare Pages, Workers and Custom Hostname API issues - 3 hours ago
-- [RegisterSec] Trump demands Microsoft fire its head of global affairs - 3 hours ago
-- [CloudFlare] Increased cache latency in São Paulo - 3 hours ago
-- [CloudFlare] Elevated number of 500 errors in Atlanta for Load Balancing - 4 hours ago
-- [RegisterSec] Dutch teen duo arrested over alleged 'Wi-Fi sniffing' for Russia - 5 hours ago
-- [RegisterSec] Datacenter fire takes 647 South Korean government services offline - 7 hours ago
-- [BleepingComputer] Akira ransomware breaching MFA-protected SonicWall VPN accounts - 12 hours ago
-- [SecurityWeek] British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach - 12 hours ago
-- [BleepingComputer] EU probes SAP over anti-competitive ERP support practices - 13 hours ago
-- [CloudFlare] Cloudflare Service Issues - 13 hours ago
+- [BleepingComputer] EU probes SAP over anti-competitive ERP support practices - 18 minutes ago
+- [BleepingComputer] Akira ransomware breaching MFA-protected SonicWall VPN accounts - 18 minutes ago
+- [BleepingComputer] OpenAI is routing GPT-4o to safety models when it detects harmful activities - 18 minutes ago
+- [RegisterSoftware] Google's dev registration plan 'will end the F-Droid project' - 27 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More - 54 minutes ago
+- [HackerNews] The State of AI in the SOC 2025 - Insights from Recent Study - 1 hour ago
+- [BleepingComputer] OpenAI is routing GPT-4o to safety models when it detects harmful activities - 1 hour ago
+- [RegisterSoftware] Windows 95 was too fat to install itself so needed help from the slimmer 3.1 - 1 hour ago
+- [RegisterSoftware] Legacy Update updated – so your old Windows can be, too - 2 hours ago
+- [SecurityWeek] Cyberattack on JLR Prompts £1.5 Billion UK Government Intervention - 2 hours ago
+- [RegisterSec] UK minister suggests government could ditch 'dangerous' Elon Musk's X - 2 hours ago
+- [ScottHelme] Capture JavaScript Integrity Metadata using CSP! - 3 hours ago
+- [SecurityWeek] SafeHill Emerges from Stealth With $2.6 Million Pre-Seed Funding - 3 hours ago
+- [RegisterSec] Harrods blames its supplier after crims steal 430k customers’ data in fresh attack - 3 hours ago
+- [RegisterSoftware] Oh the joy: OpenNvidia may be the AI generation's WinTel - 3 hours ago
+- [SecurityWeek] Dutch Teens Arrested for Allegedly Helping Russian Hackers - 3 hours ago
+- [RegisterSec] Jaguar Land Rover gets £1.5B government jump-start after cyber breakdown - 4 hours ago
+- [SecurityWeek] Akira Ransomware’s Exploitation of SonicWall Vulnerability Continues - 4 hours ago
+- [HackerNews] First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package - 4 hours ago
+- [HackerNews] Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security - 4 hours ago
+- [RegisterSec] Digital ID, same place, different time: In this timeline, the result might surprise us - 4 hours ago
+- [CloudFlare] Log Explorer delays in processing recent data - 4 hours ago
+- [RegisterSoftware] To digital natives, Microsoft's IT stack makes Google's look like a model of sanity - 5 hours ago
+- [RegisterSec] Submarine cable security is all at sea, and UK govt 'too timid' to act, says report - 5 hours ago
+- [TroyHunt] Welcoming CERN to Have I Been Pwned - 6 hours ago
+- [RegisterSec] When AI is trained for treachery, it becomes the perfect agent - 6 hours ago
+- [RegisterSoftware] Intern had no idea what not to do, so nearly mangled a mainframe - 7 hours ago
+- [CloudFlare] Cloudflare Pages, Workers and Custom Hostname API issues - 10 hours ago
+- [RegisterSec] Trump demands Microsoft fire its head of global affairs - 10 hours ago
+- [CloudFlare] Increased cache latency in São Paulo - 10 hours ago
+- [CloudFlare] Elevated number of 500 errors in Atlanta for Load Balancing - 11 hours ago
+- [RegisterSec] Dutch teen duo arrested over alleged 'Wi-Fi sniffing' for Russia - 12 hours ago
+- [RegisterSec] Datacenter fire takes 647 South Korean government services offline - 14 hours ago
+- [BleepingComputer] Akira ransomware breaching MFA-protected SonicWall VPN accounts - 19 hours ago
+- [SecurityWeek] British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach - 19 hours ago
+- [BleepingComputer] EU probes SAP over anti-competitive ERP support practices - 20 hours ago
+- [CloudFlare] Cloudflare Service Issues - 20 hours ago
 - [CloudFlare] Increased error rates for R2 in Baghdad - 1 day ago
 - [BleepingComputer] Dutch teens arrested for trying to spy on Europol for Russia - 1 day ago
 - [BleepingComputer] Fake Microsoft Teams installers push Oyster malware via malvertising - 1 day ago
-- [DataBreaches] Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked - 1 day ago
-- [HackerNews] Researchers Expose Phishing Threats Distributing CountLoader and PureRAT - 1 day ago
-- [HackerNews] China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks - 1 day ago
-- [DataBreaches] Cyber threat-sharing law set to shut down, along with US government - 1 day ago
-- [DataBreaches] Harrods warns customers their personal data could have been stolen by hackers in new cyber-attack - 1 day ago
-- [RegisterSec] Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign - 1 day ago
-- [DataBreaches] London nurseries hit by hackers, data on 8,000 children stolen - 1 day ago
-- [TroyHunt] Weekly Update 471 - 1 day ago
-- [RegisterSec] Alibaba unveils $53B global AI plan – but it will need GPUs to back it up - 1 day ago
-- [RegisterSoftware] Alibaba unveils $53B global AI plan – but it will need GPUs to back it up - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
