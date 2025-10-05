@@ -9,20 +9,23 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Leaked Apple iPad Pro M5 benchmark shows massive improvements - 9 hours ago
-- [DataBreaches] Just days before its data might be leaked, Qantas Airways obtained a permanent injunction - 9 hours ago
-- [BleepingComputer] Discord discloses data breach after hackers steal support tickets - 10 hours ago
-- [BleepingComputer] Leaked Apple iPad Pro M5 benchmark shows it's faster than some laptop CPUs - 10 hours ago
-- [BleepingComputer] OpenAI rolls out GPT Codex Alpha with early access to new models - 11 hours ago
-- [BleepingComputer] ChatGPT social could be a thing, as leak shows direct messages support - 11 hours ago
-- [DataBreaches] PowerSchool hit by Salesloft Drift campaign, but hackers claim that there is no risk of harm or ransom - 12 hours ago
-- [BleepingComputer] OpenAI wants ChatGPT to be your emotional support - 13 hours ago
-- [BleepingComputer] OpenAI prepares $4 ChatGPT Go for several new countries - 15 hours ago
-- [BleepingComputer] Massive surge in scans targeting Palo Alto Networks login portals - 15 hours ago
-- [HackerNews] CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief - 15 hours ago
-- [BleepingComputer] Hackers steal identifiable Discord user data in third-party breach - 19 hours ago
-- [HackerNews] Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day - 19 hours ago
-- [RegisterSoftware] India's tech talent pipeline is sputtering - 22 hours ago
+- [CloudFlare] Increased latency affecting some US colos - 1 hour ago
+- [BleepingComputer] ParkMobile pays... $1 each for 2021 data breach that hit 22 million - 1 hour ago
+- [RegisterSoftware] AI chatbots that butter you up make you worse at conflict, study finds - 2 hours ago
+- [BleepingComputer] Leaked Apple iPad Pro M5 benchmark shows massive improvements - 16 hours ago
+- [DataBreaches] Just days before its data might be leaked, Qantas Airways obtained a permanent injunction - 16 hours ago
+- [BleepingComputer] Discord discloses data breach after hackers steal support tickets - 17 hours ago
+- [BleepingComputer] Leaked Apple iPad Pro M5 benchmark shows it's faster than some laptop CPUs - 17 hours ago
+- [BleepingComputer] OpenAI rolls out GPT Codex Alpha with early access to new models - 18 hours ago
+- [BleepingComputer] ChatGPT social could be a thing, as leak shows direct messages support - 18 hours ago
+- [DataBreaches] PowerSchool hit by Salesloft Drift campaign, but hackers claim that there is no risk of harm or ransom - 19 hours ago
+- [BleepingComputer] OpenAI wants ChatGPT to be your emotional support - 20 hours ago
+- [BleepingComputer] OpenAI prepares $4 ChatGPT Go for several new countries - 22 hours ago
+- [BleepingComputer] Massive surge in scans targeting Palo Alto Networks login portals - 22 hours ago
+- [HackerNews] CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief - 22 hours ago
+- [BleepingComputer] Hackers steal identifiable Discord user data in third-party breach - 1 day ago
+- [HackerNews] Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day - 1 day ago
+- [RegisterSoftware] India's tech talent pipeline is sputtering - 1 day ago
 - [CloudFlare] Network Performance Issues in India - 1 day ago
 - [CloudFlare] CLO (Cali) on 2025-10-03 - 1 day ago
 - [CloudFlare] MDE (Medellín) on 2025-10-03 - 1 day ago
@@ -74,29 +77,9 @@ description: Latest Updates
 - [RegisterSoftware] Apple ices ICE agent tracker app under government heat - 1 day ago
 - [CloudFlare] DEN (Denver) on 2025-10-06 - 1 day ago
 - [CloudFlare] ORD (Chicago) on 2025-10-06 - 1 day ago
-- [RegisterSec] Munich Airport chaos after drone sightings spook air traffic control - 1 day ago
-- [SecurityWeek] Oneleet Raises $33 Million for Security Compliance Platform - 1 day ago
-- [HackerNews] Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL - 1 day ago
-- [RegisterSec] UK government says digital ID won't be compulsory – honest - 1 day ago
-- [BleepingComputer] Oracle links Clop extortion attacks to July 2025 vulnerabilities - 1 day ago
-- [RegisterSoftware] All eyes on markets for AI Bubble Watch: Is it a Floater or a Popper? - 1 day ago
-- [HackerNews] Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security - 1 day ago
-- [SecurityWeek] Unauthenticated RCE Flaw Patched in DrayTek Routers - 1 day ago
-- [RegisterSec] Oracle tells Clop-targeted EBS users to apply July patch, problem solved - 1 day ago
-- [BleepingComputer] Gmail business users can now send encrypted emails to anyone - 1 day ago
-- [SecurityWeek] Organizations Warned of Exploited Meteobridge Vulnerability - 1 day ago
-- [IT Governance] 5 Reasons ISO 27001 Implementations Fail (and How to Avoid Them) - 1 day ago
-- [HackerNews] New "Cavalry Werewolf" Attack Hits Russian Agencies with FoalShell and StallionRAT - 1 day ago
-- [SecurityWeek] MokN Raises $3 Million for Phish-Back Solution - 1 day ago
-- [SecurityWeek] Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks - 1 day ago
-- [CloudFlare] Network Performance Issues in India - 1 day ago
-- [HackerNews] CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild - 1 day ago
-- [RegisterSec] Criminals take Renault UK customer data for a joyride - 1 day ago
-- [SecurityWeek] Chrome 141 and Firefox 143 Patches Fix High-Severity Vulnerabilities - 1 day ago
-- [RegisterSoftware] How the ONS data-sharing dream ended in budget cuts and three rival platforms - 1 day ago
-- [SecurityWeek] Red Hat Confirms GitLab Instance Hack, Data Theft - 1 day ago
-- [RegisterSoftware] Energy drink company punished ERP graybeard for going too fast - 2 days ago
-- [HIBP] HomeRefill - 187,457 breached accounts - 2 days ago
+- [RegisterSec] Munich Airport chaos after drone sightings spook air traffic control - 2 days ago
+- [SecurityWeek] Oneleet Raises $33 Million for Security Compliance Platform - 2 days ago
+- [HackerNews] Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
