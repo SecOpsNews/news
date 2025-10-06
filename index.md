@@ -9,26 +9,51 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [TroyHunt] Weekly Update 472 - 23 minutes ago
-- [RegisterSoftware] Techie found an error message so rude the CEO of IBM apologized for it - 23 minutes ago
-- [CloudFlare] Increased Errors for Durable Objects - 24 minutes ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-20 - 24 minutes ago
-- [HackerNews] Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks - 46 minutes ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-21 - 48 minutes ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 1 hour ago
-- [CloudFlare] Elevated number of 522 errors in MIA - 1 hour ago
-- [BleepingComputer] Oracle patches EBS zero-day exploited in Clop data theft attacks - 4 hours ago
-- [CloudFlare] SEA (Seattle) on 2025-10-08 - 12 hours ago
-- [CloudFlare] IST (Istanbul) on 2025-10-23 - 13 hours ago
-- [CloudFlare] ICN (Seoul) on 2025-10-14 - 13 hours ago
-- [CloudFlare] SJC (San Jose) on 2025-10-16 - 13 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2025-10-20 - 14 hours ago
-- [CloudFlare] ORD (Chicago) on 2025-10-21 - 14 hours ago
-- [CloudFlare] Subset of Magic Transit and WAN tunnel health checks failing - 14 hours ago
-- [BleepingComputer] Hackers exploited Zimbra flaw as zero-day using iCalendar files - 16 hours ago
-- [CloudFlare] Increased latency affecting some US colos - 18 hours ago
-- [BleepingComputer] ParkMobile pays... $1 each for 2021 data breach that hit 22 million - 18 hours ago
-- [RegisterSoftware] AI chatbots that butter you up make you worse at conflict, study finds - 19 hours ago
+- [RegisterSec] Radiant Group won't touch kids' data now, but apparently hospitals are fair game - 28 minutes ago
+- [SecurityWeek] Microsoft and Steam Take Action as Unity Vulnerability Puts Games at Risk - 55 minutes ago
+- [RegisterSoftware] An idea that won't sink: China planning underwater datacenter deployment - 55 minutes ago
+- [RegisterSoftware] Kicked from RubyGems, maintainers forge new home at Gem Cooperative - 55 minutes ago
+- [DataBreaches] NSW gov contractor uploaded Excel spreadsheet of flood victims’ data to ChatGPT - 55 minutes ago
+- [RegisterSec] Thieves steal IDs and payment info after data leaks from Discord support vendor - 1 hour ago
+- [HackerNews] Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers - 1 hour ago
+- [HackerNews] 5 Critical Questions For Adopting an AI Security Solution - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More - 1 hour ago
+- [BleepingComputer] XWorm malware resurfaces with ransomware module, over 35 plugins - 2 hours ago
+- [DataBreaches] Update on the emerging CL0P extortion campaign targeting Oracle E-Business Suite - 2 hours ago
+- [SecurityWeek] Hackers Extorting Salesforce After Stealing Data From Dozens of Customers - 2 hours ago
+- [SecurityWeek] Data Breach at Doctors Imaging Group Impacts 171,000 People - 3 hours ago
+- [RegisterSec] Jaguar Land Rover engines ready to roar again after weeks-long cyber stall - 3 hours ago
+- [RegisterSec] Clop crew hits Oracle E-Business Suite users with fresh zero-day - 4 hours ago
+- [SecurityWeek] $4.5 Million Offered in New Cloud Hacking Competition - 4 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-07 - 4 hours ago
+- [RegisterSec] Leak suggests US government is fibbing over FEMA security failings - 4 hours ago
+- [RegisterSoftware] AI: The ultimate slacker's dream come true - 5 hours ago
+- [RegisterSoftware] AI: the ultimate slacker's dream come true - 5 hours ago
+- [RegisterSoftware] AI's security paradox: how enterprises can have their cake and eat it too - 5 hours ago
+- [SecurityWeek] Beer Giant Asahi Says Data Stolen in Ransomware Attack - 5 hours ago
+- [SecurityWeek] Oracle E-Business Suite Zero-Day Exploited in Cl0p Attacks - 6 hours ago
+- [HackerNews] Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files - 6 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-15 - 6 hours ago
+- [TroyHunt] Weekly Update 472 - 7 hours ago
+- [RegisterSoftware] Techie found an error message so rude the CEO of IBM apologized for it - 7 hours ago
+- [CloudFlare] Increased Errors for Durable Objects - 7 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-20 - 7 hours ago
+- [HackerNews] Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks - 7 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-21 - 7 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 8 hours ago
+- [CloudFlare] Elevated number of 522 errors in MIA - 8 hours ago
+- [BleepingComputer] Oracle patches EBS zero-day exploited in Clop data theft attacks - 11 hours ago
+- [CloudFlare] SEA (Seattle) on 2025-10-08 - 19 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-10-23 - 20 hours ago
+- [CloudFlare] ICN (Seoul) on 2025-10-14 - 20 hours ago
+- [CloudFlare] SJC (San Jose) on 2025-10-16 - 20 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2025-10-20 - 21 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-21 - 21 hours ago
+- [CloudFlare] Subset of Magic Transit and WAN tunnel health checks failing - 21 hours ago
+- [BleepingComputer] Hackers exploited Zimbra flaw as zero-day using iCalendar files - 23 hours ago
+- [CloudFlare] Increased latency affecting some US colos - 1 day ago
+- [BleepingComputer] ParkMobile pays... $1 each for 2021 data breach that hit 22 million - 1 day ago
+- [RegisterSoftware] AI chatbots that butter you up make you worse at conflict, study finds - 1 day ago
 - [BleepingComputer] Leaked Apple iPad Pro M5 benchmark shows massive improvements - 1 day ago
 - [DataBreaches] Just days before its data might be leaked, Qantas Airways obtained a permanent injunction - 1 day ago
 - [BleepingComputer] Discord discloses data breach after hackers steal support tickets - 1 day ago
@@ -40,9 +65,6 @@ description: Latest Updates
 - [BleepingComputer] OpenAI prepares $4 ChatGPT Go for several new countries - 1 day ago
 - [BleepingComputer] Massive surge in scans targeting Palo Alto Networks login portals - 1 day ago
 - [HackerNews] CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief - 1 day ago
-- [BleepingComputer] Hackers steal identifiable Discord user data in third-party breach - 1 day ago
-- [HackerNews] Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day - 1 day ago
-- [RegisterSoftware] India's tech talent pipeline is sputtering - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
