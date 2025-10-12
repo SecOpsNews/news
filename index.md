@@ -9,13 +9,13 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [TroyHunt] Weekly Update 473 - 3 hours ago
-- [DataBreaches] In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. - 11 hours ago
-- [DataBreaches] They were victims of a massive data breach in 2009. Interior Health denied it for a decade. - 12 hours ago
-- [HackerNews] Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - 16 hours ago
-- [HackerNews] Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks - 17 hours ago
-- [GrahamCluley] BreachForums seized, but hackers say they will still leak Salesforce data - 20 hours ago
-- [HIBP] Vietnam Airlines - 7,316,915 breached accounts - 21 hours ago
+- [TroyHunt] Weekly Update 473 - 10 hours ago
+- [DataBreaches] In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. - 18 hours ago
+- [DataBreaches] They were victims of a massive data breach in 2009. Interior Health denied it for a decade. - 19 hours ago
+- [HackerNews] Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - 23 hours ago
+- [HackerNews] Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks - 1 day ago
+- [GrahamCluley] BreachForums seized, but hackers say they will still leak Salesforce data - 1 day ago
+- [HIBP] Vietnam Airlines - 7,316,915 breached accounts - 1 day ago
 - [CloudFlare] Cloudflare Workers Issues - 1 day ago
 - [CloudFlare] IST (Istanbul) on 2025-10-23 - 1 day ago
 - [CloudFlare] ICN (Seoul) on 2025-10-14 - 1 day ago
@@ -50,28 +50,9 @@ description: Latest Updates
 - [HackerNews] Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers - 1 day ago
 - [SecurityWeek] In Other News: Gladinet Flaw Exploitation, Attacks on ICS Honeypot, ClayRat Spyware - 1 day ago
 - [DataBreaches] Don’t breathe that sigh of relief just yet: BreachForums is gone, but the Salesforce leak site isn’t - 1 day ago
-- [RegisterSoftware] Climate goals go up in smoke as US datacenters turn to coal - 1 day ago
-- [RegisterSec] Microsoft warns of 'payroll pirate' crew looting US university salaries - 1 day ago
-- [SecurityWeek] Cisco, Fortinet, Palo Alto Networks Devices Targeted in Coordinated Campaign - 1 day ago
-- [SecurityWeek] RondoDox Botnet Takes ‘Exploit Shotgun’ Approach - 1 day ago
-- [HackerNews] From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation - 1 day ago
-- [IT Governance] 5 Practical Skills You’ll Gain from a GDPR Practitioner Course - 1 day ago
-- [HackerNews] 175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign - 1 day ago
-- [HackerNews] The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart? - 1 day ago
-- [IT Governance] ISO 27001 Internal vs Lead Auditor Training Compared - 1 day ago
-- [RegisterSec] Cops nuke BreachForums (again) amid cybercrime supergroup extortion blitz - 1 day ago
-- [SecurityWeek] Juniper Networks Patches Critical Junos Space Vulnerabilities - 1 day ago
-- [HackerNews] From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability - 1 day ago
-- [RegisterSec] UK techies' union warns members after breach exposes sensitive personal details - 1 day ago
-- [SecurityWeek] ZDI Drops 13 Unpatched Ivanti Endpoint Manager Vulnerabilities - 1 day ago
-- [SecurityWeek] Apple Bug Bounty Update: Top Payout $2 Million, $35 Million Paid to Date - 1 day ago
-- [CloudFlare] Increased Errors for Durable Objects in the Western North America region - 1 day ago
-- [BleepingComputer] FBI takes down BreachForums portal used for Salesforce extortion - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2025-10-15 - 1 day ago
-- [CloudFlare] Network Performance Issues in China - 1 day ago
-- [SecurityWeek] Sophisticated Malware Deployed in Oracle EBS Zero-Day Attacks - 1 day ago
-- [RegisterSoftware] Microsoft hypes PCs with NPUs, still can't offer a good reason to buy one - 1 day ago
-- [HackerNews] CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw - 1 day ago
+- [RegisterSoftware] Climate goals go up in smoke as US datacenters turn to coal - 2 days ago
+- [RegisterSec] Microsoft warns of 'payroll pirate' crew looting US university salaries - 2 days ago
+- [SecurityWeek] Cisco, Fortinet, Palo Alto Networks Devices Targeted in Coordinated Campaign - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
