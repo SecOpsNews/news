@@ -9,26 +9,74 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs - 46 minutes ago
-- [CloudFlare] MRS (Marseille) on 2025-10-14 - 1 hour ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-15 - 3 hours ago
+- [HackerNews] New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login - 26 minutes ago
+- [HackerNews] New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs - 26 minutes ago
+- [HackerNews] Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns - 26 minutes ago
+- [RegisterSec] Microsoft 'illegally' tracked students via 365 Education, says data watchdog - 26 minutes ago
+- [RegisterSoftware] Microsoft 'illegally' tracked students via 365 Education, says data watchdog - 26 minutes ago
+- [HackerNews] Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor - 26 minutes ago
+- [HackerNews] Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors - 26 minutes ago
+- [HackerNews] Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk - 26 minutes ago
+- [BleepingComputer] Harvard investigating breach linked to Oracle zero-day exploit - 26 minutes ago
+- [BleepingComputer] Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs - 26 minutes ago
+- [RegisterSoftware] Datacenter water use? California governor says don't ask, don't tell - 53 minutes ago
+- [SecurityWeek] Extortion Group Leaks Millions of Records From Salesforce Hacks - 54 minutes ago
+- [SecurityWeek] Spanish Authorities Dismantle ‘GXC Team’ Crime-as-a-Service Operation - 54 minutes ago
+- [SecurityWeek] Oracle Patches EBS Vulnerability Allowing Access to Sensitive Data - 54 minutes ago
+- [SecurityWeek] NPM Infrastructure Abused in Phishing Campaign Aimed at Industrial and Electronics Firms - 54 minutes ago
+- [SecurityWeek] SimonMed Imaging Data Breach Impacts 1.2 Million - 54 minutes ago
+- [SecurityWeek] SonicWall SSL VPN Accounts in Attacker Crosshairs - 54 minutes ago
+- [SecurityWeek] SimonMed Imaging Data Breach Impacts 1.2 Million - 1 hour ago
+- [RegisterSec] China probes Qualcomm's Autotalks deal amid rising US trade tensions - 1 hour ago
+- [RegisterSoftware] ZTE hosts Global Summit &amp; User Congress 2025 in Milan under the theme "Expanding Intelligence, Creating Possibilities" - 1 hour ago
+- [RegisterSoftware] UK waves £750M supercomputer contract at HPC builders - 1 hour ago
+- [RegisterSoftware] Arduino has a new job selling chips for its new owner. Let's not pretend otherwise - 1 hour ago
+- [RegisterSoftware] Britain's biggest nuclear site looks set to outlast SAP support again - 1 hour ago
+- [RegisterSoftware] Fujitsu pumps £280M into UK arm to keep lights on after Horizon scandal - 1 hour ago
+- [RegisterSoftware] End of Windows 10 support is the perfect time for the Windows 11 installer to fail - 1 hour ago
+- [HackerNews] Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk - 1 hour ago
+- [CloudFlare] SLC (Salt Lake City) on 2025-10-14 - 1 hour ago
+- [SecurityWeek] NPM Infrastructure Abused in Phishing Campaign Aimed at Industrial and Electronics Firms - 2 hours ago
+- [RegisterSoftware] Fujitsu pumps £280M into UK arm to keep lights on after Horizon scandal - 2 hours ago
+- [CloudFlare] TPA (Tampa) on 2025-10-14 - 2 hours ago
+- [RegisterSec] Ofcom fines 4chan £20K and counting for pretending UK's Online Safety Act doesn't exist - 2 hours ago
+- [RegisterSec] Dutch government puts Nexperia on a short leash over chip security fears - 2 hours ago
+- [HackerNews] Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor - 3 hours ago
+- [HackerNews] Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors - 3 hours ago
+- [SecurityWeek] Oracle Patches EBS Vulnerability Allowing Access to Sensitive Data - 3 hours ago
 - [RegisterSoftware] ZTE hosts Global Summit &amp; User Congress 2025 in Milan under the theme "Expanding Intelligence, Creating Possibilities" - 4 hours ago
-- [CloudFlare] HAM (Hamburg) on 2025-10-13 - 4 hours ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-20 - 8 hours ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-21 - 8 hours ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 8 hours ago
-- [CloudFlare] Cloudflare One Application Library Status Not Updating - 8 hours ago
-- [DataBreaches] From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1) - 9 hours ago
-- [HackerNews] New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login - 12 hours ago
-- [DataBreaches] From sizzle to drizzle to fizzle: The massive data leak that wasn’t - 14 hours ago
-- [BleepingComputer] Fake 'Inflation Refund' texts target New Yorkers in new scam - 15 hours ago
+- [RegisterSoftware] UK waves £750M supercomputer contract at HPC builders - 4 hours ago
+- [RegisterSoftware] Arduino has a new job selling chips for its new owner. Let's not pretend otherwise - 4 hours ago
+- [BleepingComputer] Fake 'Inflation Refund' texts target New Yorkers in new scam - 4 hours ago
+- [RegisterSoftware] Britain's biggest nuclear site looks set to outlast SAP support again - 4 hours ago
+- [SecurityWeek] Spanish Authorities Dismantle ‘GXC Team’ Crime-as-a-Service Operation - 4 hours ago
+- [BleepingComputer] Fake 'Inflation Refund' texts target New Yorkers in new scam - 4 hours ago
+- [CloudFlare] PHL (Philadelphia) on 2025-10-14 - 4 hours ago
+- [SecurityWeek] Extortion Group Leaks Millions of Records From Salesforce Hacks - 4 hours ago
+- [RegisterSoftware] Britain's biggest nuclear site looks set to outlast SAP support again - 4 hours ago
+- [SecurityWeek] Extortion Group Leaks Millions of Records From Salesforce Hacks - 5 hours ago
+- [CloudFlare] MIA (Miami) on 2025-10-13 - 5 hours ago
+- [RegisterSoftware] Arduino has a new job selling chips for its new owner. Let's not pretend otherwise - 5 hours ago
+- [HackerNews] Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns - 5 hours ago
+- [CloudFlare] QRO (Queretaro) on 2025-10-13 - 5 hours ago
+- [RegisterSoftware] UK waves £750M supercomputer contract at HPC builders - 6 hours ago
+- [HackerNews] New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs - 7 hours ago
+- [CloudFlare] MRS (Marseille) on 2025-10-14 - 8 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-15 - 10 hours ago
+- [RegisterSoftware] ZTE hosts Global Summit &amp; User Congress 2025 in Milan under the theme "Expanding Intelligence, Creating Possibilities" - 11 hours ago
+- [CloudFlare] HAM (Hamburg) on 2025-10-13 - 11 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-20 - 14 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-21 - 15 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 15 hours ago
+- [CloudFlare] Cloudflare One Application Library Status Not Updating - 15 hours ago
+- [DataBreaches] From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1) - 16 hours ago
+- [HackerNews] New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login - 19 hours ago
+- [DataBreaches] From sizzle to drizzle to fizzle: The massive data leak that wasn’t - 20 hours ago
+- [BleepingComputer] Fake 'Inflation Refund' texts target New Yorkers in new scam - 22 hours ago
 - [TroyHunt] Weekly Update 473 - 1 day ago
 - [DataBreaches] In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. - 1 day ago
 - [DataBreaches] They were victims of a massive data breach in 2009. Interior Health denied it for a decade. - 1 day ago
 - [HackerNews] Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - 1 day ago
-- [HackerNews] Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks - 1 day ago
-- [GrahamCluley] BreachForums seized, but hackers say they will still leak Salesforce data - 1 day ago
-- [HIBP] Vietnam Airlines - 7,316,915 breached accounts - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
