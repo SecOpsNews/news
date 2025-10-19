@@ -9,18 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 25 minutes ago
-- [FullDisclosure] Urgent Security Vulnerabilities Discovered in Mercku Routers Model M6a - 3 hours ago
-- [FullDisclosure] apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) - 3 hours ago
-- [FullDisclosure] CyberDanube Security Research 20251014-0 | Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS - 3 hours ago
-- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees - 4 hours ago
-- [BleepingComputer] OpenAI confirms GPT-6 is not shipping in 2025 - 8 hours ago
-- [DataBreaches] Scenes from a “No Kings” Protest, 10-18-25 - 10 hours ago
-- [BleepingComputer] Google ads for fake Homebrew, LogMeIn sites push infostealers - 15 hours ago
-- [DataBreaches] No Kings. Not Today. Not Ever. - 18 hours ago
-- [HackerNews] New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - 19 hours ago
-- [RegisterSoftware] Ruby Central tries to make peace after 'hostile takeover' - 19 hours ago
-- [HackerNews] Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT - 23 hours ago
+- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 7 hours ago
+- [FullDisclosure] Urgent Security Vulnerabilities Discovered in Mercku Routers Model M6a - 10 hours ago
+- [FullDisclosure] apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) - 10 hours ago
+- [FullDisclosure] CyberDanube Security Research 20251014-0 | Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS - 10 hours ago
+- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees - 11 hours ago
+- [BleepingComputer] OpenAI confirms GPT-6 is not shipping in 2025 - 15 hours ago
+- [DataBreaches] Scenes from a “No Kings” Protest, 10-18-25 - 17 hours ago
+- [BleepingComputer] Google ads for fake Homebrew, LogMeIn sites push infostealers - 22 hours ago
+- [DataBreaches] No Kings. Not Today. Not Ever. - 1 day ago
+- [HackerNews] New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - 1 day ago
+- [RegisterSoftware] Ruby Central tries to make peace after 'hostile takeover' - 1 day ago
+- [HackerNews] Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT - 1 day ago
 - [DataBreaches] Massachusetts hospitals Heywood, Athol say outage was a cybersecurity incident - 1 day ago
 - [DataBreaches] Data BreachesProsper Data Breach Impacts 17.6 Million Accounts - 1 day ago
 - [DataBreaches] An arrested man’s lawyer claims his client can’t be ShinyHunters’ leader. His argument wasn’t persuasive. - 1 day ago
@@ -67,62 +67,10 @@ description: Latest Updates
 - [RegisterSoftware] Windows 10, huh, what is it good for? PC upgrade cycles actually - 1 day ago
 - [HackerNews] North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware - 1 day ago
 - [BleepingComputer] Microsoft fixes Windows bug breaking localhost HTTP connections - 1 day ago
-- [SecurityWeek] In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach - 1 day ago
-- [RegisterSec] Carmakers fear chip crunch as Dutch sanctions hit Nexperia - 1 day ago
-- [RegisterSec] Labor unions sue Trump administration over social media surveillance - 1 day ago
-- [GitHub] Disruption with push notifications - 1 day ago
-- [BleepingComputer] Over 266,000 F5 BIG-IP instances exposed to remote attacks - 1 day ago
-- [SecurityWeek] Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026 - 1 day ago
-- [HackerNews] Identity Security: Your First and Last Line of Defense - 1 day ago
-- [RegisterSoftware] Microsoft parks Landsat and Sentinel satellite data in Azure's orbit - 1 day ago
-- [RegisterSoftware] SAP users still wrestling with business case for S/4HANA - 1 day ago
-- [NCSCGuidanceFeed] Social media: protecting what you publish - 1 day ago
-- [NCSCGuidanceFeed] Securing your devices - 1 day ago
-- [BrianKrebs] Email Bombs Exploit Lax Authentication in Zendesk - 1 day ago
-- [SecurityWeek] Hackers Steal Sensitive Data From Auction House Sotheby’s - 1 day ago
-- [RegisterSoftware] Boris Johnson confesses: He's fallen for ChatGPT - 1 day ago
-- [SecurityWeek] ‘Highest Ever’ Severity Score Assigned by Microsoft to ASP.NET Core Vulnerability - 1 day ago
-- [RegisterSoftware] Britain's AI gold rush hits a wall – not enough electricity - 1 day ago
-- [HackerNews] Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices - 1 day ago
-- [SecurityWeek] Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices - 1 day ago
-- [SecurityWeek] Prosper Data Breach Impacts 17.6 Million Accounts - 1 day ago
-- [CloudFlare] HBA (Hobart) on 2025-10-20 - 1 day ago
-- [CloudFlare] BNE (Brisbane) on 2025-10-20 - 1 day ago
-- [CloudFlare] MRU (Port Louis) on 2025-10-20 - 1 day ago
-- [CloudFlare] RUN (Saint-Denis) on 2025-10-20 - 1 day ago
-- [CloudFlare] NBO (Nairobi) on 2025-10-20 - 1 day ago
-- [CloudFlare] TNR (Antananarivo) on 2025-10-20 - 1 day ago
-- [CloudFlare] DAR (Dar es Salaam) on 2025-10-20 - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2025-10-21 - 1 day ago
-- [CloudFlare] LHR (London) on 2025-10-21 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-10-21 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-21 - 1 day ago
-- [CloudFlare] GYD (Baku) on 2025-10-21 - 1 day ago
-- [CloudFlare] DXB (Dubai) on 2025-10-21 - 1 day ago
-- [CloudFlare] ADB (Izmir) on 2025-10-21 - 1 day ago
-- [CloudFlare] NBO (Nairobi) on 2025-10-21 - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-10-21 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2025-10-22 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 1 day ago
-- [CloudFlare] CDG (Paris) on 2025-10-23 - 1 day ago
-- [CloudFlare] IST (Istanbul) on 2025-10-23 - 1 day ago
-- [CloudFlare] MXP (Milan) on 2025-10-24 - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2025-10-30 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 1 day ago
-- [SecurityWeek] Gladinet Patches Exploited CentreStack Vulnerability - 1 day ago
-- [RegisterSoftware] Britains's AI gold rush hits a wall: not enough electricity - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 1 day ago
-- [RegisterSoftware] AI boffins teach office supplies to predict your next move - 1 day ago
-- [HackerNews] Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign - 1 day ago
-- [CloudFlare] BNE (Brisbane) on 2025-10-20 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-11-14 - 1 day ago
-- [CloudFlare] GYD (Baku) on 2025-10-21 - 2 days ago
-- [CloudFlare] DXB (Dubai) on 2025-10-21 - 2 days ago
-- [CloudFlare] NBO (Nairobi) on 2025-10-21 - 2 days ago
-- [CloudFlare] BSR (Basra) on 2025-10-21 - 2 days ago
-- [BleepingComputer] Auction giant Sotheby’s says data breach exposed financial information - 2 days ago
+- [SecurityWeek] In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach - 2 days ago
+- [RegisterSec] Carmakers fear chip crunch as Dutch sanctions hit Nexperia - 2 days ago
+- [RegisterSec] Labor unions sue Trump administration over social media surveillance - 2 days ago
+- [GitHub] Disruption with push notifications - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
