@@ -9,68 +9,31 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 7 hours ago
-- [FullDisclosure] Urgent Security Vulnerabilities Discovered in Mercku Routers Model M6a - 10 hours ago
-- [FullDisclosure] apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) - 10 hours ago
-- [FullDisclosure] CyberDanube Security Research 20251014-0 | Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS - 10 hours ago
-- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees - 11 hours ago
-- [BleepingComputer] OpenAI confirms GPT-6 is not shipping in 2025 - 15 hours ago
-- [DataBreaches] Scenes from a “No Kings” Protest, 10-18-25 - 17 hours ago
-- [BleepingComputer] Google ads for fake Homebrew, LogMeIn sites push infostealers - 22 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 23 minutes ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 23 minutes ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 23 minutes ago
+- [HackerNews] MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems - 46 minutes ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 48 minutes ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 48 minutes ago
+- [RegisterSoftware] Huawei's ACT pathway powers scalable AI adoption across industries - 5 hours ago
+- [SecurityWeek] China Accuses US of Cyberattack on National Time Center - 5 hours ago
+- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees (1) - 7 hours ago
+- [BleepingComputer] Experian fined $3.2 million for mass-collecting personal data - 12 hours ago
+- [BleepingComputer] TikTok videos continue to push infostealers in ClickFix attacks - 12 hours ago
+- [DataBreaches] UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web - 14 hours ago
+- [DataBreaches] A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? - 16 hours ago
+- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 1 day ago
+- [FullDisclosure] Urgent Security Vulnerabilities Discovered in Mercku Routers Model M6a - 1 day ago
+- [FullDisclosure] apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) - 1 day ago
+- [FullDisclosure] CyberDanube Security Research 20251014-0 | Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS - 1 day ago
+- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees - 1 day ago
+- [BleepingComputer] OpenAI confirms GPT-6 is not shipping in 2025 - 1 day ago
+- [DataBreaches] Scenes from a “No Kings” Protest, 10-18-25 - 1 day ago
+- [BleepingComputer] Google ads for fake Homebrew, LogMeIn sites push infostealers - 1 day ago
 - [DataBreaches] No Kings. Not Today. Not Ever. - 1 day ago
 - [HackerNews] New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - 1 day ago
 - [RegisterSoftware] Ruby Central tries to make peace after 'hostile takeover' - 1 day ago
 - [HackerNews] Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT - 1 day ago
-- [DataBreaches] Massachusetts hospitals Heywood, Athol say outage was a cybersecurity incident - 1 day ago
-- [DataBreaches] Data BreachesProsper Data Breach Impacts 17.6 Million Accounts - 1 day ago
-- [DataBreaches] An arrested man’s lawyer claims his client can’t be ShinyHunters’ leader. His argument wasn’t persuasive. - 1 day ago
-- [BleepingComputer] ConnectWise fixes Automate bug allowing AiTM update attacks - 1 day ago
-- [BleepingComputer] American Airlines subsidiary Envoy confirms Oracle data theft attack - 1 day ago
-- [RegisterSoftware] Turns out the end of Windows 10 is good for something: The PC refresh cycle - 1 day ago
-- [IT Governance] CISM vs CISSP: Which Certification is Right for You in 2025 - 1 day ago
-- [BleepingComputer] Microsoft lifts more safeguard holds blocking Windows 11 updates - 1 day ago
-- [BleepingComputer] Europol dismantles SIM box operation renting numbers for cybercrime - 1 day ago
-- [IT Governance] CISM vs CISSP: which certification is right for you in 2025 - 1 day ago
-- [RegisterSoftware] Thou shalt not let AI run amok: Vatican wants global rules - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-10-22 - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2025-10-22 - 1 day ago
-- [CloudFlare] DXB (Dubai) on 2025-10-21 - 1 day ago
-- [CloudFlare] ADB (Izmir) on 2025-10-21 - 1 day ago
-- [CloudFlare] NBO (Nairobi) on 2025-10-21 - 1 day ago
-- [CloudFlare] BSR (Basra) on 2025-10-21 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2025-10-22 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 1 day ago
-- [CloudFlare] CDG (Paris) on 2025-10-23 - 1 day ago
-- [SecurityWeek] Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2025-10-22 - 1 day ago
-- [CloudFlare] IST (Istanbul) on 2025-10-23 - 1 day ago
-- [CloudFlare] MXP (Milan) on 2025-10-24 - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2025-10-30 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-22 - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2025-10-22 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-10-22 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-10-23 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-10-24 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 1 day ago
-- [RegisterSec] Have I Been Pwned logs 17.6M victims in Prosper breach - 1 day ago
-- [BleepingComputer] VMware Certification: Your Next Career Power Move - 1 day ago
-- [BleepingComputer] Microsoft fixes highest-severity ASP.NET Core flaw ever - 1 day ago
-- [GitHub] Disruption with push notifications - 1 day ago
-- [RegisterSoftware] Windows 10, huh, what is it good for? PC upgrade cycles actually - 1 day ago
-- [HackerNews] North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware - 1 day ago
-- [BleepingComputer] Microsoft fixes Windows bug breaking localhost HTTP connections - 1 day ago
-- [SecurityWeek] In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach - 2 days ago
-- [RegisterSec] Carmakers fear chip crunch as Dutch sanctions hit Nexperia - 2 days ago
-- [RegisterSec] Labor unions sue Trump administration over social media surveillance - 2 days ago
-- [GitHub] Disruption with push notifications - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
