@@ -9,113 +9,190 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] ATL (Atlanta) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] SIN (Singapore) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] ORD (Chicago) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] DFW (Dallas) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 17 minutes ago
-- [CloudFlare] CDG (Paris) on 2025-10-23 - 17 minutes ago
-- [CloudFlare] EWR (Newark) on 2025-10-23 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 17 minutes ago
-- [CloudFlare] IST (Istanbul) on 2025-10-23 - 17 minutes ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 17 minutes ago
-- [CloudFlare] MXP (Milan) on 2025-10-24 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 17 minutes ago
-- [CloudFlare] EWR (Newark) on 2025-10-24 - 17 minutes ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 17 minutes ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 17 minutes ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 17 minutes ago
-- [CloudFlare] SJC (San Jose) on 2025-10-30 - 17 minutes ago
-- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 17 minutes ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 17 minutes ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 17 minutes ago
-- [RegisterSoftware] Windows 11 update knocks out USB mice, keyboards in recovery mode - 26 minutes ago
-- [BleepingComputer] AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more - 26 minutes ago
-- [GitHub] Codespaces creation failling - 26 minutes ago
-- [SecurityWeek] Lumma Stealer Activity Drops After Doxxing - 53 minutes ago
-- [RegisterSoftware] Huawei's ACT pathway powers scalable AI adoption across industries - 53 minutes ago
-- [SecurityWeek] SIM Farm Dismantled in Europe, Seven Arrested - 53 minutes ago
-- [RegisterSoftware] Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit - 53 minutes ago
-- [RegisterSoftware] The real insight behind measuring Copilot usage is Microsoft's desperation - 53 minutes ago
-- [RegisterSoftware] Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day - 53 minutes ago
-- [SecurityWeek] China Accuses US of Cyberattack on National Time Center - 1 hour ago
-- [HackerNews] 131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign - 1 hour ago
-- [SecurityWeek] American Airlines Subsidiary Envoy Air Hit by Oracle Hack - 1 hour ago
-- [HackerNews] Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches - 1 hour ago
-- [SecurityWeek] NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million - 1 hour ago
-- [SecurityWeek] Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks - 1 hour ago
-- [HackerNews] ⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More - 1 hour ago
-- [SecurityWeek] ConnectWise Patches Critical Flaw in Automate RMM Tool - 1 hour ago
-- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 1 hour ago
-- [CloudFlare] CDG (Paris) on 2025-10-23 - 2 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-10-22 - 2 hours ago
-- [RegisterSoftware] Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day - 2 hours ago
-- [CloudFlare] IST (Istanbul) on 2025-10-23 - 2 hours ago
-- [CloudFlare] MXP (Milan) on 2025-10-24 - 2 hours ago
+- [RegisterSoftware] Alibaba reveals 82 percent GPU resource savings – but this is no DeepSeek moment - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 2 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-24 - 2 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 2 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 2 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-30 - 3 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 3 hours ago
 - [CloudFlare] SJC (San Jose) on 2025-10-30 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-31 - 3 hours ago
 - [CloudFlare] IAD (Ashburn) on 2025-11-03 - 3 hours ago
-- [RegisterSoftware] The real insight behind measuring Copilot usage is Microsoft's desperation - 3 hours ago
-- [GrahamCluley] Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram - 3 hours ago
 - [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 3 hours ago
-- [SecurityWeek] NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million - 4 hours ago
-- [SecurityWeek] Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks - 4 hours ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 4 hours ago
-- [AWS] Service impact: Increased Error Rates and Latencies - 4 hours ago
-- [AWS] Service degradation: Increased Error Rates and Latencies - 4 hours ago
-- [AWS] Service disruption: Increased Error Rates and Latencies - 4 hours ago
-- [AWS] Service disruption: Increased Error Rates and Latencies - 4 hours ago
-- [AWS] Service disruption: Increased Error Rates and Latencies - 4 hours ago
-- [AWS] Service degradation: Increased Error Rates and Latencies - 4 hours ago
-- [CloudFlare] SIN (Singapore) on 2025-10-22 - 4 hours ago
-- [Slack] Incident: Trouble loading Slack, using canvas, huddles, and other features. - 4 hours ago
-- [1Password] Intermittent performance issues with 1Password.com - 4 hours ago
-- [Slack] Incident: Intermittent trouble using Slack - 4 hours ago
-- [GitHub] Codespaces creation failling - 4 hours ago
-- [BleepingComputer] AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more - 5 hours ago
-- [Slack] Incident: Slack not loading - 5 hours ago
-- [CloudFlare] ORD (Chicago) on 2025-10-22 - 5 hours ago
-- [AWS] Service disruption: Increased Error Rates and Latencies - 5 hours ago
-- [RegisterSoftware] Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit - 5 hours ago
-- [CloudFlare] EWR (Newark) on 2025-10-23 - 5 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 5 hours ago
-- [Slack] Incident: Issue with Huddles and Canvas - 5 hours ago
-- [AWS] Service degradation: Increased Error Rates and Latencies - 5 hours ago
-- [SecurityWeek] American Airlines Subsidiary Envoy Air Hit by Oracle Hack - 6 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 6 hours ago
-- [CloudFlare] EWR (Newark) on 2025-10-24 - 6 hours ago
-- [TroyHunt] Weekly Update 474 - 6 hours ago
-- [RegisterSec] UK calls up Armed Forces veterans for digital ID soft launch - 6 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 6 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 6 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 6 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 6 hours ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 7 hours ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 7 hours ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 7 hours ago
-- [HackerNews] MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems - 7 hours ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 7 hours ago
-- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 7 hours ago
-- [RegisterSoftware] Huawei's ACT pathway powers scalable AI adoption across industries - 12 hours ago
-- [SecurityWeek] China Accuses US of Cyberattack on National Time Center - 12 hours ago
-- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees (1) - 14 hours ago
-- [BleepingComputer] Experian fined $3.2 million for mass-collecting personal data - 19 hours ago
-- [BleepingComputer] TikTok videos continue to push infostealers in ClickFix attacks - 19 hours ago
-- [DataBreaches] UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web - 21 hours ago
-- [DataBreaches] A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? - 23 hours ago
-- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 1 day ago
-- [FullDisclosure] Urgent Security Vulnerabilities Discovered in Mercku Routers Model M6a - 1 day ago
-- [FullDisclosure] apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) - 1 day ago
-- [FullDisclosure] CyberDanube Security Research 20251014-0 | Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS - 1 day ago
-- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees - 1 day ago
-- [BleepingComputer] OpenAI confirms GPT-6 is not shipping in 2025 - 1 day ago
-- [DataBreaches] Scenes from a “No Kings” Protest, 10-18-25 - 1 day ago
-- [BleepingComputer] Google ads for fake Homebrew, LogMeIn sites push infostealers - 1 day ago
-- [DataBreaches] No Kings. Not Today. Not Ever. - 2 days ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 3 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2025-10-24 - 3 hours ago
+- [CloudFlare] MAD (Madrid) on 2025-10-24 - 3 hours ago
+- [CloudFlare] LHR (London) on 2025-10-24 - 3 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2025-10-27 - 3 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-27 - 3 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-27 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-28 - 3 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-28 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-29 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-24 - 4 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-27 - 4 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-29 - 4 hours ago
+- [RegisterSoftware] AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT - 5 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2025-10-23 - 5 hours ago
+- [CloudFlare] ALA (Almaty) on 2025-10-23 - 5 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-10-27 - 7 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-10-22 - 7 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 9 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-23 - 9 hours ago
+- [RegisterSoftware] Aid groups use AI-generated ‘poverty porn’ to juice fundraising efforts - 9 hours ago
+- [BleepingComputer] DNS0.EU private DNS service shuts down over sustainability issues - 9 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 9 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-10-23 - 9 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 10 hours ago
+- [CloudFlare] MXP (Milan) on 2025-10-24 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 10 hours ago
+- [RegisterSoftware] Windows 11 tiptoes further into dark mode with new dialogs - 10 hours ago
+- [CloudFlare] SYD (Sydney) on 2025-10-23 - 10 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-24 - 10 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 10 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 11 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 11 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 11 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 11 hours ago
+- [RegisterSoftware] Xubuntu downloads section injection threatens users with crypto infection - 11 hours ago
+- [CloudFlare] SJC (San Jose) on 2025-10-30 - 11 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 11 hours ago
+- [BleepingComputer] Microsoft: October updates break USB input in Windows Recovery - 11 hours ago
+- [HackerNews] Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets - 11 hours ago
+- [SecurityWeek] South Korea Seeks to Arrest Dozens of Online Scam Suspects Repatriated From Cambodia - 11 hours ago
+- [CloudFlare] SYD (Sydney) on 2025-10-22 - 11 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 11 hours ago
+- [BleepingComputer] Retail giant Muji halts online sales after ransomware attack on supplier - 12 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 12 hours ago
+- [RegisterSoftware] Nvidia still needs Taiwan even as TSMC ramps Blackwell production in Arizona - 12 hours ago
+- [CloudFlare] MEL (Melbourne) on 2025-10-23 - 12 hours ago
+- [BleepingComputer] Over 75,000 WatchGuard security devices vulnerable to critical RCE - 13 hours ago
+- [CloudFlare] ADL (Adelaide) on 2025-10-22 - 13 hours ago
+- [BleepingComputer] CISA: High-severity Windows SMB flaw now exploited in attacks - 13 hours ago
+- [CloudFlare] YYZ (Toronto) on 2025-10-23 - 14 hours ago
+- [IT Governance] 4 reasons to get CISMP qualified - 14 hours ago
+- [DataBreaches] John Bolton Indictment Provides Interesting Details About Hack of His AOL Account and Extortion Attempt - 14 hours ago
+- [DataBreaches] Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials - 14 hours ago
+- [CloudFlare] SEA (Seattle) on 2025-10-23 - 14 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-27 - 14 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-29 - 14 hours ago
+- [BleepingComputer] Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries - 14 hours ago
+- [RegisterSoftware] In '90s Microsoft, you either shipped code or shipped out - 15 hours ago
+- [BleepingComputer] Microsoft fixes Windows Server Active Directory sync issues - 15 hours ago
+- [Slack] Incident: Trouble with huddles - 15 hours ago
+- [BleepingComputer] TikTok videos continue to push infostealers in ClickFix attacks - 16 hours ago
+- [BleepingComputer] AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more - 16 hours ago
+- [BleepingComputer] Find hidden malicious OAuth apps in Microsoft 365 using Cazadora - 16 hours ago
+- [BleepingComputer] Microsoft warns of Windows smart card auth issues after October updates - 16 hours ago
+- [GitHub] Disruption with Grok Code Fast 1 in Copilot - 16 hours ago
+- [BleepingComputer] Find hidden malicious OAuth apps in Microsoft 365 using Cazadora - 16 hours ago
+- [BleepingComputer] Microsoft warns of Windows smart card auth issues after October updates - 16 hours ago
+- [CloudFlare] ATL (Atlanta) on 2025-10-22 - 17 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-10-22 - 17 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-22 - 17 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-10-22 - 17 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 17 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 17 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-23 - 17 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-23 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 17 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-10-23 - 17 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 17 hours ago
+- [CloudFlare] MXP (Milan) on 2025-10-24 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 17 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-24 - 17 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 17 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 17 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 17 hours ago
+- [CloudFlare] SJC (San Jose) on 2025-10-30 - 17 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 17 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 17 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 17 hours ago
+- [RegisterSoftware] Windows 11 update knocks out USB mice, keyboards in recovery mode - 17 hours ago
+- [BleepingComputer] AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more - 17 hours ago
+- [GitHub] Codespaces creation failling - 17 hours ago
+- [SecurityWeek] Lumma Stealer Activity Drops After Doxxing - 17 hours ago
+- [RegisterSoftware] Huawei's ACT pathway powers scalable AI adoption across industries - 17 hours ago
+- [SecurityWeek] SIM Farm Dismantled in Europe, Seven Arrested - 17 hours ago
+- [RegisterSoftware] Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit - 17 hours ago
+- [RegisterSoftware] The real insight behind measuring Copilot usage is Microsoft's desperation - 17 hours ago
+- [RegisterSoftware] Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day - 17 hours ago
+- [SecurityWeek] China Accuses US of Cyberattack on National Time Center - 18 hours ago
+- [HackerNews] 131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign - 18 hours ago
+- [SecurityWeek] American Airlines Subsidiary Envoy Air Hit by Oracle Hack - 18 hours ago
+- [HackerNews] Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches - 18 hours ago
+- [SecurityWeek] NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million - 18 hours ago
+- [SecurityWeek] Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks - 18 hours ago
+- [HackerNews] ⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More - 18 hours ago
+- [SecurityWeek] ConnectWise Patches Critical Flaw in Automate RMM Tool - 18 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2025-10-22 - 18 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-23 - 19 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-10-22 - 19 hours ago
+- [RegisterSoftware] Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day - 19 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-10-23 - 19 hours ago
+- [CloudFlare] MXP (Milan) on 2025-10-24 - 19 hours ago
+- [CloudFlare] SJC (San Jose) on 2025-10-30 - 20 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-11-03 - 20 hours ago
+- [RegisterSoftware] The real insight behind measuring Copilot usage is Microsoft's desperation - 20 hours ago
+- [GrahamCluley] Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram - 20 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-04 - 20 hours ago
+- [SecurityWeek] NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million - 21 hours ago
+- [SecurityWeek] Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks - 21 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 21 hours ago
+- [AWS] Service impact: Increased Error Rates and Latencies - 21 hours ago
+- [AWS] Service degradation: Increased Error Rates and Latencies - 21 hours ago
+- [AWS] Service disruption: Increased Error Rates and Latencies - 21 hours ago
+- [AWS] Service disruption: Increased Error Rates and Latencies - 21 hours ago
+- [AWS] Service disruption: Increased Error Rates and Latencies - 21 hours ago
+- [AWS] Service degradation: Increased Error Rates and Latencies - 21 hours ago
+- [CloudFlare] SIN (Singapore) on 2025-10-22 - 21 hours ago
+- [Slack] Incident: Trouble loading Slack, using canvas, huddles, and other features. - 21 hours ago
+- [1Password] Intermittent performance issues with 1Password.com - 21 hours ago
+- [Slack] Incident: Intermittent trouble using Slack - 21 hours ago
+- [GitHub] Codespaces creation failling - 21 hours ago
+- [BleepingComputer] AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more - 22 hours ago
+- [Slack] Incident: Slack not loading - 22 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-22 - 22 hours ago
+- [AWS] Service disruption: Increased Error Rates and Latencies - 22 hours ago
+- [RegisterSoftware] Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit - 22 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-23 - 22 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-23 - 22 hours ago
+- [Slack] Incident: Issue with Huddles and Canvas - 22 hours ago
+- [AWS] Service degradation: Increased Error Rates and Latencies - 22 hours ago
+- [SecurityWeek] American Airlines Subsidiary Envoy Air Hit by Oracle Hack - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-24 - 23 hours ago
+- [CloudFlare] EWR (Newark) on 2025-10-24 - 23 hours ago
+- [TroyHunt] Weekly Update 474 - 23 hours ago
+- [RegisterSec] UK calls up Armed Forces veterans for digital ID soft launch - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-28 - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-29 - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-10-30 - 23 hours ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-24 - 1 day ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-27 - 1 day ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-28 - 1 day ago
+- [HackerNews] MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems - 1 day ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-22 - 1 day ago
+- [CloudFlare] BKK (Bangkok) on 2025-10-23 - 1 day ago
+- [RegisterSoftware] Huawei's ACT pathway powers scalable AI adoption across industries - 1 day ago
+- [SecurityWeek] China Accuses US of Cyberattack on National Time Center - 1 day ago
+- [DataBreaches] Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees (1) - 1 day ago
+- [BleepingComputer] Experian fined $3.2 million for mass-collecting personal data - 1 day ago
+- [BleepingComputer] TikTok videos continue to push infostealers in ClickFix attacks - 1 day ago
+- [DataBreaches] UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web - 1 day ago
+- [DataBreaches] A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? - 1 day ago
+- [HackerNews] Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 5 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 5 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 5 months ago
