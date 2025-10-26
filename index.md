@@ -9,15 +9,15 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] [REVIVE-SA-2025-001] Revive Adserver Vulnerability - 2 hours ago
-- [FullDisclosure] [REVIVE-SA-2025-002] Revive Adserver Vulnerability - 2 hours ago
-- [TroyHunt] Weekly Update 475 - 8 hours ago
-- [BleepingComputer] New CoPhish attack steals OAuth tokens via Copilot Studio agents - 14 hours ago
-- [BleepingComputer] New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot - 14 hours ago
-- [SecurityWeek] OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks - 19 hours ago
-- [SecurityWeek] $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal - 19 hours ago
-- [SecurityWeek] ChatGPT Atlas’ Omnibox Is Vulnerable to Jailbreaks - 19 hours ago
-- [RegisterSec] MPs urge government to stop Britain's phone theft wave through tech - 22 hours ago
+- [FullDisclosure] [REVIVE-SA-2025-001] Revive Adserver Vulnerability - 9 hours ago
+- [FullDisclosure] [REVIVE-SA-2025-002] Revive Adserver Vulnerability - 9 hours ago
+- [TroyHunt] Weekly Update 475 - 15 hours ago
+- [BleepingComputer] New CoPhish attack steals OAuth tokens via Copilot Studio agents - 21 hours ago
+- [BleepingComputer] New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot - 21 hours ago
+- [SecurityWeek] OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks - 1 day ago
+- [SecurityWeek] $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal - 1 day ago
+- [SecurityWeek] ChatGPT Atlas’ Omnibox Is Vulnerable to Jailbreaks - 1 day ago
+- [RegisterSec] MPs urge government to stop Britain's phone theft wave through tech - 1 day ago
 - [RegisterSoftware] Berkeley boffins build better load balancing algo with AI - 1 day ago
 - [BleepingComputer] Hackers launch mass attacks exploiting outdated WordPress plugins - 1 day ago
 - [RegisterSec] Sneaky Mermaid attack in Microsoft 365 Copilot steals data - 1 day ago
@@ -42,26 +42,8 @@ description: Latest Updates
 - [RegisterSoftware] Apple faces £1.5B payout after losing UK App Store case - 1 day ago
 - [GitHub] githubstatus.com was unavailable UTC 2025 Oct 24 02:55 to 03:13 - 1 day ago
 - [SecurityWeek] Hackers Target Perplexity Comet Browser Users - 1 day ago
-- [SecurityWeek] North Korean Hackers Aim at European Drone Companies - 1 day ago
-- [RegisterSoftware] AI investment is the only thing keeping the US out of recession - 1 day ago
-- [BleepingComputer] Mozilla: New Firefox extensions must disclose data collection practices - 1 day ago
-- [SecurityWeek] In Other News: iOS 26 Deletes Spyware Evidence, Shadow Escape Attack, Cyber Exec Sold Secrets to Russia - 1 day ago
-- [HackerNews] The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently - 1 day ago
-- [RegisterSec] Microsoft drops surprise Windows Server patch before weekend downtime - 1 day ago
-- [SecurityWeek] Toys ‘R’ Us Canada Customer Information Leaked Online - 1 day ago
-- [HackerNews] 3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation - 1 day ago
-- [RegisterSec] Digital ID is now less about illegal working, more about rummaging through drawers - 1 day ago
-- [SecurityWeek] Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks - 1 day ago
-- [RegisterSoftware] BBC probe finds AI chatbots mangle nearly half of news summaries - 1 day ago
-- [GitHub] git operations over ssh seeing increased latency on github.com - 1 day ago
-- [RegisterSec] Shield AI shows off not-at-all-terrifying autonomous VTOL combat drone - 1 day ago
-- [SecurityWeek] Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta - 1 day ago
-- [HackerNews] Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack - 1 day ago
-- [BleepingComputer] Windows Server emergency patches fix WSUS bug with PoC exploit - 1 day ago
-- [RegisterSoftware] Britain's Ministry of Justice just signed up to ChatGPT Enterprise - 1 day ago
-- [BleepingComputer] Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland - 2 days ago
-- [CloudFlare] LIS (Lisbon) on 2025-10-27 - 2 days ago
-- [CloudFlare] IAD (Ashburn) on 2025-10-27 - 2 days ago
+- [SecurityWeek] North Korean Hackers Aim at European Drone Companies - 2 days ago
+- [RegisterSoftware] AI investment is the only thing keeping the US out of recession - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
