@@ -9,41 +9,28 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] [REVIVE-SA-2025-001] Revive Adserver Vulnerability - 9 hours ago
-- [FullDisclosure] [REVIVE-SA-2025-002] Revive Adserver Vulnerability - 9 hours ago
-- [TroyHunt] Weekly Update 475 - 15 hours ago
-- [BleepingComputer] New CoPhish attack steals OAuth tokens via Copilot Studio agents - 21 hours ago
-- [BleepingComputer] New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot - 21 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-28 - 19 minutes ago
+- [RegisterSoftware] Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ - 44 minutes ago
+- [CloudFlare] CDG (Paris) on 2025-10-28 - 46 minutes ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-29 - 1 hour ago
+- [CloudFlare] DKR (Dakar) on 2025-10-28 - 1 hour ago
+- [CloudFlare] ADD (Addis Ababa) on 2025-10-28 - 1 hour ago
+- [RegisterSoftware] Australia sues Microsoft for misleading M365 users about Copilot subscription options - 2 hours ago
+- [HIBP] MyVidster (2025) - 3,864,364 breached accounts - 3 hours ago
+- [RegisterSec] UN Cybercrime Treaty wins dozens of signatories, to go with its many critics - 3 hours ago
+- [RegisterSoftware] Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options - 5 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-29 - 5 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-10-28 - 7 hours ago
+- [RegisterSec] Shaq's new ride gets jaq'ed in haq attaq - 8 hours ago
+- [FullDisclosure] [REVIVE-SA-2025-001] Revive Adserver Vulnerability - 1 day ago
+- [FullDisclosure] [REVIVE-SA-2025-002] Revive Adserver Vulnerability - 1 day ago
+- [TroyHunt] Weekly Update 475 - 1 day ago
+- [BleepingComputer] New CoPhish attack steals OAuth tokens via Copilot Studio agents - 1 day ago
+- [BleepingComputer] New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot - 1 day ago
 - [SecurityWeek] OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks - 1 day ago
 - [SecurityWeek] $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal - 1 day ago
 - [SecurityWeek] ChatGPT Atlas’ Omnibox Is Vulnerable to Jailbreaks - 1 day ago
 - [RegisterSec] MPs urge government to stop Britain's phone theft wave through tech - 1 day ago
-- [RegisterSoftware] Berkeley boffins build better load balancing algo with AI - 1 day ago
-- [BleepingComputer] Hackers launch mass attacks exploiting outdated WordPress plugins - 1 day ago
-- [RegisterSec] Sneaky Mermaid attack in Microsoft 365 Copilot steals data - 1 day ago
-- [HackerNews] Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation - 1 day ago
-- [HackerNews] Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation - 1 day ago
-- [CloudFlare] CCU (Kolkata) on 2025-10-28 - 1 day ago
-- [RegisterSoftware] Sora makes slurfect deepfakes of celebs spewing racial epithets - 1 day ago
-- [HackerNews] Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-10-27 - 1 day ago
-- [CloudFlare] BLR (Bangalore) on 2025-10-27 - 1 day ago
-- [1Password] Degraded Performance When Sharing Items - 1 day ago
-- [RegisterSoftware] Uncle Sam's new power plan will plug AI farms into the grid faster - 1 day ago
-- [BleepingComputer] Critical WSUS flaw in Windows Server now exploited in attacks - 1 day ago
-- [RegisterSoftware] OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature - 1 day ago
-- [BleepingComputer] Amazon: This week’s AWS outage caused by major DNS failure - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-10-27 - 1 day ago
-- [CloudFlare] SEA (Seattle) on 2025-10-27 - 1 day ago
-- [BleepingComputer] Fake LastPass death claims used to breach password vaults - 1 day ago
-- [BleepingComputer] How to reduce costs with self-service password resets - 1 day ago
-- [SecurityWeek] Critical Windows Server WSUS Vulnerability Exploited in the Wild - 1 day ago
-- [HackerNews] APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign - 1 day ago
-- [RegisterSoftware] Apple faces £1.5B payout after losing UK App Store case - 1 day ago
-- [GitHub] githubstatus.com was unavailable UTC 2025 Oct 24 02:55 to 03:13 - 1 day ago
-- [SecurityWeek] Hackers Target Perplexity Comet Browser Users - 1 day ago
-- [SecurityWeek] North Korean Hackers Aim at European Drone Companies - 2 days ago
-- [RegisterSoftware] AI investment is the only thing keeping the US out of recession - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
