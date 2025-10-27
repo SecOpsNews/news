@@ -9,28 +9,49 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] FRA (Frankfurt) on 2025-10-28 - 19 minutes ago
-- [RegisterSoftware] Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ - 44 minutes ago
-- [CloudFlare] CDG (Paris) on 2025-10-28 - 46 minutes ago
-- [CloudFlare] FRA (Frankfurt) on 2025-10-29 - 1 hour ago
-- [CloudFlare] DKR (Dakar) on 2025-10-28 - 1 hour ago
-- [CloudFlare] ADD (Addis Ababa) on 2025-10-28 - 1 hour ago
-- [RegisterSoftware] Australia sues Microsoft for misleading M365 users about Copilot subscription options - 2 hours ago
-- [HIBP] MyVidster (2025) - 3,864,364 breached accounts - 3 hours ago
-- [RegisterSec] UN Cybercrime Treaty wins dozens of signatories, to go with its many critics - 3 hours ago
-- [RegisterSoftware] Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options - 5 hours ago
-- [CloudFlare] ORD (Chicago) on 2025-10-29 - 5 hours ago
-- [CloudFlare] GRU (São Paulo) on 2025-10-28 - 7 hours ago
-- [RegisterSec] Shaq's new ride gets jaq'ed in haq attaq - 8 hours ago
+- [SecurityWeek] Massive China-Linked Smishing Campaign Leveraged 194,000 Domains - 24 minutes ago
+- [BleepingComputer] CISA orders feds to patch actively exploited Windows Server WSUS flaw - 24 minutes ago
+- [RegisterSoftware] Australia sues Microsoft for misleading M365 users about Copilot subscription options - 24 minutes ago
+- [RegisterSoftware] Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ - 24 minutes ago
+- [RegisterSoftware] The Chinese Box and Turing Test: Is AI really intelligent? - 24 minutes ago
+- [RegisterSoftware] Machine learning saves £4.4M in UK.gov work and pensions fraud detection - 24 minutes ago
+- [RegisterSoftware] Everything you know about last week's AWS outage is wrong - 24 minutes ago
+- [RegisterSoftware] Ex-CISA head thinks AI might fix code so fast we won't need security teams - 24 minutes ago
+- [HackerNews] ⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens - 52 minutes ago
+- [RegisterSec] X says passkey reset isn't about a security issue – it's to finally kill off twitter.com - 52 minutes ago
+- [RegisterSoftware] Ex-CISA head thinks AI might fix code so fast we won't need security teams - 2 hours ago
+- [RegisterSec] Ex-CISA head thinks AI might fix code so fast we won't need security teams - 2 hours ago
+- [SecurityWeek] New Firefox Extensions Required to Disclose Data Collection Practices - 2 hours ago
+- [CloudFlare] MIA (Miami) on 2025-10-28 - 2 hours ago
+- [SecurityWeek] Year-Old WordPress Plugin Flaws Exploited to Hack Websites - 3 hours ago
+- [RegisterSoftware] Everything you know about last week's AWS outage is wrong - 3 hours ago
+- [HackerNews] Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack - 3 hours ago
+- [SecurityWeek] Ransomware Payments Dropped in Q3 2025: Analysis - 3 hours ago
+- [RegisterSoftware] Machine learning saves £4.4M in UK.gov work and pensions fraud detection - 4 hours ago
+- [SecurityWeek] Chrome Zero-Day Exploitation Linked to Hacking Team Spyware - 4 hours ago
+- [RegisterSoftware] The Chinese Box and Turing Test: Is AI really intelligent? - 4 hours ago
+- [BleepingComputer] Hackers steal Discord accounts with RedTiger-based infostealer - 4 hours ago
+- [TroyHunt] How We (Almost) Found Chromium's Bug via Crash Reports to Report URI - 4 hours ago
+- [CloudFlare] LHR (London) on 2025-10-29 - 4 hours ago
+- [HackerNews] ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands - 5 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-28 - 7 hours ago
+- [RegisterSoftware] Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ - 7 hours ago
+- [CloudFlare] CDG (Paris) on 2025-10-28 - 7 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-10-29 - 8 hours ago
+- [CloudFlare] DKR (Dakar) on 2025-10-28 - 8 hours ago
+- [CloudFlare] ADD (Addis Ababa) on 2025-10-28 - 8 hours ago
+- [RegisterSoftware] Australia sues Microsoft for misleading M365 users about Copilot subscription options - 9 hours ago
+- [HIBP] MyVidster (2025) - 3,864,364 breached accounts - 10 hours ago
+- [RegisterSec] UN Cybercrime Treaty wins dozens of signatories, to go with its many critics - 10 hours ago
+- [RegisterSoftware] Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options - 12 hours ago
+- [CloudFlare] ORD (Chicago) on 2025-10-29 - 12 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-10-28 - 14 hours ago
+- [RegisterSec] Shaq's new ride gets jaq'ed in haq attaq - 15 hours ago
 - [FullDisclosure] [REVIVE-SA-2025-001] Revive Adserver Vulnerability - 1 day ago
 - [FullDisclosure] [REVIVE-SA-2025-002] Revive Adserver Vulnerability - 1 day ago
 - [TroyHunt] Weekly Update 475 - 1 day ago
 - [BleepingComputer] New CoPhish attack steals OAuth tokens via Copilot Studio agents - 1 day ago
 - [BleepingComputer] New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot - 1 day ago
-- [SecurityWeek] OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks - 1 day ago
-- [SecurityWeek] $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal - 1 day ago
-- [SecurityWeek] ChatGPT Atlas’ Omnibox Is Vulnerable to Jailbreaks - 1 day ago
-- [RegisterSec] MPs urge government to stop Britain's phone theft wave through tech - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
