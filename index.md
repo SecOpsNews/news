@@ -9,14 +9,15 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Windows 11 Build 26220.7051 released with “Ask Copilot” feature - 13 hours ago
-- [BleepingComputer] Google confirms AI search will have ads, but they may look different - 13 hours ago
-- [BleepingComputer] China-linked hackers exploited Lanscope flaw as a zero-day in attacks - 14 hours ago
-- [BleepingComputer] Windows 11 Build 26220.7051 released with three features for Insiders - 14 hours ago
-- [HackerNews] ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability - 16 hours ago
-- [Slack] Incident: Issue with Files endpoint, SlackAI, Search, Messaging, and SlackConnect functionality - 20 hours ago
-- [Slack] Incident: File upload errors - 20 hours ago
-- [RegisterSoftware] Robotic lawnmower uses AI to dodge cats, toys - 22 hours ago
+- [RegisterSoftware] Fortytwo's decentralized AI has the answer to life, the universe, and everything - 4 hours ago
+- [BleepingComputer] Windows 11 Build 26220.7051 released with “Ask Copilot” feature - 20 hours ago
+- [BleepingComputer] Google confirms AI search will have ads, but they may look different - 20 hours ago
+- [BleepingComputer] China-linked hackers exploited Lanscope flaw as a zero-day in attacks - 21 hours ago
+- [BleepingComputer] Windows 11 Build 26220.7051 released with three features for Insiders - 21 hours ago
+- [HackerNews] ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability - 23 hours ago
+- [Slack] Incident: Issue with Files endpoint, SlackAI, Search, Messaging, and SlackConnect functionality - 1 day ago
+- [Slack] Incident: File upload errors - 1 day ago
+- [RegisterSoftware] Robotic lawnmower uses AI to dodge cats, toys - 1 day ago
 - [GitHub] Incident with using workflow_dispatch for Actions - 1 day ago
 - [BleepingComputer] Windows 11 tests shared Bluetooth audio support, but only for AI PCs - 1 day ago
 - [RegisterSoftware] AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark - 1 day ago
@@ -53,36 +54,11 @@ description: Latest Updates
 - [BleepingComputer] Why password controls still matter in cybersecurity - 1 day ago
 - [HackerNews] China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats - 1 day ago
 - [RegisterSec] Attackers dig up $11M in Garden Finance crypto exploit - 1 day ago
-- [BleepingComputer] Alleged Meduza Stealer malware admins arrested after hacking Russian org - 1 day ago
-- [IT Governance] What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope - 1 day ago
-- [SecurityWeek] Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges - 1 day ago
-- [RegisterSoftware] Meta to sell $30B in bonds to build AI datacenters - 1 day ago
-- [BleepingComputer] CISA: High-severity Linux flaw now exploited by ransomware gangs - 1 day ago
-- [BleepingComputer] Google says Search AI Mode will know everything about you - 1 day ago
-- [RegisterSoftware] The clock's ticking for MySQL 8.0 as end of life looms - 1 day ago
-- [HackerNews] The MSP Cybersecurity Readiness Guide: Turning Security into Growth - 1 day ago
-- [SecurityWeek] Open VSX Downplays Impact From GlassWorm Campaign - 1 day ago
-- [CloudFlare] DOH (Doha) on 2025-11-04 - 1 day ago
-- [RegisterSoftware] Resilience, not sovereignty, defines OpenStack's next chapter - 1 day ago
-- [RegisterSec] Resilience, not sovereignty, defines OpenStack's next chapter - 1 day ago
-- [BleepingComputer] Windows zero-day actively exploited to spy on European diplomats - 1 day ago
-- [CloudFlare] CDG (Paris) on 2025-11-06 - 1 day ago
-- [CloudFlare] COK (Kochi) on 2025-11-04 - 1 day ago
-- [SecurityWeek] CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-11-06 - 1 day ago
-- [SecurityWeek] Jamf to Go Private Following $2.2 Billion Acquisition by Francisco Partners - 1 day ago
-- [RegisterSoftware] Linux vendors are getting into Ubuntu – and Snap - 1 day ago
-- [SecurityWeek] Chinese APT Exploits Unpatched Windows Flaw in Recent Attacks - 1 day ago
-- [BleepingComputer] Ukrainian extradited from Ireland on Conti ransomware charges - 1 day ago
-- [HackerNews] CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - 1 day ago
-- [RegisterSoftware] England's local government shake-up promises to be a massive tech headache - 1 day ago
-- [HackerNews] Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery - 1 day ago
-- [SecurityWeek] Japan Issues OT Security Guidance for Semiconductor Factories - 1 day ago
-- [RegisterSoftware] NHS left with sick PCs as suppliers resist Windows 11 treatment - 1 day ago
-- [RegisterSec] NHS left with sick PCs as suppliers resist Windows 11 treatment - 1 day ago
-- [HackerNews] CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks - 1 day ago
-- [SecurityWeek] 10 Million Impacted by Conduent Data Breach - 2 days ago
-- [CloudFlare] DAC (Dhaka) on 2025-11-05 - 2 days ago
+- [BleepingComputer] Alleged Meduza Stealer malware admins arrested after hacking Russian org - 2 days ago
+- [IT Governance] What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope - 2 days ago
+- [SecurityWeek] Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges - 2 days ago
+- [RegisterSoftware] Meta to sell $30B in bonds to build AI datacenters - 2 days ago
+- [BleepingComputer] CISA: High-severity Linux flaw now exploited by ransomware gangs - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
