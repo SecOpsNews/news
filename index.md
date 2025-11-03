@@ -9,56 +9,23 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Fortytwo's decentralized AI has the answer to life, the universe, and everything - 4 hours ago
-- [BleepingComputer] Windows 11 Build 26220.7051 released with “Ask Copilot” feature - 20 hours ago
-- [BleepingComputer] Google confirms AI search will have ads, but they may look different - 20 hours ago
-- [BleepingComputer] China-linked hackers exploited Lanscope flaw as a zero-day in attacks - 21 hours ago
-- [BleepingComputer] Windows 11 Build 26220.7051 released with three features for Insiders - 21 hours ago
-- [HackerNews] ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability - 23 hours ago
+- [DataBreaches] University of Pennsylvania says it wasn’t hacked after a vulgar email was sent to campus community - 4 hours ago
+- [RegisterSoftware] White House says China to lift rare earth export bans, stop probes into US tech companies - 4 hours ago
+- [DataBreaches] Two years after an audit highlighted significant concerns, North Salem Central School District leaves sensitive student data at risk - 4 hours ago
+- [CloudFlare] SKG (Thessaloniki) on 2025-11-06 - 4 hours ago
+- [RegisterSec] Attackers targeting unpatched Cisco kit notice malware implant removal, install it again - 7 hours ago
+- [BleepingComputer] Penn hacker claims to have stolen 1.2 million donor records in data breach - 8 hours ago
+- [BleepingComputer] Open VSX rotates access tokens used in supply-chain malware attack - 9 hours ago
+- [BrianKrebs] Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody - 10 hours ago
+- [RegisterSoftware] Fortytwo's decentralized AI has the answer to life, the universe, and everything - 21 hours ago
+- [BleepingComputer] Windows 11 Build 26220.7051 released with “Ask Copilot” feature - 1 day ago
+- [BleepingComputer] Google confirms AI search will have ads, but they may look different - 1 day ago
+- [BleepingComputer] China-linked hackers exploited Lanscope flaw as a zero-day in attacks - 1 day ago
+- [BleepingComputer] Windows 11 Build 26220.7051 released with three features for Insiders - 1 day ago
+- [HackerNews] ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability - 1 day ago
 - [Slack] Incident: Issue with Files endpoint, SlackAI, Search, Messaging, and SlackConnect functionality - 1 day ago
 - [Slack] Incident: File upload errors - 1 day ago
 - [RegisterSoftware] Robotic lawnmower uses AI to dodge cats, toys - 1 day ago
-- [GitHub] Incident with using workflow_dispatch for Actions - 1 day ago
-- [BleepingComputer] Windows 11 tests shared Bluetooth audio support, but only for AI PCs - 1 day ago
-- [RegisterSoftware] AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark - 1 day ago
-- [CloudFlare] VIE (Vienna) on 2025-11-05 - 1 day ago
-- [RegisterSoftware] Datacenter biz and nuke startup join forces for Texas AI ranch - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-11-05 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2025-11-05 - 1 day ago
-- [CloudFlare] RUH (Riyadh) on 2025-11-05 - 1 day ago
-- [CloudFlare] DXB (Dubai) on 2025-11-06 - 1 day ago
-- [HackerNews] OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically - 1 day ago
-- [BleepingComputer] ‘We got hacked’ emails threaten to leak University of Pennsylvania data - 1 day ago
-- [CloudFlare] SAN (San Diego) on 2025-11-05 - 1 day ago
-- [CloudFlare] ARN (Stockholm) on 2025-11-06 - 1 day ago
-- [CloudFlare] JNB (Johannesburg) on 2025-11-06 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2025-11-06 - 1 day ago
-- [CloudFlare] ALG (Algiers) on 2025-11-10 - 1 day ago
-- [CloudFlare] MCT (Muscat) on 2025-11-10 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-11-05 - 1 day ago
-- [CloudFlare] LOS (Lagos) on 2025-11-07 - 1 day ago
-- [CloudFlare] ORN (Oran) on 2025-11-07 - 1 day ago
-- [BleepingComputer] Microsoft Edge gets scareware sensor for faster scam detection - 1 day ago
-- [RegisterSoftware] YouTube's AI moderator pulls Windows 11 workaround videos, calls them dangerous - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-11-07 - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-11-12 - 1 day ago
-- [RegisterSec] Russia finally bites the cybercrooks it raised, arresting suspected Meduza infostealer devs - 1 day ago
-- [HackerNews] Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack - 1 day ago
-- [RegisterSoftware] Microsoft Task Manager now tasking PCs with running multiple copies of itself - 1 day ago
-- [CloudFlare] FRU (Bishkek) on 2025-11-05 - 1 day ago
-- [RegisterSoftware] Developer puts Windows 7 on a crash diet, drops it to down to 69 MB - 1 day ago
-- [SecurityWeek] In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution - 1 day ago
-- [BleepingComputer] Australia warns of BadCandy infections on unpatched Cisco devices - 1 day ago
-- [RegisterSoftware] International Criminal Court kicks Microsoft Office to the curb - 1 day ago
-- [HackerNews] China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems - 1 day ago
-- [BleepingComputer] Why password controls still matter in cybersecurity - 1 day ago
-- [HackerNews] China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats - 1 day ago
-- [RegisterSec] Attackers dig up $11M in Garden Finance crypto exploit - 1 day ago
-- [BleepingComputer] Alleged Meduza Stealer malware admins arrested after hacking Russian org - 2 days ago
-- [IT Governance] What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope - 2 days ago
-- [SecurityWeek] Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges - 2 days ago
-- [RegisterSoftware] Meta to sell $30B in bonds to build AI datacenters - 2 days ago
-- [BleepingComputer] CISA: High-severity Linux flaw now exploited by ransomware gangs - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
