@@ -9,12 +9,13 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 10 hours ago
-- [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 12 hours ago
-- [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 13 hours ago
-- [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 14 hours ago
-- [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 17 hours ago
-- [HackerNews] Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies - 19 hours ago
+- [TroyHunt] Weekly Update 478 - 5 hours ago
+- [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 17 hours ago
+- [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 19 hours ago
+- [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 20 hours ago
+- [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 21 hours ago
+- [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
+- [HackerNews] Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
 - [BleepingComputer] Five plead guilty to helping North Koreans infiltrate US firms - 1 day ago
 - [BleepingComputer] Logitech confirms data breach after Clop extortion attack - 1 day ago
 - [RegisterSoftware] Researchers find hole in AI guardrails by using strings like =coffee - 1 day ago
@@ -39,28 +40,10 @@ description: Latest Updates
 - [HackerNews] Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks - 1 day ago
 - [RegisterSec] CISA flags imminent threat as Akira ransomware starts hitting Nutanix AHV - 1 day ago
 - [BleepingComputer] US announces new strike force targeting Chinese crypto scammers - 1 day ago
-- [IT Governance] Global Data Breaches and Cyber Attacks in October 2025 – At Least 21.2 Million Breached Records - 1 day ago
-- [RegisterSoftware] Tales from the pit: AI and the software engineer - 1 day ago
-- [SecurityWeek] Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack - 1 day ago
-- [SecurityWeek] Checkout.com Discloses Data Breach After Extortion Attempt - 1 day ago
-- [BleepingComputer] Google backpedals on new Android developer registration rules - 1 day ago
-- [SecurityWeek] Akira Ransomware Group Made $244 Million in Ransom Proceeds - 1 day ago
-- [RegisterSoftware] Trillionaire fantasies, investor dreams, reality nightmares - 1 day ago
-- [RegisterSoftware] UK tribunal says reselling Microsoft licenses is A-OK - 1 day ago
-- [HackerNews] Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns - 1 day ago
-- [IT Governance] GRC Solutions Named Among the UK’s Top 20 Cyber Security Innovators - 1 day ago
-- [SecurityWeek] Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign - 1 day ago
-- [HackerNews] Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts - 1 day ago
-- [HackerNews] Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign - 1 day ago
-- [BleepingComputer] ASUS warns of critical auth bypass flaw in DSL series routers - 1 day ago
-- [SecurityWeek] Imunify360 Vulnerability Could Expose Millions of Sites to Hacking - 1 day ago
-- [RegisterSec] Clop claims it hacked 'the NHS.' Which bit? Your guess is as good as theirs - 1 day ago
-- [RegisterSoftware] AI agents, real results: from assistants to orchestrators in the enterprise - 1 day ago
-- [HackerNews] Fortinet FortiWeb Flaw Actively Exploited in the Wild Before Company's Silent Patch - 1 day ago
-- [RegisterSoftware] Execs make rules that control AI usage, then break them for their own work - 1 day ago
-- [SecurityWeek] Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign - 1 day ago
-- [SecurityWeek] Google Says Chinese ‘Lighthouse’ Phishing Kit Disrupted Following Lawsuit - 1 day ago
-- [RegisterSoftware] Developer battled to write his own documentation, but lost the boss fight - 1 day ago
+- [IT Governance] Global Data Breaches and Cyber Attacks in October 2025 – At Least 21.2 Million Breached Records - 2 days ago
+- [RegisterSoftware] Tales from the pit: AI and the software engineer - 2 days ago
+- [SecurityWeek] Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack - 2 days ago
+- [SecurityWeek] Checkout.com Discloses Data Breach After Extortion Attempt - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
