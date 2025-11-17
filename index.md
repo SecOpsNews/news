@@ -9,41 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [TroyHunt] Weekly Update 478 - 5 hours ago
-- [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 17 hours ago
-- [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 19 hours ago
-- [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 20 hours ago
-- [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 21 hours ago
+- [RegisterSoftware] Server virtualization market heats up as VMware rivals try to create alluring alternatives - 1 hour ago
+- [RegisterSec] Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting - 4 hours ago
+- [RegisterSec] Logitech leaks data after zero-day attack - 7 hours ago
+- [BrianKrebs] Microsoft Patch Tuesday, November 2025 Edition - 8 hours ago
+- [BleepingComputer] Google to flag Android apps with excessive battery use on the Play Store - 15 hours ago
+- [TroyHunt] Weekly Update 478 - 22 hours ago
+- [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 1 day ago
+- [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 1 day ago
+- [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 1 day ago
+- [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 1 day ago
 - [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
 - [HackerNews] Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
-- [BleepingComputer] Five plead guilty to helping North Koreans infiltrate US firms - 1 day ago
-- [BleepingComputer] Logitech confirms data breach after Clop extortion attack - 1 day ago
-- [RegisterSoftware] Researchers find hole in AI guardrails by using strings like =coffee - 1 day ago
-- [RegisterSec] Fortinet finally cops to critical make-me-admin bug under active exploitation - 1 day ago
-- [SecurityWeek] Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability - 1 day ago
-- [RegisterSoftware] Canonical pushes Ubuntu LTS support even further - if you pay - 1 day ago
-- [RegisterSoftware] Software engineer reveals the dirty little secret about AI coding assistants: They don't save much time - 1 day ago
-- [RegisterSoftware] Software dev reveals the dirty little secret about AI coding assistants: They don't save much time - 1 day ago
-- [BleepingComputer] Anthropic claims of Claude AI-automated cyberattacks met with doubt - 1 day ago
-- [HackerNews] North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels - 1 day ago
-- [RegisterSec] Crims poison 150K+ npm packages with token-farming malware - 1 day ago
-- [SecurityWeek] CYBERCOM 2.0: Pentagon Unveils Plan to Fix Cyber Talent Shortfalls - 1 day ago
-- [RegisterSoftware] Why Elon Musk won't ever realize the shareholder-approved Tesla payout - 1 day ago
-- [RegisterSoftware] Now you can share your AI delusions with Group ChatGPT - 1 day ago
-- [BleepingComputer] Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks - 1 day ago
-- [SecurityWeek] Watch on Demand: CISO Forum 2025 Virtual Summit - 1 day ago
-- [BleepingComputer] Checkout.com snubs hackers after data breach, to donate ransom instead - 1 day ago
-- [RegisterSoftware] GPU goliaths are devouring supercomputing – and legacy storage can't feed the beast - 1 day ago
-- [RegisterSec] FBI flags scam targeting Chinese speakers with bogus surgery bills - 1 day ago
-- [SecurityWeek] In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty - 1 day ago
-- [HackerNews] Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets - 1 day ago
-- [HackerNews] Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks - 1 day ago
-- [RegisterSec] CISA flags imminent threat as Akira ransomware starts hitting Nutanix AHV - 1 day ago
-- [BleepingComputer] US announces new strike force targeting Chinese crypto scammers - 1 day ago
-- [IT Governance] Global Data Breaches and Cyber Attacks in October 2025 – At Least 21.2 Million Breached Records - 2 days ago
-- [RegisterSoftware] Tales from the pit: AI and the software engineer - 2 days ago
-- [SecurityWeek] Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack - 2 days ago
-- [SecurityWeek] Checkout.com Discloses Data Breach After Extortion Attempt - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
