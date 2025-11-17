@@ -9,18 +9,30 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Server virtualization market heats up as VMware rivals try to create alluring alternatives - 1 hour ago
-- [RegisterSec] Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting - 4 hours ago
-- [RegisterSec] Logitech leaks data after zero-day attack - 7 hours ago
-- [BrianKrebs] Microsoft Patch Tuesday, November 2025 Edition - 8 hours ago
-- [BleepingComputer] Google to flag Android apps with excessive battery use on the Play Store - 15 hours ago
-- [TroyHunt] Weekly Update 478 - 22 hours ago
+- [CloudFlare] RIC (Richmond) on 2025-11-25 - 25 minutes ago
+- [SecurityWeek] 5 Plead Guilty in US to Helping North Korean IT Workers - 52 minutes ago
+- [SecurityWeek] DoorDash Says Personal Information Stolen in Data Breach - 52 minutes ago
+- [HackerNews] 5 Reasons Why Attackers Are Phishing Over LinkedIn - 52 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More - 52 minutes ago
+- [RegisterSec] Eurofiber admits crooks swiped data from French unit after cyberattack - 52 minutes ago
+- [HackerNews] Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT - 1 hour ago
+- [RegisterSoftware] Palantir plots NHS skills drive for its controversial data platform - 1 hour ago
+- [RegisterSec] UK prosecutors seize £4.11M in crypto from Twitter mega-hack culprit - 1 hour ago
+- [RegisterSoftware] Microsoft's first Windows 10 ESU Patch Tuesday release fails for some - 2 hours ago
+- [SecurityWeek] Widespread Exploitation of XWiki Vulnerability Observed - 2 hours ago
+- [SecurityWeek] Logitech Confirms Data Breach Following Designation as Oracle Hack Victim - 2 hours ago
+- [HackerNews] Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time - 6 hours ago
+- [RegisterSoftware] Server virtualization market heats up as VMware rivals try to create alluring alternatives - 8 hours ago
+- [RegisterSec] Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting - 11 hours ago
+- [RegisterSec] Logitech leaks data after zero-day attack - 14 hours ago
+- [BrianKrebs] Microsoft Patch Tuesday, November 2025 Edition - 15 hours ago
+- [BleepingComputer] Google to flag Android apps with excessive battery use on the Play Store - 22 hours ago
+- [TroyHunt] Weekly Update 478 - 1 day ago
 - [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 1 day ago
 - [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 1 day ago
 - [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 1 day ago
 - [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 1 day ago
-- [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
-- [HackerNews] Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies - 1 day ago
+- [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
