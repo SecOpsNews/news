@@ -9,30 +9,81 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] RIC (Richmond) on 2025-11-25 - 25 minutes ago
-- [SecurityWeek] 5 Plead Guilty in US to Helping North Korean IT Workers - 52 minutes ago
-- [SecurityWeek] DoorDash Says Personal Information Stolen in Data Breach - 52 minutes ago
-- [HackerNews] 5 Reasons Why Attackers Are Phishing Over LinkedIn - 52 minutes ago
-- [HackerNews] ⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More - 52 minutes ago
-- [RegisterSec] Eurofiber admits crooks swiped data from French unit after cyberattack - 52 minutes ago
-- [HackerNews] Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT - 1 hour ago
-- [RegisterSoftware] Palantir plots NHS skills drive for its controversial data platform - 1 hour ago
-- [RegisterSec] UK prosecutors seize £4.11M in crypto from Twitter mega-hack culprit - 1 hour ago
-- [RegisterSoftware] Microsoft's first Windows 10 ESU Patch Tuesday release fails for some - 2 hours ago
-- [SecurityWeek] Widespread Exploitation of XWiki Vulnerability Observed - 2 hours ago
-- [SecurityWeek] Logitech Confirms Data Breach Following Designation as Oracle Hack Victim - 2 hours ago
-- [HackerNews] Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time - 6 hours ago
-- [RegisterSoftware] Server virtualization market heats up as VMware rivals try to create alluring alternatives - 8 hours ago
-- [RegisterSec] Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting - 11 hours ago
-- [RegisterSec] Logitech leaks data after zero-day attack - 14 hours ago
-- [BrianKrebs] Microsoft Patch Tuesday, November 2025 Edition - 15 hours ago
-- [BleepingComputer] Google to flag Android apps with excessive battery use on the Play Store - 22 hours ago
+- [HackerNews] Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - 1 hour ago
+- [RegisterSoftware] Alibaba releases chatbot that produces error when asked about Tiananmen Square - 2 hours ago
+- [RegisterSoftware] Oops. VMware admits it over-specced storage servers for years - 5 hours ago
+- [BleepingComputer] Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors - 5 hours ago
+- [BleepingComputer] Malicious NPM packages abuse Adspect redirects to evade security - 7 hours ago
+- [CloudFlare] ICN (Seoul) on 2025-12-03 - 7 hours ago
+- [CloudFlare] ICN (Seoul) on 2025-12-01 - 7 hours ago
+- [CloudFlare] ICN (Seoul) on 2025-12-02 - 7 hours ago
+- [BleepingComputer] xAI's Grok 4.1 rolls out with improved quality and speed for free - 7 hours ago
+- [BleepingComputer] RondoDox botnet malware now hacks servers using XWiki flaw - 8 hours ago
+- [RegisterSec] 'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second - 8 hours ago
+- [BleepingComputer] Google Gemini 3 spotted on AI Studio ahead of imminent release - 8 hours ago
+- [RegisterSoftware] AI is actually bad at math, ORCA shows - 9 hours ago
+- [RegisterSec] Pentagon and soldiers let too many secrets slip on social networks, watchdog says - 9 hours ago
+- [BleepingComputer] Eurofiber France warns of breach after hacker tries to sell customer data - 9 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-11-25 - 10 hours ago
+- [CloudFlare] STR (Stuttgart) on 2025-11-25 - 10 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2025-11-25 - 10 hours ago
+- [CloudFlare] LHR (London) on 2025-11-25 - 10 hours ago
+- [CloudFlare] KEF (Reykjavík) on 2025-11-25 - 10 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-11-25 - 10 hours ago
+- [CloudFlare] LIM (Lima) on 2025-11-25 - 10 hours ago
+- [CloudFlare] BOG (Bogota) on 2025-11-25 - 10 hours ago
+- [RegisterSec] Security researcher calls BS on Coinbase breach disclosure timeline - 11 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-11-26 - 11 hours ago
+- [CloudFlare] PMO (Palermo) on 2025-11-26 - 11 hours ago
+- [CloudFlare] MRS (Marseille) on 2025-11-26 - 11 hours ago
+- [CloudFlare] CDG (Paris) on 2025-11-26 - 11 hours ago
+- [BleepingComputer] Princeton University discloses data breach affecting donors, alumni - 11 hours ago
+- [CloudFlare] LHR (London) on 2025-11-26 - 11 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-11-26 - 11 hours ago
+- [CloudFlare] CWB (Curitiba) on 2025-11-26 - 11 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-11-26 - 11 hours ago
+- [BleepingComputer] Dutch police seizes 250 servers used by “bulletproof hosting” service - 11 hours ago
+- [CloudFlare] MRS (Marseille) on 2025-11-27 - 11 hours ago
+- [CloudFlare] ARI (Arica) on 2025-11-27 - 11 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-11-27 - 11 hours ago
+- [CloudFlare] NVT (Timbo) on 2025-11-27 - 11 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-11-25 - 12 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2025-11-25 - 12 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-11-26 - 12 hours ago
+- [CloudFlare] SEA (Seattle) on 2025-11-26 - 12 hours ago
+- [RegisterSoftware] Google previews Code Wiki: Can you trust AI to document your repository? - 12 hours ago
+- [RegisterSec] Selling your identity to North Korean IT scammers isn't a sustainable side hustle - 13 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-11-24 - 13 hours ago
+- [BleepingComputer] Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses - 13 hours ago
+- [HackerNews] New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT - 13 hours ago
+- [BleepingComputer] DoorDash email spoofing vulnerability sparks messy disclosure dispute - 14 hours ago
+- [BleepingComputer] Pennsylvania AG confirms data breach after INC Ransom attack - 14 hours ago
+- [RegisterSoftware] Building the future of software in the AI-native era - 14 hours ago
+- [RegisterSec] Game over: Europol storms gaming platforms in extremist content sweep - 15 hours ago
+- [BleepingComputer] Microsoft: Windows bug blocks Microsoft 365 desktop app installs - 15 hours ago
+- [RegisterSec] Overconfidence is the new zero-day as teams stumble through cyber simulations - 15 hours ago
+- [RegisterSoftware] Jeff Bezos gives CEO another go at $6.2B AI startup Prometheus - 15 hours ago
+- [RegisterSoftware] Windows boss defends 'agentic OS' push as users plead for reliability - 15 hours ago
+- [SecurityWeek] Iranian Hackers Target Defense and Government Officials in Ongoing Campaign - 16 hours ago
+- [CloudFlare] RIC (Richmond) on 2025-11-25 - 17 hours ago
+- [SecurityWeek] 5 Plead Guilty in US to Helping North Korean IT Workers - 17 hours ago
+- [SecurityWeek] DoorDash Says Personal Information Stolen in Data Breach - 17 hours ago
+- [HackerNews] 5 Reasons Why Attackers Are Phishing Over LinkedIn - 17 hours ago
+- [HackerNews] ⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More - 17 hours ago
+- [RegisterSec] Eurofiber admits crooks swiped data from French unit after cyberattack - 17 hours ago
+- [HackerNews] Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT - 18 hours ago
+- [RegisterSoftware] Palantir plots NHS skills drive for its controversial data platform - 18 hours ago
+- [RegisterSec] UK prosecutors seize £4.11M in crypto from Twitter mega-hack culprit - 18 hours ago
+- [RegisterSoftware] Microsoft's first Windows 10 ESU Patch Tuesday release fails for some - 19 hours ago
+- [SecurityWeek] Widespread Exploitation of XWiki Vulnerability Observed - 19 hours ago
+- [SecurityWeek] Logitech Confirms Data Breach Following Designation as Oracle Hack Victim - 19 hours ago
+- [HackerNews] Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time - 23 hours ago
+- [RegisterSoftware] Server virtualization market heats up as VMware rivals try to create alluring alternatives - 1 day ago
+- [RegisterSec] Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting - 1 day ago
+- [RegisterSec] Logitech leaks data after zero-day attack - 1 day ago
+- [BrianKrebs] Microsoft Patch Tuesday, November 2025 Edition - 1 day ago
+- [BleepingComputer] Google to flag Android apps with excessive battery use on the Play Store - 1 day ago
 - [TroyHunt] Weekly Update 478 - 1 day ago
-- [BleepingComputer] Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - 1 day ago
-- [BleepingComputer] Decades-old ‘Finger’ protocol abused in ClickFix malware attacks - 1 day ago
-- [BleepingComputer] Jaguar Land Rover cyberattack cost the company over $220 million - 1 day ago
-- [HackerNews] RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet - 1 day ago
-- [HackerNews] Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 6 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 6 months ago
