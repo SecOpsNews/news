@@ -9,26 +9,42 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Cryptology boffins’ association to re-run election after losing encryption key needed to count votes - 1 hour ago
-- [RegisterSoftware] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 5 hours ago
-- [RegisterSec] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 5 hours ago
-- [RegisterSec] Weaponized file name flaw makes updating glob an urgent job - 8 hours ago
-- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card - 13 hours ago
-- [BleepingComputer] Enterprise password security and secrets management with Passwork 7 - 14 hours ago
-- [BleepingComputer] Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop - 14 hours ago
-- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card* - 17 hours ago
-- [BleepingComputer] Iberia discloses customer data leak after vendor security breach - 17 hours ago
-- [RegisterSoftware] Bossware booms as bots determine whether you're doing a good job - 21 hours ago
-- [HIBP] CodeStepByStep - 17,351 breached accounts - 23 hours ago
+- [HackerNews] ⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More - 23 minutes ago
+- [HackerNews] Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft - 23 minutes ago
+- [SecurityWeek] Microsoft Highlights Security Risks Introduced by New Agentic AI Feature - 23 minutes ago
+- [BleepingComputer] Microsoft tests File Explorer preloading for faster performance - 51 minutes ago
+- [RegisterSec] FCC guts post-Salt Typhoon telco rules despite ongoing espionage risk - 51 minutes ago
+- [SecurityWeek] Mazda Says No Data Leakage or Operational Impact From Oracle Hack - 51 minutes ago
+- [SecurityWeek] Spanish Airline Iberia Notifies Customers of Data Breach - 1 hour ago
+- [RegisterSoftware] This Thanksgiving, top your turkey with Cranberry sOSS to fund open source - 1 hour ago
+- [RegisterSec] CISA orders feds to patch Oracle Identity Manager zero-day after signs of abuse - 1 hour ago
+- [SecurityWeek] 146,000 Impacted by Delta Dental of Virginia Data Breach - 2 hours ago
+- [BleepingComputer] Microsoft to remove WINS support after Windows Server 2025 - 2 hours ago
+- [HackerNews] Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs - 2 hours ago
+- [SecurityWeek] Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims - 2 hours ago
+- [BleepingComputer] Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu - 3 hours ago
+- [GrahamCluley] Operation Endgame disrupts Rhadamanthys information-stealing malware - 4 hours ago
+- [NCSCGuidanceFeed] Choosing a managed service provider (MSP) - 4 hours ago
+- [RegisterSec] Championing cyber security: the national UK cyber team's journey at the European Cyber Security Challenge - 4 hours ago
+- [RegisterSoftware] Vibe coding: What is it good for? Absolutely nothing (Sorry, Linus) - 4 hours ago
+- [HackerNews] ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access - 5 hours ago
+- [RegisterSec] Cryptology boffins’ association to re-run election after losing encryption key needed to count votes - 8 hours ago
+- [RegisterSoftware] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 12 hours ago
+- [RegisterSec] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 12 hours ago
+- [RegisterSec] Weaponized file name flaw makes updating glob an urgent job - 15 hours ago
+- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card - 20 hours ago
+- [BleepingComputer] Enterprise password security and secrets management with Passwork 7 - 21 hours ago
+- [BleepingComputer] Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop - 21 hours ago
+- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card* - 1 day ago
+- [BleepingComputer] Iberia discloses customer data leak after vendor security breach - 1 day ago
+- [RegisterSoftware] Bossware booms as bots determine whether you're doing a good job - 1 day ago
+- [HIBP] CodeStepByStep - 17,351 breached accounts - 1 day ago
 - [TroyHunt] Weekly Update 479 - 1 day ago
 - [HIBP] ADDA - 1,829,314 breached accounts - 1 day ago
 - [BleepingComputer] Piecing Together the Puzzle: A Qilin Ransomware Investigation - 1 day ago
 - [BleepingComputer] Cox Enterprises discloses Oracle E-Business Suite data breach - 1 day ago
 - [BleepingComputer] WhatsApp API flaw let researchers scrape 3.5 billion accounts - 1 day ago
 - [HackerNews] China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services - 1 day ago
-- [RegisterSoftware] It's TEE time for Brave's AI assistant Leo - 1 day ago
-- [HackerNews] CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability - 1 day ago
-- [HackerNews] Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
