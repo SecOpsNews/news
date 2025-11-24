@@ -9,56 +9,27 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card* - 20 minutes ago
-- [BleepingComputer] Iberia discloses customer data leak after vendor security breach - 20 minutes ago
-- [RegisterSoftware] Bossware booms as bots determine whether you're doing a good job - 4 hours ago
-- [HIBP] CodeStepByStep - 17,351 breached accounts - 6 hours ago
-- [TroyHunt] Weekly Update 479 - 7 hours ago
-- [HIBP] ADDA - 1,829,314 breached accounts - 10 hours ago
-- [BleepingComputer] Piecing Together the Puzzle: A Qilin Ransomware Investigation - 18 hours ago
-- [BleepingComputer] Cox Enterprises discloses Oracle E-Business Suite data breach - 18 hours ago
-- [BleepingComputer] WhatsApp API flaw let researchers scrape 3.5 billion accounts - 18 hours ago
-- [HackerNews] China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services - 21 hours ago
+- [RegisterSec] Cryptology boffins’ association to re-run election after losing encryption key needed to count votes - 1 hour ago
+- [RegisterSoftware] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 5 hours ago
+- [RegisterSec] 70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture - 5 hours ago
+- [RegisterSec] Weaponized file name flaw makes updating glob an urgent job - 8 hours ago
+- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card - 13 hours ago
+- [BleepingComputer] Enterprise password security and secrets management with Passwork 7 - 14 hours ago
+- [BleepingComputer] Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop - 14 hours ago
+- [BleepingComputer] New Costco Gold Star Members also get a $40 Digital Costco Shop Card* - 17 hours ago
+- [BleepingComputer] Iberia discloses customer data leak after vendor security breach - 17 hours ago
+- [RegisterSoftware] Bossware booms as bots determine whether you're doing a good job - 21 hours ago
+- [HIBP] CodeStepByStep - 17,351 breached accounts - 23 hours ago
+- [TroyHunt] Weekly Update 479 - 1 day ago
+- [HIBP] ADDA - 1,829,314 breached accounts - 1 day ago
+- [BleepingComputer] Piecing Together the Puzzle: A Qilin Ransomware Investigation - 1 day ago
+- [BleepingComputer] Cox Enterprises discloses Oracle E-Business Suite data breach - 1 day ago
+- [BleepingComputer] WhatsApp API flaw let researchers scrape 3.5 billion accounts - 1 day ago
+- [HackerNews] China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services - 1 day ago
 - [RegisterSoftware] It's TEE time for Brave's AI assistant Leo - 1 day ago
 - [HackerNews] CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability - 1 day ago
 - [HackerNews] Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks - 1 day ago
-- [BleepingComputer] CISA warns Oracle Identity Manager RCE flaw is being actively exploited - 1 day ago
-- [RegisterSoftware] Researchers get inside the mind of bots, find out what texts they trained on - 1 day ago
-- [BleepingComputer] Nvidia confirms October Windows updates cause gaming issues - 1 day ago
-- [RegisterSec] ShinyHunters 'does not like Salesforce at all,' claims the crew accessed Gainsight 3 months ago - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-11-26 - 1 day ago
-- [CloudFlare] SEA (Seattle) on 2025-11-26 - 1 day ago
-- [CloudFlare] HKG (Hong Kong) on 2025-12-01 - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2025-12-02 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2025-12-01 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2025-12-03 - 1 day ago
-- [BleepingComputer] Grafana warns of max severity admin spoofing vulnerability - 1 day ago
-- [BleepingComputer] Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2025-12-02 - 1 day ago
-- [CloudFlare] MDE (Medellín) on 2025-12-02 - 1 day ago
-- [CloudFlare] SJO (San José) on 2025-12-02 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2025-12-02 - 1 day ago
-- [CloudFlare] QRO (Queretaro) on 2025-12-02 - 1 day ago
-- [RegisterSoftware] Big Red borrows a lot of green, hopes AI will put it in the black - 1 day ago
-- [BleepingComputer] CrowdStrike catches insider feeding information to hackers - 1 day ago
-- [RegisterSoftware] Rhyme is the key to set AIs free when verse outsmarts security - 1 day ago
-- [BleepingComputer] FCC rolls back cybersecurity rules for telcos, despite state-hacking risks - 1 day ago
-- [HackerNews] Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation - 1 day ago
-- [BleepingComputer] 'Scattered Spider' teens plead not guilty to UK transport hack - 1 day ago
-- [RegisterSoftware] Google's AI is eating your email by default. Here's how to shut its mouth - 1 day ago
-- [SecurityWeek] In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring - 1 day ago
-- [BleepingComputer] Avast Makes AI-Driven Scam Defense Available for Free Worldwide - 1 day ago
-- [RegisterSoftware] You are likely to be eaten by the MIT license: Microsoft frees Zork source - 1 day ago
-- [RegisterSec] Four charged over alleged plot to smuggle Nvidia AI chips into China - 1 day ago
-- [SecurityWeek] Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day - 2 days ago
-- [SecurityWeek] Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise - 2 days ago
-- [RegisterSec] Russia-linked crooks bought a bank for Christmas to launder cyber loot - 2 days ago
-- [BleepingComputer] Google begins showing ads in AI Mode (AI answers) - 2 days ago
-- [HackerNews] Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security - 2 days ago
-- [RegisterSoftware] Lawsuit seeks to probe Uncle Sam's role in ICE-tracking app takedowns - 2 days ago
-- [SecurityWeek] SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance - 2 days ago
-- [HackerNews] Why IT Admins Choose Samsung for Mobile Security - 2 days ago
-- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 6 months ago
+- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
 - [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 7 months ago
