@@ -9,48 +9,49 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison - 12 hours ago
-- [BleepingComputer] Microsoft: Windows updates make password login option invisible - 12 hours ago
-- [BleepingComputer] Public GitLab repositories exposed more than 17,000 secrets - 13 hours ago
-- [HackerNews] North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware - 13 hours ago
-- [HackerNews] Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages - 13 hours ago
-- [RegisterSoftware] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 14 hours ago
-- [RegisterSec] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 14 hours ago
-- [RegisterSec] Brit telco Brsk confirms breach as bidding begins for 230K+ customer records - 14 hours ago
-- [BleepingComputer] French Football Federation discloses data breach after cyberattack - 14 hours ago
-- [RegisterSoftware] GrapheneOS bails on OVHcloud over France's privacy stance - 15 hours ago
-- [RegisterSec] GrapheneOS bails on OVHcloud over France's privacy stance - 15 hours ago
-- [RegisterSoftware] KDE Plasma sets date to dump X11 as Wayland push accelerates - 15 hours ago
-- [CloudFlare] BOM (Mumbai) on 2025-12-03 - 16 hours ago
-- [CloudFlare] KHI (Karachi) on 2025-12-03 - 16 hours ago
-- [SecurityWeek] French Soccer Federation Hit by Cyberattack, Member Data Stolen - 16 hours ago
-- [CloudFlare] EWR (Newark) on 2025-12-03 - 16 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2025-12-03 - 16 hours ago
-- [CloudFlare] SJC (San Jose) on 2025-12-08 - 16 hours ago
-- [CloudFlare] MIA (Miami) on 2025-12-04 - 16 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-08 - 16 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-12-08 - 16 hours ago
-- [CloudFlare] DEN (Denver) on 2025-12-08 - 16 hours ago
-- [BleepingComputer] GreyNoise launches free scanner to check if you're part of a botnet - 17 hours ago
-- [BleepingComputer] Malicious LLMs empower inexperienced hackers with advanced tools - 17 hours ago
-- [RegisterSec] TryHackMe races to add women to Christmas cyber challenge roster after backlash - 17 hours ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-04 - 17 hours ago
-- [Slack] Incident: Slack login, workspaces loading failures, and general Slack functionality issues - 17 hours ago
-- [RegisterSoftware] Windows keeps obsolete strings forever to avoid breaking translations - 18 hours ago
-- [HackerNews] Why Organizations Are Turning to RPAM - 18 hours ago
-- [RegisterSec] OBR drags in cyber bigwig after Budget leak blunder - 18 hours ago
-- [RegisterSec] UK digital ID plan gets a price tag at last – £1.8B - 19 hours ago
-- [Slack] Incident: Some users are unable to sign in - 20 hours ago
-- [SecurityWeek] In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked - 20 hours ago
-- [RegisterSoftware] Digital Realty, Equinix battle for €4.5B atNorth acquisition - 21 hours ago
-- [HackerNews] MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants - 21 hours ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2025-12-04 - 21 hours ago
-- [CloudFlare] MIA (Miami) on 2025-12-05 - 22 hours ago
-- [CloudFlare] MNL (Manila) on 2025-12-03 - 22 hours ago
-- [CloudFlare] DFW (Dallas) on 2025-12-02 - 23 hours ago
-- [CloudFlare] ARI (Arica) on 2025-12-03 - 23 hours ago
-- [CloudFlare] ICN (Seoul) on 2025-12-03 - 23 hours ago
-- [GitHub] Incident with Copilot - 23 hours ago
+- [BleepingComputer] Leak confirms OpenAI is preparing ads on ChatGPT for public roll out - 2 hours ago
+- [BleepingComputer] Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison - 19 hours ago
+- [BleepingComputer] Microsoft: Windows updates make password login option invisible - 19 hours ago
+- [BleepingComputer] Public GitLab repositories exposed more than 17,000 secrets - 20 hours ago
+- [HackerNews] North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware - 20 hours ago
+- [HackerNews] Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages - 20 hours ago
+- [RegisterSoftware] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 21 hours ago
+- [RegisterSec] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 21 hours ago
+- [RegisterSec] Brit telco Brsk confirms breach as bidding begins for 230K+ customer records - 21 hours ago
+- [BleepingComputer] French Football Federation discloses data breach after cyberattack - 21 hours ago
+- [RegisterSoftware] GrapheneOS bails on OVHcloud over France's privacy stance - 22 hours ago
+- [RegisterSec] GrapheneOS bails on OVHcloud over France's privacy stance - 22 hours ago
+- [RegisterSoftware] KDE Plasma sets date to dump X11 as Wayland push accelerates - 22 hours ago
+- [CloudFlare] BOM (Mumbai) on 2025-12-03 - 23 hours ago
+- [CloudFlare] KHI (Karachi) on 2025-12-03 - 23 hours ago
+- [SecurityWeek] French Soccer Federation Hit by Cyberattack, Member Data Stolen - 23 hours ago
+- [CloudFlare] EWR (Newark) on 2025-12-03 - 23 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2025-12-03 - 23 hours ago
+- [CloudFlare] SJC (San Jose) on 2025-12-08 - 23 hours ago
+- [CloudFlare] MIA (Miami) on 2025-12-04 - 23 hours ago
+- [CloudFlare] IAD (Ashburn) on 2025-12-08 - 23 hours ago
+- [CloudFlare] DFW (Dallas) on 2025-12-08 - 23 hours ago
+- [CloudFlare] DEN (Denver) on 2025-12-08 - 23 hours ago
+- [BleepingComputer] GreyNoise launches free scanner to check if you're part of a botnet - 1 day ago
+- [BleepingComputer] Malicious LLMs empower inexperienced hackers with advanced tools - 1 day ago
+- [RegisterSec] TryHackMe races to add women to Christmas cyber challenge roster after backlash - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2025-12-04 - 1 day ago
+- [Slack] Incident: Slack login, workspaces loading failures, and general Slack functionality issues - 1 day ago
+- [RegisterSoftware] Windows keeps obsolete strings forever to avoid breaking translations - 1 day ago
+- [HackerNews] Why Organizations Are Turning to RPAM - 1 day ago
+- [RegisterSec] OBR drags in cyber bigwig after Budget leak blunder - 1 day ago
+- [RegisterSec] UK digital ID plan gets a price tag at last – £1.8B - 1 day ago
+- [Slack] Incident: Some users are unable to sign in - 1 day ago
+- [SecurityWeek] In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked - 1 day ago
+- [RegisterSoftware] Digital Realty, Equinix battle for €4.5B atNorth acquisition - 1 day ago
+- [HackerNews] MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants - 1 day ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2025-12-04 - 1 day ago
+- [CloudFlare] MIA (Miami) on 2025-12-05 - 1 day ago
+- [CloudFlare] MNL (Manila) on 2025-12-03 - 1 day ago
+- [CloudFlare] DFW (Dallas) on 2025-12-02 - 1 day ago
+- [CloudFlare] ARI (Arica) on 2025-12-03 - 1 day ago
+- [CloudFlare] ICN (Seoul) on 2025-12-03 - 1 day ago
+- [GitHub] Incident with Copilot - 1 day ago
 - [CloudFlare] MLE (Male) on 2025-12-03 - 1 day ago
 - [CloudFlare] GRU (São Paulo) on 2025-12-03 - 1 day ago
 - [CloudFlare] EZE (Buenos Aires) on 2025-12-03 - 1 day ago
@@ -77,28 +78,9 @@ description: Latest Updates
 - [CloudFlare] Cloudflare: Degraded Email Notifications - 1 day ago
 - [RegisterSoftware] Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole - 1 day ago
 - [RegisterSec] FCC sounds alarm after emergency tones turned into potty-mouthed radio takeover - 1 day ago
-- [RegisterSec] Asahi admits ransomware gang may have spilled almost 2M people's data - 1 day ago
-- [CloudFlare] KHI (Karachi) on 2025-12-03 - 1 day ago
-- [SecurityWeek] OpenAI User Data Exposed in Mixpanel Hack - 1 day ago
-- [RegisterSec] Scottish council still rebuilding systems two years after ransomware attack - 1 day ago
-- [CloudFlare] Purge delays for Durable Objects in Western Europe - 1 day ago
-- [CloudFlare] BOM (Mumbai) on 2025-12-03 - 1 day ago
-- [CloudFlare] Purge delays for Durable Objects in Portugal and the United Kingdom - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-12-03 - 1 day ago
-- [BleepingComputer] OpenAI discloses API customer data breach via Mixpanel vendor hack - 1 day ago
-- [CloudFlare] Increased Errors for Durable Objects in Portugal and the United Kingdom - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-12-03 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-12-04 - 1 day ago
-- [RegisterSoftware] One-fifth of the jobs at your company could disappear as AI automation takes off - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories - 1 day ago
-- [CloudFlare] Increased Errors for Durable Objects in Portugal and London - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2025-12-04 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-12-05 - 1 day ago
-- [GrahamCluley] State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns - 1 day ago
-- [RegisterSoftware] Tiny tweak for Pi OS, big makeover for the Imager - 1 day ago
-- [IT Governance] The GDPR’s Six Lawful Bases For Processing – With Examples - 1 day ago
-- [HackerNews] Gainsight Expands Impacted Customer List Following Salesforce Security Alert - 1 day ago
-- [HIBP] China Software Developer Network - 6,414,990 breached accounts - 1 day ago
+- [RegisterSec] Asahi admits ransomware gang may have spilled almost 2M people's data - 2 days ago
+- [CloudFlare] KHI (Karachi) on 2025-12-03 - 2 days ago
+- [CloudFlare] MIA (Miami) on 2025-12-04 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
@@ -236,7 +218,7 @@ description: Latest Updates
 - [BrianKrebs] Nearly a Year Later, Mozilla is Still Promoting OneRep - 9 months ago
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 9 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 9 months ago
-- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 9 months ago
+- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 10 months ago
 - [TroyHunt] Weekly Update 437 - 10 months ago
 - [HIBP] 9Lives - 109,515 breached accounts - 10 months ago
 - [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 10 months ago
