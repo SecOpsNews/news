@@ -9,8 +9,9 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 15 hours ago
-- [BleepingComputer] Leak confirms OpenAI is preparing ads on ChatGPT for public roll out - 19 hours ago
+- [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 4 hours ago
+- [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 22 hours ago
+- [BleepingComputer] Leak confirms OpenAI is preparing ads on ChatGPT for public roll out - 1 day ago
 - [BleepingComputer] Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison - 1 day ago
 - [BleepingComputer] Microsoft: Windows updates make password login option invisible - 1 day ago
 - [BleepingComputer] Public GitLab repositories exposed more than 17,000 secrets - 1 day ago
@@ -33,27 +34,11 @@ description: Latest Updates
 - [CloudFlare] IAD (Ashburn) on 2025-12-08 - 1 day ago
 - [CloudFlare] DFW (Dallas) on 2025-12-08 - 1 day ago
 - [CloudFlare] DEN (Denver) on 2025-12-08 - 1 day ago
-- [BleepingComputer] GreyNoise launches free scanner to check if you're part of a botnet - 1 day ago
-- [BleepingComputer] Malicious LLMs empower inexperienced hackers with advanced tools - 1 day ago
-- [RegisterSec] TryHackMe races to add women to Christmas cyber challenge roster after backlash - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-04 - 1 day ago
-- [Slack] Incident: Slack login, workspaces loading failures, and general Slack functionality issues - 1 day ago
-- [RegisterSoftware] Windows keeps obsolete strings forever to avoid breaking translations - 1 day ago
-- [HackerNews] Why Organizations Are Turning to RPAM - 1 day ago
-- [RegisterSec] OBR drags in cyber bigwig after Budget leak blunder - 1 day ago
-- [RegisterSec] UK digital ID plan gets a price tag at last – £1.8B - 1 day ago
-- [Slack] Incident: Some users are unable to sign in - 1 day ago
-- [SecurityWeek] In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked - 1 day ago
-- [RegisterSoftware] Digital Realty, Equinix battle for €4.5B atNorth acquisition - 1 day ago
-- [HackerNews] MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2025-12-04 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-12-05 - 1 day ago
-- [CloudFlare] MNL (Manila) on 2025-12-03 - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2025-12-02 - 1 day ago
-- [CloudFlare] ARI (Arica) on 2025-12-03 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2025-12-03 - 1 day ago
-- [GitHub] Incident with Copilot - 1 day ago
-- [CloudFlare] MLE (Male) on 2025-12-03 - 2 days ago
+- [BleepingComputer] GreyNoise launches free scanner to check if you're part of a botnet - 2 days ago
+- [BleepingComputer] Malicious LLMs empower inexperienced hackers with advanced tools - 2 days ago
+- [RegisterSec] TryHackMe races to add women to Christmas cyber challenge roster after backlash - 2 days ago
+- [CloudFlare] IAD (Ashburn) on 2025-12-04 - 2 days ago
+- [Slack] Incident: Slack login, workspaces loading failures, and general Slack functionality issues - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
