@@ -9,30 +9,47 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [TroyHunt] Weekly Update 480 - 19 minutes ago
-- [HackerNews] Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets - 1 hour ago
-- [RegisterSoftware] Aviation delays ease as airlines complete Airbus software rollback - 1 hour ago
-- [CloudFlare] MLE (Male) on 2025-12-03 - 2 hours ago
-- [RegisterSec] Google and Apple ordered to stop fake government TXTs - 3 hours ago
-- [CloudFlare] FRA (Frankfurt) on 2025-12-04 - 3 hours ago
-- [CloudFlare] CWB (Curitiba) on 2025-12-04 - 3 hours ago
-- [CloudFlare] GRU (São Paulo) on 2025-12-04 - 3 hours ago
-- [CloudFlare] EZE (Buenos Aires) on 2025-12-04 - 3 hours ago
-- [RegisterSec] Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption - 5 hours ago
-- [CloudFlare] MRS (Marseille) on 2025-12-04 - 5 hours ago
-- [CloudFlare] PMO (Palermo) on 2025-12-04 - 5 hours ago
-- [CloudFlare] CDG (Paris) on 2025-12-04 - 5 hours ago
-- [CloudFlare] TBS (Tbilisi) on 2025-12-04 - 5 hours ago
-- [CloudFlare] IST (Istanbul) on 2025-12-04 - 5 hours ago
-- [CloudFlare] LED (Saint Petersburg) on 2025-12-04 - 5 hours ago
-- [CloudFlare] GOT (Gothenburg) on 2025-12-05 - 5 hours ago
-- [CloudFlare] GVA (Geneva) on 2025-12-05 - 5 hours ago
-- [CloudFlare] MAD (Madrid) on 2025-12-05 - 5 hours ago
-- [CloudFlare] LIS (Lisbon) on 2025-12-05 - 5 hours ago
-- [1Password] 1Password.com Website Access Degradation - 10 hours ago
-- [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 21 hours ago
+- [RegisterSoftware] Cheaper 1 GB Raspberry Pi 5 lands as memory costs go through the roof - 50 minutes ago
+- [RegisterSoftware] Asda's 'self-inflicted' SAP mess after Walmart divorce stalls financial revival - 50 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More - 50 minutes ago
+- [RegisterSec] South Korea's answer to Amazon admits breach exposed 33.7M customers - 50 minutes ago
+- [HackerNews] Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams - 1 hour ago
+- [BleepingComputer] Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic - 1 hour ago
+- [RegisterSoftware] French Football Federation faces own-goal after club software data breach - 2 hours ago
+- [RegisterSec] French Football Federation faces own-goal after club software data breach - 2 hours ago
+- [RegisterSoftware] Dorset Council ditching customized SAP for £14M Oracle overhaul - 2 hours ago
+- [SecurityWeek] CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack - 2 hours ago
+- [HIBP] Zilvia.net - 287,863 breached accounts - 4 hours ago
+- [BleepingComputer] Police takes down Cryptomixer cryptocurrency mixing service - 4 hours ago
+- [HackerNews] New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control - 4 hours ago
+- [SecurityWeek] Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights - 4 hours ago
+- [RegisterSoftware] Microsoft appears to move on from its most loyal ‘customers’ – Contoso and Fabrikam - 5 hours ago
+- [NETRESEC] NetworkMiner 3.1 Released - 5 hours ago
+- [RegisterSoftware] Web dev's crawler took down major online bookstore by buying too many books - 5 hours ago
+- [RegisterSoftware] Web dev took down major online bookstore by buying too many books - 6 hours ago
+- [TroyHunt] Weekly Update 480 - 7 hours ago
+- [HackerNews] Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets - 8 hours ago
+- [RegisterSoftware] Aviation delays ease as airlines complete Airbus software rollback - 8 hours ago
+- [CloudFlare] MLE (Male) on 2025-12-03 - 9 hours ago
+- [RegisterSec] Google and Apple ordered to stop fake government TXTs - 10 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-12-04 - 10 hours ago
+- [CloudFlare] CWB (Curitiba) on 2025-12-04 - 10 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-12-04 - 10 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-12-04 - 10 hours ago
+- [RegisterSec] Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption - 12 hours ago
+- [CloudFlare] MRS (Marseille) on 2025-12-04 - 12 hours ago
+- [CloudFlare] PMO (Palermo) on 2025-12-04 - 12 hours ago
+- [CloudFlare] CDG (Paris) on 2025-12-04 - 12 hours ago
+- [CloudFlare] TBS (Tbilisi) on 2025-12-04 - 12 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-12-04 - 12 hours ago
+- [CloudFlare] LED (Saint Petersburg) on 2025-12-04 - 12 hours ago
+- [CloudFlare] GOT (Gothenburg) on 2025-12-05 - 12 hours ago
+- [CloudFlare] GVA (Geneva) on 2025-12-05 - 12 hours ago
+- [CloudFlare] MAD (Madrid) on 2025-12-05 - 12 hours ago
+- [CloudFlare] LIS (Lisbon) on 2025-12-05 - 12 hours ago
+- [1Password] 1Password.com Website Access Degradation - 17 hours ago
+- [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 1 day ago
 - [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 1 day ago
-- [BleepingComputer] Leak confirms OpenAI is preparing ads on ChatGPT for public roll out - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
