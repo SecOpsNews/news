@@ -9,36 +9,30 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 4 hours ago
-- [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 22 hours ago
+- [TroyHunt] Weekly Update 480 - 19 minutes ago
+- [HackerNews] Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets - 1 hour ago
+- [RegisterSoftware] Aviation delays ease as airlines complete Airbus software rollback - 1 hour ago
+- [CloudFlare] MLE (Male) on 2025-12-03 - 2 hours ago
+- [RegisterSec] Google and Apple ordered to stop fake government TXTs - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-12-04 - 3 hours ago
+- [CloudFlare] CWB (Curitiba) on 2025-12-04 - 3 hours ago
+- [CloudFlare] GRU (São Paulo) on 2025-12-04 - 3 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-12-04 - 3 hours ago
+- [RegisterSec] Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption - 5 hours ago
+- [CloudFlare] MRS (Marseille) on 2025-12-04 - 5 hours ago
+- [CloudFlare] PMO (Palermo) on 2025-12-04 - 5 hours ago
+- [CloudFlare] CDG (Paris) on 2025-12-04 - 5 hours ago
+- [CloudFlare] TBS (Tbilisi) on 2025-12-04 - 5 hours ago
+- [CloudFlare] IST (Istanbul) on 2025-12-04 - 5 hours ago
+- [CloudFlare] LED (Saint Petersburg) on 2025-12-04 - 5 hours ago
+- [CloudFlare] GOT (Gothenburg) on 2025-12-05 - 5 hours ago
+- [CloudFlare] GVA (Geneva) on 2025-12-05 - 5 hours ago
+- [CloudFlare] MAD (Madrid) on 2025-12-05 - 5 hours ago
+- [CloudFlare] LIS (Lisbon) on 2025-12-05 - 5 hours ago
+- [1Password] 1Password.com Website Access Degradation - 10 hours ago
+- [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 21 hours ago
+- [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 1 day ago
 - [BleepingComputer] Leak confirms OpenAI is preparing ads on ChatGPT for public roll out - 1 day ago
-- [BleepingComputer] Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison - 1 day ago
-- [BleepingComputer] Microsoft: Windows updates make password login option invisible - 1 day ago
-- [BleepingComputer] Public GitLab repositories exposed more than 17,000 secrets - 1 day ago
-- [HackerNews] North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware - 1 day ago
-- [HackerNews] Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages - 1 day ago
-- [RegisterSoftware] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 1 day ago
-- [RegisterSec] PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle - 1 day ago
-- [RegisterSec] Brit telco Brsk confirms breach as bidding begins for 230K+ customer records - 1 day ago
-- [BleepingComputer] French Football Federation discloses data breach after cyberattack - 1 day ago
-- [RegisterSoftware] GrapheneOS bails on OVHcloud over France's privacy stance - 1 day ago
-- [RegisterSec] GrapheneOS bails on OVHcloud over France's privacy stance - 1 day ago
-- [RegisterSoftware] KDE Plasma sets date to dump X11 as Wayland push accelerates - 1 day ago
-- [CloudFlare] BOM (Mumbai) on 2025-12-03 - 1 day ago
-- [CloudFlare] KHI (Karachi) on 2025-12-03 - 1 day ago
-- [SecurityWeek] French Soccer Federation Hit by Cyberattack, Member Data Stolen - 1 day ago
-- [CloudFlare] EWR (Newark) on 2025-12-03 - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2025-12-03 - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2025-12-08 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2025-12-04 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-08 - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2025-12-08 - 1 day ago
-- [CloudFlare] DEN (Denver) on 2025-12-08 - 1 day ago
-- [BleepingComputer] GreyNoise launches free scanner to check if you're part of a botnet - 2 days ago
-- [BleepingComputer] Malicious LLMs empower inexperienced hackers with advanced tools - 2 days ago
-- [RegisterSec] TryHackMe races to add women to Christmas cyber challenge roster after backlash - 2 days ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-04 - 2 days ago
-- [Slack] Incident: Slack login, workspaces loading failures, and general Slack functionality issues - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
