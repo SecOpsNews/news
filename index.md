@@ -9,47 +9,75 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Cheaper 1 GB Raspberry Pi 5 lands as memory costs go through the roof - 50 minutes ago
-- [RegisterSoftware] Asda's 'self-inflicted' SAP mess after Walmart divorce stalls financial revival - 50 minutes ago
-- [HackerNews] ⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More - 50 minutes ago
-- [RegisterSec] South Korea's answer to Amazon admits breach exposed 33.7M customers - 50 minutes ago
-- [HackerNews] Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams - 1 hour ago
-- [BleepingComputer] Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic - 1 hour ago
-- [RegisterSoftware] French Football Federation faces own-goal after club software data breach - 2 hours ago
-- [RegisterSec] French Football Federation faces own-goal after club software data breach - 2 hours ago
-- [RegisterSoftware] Dorset Council ditching customized SAP for £14M Oracle overhaul - 2 hours ago
-- [SecurityWeek] CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack - 2 hours ago
-- [HIBP] Zilvia.net - 287,863 breached accounts - 4 hours ago
-- [BleepingComputer] Police takes down Cryptomixer cryptocurrency mixing service - 4 hours ago
-- [HackerNews] New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control - 4 hours ago
-- [SecurityWeek] Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights - 4 hours ago
-- [RegisterSoftware] Microsoft appears to move on from its most loyal ‘customers’ – Contoso and Fabrikam - 5 hours ago
-- [NETRESEC] NetworkMiner 3.1 Released - 5 hours ago
-- [RegisterSoftware] Web dev's crawler took down major online bookstore by buying too many books - 5 hours ago
-- [RegisterSoftware] Web dev took down major online bookstore by buying too many books - 6 hours ago
-- [TroyHunt] Weekly Update 480 - 7 hours ago
-- [HackerNews] Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets - 8 hours ago
-- [RegisterSoftware] Aviation delays ease as airlines complete Airbus software rollback - 8 hours ago
-- [CloudFlare] MLE (Male) on 2025-12-03 - 9 hours ago
-- [RegisterSec] Google and Apple ordered to stop fake government TXTs - 10 hours ago
-- [CloudFlare] FRA (Frankfurt) on 2025-12-04 - 10 hours ago
-- [CloudFlare] CWB (Curitiba) on 2025-12-04 - 10 hours ago
-- [CloudFlare] GRU (São Paulo) on 2025-12-04 - 10 hours ago
-- [CloudFlare] EZE (Buenos Aires) on 2025-12-04 - 10 hours ago
-- [RegisterSec] Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption - 12 hours ago
-- [CloudFlare] MRS (Marseille) on 2025-12-04 - 12 hours ago
-- [CloudFlare] PMO (Palermo) on 2025-12-04 - 12 hours ago
-- [CloudFlare] CDG (Paris) on 2025-12-04 - 12 hours ago
-- [CloudFlare] TBS (Tbilisi) on 2025-12-04 - 12 hours ago
-- [CloudFlare] IST (Istanbul) on 2025-12-04 - 12 hours ago
-- [CloudFlare] LED (Saint Petersburg) on 2025-12-04 - 12 hours ago
-- [CloudFlare] GOT (Gothenburg) on 2025-12-05 - 12 hours ago
-- [CloudFlare] GVA (Geneva) on 2025-12-05 - 12 hours ago
-- [CloudFlare] MAD (Madrid) on 2025-12-05 - 12 hours ago
-- [CloudFlare] LIS (Lisbon) on 2025-12-05 - 12 hours ago
-- [1Password] 1Password.com Website Access Degradation - 17 hours ago
+- [HackerNews] India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud - 19 minutes ago
+- [FullDisclosure] Missing Critical Security Headers in Legality WHISTLEBLOWING - 1 hour ago
+- [FullDisclosure] [REVIVE-SA-2025-005] Revive Adserver Vulnerability - 1 hour ago
+- [FullDisclosure] 2 vulnerabilities in Egovframe - 1 hour ago
+- [FullDisclosure] 8 vulnerabilities in AudioCodes Fax/IVR Appliance - 1 hour ago
+- [RegisterSec] India demands smartphone makers install a government app on every handset - 3 hours ago
+- [RegisterSoftware] India demands smartphone makers install a government app on every handset - 3 hours ago
+- [RegisterSoftware] Zig quits GitHub, says Microsoft's AI obsession has ruined the service - 5 hours ago
+- [RegisterSoftware] OpenAI money-go-round sees it invest in company that invested in OpenAI - 7 hours ago
+- [RegisterSoftware] Google Antigravity vibe-codes user's entire drive out of existence - 9 hours ago
+- [BleepingComputer] Glassworm malware returns in third wave of malicious VS Code packages - 10 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2025-12-03 - 10 hours ago
+- [RegisterSec] Stealthy browser extensions waited years before infecting 4.3M Chrome, Edge users with backdoors and spyware - 11 hours ago
+- [BleepingComputer] SmartTube YouTube app for Android TV breached to push malicious update - 12 hours ago
+- [HackerNews] ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware - 12 hours ago
+- [HackerNews] India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud - 12 hours ago
+- [RegisterSoftware] Search the pre-ChatGPT internet with the Slop Evader browser extension - 12 hours ago
+- [RegisterSec] Four arrested in South Korea over massive IP camera snooping spree - 12 hours ago
+- [BleepingComputer] Microsoft says new Outlook can't open some Excel attachments - 13 hours ago
+- [BleepingComputer] Retail giant Coupang data breach impacts 33.7 million customers - 14 hours ago
+- [RegisterSoftware] HSBC partners with Mistral AI as banking giants spend billions looking for LLM boost - 14 hours ago
+- [SecurityWeek] Facial Recognition’s Trust Problem - 14 hours ago
+- [RegisterSoftware] HPE pumps AI cloud lineup with extra Nvidia capabilities - 14 hours ago
+- [SecurityWeek] $29 Million Worth of Bitcoin Seized in Cryptomixer Takedown - 15 hours ago
+- [RegisterSoftware] Windows 11 needs an XP SP2 moment, says ex-Microsoft engineer - 15 hours ago
+- [BleepingComputer] When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats - 15 hours ago
+- [BleepingComputer] ShadyPanda browser extensions amass 4.3M installs in malicious campaign - 15 hours ago
+- [RegisterSec] Dutch study finds teen cybercrime is mostly just a phase - 15 hours ago
+- [SecurityWeek] New Albiriox Android Malware Developed by Russian Cybercriminals - 16 hours ago
+- [RegisterSoftware] Cheaper 1 GB Raspberry Pi 5 lands as memory costs go through the roof - 17 hours ago
+- [RegisterSoftware] Asda's 'self-inflicted' SAP mess after Walmart divorce stalls financial revival - 17 hours ago
+- [HackerNews] ⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More - 17 hours ago
+- [RegisterSec] South Korea's answer to Amazon admits breach exposed 33.7M customers - 17 hours ago
+- [HackerNews] Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams - 18 hours ago
+- [BleepingComputer] Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic - 18 hours ago
+- [RegisterSoftware] French Football Federation faces own-goal after club software data breach - 19 hours ago
+- [RegisterSec] French Football Federation faces own-goal after club software data breach - 19 hours ago
+- [RegisterSoftware] Dorset Council ditching customized SAP for £14M Oracle overhaul - 19 hours ago
+- [SecurityWeek] CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack - 19 hours ago
+- [HIBP] Zilvia.net - 287,863 breached accounts - 21 hours ago
+- [BleepingComputer] Police takes down Cryptomixer cryptocurrency mixing service - 21 hours ago
+- [HackerNews] New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control - 21 hours ago
+- [SecurityWeek] Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights - 21 hours ago
+- [RegisterSoftware] Microsoft appears to move on from its most loyal ‘customers’ – Contoso and Fabrikam - 22 hours ago
+- [NETRESEC] NetworkMiner 3.1 Released - 22 hours ago
+- [RegisterSoftware] Web dev's crawler took down major online bookstore by buying too many books - 22 hours ago
+- [RegisterSoftware] Web dev took down major online bookstore by buying too many books - 23 hours ago
+- [TroyHunt] Weekly Update 480 - 1 day ago
+- [HackerNews] Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets - 1 day ago
+- [RegisterSoftware] Aviation delays ease as airlines complete Airbus software rollback - 1 day ago
+- [CloudFlare] MLE (Male) on 2025-12-03 - 1 day ago
+- [RegisterSec] Google and Apple ordered to stop fake government TXTs - 1 day ago
+- [CloudFlare] FRA (Frankfurt) on 2025-12-04 - 1 day ago
+- [CloudFlare] CWB (Curitiba) on 2025-12-04 - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2025-12-04 - 1 day ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-12-04 - 1 day ago
+- [RegisterSec] Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption - 1 day ago
+- [CloudFlare] MRS (Marseille) on 2025-12-04 - 1 day ago
+- [CloudFlare] PMO (Palermo) on 2025-12-04 - 1 day ago
+- [CloudFlare] CDG (Paris) on 2025-12-04 - 1 day ago
+- [CloudFlare] TBS (Tbilisi) on 2025-12-04 - 1 day ago
+- [CloudFlare] IST (Istanbul) on 2025-12-04 - 1 day ago
+- [CloudFlare] LED (Saint Petersburg) on 2025-12-04 - 1 day ago
+- [CloudFlare] GOT (Gothenburg) on 2025-12-05 - 1 day ago
+- [CloudFlare] GVA (Geneva) on 2025-12-05 - 1 day ago
+- [CloudFlare] MAD (Madrid) on 2025-12-05 - 1 day ago
+- [CloudFlare] LIS (Lisbon) on 2025-12-05 - 1 day ago
+- [1Password] 1Password.com Website Access Degradation - 1 day ago
 - [HackerNews] CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - 1 day ago
-- [BleepingComputer] Japanese beer giant Asahi says data breach hit 1.5 million people - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
