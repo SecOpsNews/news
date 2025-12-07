@@ -9,13 +9,13 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable - 11 hours ago
-- [BleepingComputer] New wave of VPN login attempts targets Palo Alto GlobalProtect portals - 12 hours ago
-- [HackerNews] Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks - 14 hours ago
-- [BrianKrebs] Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill - 16 hours ago
-- [HackerNews] Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation - 19 hours ago
-- [RegisterSec] Death to one-time text codes: Passkeys are the new hotness in MFA - 21 hours ago
-- [HIBP] KinoKong - 817,808 breached accounts - 21 hours ago
+- [BleepingComputer] React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable - 18 hours ago
+- [BleepingComputer] New wave of VPN login attempts targets Palo Alto GlobalProtect portals - 19 hours ago
+- [HackerNews] Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks - 21 hours ago
+- [BrianKrebs] Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill - 23 hours ago
+- [HackerNews] Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation - 1 day ago
+- [RegisterSec] Death to one-time text codes: Passkeys are the new hotness in MFA - 1 day ago
+- [HIBP] KinoKong - 817,808 breached accounts - 1 day ago
 - [RegisterSec] Crims using social media images, videos in 'virtual kidnapping' scams - 1 day ago
 - [CloudFlare] PDX (Portland) on 2025-12-11 - 1 day ago
 - [RegisterSoftware] Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it - 1 day ago
@@ -44,26 +44,8 @@ description: Latest Updates
 - [RegisterSoftware] Salesforce finds new AI monetization knobs to twist - 1 day ago
 - [RegisterSoftware] Beijing-linked hackers are hammering max-severity React bug, AWS warns - 1 day ago
 - [SecurityWeek] US Organizations Warned of Chinese Malware Used for Long-Term Persistence - 1 day ago
-- [RegisterSec] PRC spies Brickstormed their way into critical US networks and remained hidden for years - 1 day ago
-- [BleepingComputer] Pharma firm Inotiv discloses data breach after ransomware attack - 1 day ago
-- [RegisterSoftware] Irish Excel whiz sheets all over the competition in Vegas showdown - 1 day ago
-- [RegisterSoftware] Linux 6.18 crowned LTS kernel – and Alpine 3.23 wastes no time adopting it - 1 day ago
-- [HackerNews] "Getting to Yes": An Anti-Sales Guide for MSPs - 1 day ago
-- [HackerNews] Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery - 1 day ago
-- [BleepingComputer] React2Shell critical flaw actively exploited in China-linked attacks - 1 day ago
-- [SecurityWeek] Lumia Security Raises $18 Million for AI Security and Governance - 1 day ago
-- [RegisterSoftware] FreeBSD 15 trims legacy fat and revamps how OS is built - 1 day ago
-- [RegisterSec] UK pushes ahead with facial recognition expansion despite civil liberties backlash - 1 day ago
-- [SecurityWeek] Aisuru Botnet Powers Record DDoS Attack Peaking at 29 Tbps - 1 day ago
-- [SecurityWeek] Helmet Security Emerges From Stealth Mode With $9 Million in Funding - 1 day ago
-- [RegisterSec] Bots, bias, and bunk: How can you tell what's real on the net? - 1 day ago
-- [RegisterSoftware] Bots, bias, and bunk: How can you tell what's real on the net? - 1 day ago
-- [BleepingComputer] Cloudflare down, websites offline with 500 Internal Server Error - 1 day ago
-- [HackerNews] CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems - 1 day ago
-- [TroyHunt] Weekly Update 481 - 1 day ago
-- [RegisterSoftware] Vendor's secret 'fix' made critical app unusable during business hours - 1 day ago
-- [SecurityWeek] Chinese Hackers Exploiting React2Shell Vulnerability - 1 day ago
-- [HackerNews] JPCERT Confirms Active Command Injection Attacks on Array AG Gateways - 2 days ago
+- [RegisterSec] PRC spies Brickstormed their way into critical US networks and remained hidden for years - 2 days ago
+- [BleepingComputer] Pharma firm Inotiv discloses data breach after ransomware attack - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
