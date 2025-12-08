@@ -9,43 +9,35 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable - 18 hours ago
-- [BleepingComputer] New wave of VPN login attempts targets Palo Alto GlobalProtect portals - 19 hours ago
-- [HackerNews] Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks - 21 hours ago
-- [BrianKrebs] Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill - 23 hours ago
+- [CloudFlare] VIE (Vienna) on 2025-12-08 - 20 minutes ago
+- [CloudFlare] MAD (Madrid) on 2025-12-08 - 20 minutes ago
+- [CloudFlare] TLH (Tallahassee) on 2025-12-11 - 48 minutes ago
+- [CloudFlare] HKG (Hong Kong) on 2025-12-11 - 1 hour ago
+- [CloudFlare] IAD (Ashburn) on 2025-12-15 - 1 hour ago
+- [CloudFlare] ZAG (Zagreb) on 2025-12-09 - 1 hour ago
+- [CloudFlare] MIA (Miami) on 2025-12-09 - 1 hour ago
+- [CloudFlare] SIN (Singapore) on 2025-12-09 - 1 hour ago
+- [RegisterSec] Block all AI browsers for the foreseeable future: Gartner - 1 hour ago
+- [RegisterSoftware] Block all AI browsers for the foreseeable future: Gartner - 1 hour ago
+- [CloudFlare] CDG (Paris) on 2025-12-10 - 1 hour ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2025-12-10 - 1 hour ago
+- [RegisterSec] China’s first reusable rocket explodes, but its onboard Ethernet network flew - 4 hours ago
+- [RegisterSec] Apache warns of 10.0-rated flaw in Tika metadata ingestion tool - 5 hours ago
+- [BleepingComputer] OpenAI denies rolling out ads on ChatGPT paid plans - 10 hours ago
+- [BleepingComputer] Portugal updates cybercrime law to exempt security researchers - 10 hours ago
+- [CloudFlare] QRO (Queretaro) on 2025-12-10 - 14 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2025-12-11 - 14 hours ago
+- [CloudFlare] YXE (Saskatoon) on 2025-12-12 - 14 hours ago
+- [CloudFlare] YYC (Calgary) on 2025-12-12 - 14 hours ago
+- [CloudFlare] DEN (Denver) on 2025-12-12 - 15 hours ago
+- [CloudFlare] DUR (Durban) on 2025-12-11 - 15 hours ago
+- [BleepingComputer] React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable - 1 day ago
+- [BleepingComputer] New wave of VPN login attempts targets Palo Alto GlobalProtect portals - 1 day ago
+- [HackerNews] Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks - 1 day ago
+- [BrianKrebs] Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill - 1 day ago
 - [HackerNews] Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation - 1 day ago
 - [RegisterSec] Death to one-time text codes: Passkeys are the new hotness in MFA - 1 day ago
 - [HIBP] KinoKong - 817,808 breached accounts - 1 day ago
-- [RegisterSec] Crims using social media images, videos in 'virtual kidnapping' scams - 1 day ago
-- [CloudFlare] PDX (Portland) on 2025-12-11 - 1 day ago
-- [RegisterSoftware] Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it - 1 day ago
-- [RegisterSoftware] Cloudflare blames Friday outage on borked fix for React2shell vuln - 1 day ago
-- [RegisterSec] Novel clickjacking attack relies on CSS and SVG - 1 day ago
-- [RegisterSoftware] Novel clickjacking attack relies on CSS and SVG - 1 day ago
-- [RegisterSec] Cloudflare blames Friday outage on borked fix for React2shell vuln - 1 day ago
-- [BleepingComputer] Barts Health NHS discloses data breach after Oracle zero-day hack - 1 day ago
-- [GitHub] Team synchronization is experiencing delays for non enterprise managed users - 1 day ago
-- [HackerNews] Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails - 1 day ago
-- [FullDisclosure] Multiple Security Misconfigurations and Customer Enumeration Exposure in Convercent Whistleblowing Platform (EQS Group) - 1 day ago
-- [HackerNews] Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch - 1 day ago
-- [BleepingComputer] Cloudflare blames today's outage on React2Shell mitigations - 1 day ago
-- [BleepingComputer] A Practical Guide to Continuous Attack Surface Visibility - 1 day ago
-- [BleepingComputer] FBI warns of virtual kidnapping scams using altered social media photos - 1 day ago
-- [SecurityWeek] In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor - 1 day ago
-- [RegisterSoftware] Tech leaders fill $1T AI bubble, insist it doesn't exist - 1 day ago
-- [HackerNews] Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability - 1 day ago
-- [SecurityWeek] Cloudflare Outage Caused by React2Shell Mitigations - 1 day ago
-- [RegisterSec] Asus supplier hit by ransomware attack as gang flaunts alleged 1 TB haul - 1 day ago
-- [SecurityWeek] Imper.ai Emerges From Stealth Mode With $28 Million in Funding - 1 day ago
-- [BleepingComputer] Critical React2Shell flaw actively exploited in China-linked attacks - 1 day ago
-- [BleepingComputer] EU fines X $140 million over deceptive blue checkmarks - 1 day ago
-- [RegisterSec] Beijing-linked hackers are hammering max-severity React bug, AWS warns - 1 day ago
-- [BleepingComputer] Cloudflare blames today's outage on emergency React2Shell patch - 1 day ago
-- [RegisterSoftware] Salesforce finds new AI monetization knobs to twist - 1 day ago
-- [RegisterSoftware] Beijing-linked hackers are hammering max-severity React bug, AWS warns - 1 day ago
-- [SecurityWeek] US Organizations Warned of Chinese Malware Used for Long-Term Persistence - 1 day ago
-- [RegisterSec] PRC spies Brickstormed their way into critical US networks and remained hidden for years - 2 days ago
-- [BleepingComputer] Pharma firm Inotiv discloses data breach after ransomware attack - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
