@@ -9,8 +9,8 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks - 17 hours ago
-- [RegisterSoftware] British Airways fears a future where AI agents pick flights and brands get ghosted - 20 hours ago
+- [HackerNews] CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks - 1 day ago
+- [RegisterSoftware] British Airways fears a future where AI agents pick flights and brands get ghosted - 1 day ago
 - [HackerNews] Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild - 1 day ago
 - [BleepingComputer] Apple fixes two zero-day flaws exploited in 'sophisticated' attacks - 1 day ago
 - [RegisterSec] Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit - 1 day ago
@@ -29,34 +29,13 @@ description: Latest Updates
 - [CloudFlare] DUR (Durban) on 2025-12-16 - 1 day ago
 - [IT Governance] What Is CEO Fraud? Definition, Examples and Prevention - 1 day ago
 - [HackerNews] New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale - 1 day ago
-- [RegisterSec] Uncle Sam sues ex-Accenture manager over Army cloud security claims - 1 day ago
-- [RegisterSec] Microsoft promises more bug payouts, with or without a bounty program - 1 day ago
-- [RegisterSoftware] Microsoft promises more bug payouts, with or without a bounty program - 1 day ago
-- [SecurityWeek] Gladinet CentreStack Flaw Exploited to Hack Organizations - 1 day ago
-- [RegisterSoftware] Here we go again: Microsoft in UK court over cloud licensing - 1 day ago
-- [GrahamCluley] Gartner tells businesses to block AI browsers now - 1 day ago
-- [SecurityWeek] Fieldtex Data Breach Impacts 238,000 - 1 day ago
-- [SecurityWeek] MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities - 1 day ago
-- [RegisterSec] UK watchdog urged to probe GDPR failures in Home Office eVisa rollout - 1 day ago
-- [SecurityWeek] Recent GeoServer Vulnerability Exploited in Attacks - 1 day ago
-- [RegisterSoftware] Half of exposed React servers remain unpatched amid active exploitation - 1 day ago
-- [RegisterSec] Half of exposed React servers remain unpatched amid active exploitation - 1 day ago
-- [BleepingComputer] New Windows RasMan zero-day flaw gets free, unofficial patches - 1 day ago
-- [SecurityWeek] Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking - 1 day ago
-- [SecurityWeek] Microsoft Bug Bounty Program Expanded to Third-Party Code - 1 day ago
-- [IT Governance] How Long Does It Take to Detect a Cyber Attack? - 1 day ago
-- [HackerNews] Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work - 1 day ago
-- [RegisterSoftware] Salesforce opts for seat-based AI licensing as customers demand predictability - 1 day ago
-- [BleepingComputer] CISA orders feds to patch actively exploited Geoserver flaw - 1 day ago
-- [IT Governance] An Introduction to the NIST Risk Management Framework - 1 day ago
-- [IT Governance] Does the GDPR Apply to American Organisations? - 1 day ago
-- [RegisterSoftware] Home Office staff still leaning on 25-year-old asylum case management system - 1 day ago
-- [HackerNews] React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation - 1 day ago
-- [HackerNews] New React RSC Vulnerabilities Enable DoS and Source Code Exposure - 1 day ago
-- [BleepingComputer] MITRE shares 2025's top 25 most dangerous software weaknesses - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2025-12-15 - 1 day ago
-- [SecurityWeek] $320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits - 1 day ago
-- [BleepingComputer] MKVCinemas streaming piracy service with 142M visits shuts down - 1 day ago
+- [RegisterSec] Uncle Sam sues ex-Accenture manager over Army cloud security claims - 2 days ago
+- [RegisterSec] Microsoft promises more bug payouts, with or without a bounty program - 2 days ago
+- [RegisterSoftware] Microsoft promises more bug payouts, with or without a bounty program - 2 days ago
+- [SecurityWeek] Gladinet CentreStack Flaw Exploited to Hack Organizations - 2 days ago
+- [RegisterSoftware] Here we go again: Microsoft in UK court over cloud licensing - 2 days ago
+- [GrahamCluley] Gartner tells businesses to block AI browsers now - 2 days ago
+- [SecurityWeek] Fieldtex Data Breach Impacts 238,000 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
