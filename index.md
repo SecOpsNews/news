@@ -9,22 +9,43 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption - 16 minutes ago
-- [CloudFlare] ATL (Atlanta) on 2025-12-15 - 48 minutes ago
-- [CloudFlare] ATL (Atlanta) on 2025-12-17 - 48 minutes ago
-- [CloudFlare] AUS (Austin) on 2025-12-15 - 1 hour ago
-- [CloudFlare] PDX (Portland) on 2025-12-18 - 1 hour ago
-- [CloudFlare] Network Connectivity Degradation in Mumbai - 1 hour ago
-- [CloudFlare] ICN (Seoul) on 2026-01-07 - 1 hour ago
-- [CloudFlare] ICN (Seoul) on 2026-01-08 - 2 hours ago
-- [CloudFlare] NQN (Neuquen) on 2025-12-15 - 3 hours ago
-- [RegisterSoftware] Starlink claims Chinese launch came within 200 meters of broadband satellite - 4 hours ago
-- [RegisterSec] Starlink claims Chinese launch came within 200 meters of broadband satellite - 4 hours ago
-- [RegisterSec] Honeypots can help defenders, or damn them if implemented badly - 7 hours ago
-- [CloudFlare] FRA (Frankfurt) on 2025-12-17 - 7 hours ago
-- [BleepingComputer] Beware: PayPal subscriptions abused to send fake purchase emails - 14 hours ago
-- [HackerNews] CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks - 1 day ago
-- [RegisterSoftware] British Airways fears a future where AI agents pick flights and brands get ghosted - 1 day ago
+- [SecurityWeek] Google Sees 5 Chinese Groups Exploiting React2Shell for Malware Delivery - 20 minutes ago
+- [CloudFlare] ATL (Atlanta) on 2025-12-16 - 20 minutes ago
+- [RegisterSec] Delay to European Central Bank messaging project cost the Bank of England £23M - 48 minutes ago
+- [RegisterSoftware] Delay to European Central Bank messaging project cost the Bank of England £23M - 48 minutes ago
+- [BleepingComputer] Google links more Chinese hacking groups to React2Shell attacks - 48 minutes ago
+- [CloudFlare] HEL (Helsinki) on 2025-12-17 - 50 minutes ago
+- [RegisterSec] JLR: Payroll data stolen in cybercrime that shook UK economy - 1 hour ago
+- [HackerNews] A Browser Extension Risk Guide After the ShadyPanda Campaign - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More - 1 hour ago
+- [SecurityWeek] Soverli Raises $2.6 Million for Secure Smartphone OS - 2 hours ago
+- [GrahamCluley] Man jailed for teaching criminals how to use malware - 2 hours ago
+- [RegisterSec] Apple, Google forced to issue emergency 0-day patches - 2 hours ago
+- [BleepingComputer] French Interior Ministry confirms cyberattack on email servers - 2 hours ago
+- [SecurityWeek] Atlassian Patches Critical Apache Tika Flaw - 2 hours ago
+- [RegisterSec] Denmark takes a Viking swing at VPN-enabled piracy - 3 hours ago
+- [SecurityWeek] Third DraftKings Hacker Pleads Guilty - 3 hours ago
+- [HackerNews] Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector - 4 hours ago
+- [RegisterSec] Legal protection for ethical hacking under Computer Misuse Act is only the first step - 4 hours ago
+- [SecurityWeek] 700Credit Data Breach Impacts 5.8 Million Individuals - 4 hours ago
+- [BleepingComputer] Microsoft: December security updates cause Message Queuing failures - 4 hours ago
+- [RegisterSec] Legal protection for ethical hacking is only the first step - 4 hours ago
+- [SecurityWeek] Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw - 5 hours ago
+- [RegisterSoftware] Techie 'forgot' to tell boss their cost-saving idea meant a day of gaming - 6 hours ago
+- [HackerNews] VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption - 7 hours ago
+- [CloudFlare] ATL (Atlanta) on 2025-12-15 - 7 hours ago
+- [CloudFlare] ATL (Atlanta) on 2025-12-17 - 7 hours ago
+- [CloudFlare] AUS (Austin) on 2025-12-15 - 8 hours ago
+- [CloudFlare] PDX (Portland) on 2025-12-18 - 8 hours ago
+- [CloudFlare] Network Connectivity Degradation in Mumbai - 8 hours ago
+- [CloudFlare] ICN (Seoul) on 2026-01-07 - 8 hours ago
+- [CloudFlare] ICN (Seoul) on 2026-01-08 - 9 hours ago
+- [CloudFlare] NQN (Neuquen) on 2025-12-15 - 10 hours ago
+- [RegisterSoftware] Starlink claims Chinese launch came within 200 meters of broadband satellite - 11 hours ago
+- [RegisterSec] Starlink claims Chinese launch came within 200 meters of broadband satellite - 11 hours ago
+- [RegisterSec] Honeypots can help defenders, or damn them if implemented badly - 14 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-12-17 - 14 hours ago
+- [BleepingComputer] Beware: PayPal subscriptions abused to send fake purchase emails - 21 hours ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
