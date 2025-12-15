@@ -9,33 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
+- [HackerNews] VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption - 16 minutes ago
+- [CloudFlare] ATL (Atlanta) on 2025-12-15 - 48 minutes ago
+- [CloudFlare] ATL (Atlanta) on 2025-12-17 - 48 minutes ago
+- [CloudFlare] AUS (Austin) on 2025-12-15 - 1 hour ago
+- [CloudFlare] PDX (Portland) on 2025-12-18 - 1 hour ago
+- [CloudFlare] Network Connectivity Degradation in Mumbai - 1 hour ago
+- [CloudFlare] ICN (Seoul) on 2026-01-07 - 1 hour ago
+- [CloudFlare] ICN (Seoul) on 2026-01-08 - 2 hours ago
+- [CloudFlare] NQN (Neuquen) on 2025-12-15 - 3 hours ago
+- [RegisterSoftware] Starlink claims Chinese launch came within 200 meters of broadband satellite - 4 hours ago
+- [RegisterSec] Starlink claims Chinese launch came within 200 meters of broadband satellite - 4 hours ago
+- [RegisterSec] Honeypots can help defenders, or damn them if implemented badly - 7 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2025-12-17 - 7 hours ago
+- [BleepingComputer] Beware: PayPal subscriptions abused to send fake purchase emails - 14 hours ago
 - [HackerNews] CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks - 1 day ago
 - [RegisterSoftware] British Airways fears a future where AI agents pick flights and brands get ghosted - 1 day ago
-- [HackerNews] Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild - 1 day ago
-- [BleepingComputer] Apple fixes two zero-day flaws exploited in 'sophisticated' attacks - 1 day ago
-- [RegisterSec] Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit - 1 day ago
-- [TroyHunt] Processing 630 Million More Pwned Passwords, Courtesy of the FBI - 1 day ago
-- [HackerNews] Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads - 1 day ago
-- [SecurityWeek] In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy - 1 day ago
-- [BleepingComputer] Coupang data breach traced to ex-employee who retained system access - 1 day ago
-- [RegisterSec] New React vulns leak secrets, invite DoS attacks - 1 day ago
-- [BleepingComputer] Fake ‘One Battle After Another’ torrent hides malware in subtitles - 1 day ago
-- [RegisterSoftware] Trump gives state AI regulation the presidential middle finger - 1 day ago
-- [RegisterSoftware] Workday project at Washington University hits $266M - 1 day ago
-- [BleepingComputer] Shadow spreadsheets: The security gap your tools can’t see - 1 day ago
-- [BleepingComputer] Kali Linux 2025.4 released with 3 new tools, desktop updates - 1 day ago
-- [SecurityWeek] In Other News: PromptPwnd Attack, Small macOS Bounties, Chinese Hackers Trained in Cisco Academy - 1 day ago
-- [IT Governance] How NIST’s Cybersecurity Framework Protects the CIA Triad - 1 day ago
-- [CloudFlare] DUR (Durban) on 2025-12-16 - 1 day ago
-- [IT Governance] What Is CEO Fraud? Definition, Examples and Prevention - 1 day ago
-- [HackerNews] New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale - 1 day ago
-- [RegisterSec] Uncle Sam sues ex-Accenture manager over Army cloud security claims - 2 days ago
-- [RegisterSec] Microsoft promises more bug payouts, with or without a bounty program - 2 days ago
-- [RegisterSoftware] Microsoft promises more bug payouts, with or without a bounty program - 2 days ago
-- [SecurityWeek] Gladinet CentreStack Flaw Exploited to Hack Organizations - 2 days ago
-- [RegisterSoftware] Here we go again: Microsoft in UK court over cloud licensing - 2 days ago
-- [GrahamCluley] Gartner tells businesses to block AI browsers now - 2 days ago
-- [SecurityWeek] Fieldtex Data Breach Impacts 238,000 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
