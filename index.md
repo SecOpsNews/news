@@ -9,10 +9,12 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence - 1 hour ago
-- [BleepingComputer] RansomHouse upgrades encryption with multi-layered data processing - 10 hours ago
-- [HackerNews] U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware - 16 hours ago
-- [TroyHunt] Weekly Update 483 - 23 hours ago
+- [RegisterSoftware] Workers should control the means of agentic production, suggests WorkBeaver boss - 1 hour ago
+- [RegisterSec] NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift - 6 hours ago
+- [HackerNews] Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence - 8 hours ago
+- [BleepingComputer] RansomHouse upgrades encryption with multi-layered data processing - 17 hours ago
+- [HackerNews] U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware - 23 hours ago
+- [TroyHunt] Weekly Update 483 - 1 day ago
 - [RegisterSec] ATM jackpotting gang accused of unleashing Ploutus malware across US - 1 day ago
 - [BleepingComputer] Microsoft confirms Teams is down and messages are delayed - 1 day ago
 - [HackerNews] Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers - 1 day ago
@@ -34,28 +36,9 @@ description: Latest Updates
 - [RegisterSoftware] pearOS is a Linux that falls rather close to the Apple tree - 1 day ago
 - [SecurityWeek] Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility - 1 day ago
 - [SecurityWeek] Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments - 1 day ago
-- [SecurityWeek] Docker Makes 1,000 Hardened Images Free and Open Source - 1 day ago
-- [SecurityWeek] US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator - 1 day ago
-- [RegisterSec] HPE tells customers to patch fast as OneView RCE bug scores a perfect 10 - 1 day ago
-- [SecurityWeek] University of Sydney Data Breach Affects 27,000 Individuals - 1 day ago
-- [RegisterSoftware] Airbus to migrate critical apps to a sovereign Euro cloud - 1 day ago
-- [BleepingComputer] Denmark blames Russia for destructive cyberattack on water utility - 1 day ago
-- [SecurityWeek] ‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices - 1 day ago
-- [HackerNews] WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability - 1 day ago
-- [RegisterSec] Ministers confirm breach at UK Foreign Office but details remain murky - 1 day ago
-- [CloudFlare] Network Performance Issues - 1 day ago
-- [HackerNews] Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks - 1 day ago
-- [RegisterSec] Faith in the internet is fading among young Brits - 1 day ago
-- [BleepingComputer] New critical WatchGuard Firebox firewall flaw exploited in attacks - 1 day ago
-- [RegisterSoftware] GOV.UK to unleash AI chatbot on confused citizens - 1 day ago
-- [SecurityWeek] North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers - 1 day ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-07 - 1 day ago
-- [RegisterSec] AI and cybersecurity: Two sides of the same coin - 1 day ago
-- [BleepingComputer] FTC: Instacart to refund $60M over deceptive subscription tactics - 1 day ago
-- [RegisterSoftware] The 5X AI reality check: why enterprises are leaving transformative value on the table - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2025-12-22 - 1 day ago
-- [HackerNews] New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2025-12-21 - 2 days ago
+- [SecurityWeek] Docker Makes 1,000 Hardened Images Free and Open Source - 2 days ago
+- [SecurityWeek] US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator - 2 days ago
+- [RegisterSec] HPE tells customers to patch fast as OneView RCE bug scores a perfect 10 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
@@ -103,44 +86,44 @@ description: Latest Updates
 - [BleepingComputer] Windows "inetpub" security fix can be abused to block future updates - 7 months ago
 - [SecurityWeek] Former Google Cloud CISO Phil Venables Joins Ballistic Ventures - 7 months ago
 - [BleepingComputer] Baltimore City Public Schools data breach affects over 31,000 people - 7 months ago
-- [SecurityWeek] M-Trends 2025: State-Sponsored IT Workers Emerge as Global Threat - 7 months ago
-- [BleepingComputer] SAP fixes suspected Netweaver zero-day exploited in attacks - 7 months ago
-- [SecurityWeek] Lattica Emerges From Stealth With FHE Platform for AI - 7 months ago
-- [RegisterSoftware] Google admits depreciation costs are soaring amid furious bit barn build - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-19 - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-20 - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-27 - 7 months ago
-- [SecurityWeek] Inside the Verizon 2025 DBIR: Five Trends That Signal a Shift in the Cyber Threat Economy - 7 months ago
-- [BleepingComputer] SAP fixes critical Netweaver flaw exploited in attacks - 7 months ago
-- [HackerNews] New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework - 7 months ago
-- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-13 - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-28 - 7 months ago
-- [SecurityWeek] In Other News: Prison for Disney Hacker, MITRE ATT&CK v17, Massive DDoS Botnet - 7 months ago
-- [SecurityWeek] Manifest Raises $15 Million for SBOM Management Platform - 7 months ago
-- [SecurityWeek] Scamnetic Raises $13 Million to Prevent Scams in Real Time - 7 months ago
-- [CloudFlare] Issues with AI Gateway Performance - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-14 - 7 months ago
-- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 7 months ago
-- [CloudFlare] SIN (Singapore) on 2025-05-21 - 7 months ago
-- [SecurityWeek] South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days - 7 months ago
-- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 7 months ago
-- [SecurityWeek] RSA Conference 2025 – Pre-Event Announcements Summary (Part 2) - 7 months ago
-- [RegisterSoftware] £136M government grant saves troubled Post Office from suboptimal IT - 7 months ago
-- [CloudFlare] SUV (Suva) on 2025-04-28 - 7 months ago
-- [HackerNews] Why NHIs Are Security's Most Dangerous Blind Spot - 7 months ago
-- [HackerNews] SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers - 7 months ago
-- [CloudFlare] NOU (Noumea) on 2025-04-28 - 7 months ago
-- [RegisterSoftware] £13M government grant saves troubled Post Office from suboptimal IT - 7 months ago
-- [GrahamCluley] Hackers access sensitive SIM card data at South Korea’s largest telecoms company - 7 months ago
-- [CloudFlare] CBR (Canberra) on 2025-04-28 - 7 months ago
-- [CloudFlare] VIE (Vienna) on 2025-04-28 - 7 months ago
-- [RegisterSec] Claims assistance firm fined for cold-calling people who put themselves on opt-out list - 7 months ago
-- [BleepingComputer] FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches - 7 months ago
-- [SecurityWeek] All Major Gen-AI Models Vulnerable to ‘Policy Puppetry’ Prompt Injection Attack - 7 months ago
-- [SecurityWeek] SAP Zero-Day Possibly Exploited by Initial Access Broker - 7 months ago
-- [HackerNews] DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks - 7 months ago
-- [HackerNews] Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers - 7 months ago
+- [SecurityWeek] M-Trends 2025: State-Sponsored IT Workers Emerge as Global Threat - 8 months ago
+- [BleepingComputer] SAP fixes suspected Netweaver zero-day exploited in attacks - 8 months ago
+- [SecurityWeek] Lattica Emerges From Stealth With FHE Platform for AI - 8 months ago
+- [RegisterSoftware] Google admits depreciation costs are soaring amid furious bit barn build - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-19 - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-20 - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-27 - 8 months ago
+- [SecurityWeek] Inside the Verizon 2025 DBIR: Five Trends That Signal a Shift in the Cyber Threat Economy - 8 months ago
+- [BleepingComputer] SAP fixes critical Netweaver flaw exploited in attacks - 8 months ago
+- [HackerNews] New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework - 8 months ago
+- [CloudFlare] CPT (Cape Town) on 2025-04-29 - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-13 - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-28 - 8 months ago
+- [SecurityWeek] In Other News: Prison for Disney Hacker, MITRE ATT&CK v17, Massive DDoS Botnet - 8 months ago
+- [SecurityWeek] Manifest Raises $15 Million for SBOM Management Platform - 8 months ago
+- [SecurityWeek] Scamnetic Raises $13 Million to Prevent Scams in Real Time - 8 months ago
+- [CloudFlare] Issues with AI Gateway Performance - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-14 - 8 months ago
+- [CloudFlare] PPT (Tahiti) on 2025-04-28 - 8 months ago
+- [CloudFlare] SIN (Singapore) on 2025-05-21 - 8 months ago
+- [SecurityWeek] South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days - 8 months ago
+- [CloudFlare] CHC (Christchurch) on 2025-04-28 - 8 months ago
+- [SecurityWeek] RSA Conference 2025 – Pre-Event Announcements Summary (Part 2) - 8 months ago
+- [RegisterSoftware] £136M government grant saves troubled Post Office from suboptimal IT - 8 months ago
+- [CloudFlare] SUV (Suva) on 2025-04-28 - 8 months ago
+- [HackerNews] Why NHIs Are Security's Most Dangerous Blind Spot - 8 months ago
+- [HackerNews] SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers - 8 months ago
+- [CloudFlare] NOU (Noumea) on 2025-04-28 - 8 months ago
+- [RegisterSoftware] £13M government grant saves troubled Post Office from suboptimal IT - 8 months ago
+- [GrahamCluley] Hackers access sensitive SIM card data at South Korea’s largest telecoms company - 8 months ago
+- [CloudFlare] CBR (Canberra) on 2025-04-28 - 8 months ago
+- [CloudFlare] VIE (Vienna) on 2025-04-28 - 8 months ago
+- [RegisterSec] Claims assistance firm fined for cold-calling people who put themselves on opt-out list - 8 months ago
+- [BleepingComputer] FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches - 8 months ago
+- [SecurityWeek] All Major Gen-AI Models Vulnerable to ‘Policy Puppetry’ Prompt Injection Attack - 8 months ago
+- [SecurityWeek] SAP Zero-Day Possibly Exploited by Initial Access Broker - 8 months ago
+- [HackerNews] DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks - 8 months ago
+- [HackerNews] Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers - 8 months ago
 - [SecurityWeek] Hackers Exploit Palo Alto Firewall Vulnerability Day After Disclosure - 10 months ago
 - [SecurityWeek] SGNL Raises $30 Million for Identity Management Solution - 10 months ago
 - [SecurityWeek] New Windows Zero-Day Exploited by Chinese APT: Security Firm - 10 months ago
