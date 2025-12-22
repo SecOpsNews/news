@@ -9,18 +9,48 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale - 46 minutes ago
-- [RegisterSec] There’s so much stolen data in the world, South Korea will require face scans to buy a SIM - 2 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2026-01-06 - 4 hours ago
-- [RegisterSoftware] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 5 hours ago
-- [RegisterSec] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 5 hours ago
-- [RegisterSec] Google sends Dark Web Report to its dead services graveyard - 8 hours ago
-- [RegisterSoftware] Workers should control the means of agentic production, suggests WorkBeaver boss - 18 hours ago
-- [RegisterSec] NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift - 23 hours ago
+- [SecurityWeek] MacSync macOS Malware Distributed via Signed Swift Application - 51 minutes ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-01-06 - 51 minutes ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-01-07 - 51 minutes ago
+- [CloudFlare] SCL (Santiago) on 2026-01-07 - 51 minutes ago
+- [CloudFlare] ICN (Seoul) on 2026-01-07 - 52 minutes ago
+- [CloudFlare] DFW (Dallas) on 2026-01-08 - 52 minutes ago
+- [CloudFlare] LAX (Los Angeles) on 2026-01-08 - 52 minutes ago
+- [CloudFlare] ICN (Seoul) on 2026-01-08 - 52 minutes ago
+- [RegisterSec] Around 1,000 systems compromised in ransomware attack on Romanian water agency - 1 hour ago
+- [SecurityWeek] Gambit Cyber Raises $3.4 Million in Seed Funding - 1 hour ago
+- [HackerNews] How to Browse the Web More Sustainably With a Green Browser - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More - 1 hour ago
+- [CloudFlare] EZE (Buenos Aires) on 2026-01-06 - 1 hour ago
+- [CloudFlare] ARI (Arica) on 2026-01-06 - 1 hour ago
+- [CloudFlare] UIO (Quito) on 2026-01-06 - 1 hour ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-06 - 1 hour ago
+- [CloudFlare] DFW (Dallas) on 2026-01-06 - 1 hour ago
+- [CloudFlare] DEN (Denver) on 2026-01-06 - 1 hour ago
+- [CloudFlare] SJC (San Jose) on 2026-01-06 - 1 hour ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-07 - 1 hour ago
+- [CloudFlare] DFW (Dallas) on 2026-01-07 - 1 hour ago
+- [SecurityWeek] Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US - 2 hours ago
+- [BleepingComputer] Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374 - 2 hours ago
+- [BleepingComputer] Ukrainian hacker admits affiliate role in Nefilim ransomware gang - 4 hours ago
+- [RegisterSoftware] The Roomba failed because it just kind of sucked - 4 hours ago
+- [SecurityWeek] WatchGuard Patches Firebox Zero-Day Exploited in the Wild - 4 hours ago
+- [SecurityWeek] UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports - 4 hours ago
+- [BleepingComputer] Critical RCE flaw impacts over 115,000 WatchGuard firewalls - 4 hours ago
+- [RegisterSoftware] AI has pumped hyperscale capex, capacity – but how long can it last? - 5 hours ago
+- [BleepingComputer] Docker Hardened Images now open source and available for free - 5 hours ago
+- [CloudFlare] Elevated number of 5xx errors in BOM - 6 hours ago
+- [HackerNews] Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale - 7 hours ago
+- [RegisterSec] There’s so much stolen data in the world, South Korea will require face scans to buy a SIM - 9 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2026-01-06 - 10 hours ago
+- [RegisterSoftware] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 12 hours ago
+- [RegisterSec] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 12 hours ago
+- [RegisterSec] Google sends Dark Web Report to its dead services graveyard - 15 hours ago
+- [RegisterSoftware] Workers should control the means of agentic production, suggests WorkBeaver boss - 1 day ago
+- [RegisterSec] NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift - 1 day ago
 - [HackerNews] Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence - 1 day ago
 - [BleepingComputer] RansomHouse upgrades encryption with multi-layered data processing - 1 day ago
 - [HackerNews] U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware - 1 day ago
-- [TroyHunt] Weekly Update 483 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
@@ -29,13 +59,13 @@ description: Latest Updates
 - [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 7 months ago
 - [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 7 months ago
 - [TroyHunt] Weekly Update 449 - 7 months ago
-- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 7 months ago
-- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 7 months ago
-- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 7 months ago
-- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 7 months ago
-- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 7 months ago
-- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 7 months ago
-- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 7 months ago
+- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 8 months ago
+- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 8 months ago
+- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 8 months ago
+- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 8 months ago
+- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 8 months ago
+- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 8 months ago
+- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 8 months ago
 - [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 8 months ago
 - [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 8 months ago
 - [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 8 months ago
