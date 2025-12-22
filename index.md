@@ -9,36 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Workers should control the means of agentic production, suggests WorkBeaver boss - 1 hour ago
-- [RegisterSec] NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift - 6 hours ago
-- [HackerNews] Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence - 8 hours ago
-- [BleepingComputer] RansomHouse upgrades encryption with multi-layered data processing - 17 hours ago
-- [HackerNews] U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware - 23 hours ago
-- [TroyHunt] Weekly Update 483 - 1 day ago
-- [RegisterSec] ATM jackpotting gang accused of unleashing Ploutus malware across US - 1 day ago
-- [BleepingComputer] Microsoft confirms Teams is down and messages are delayed - 1 day ago
-- [HackerNews] Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers - 1 day ago
-- [SecurityWeek] Thailand Conference Launches International Initiative to Fight Online Scams - 1 day ago
-- [RegisterSoftware] DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission - 1 day ago
-- [BleepingComputer] Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform - 1 day ago
-- [RegisterSec] WatchGuard sounds alarm as critical Firebox flaw comes under active attack - 1 day ago
-- [BleepingComputer] Microsoft 365 accounts targeted in wave of OAuth phishing attacks - 1 day ago
-- [CloudFlare] Degradation in time to acquire Containers - 1 day ago
-- [RegisterSec] Sydney Uni data goes walkabout after criminals raid code repo - 1 day ago
-- [SecurityWeek] In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee - 1 day ago
-- [SecurityWeek] Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal - 1 day ago
-- [BleepingComputer] New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock - 1 day ago
-- [HackerNews] Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware - 1 day ago
-- [SecurityWeek] AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding - 1 day ago
-- [BrianKrebs] Dismantling Defenses: Trump 2.0 Cyber Year in Review - 1 day ago
-- [BleepingComputer] Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response - 1 day ago
-- [BleepingComputer] Over 25,000 FortiCloud SSO devices exposed to remote attacks - 1 day ago
-- [RegisterSoftware] pearOS is a Linux that falls rather close to the Apple tree - 1 day ago
-- [SecurityWeek] Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility - 1 day ago
-- [SecurityWeek] Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments - 1 day ago
-- [SecurityWeek] Docker Makes 1,000 Hardened Images Free and Open Source - 2 days ago
-- [SecurityWeek] US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator - 2 days ago
-- [RegisterSec] HPE tells customers to patch fast as OneView RCE bug scores a perfect 10 - 2 days ago
+- [HackerNews] Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale - 46 minutes ago
+- [RegisterSec] There’s so much stolen data in the world, South Korea will require face scans to buy a SIM - 2 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2026-01-06 - 4 hours ago
+- [RegisterSoftware] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 5 hours ago
+- [RegisterSec] Through gritted teeth, Apple and Google allow alternative app stores in Japan - 5 hours ago
+- [RegisterSec] Google sends Dark Web Report to its dead services graveyard - 8 hours ago
+- [RegisterSoftware] Workers should control the means of agentic production, suggests WorkBeaver boss - 18 hours ago
+- [RegisterSec] NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift - 23 hours ago
+- [HackerNews] Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence - 1 day ago
+- [BleepingComputer] RansomHouse upgrades encryption with multi-layered data processing - 1 day ago
+- [HackerNews] U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware - 1 day ago
+- [TroyHunt] Weekly Update 483 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 7 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 7 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 7 months ago
@@ -54,38 +36,38 @@ description: Latest Updates
 - [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 7 months ago
 - [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 7 months ago
 - [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 7 months ago
-- [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 7 months ago
-- [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 7 months ago
-- [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 7 months ago
-- [CloudFlare] Cloudflare Response Truncation - 7 months ago
-- [SecurityWeek] Browser Security Firm SquareX Raises $20 Million - 7 months ago
-- [BleepingComputer] Windows 11's Recall AI is now rolling out on Copilot+ PCs - 7 months ago
-- [BleepingComputer] Windows 11 KB5055627 update released with 30 new changes, fixes - 7 months ago
-- [BleepingComputer] Craft CMS RCE exploit chain used in zero-day attacks to steal data - 7 months ago
-- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 7 months ago
-- [RegisterSec] More Ivanti attacks may be on horizon, say experts who are seeing 9x surge in endpoint scans - 7 months ago
-- [CloudFlare] DMM (Dammam) on 2025-04-28 - 7 months ago
-- [CloudFlare] Increased HTTP 500 Errors in TPE & DEL colos - 7 months ago
-- [1Password] 2025-04-28 Events API and Reporting Maintenance - 7 months ago
-- [RegisterSoftware] Oh, cool. Microsoft melts bug that froze Server 2025 Remote Desktop sessions - 7 months ago
-- [RegisterSec] Oh, cool. Microsoft melts bug that froze Server 2025 Remote Desktop sessions - 7 months ago
-- [CloudFlare] DFW (Dallas) on 2025-05-01 - 7 months ago
-- [CloudFlare] AKL (Auckland) on 2025-04-28 - 7 months ago
-- [CloudFlare] MUC (Munich) on 2025-04-28 - 7 months ago
-- [DataBreaches] ELENOR-corp Ransomware: A New Mimic Ransomware Variant Attacking the Healthcare Sector - 7 months ago
-- [DataBreaches] Scattered Spider Hacking Suspect Extradited to US From Spain - 7 months ago
-- [DataBreaches] Several more lawsuits filed against Frederick Health Hospital related to data breach, cybersecurity failures - 7 months ago
-- [DataBreaches] FBI IC3, Verizon DBIR, Google M-Trends reports are out—here’s the conclusions! - 7 months ago
-- [CloudFlare] Connectivity issues for Regional Services in India - 7 months ago
-- [RegisterSec] M&amp;S stops online orders as 'cyber incident' issues worsen - 7 months ago
-- [RegisterSec] Emergency patch for potential SAP zero-day that could grant full system control - 7 months ago
-- [CloudFlare] SSL Certificate Provisioning Delays - 7 months ago
-- [BleepingComputer] Mobile provider MTN says cyberattack compromised customer data - 7 months ago
-- [BleepingComputer] Marks & Spencer pauses online orders after cyberattack - 7 months ago
-- [HackerNews] North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures - 7 months ago
-- [BleepingComputer] Windows "inetpub" security fix can be abused to block future updates - 7 months ago
-- [SecurityWeek] Former Google Cloud CISO Phil Venables Joins Ballistic Ventures - 7 months ago
-- [BleepingComputer] Baltimore City Public Schools data breach affects over 31,000 people - 7 months ago
+- [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 8 months ago
+- [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 8 months ago
+- [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 8 months ago
+- [CloudFlare] Cloudflare Response Truncation - 8 months ago
+- [SecurityWeek] Browser Security Firm SquareX Raises $20 Million - 8 months ago
+- [BleepingComputer] Windows 11's Recall AI is now rolling out on Copilot+ PCs - 8 months ago
+- [BleepingComputer] Windows 11 KB5055627 update released with 30 new changes, fixes - 8 months ago
+- [BleepingComputer] Craft CMS RCE exploit chain used in zero-day attacks to steal data - 8 months ago
+- [CloudFlare] HKG (Hong Kong) on 2025-04-29 - 8 months ago
+- [RegisterSec] More Ivanti attacks may be on horizon, say experts who are seeing 9x surge in endpoint scans - 8 months ago
+- [CloudFlare] DMM (Dammam) on 2025-04-28 - 8 months ago
+- [CloudFlare] Increased HTTP 500 Errors in TPE & DEL colos - 8 months ago
+- [1Password] 2025-04-28 Events API and Reporting Maintenance - 8 months ago
+- [RegisterSoftware] Oh, cool. Microsoft melts bug that froze Server 2025 Remote Desktop sessions - 8 months ago
+- [RegisterSec] Oh, cool. Microsoft melts bug that froze Server 2025 Remote Desktop sessions - 8 months ago
+- [CloudFlare] DFW (Dallas) on 2025-05-01 - 8 months ago
+- [CloudFlare] AKL (Auckland) on 2025-04-28 - 8 months ago
+- [CloudFlare] MUC (Munich) on 2025-04-28 - 8 months ago
+- [DataBreaches] ELENOR-corp Ransomware: A New Mimic Ransomware Variant Attacking the Healthcare Sector - 8 months ago
+- [DataBreaches] Scattered Spider Hacking Suspect Extradited to US From Spain - 8 months ago
+- [DataBreaches] Several more lawsuits filed against Frederick Health Hospital related to data breach, cybersecurity failures - 8 months ago
+- [DataBreaches] FBI IC3, Verizon DBIR, Google M-Trends reports are out—here’s the conclusions! - 8 months ago
+- [CloudFlare] Connectivity issues for Regional Services in India - 8 months ago
+- [RegisterSec] M&amp;S stops online orders as 'cyber incident' issues worsen - 8 months ago
+- [RegisterSec] Emergency patch for potential SAP zero-day that could grant full system control - 8 months ago
+- [CloudFlare] SSL Certificate Provisioning Delays - 8 months ago
+- [BleepingComputer] Mobile provider MTN says cyberattack compromised customer data - 8 months ago
+- [BleepingComputer] Marks & Spencer pauses online orders after cyberattack - 8 months ago
+- [HackerNews] North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures - 8 months ago
+- [BleepingComputer] Windows "inetpub" security fix can be abused to block future updates - 8 months ago
+- [SecurityWeek] Former Google Cloud CISO Phil Venables Joins Ballistic Ventures - 8 months ago
+- [BleepingComputer] Baltimore City Public Schools data breach affects over 31,000 people - 8 months ago
 - [SecurityWeek] M-Trends 2025: State-Sponsored IT Workers Emerge as Global Threat - 8 months ago
 - [BleepingComputer] SAP fixes suspected Netweaver zero-day exploited in attacks - 8 months ago
 - [SecurityWeek] Lattica Emerges From Stealth With FHE Platform for AI - 8 months ago
