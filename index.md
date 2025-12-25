@@ -9,36 +9,42 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Microsoft Teams to let admins block external users via Defender portal - 8 hours ago
-- [BleepingComputer] Fake MAS Windows activation domain used to spread PowerShell malware - 8 hours ago
-- [BleepingComputer] OpenAI is reportedly testing Claude-like Skills for ChatGPT - 8 hours ago
-- [RegisterSoftware] Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data - 8 hours ago
-- [RegisterSoftware] AI faces closing time at the cash buffet - 11 hours ago
-- [RegisterSec] Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws - 12 hours ago
-- [HackerNews] New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper - 13 hours ago
-- [IT Governance] ISO 27001 FastTrack Case Study - 14 hours ago
-- [IT Governance] Cyber Health Check Case Study - 15 hours ago
-- [RegisterSoftware] Garmin autopilot lands small aircraft without human assistance - 15 hours ago
-- [BleepingComputer] Microsoft rolls out hardware-accelerated BitLocker in Windows 11 - 15 hours ago
-- [BleepingComputer] FBI seizes domain storing bank credentials stolen from U.S. victims - 15 hours ago
-- [BleepingComputer] MongoDB warns admins to patch severe RCE flaw immediately - 15 hours ago
-- [RegisterSec] US shuts down phisherfolk’s $14.6M password-hoarding platform - 15 hours ago
-- [RegisterSoftware] Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0 - 16 hours ago
-- [IT Governance] Strengthening Operational Resilience Under DORA - 16 hours ago
-- [SecurityWeek] Pro-Russian Hackers Claim Cyberattack on French Postal Service - 16 hours ago
-- [IT Governance] FastTrack your ISO 27001 ISMS: Implementation and Certification - 16 hours ago
-- [IT Governance] Data Protection Gap Analysis: Identifying weak spots before regulators do - 16 hours ago
-- [HackerNews] Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media - 16 hours ago
-- [RegisterSoftware] One real reason AI isn't delivering: Meatbags in manglement - 17 hours ago
-- [IT Governance] Panel Discussion: AI in Cyber Security – Balancing Innovation and Compliance - 18 hours ago
-- [IT Governance] Ensuring DSAR compliance: Navigating requests and building customer trust - 18 hours ago
-- [HackerNews] Attacks are Evolving: 3 Ways to Protect Your Business in 2026 - 18 hours ago
-- [IT Governance] Building Your Career as a DPO and Privacy Lead - 19 hours ago
-- [IT Governance] Panel discussion: How ISO 27001 can help you comply with DORA - 19 hours ago
-- [IT Governance] FastTrack ISO 27001 Certification – Compliance and Continual Improvement - 19 hours ago
-- [HackerNews] SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips - 21 hours ago
-- [RegisterSoftware] Keeping Windows and macOS alive past their sell-by date - 21 hours ago
-- [HackerNews] Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition - 23 hours ago
+- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 52 minutes ago
+- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 52 minutes ago
+- [RegisterSoftware] AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top? - 1 hour ago
+- [RegisterSoftware] You don't need Linux to run free and open source software - 4 hours ago
+- [HackerNews] CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution - 5 hours ago
+- [HackerNews] Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability - 5 hours ago
+- [BleepingComputer] Microsoft Teams to let admins block external users via Defender portal - 15 hours ago
+- [BleepingComputer] Fake MAS Windows activation domain used to spread PowerShell malware - 15 hours ago
+- [BleepingComputer] OpenAI is reportedly testing Claude-like Skills for ChatGPT - 15 hours ago
+- [RegisterSoftware] Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data - 15 hours ago
+- [RegisterSoftware] AI faces closing time at the cash buffet - 18 hours ago
+- [RegisterSec] Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws - 19 hours ago
+- [HackerNews] New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper - 20 hours ago
+- [IT Governance] ISO 27001 FastTrack Case Study - 21 hours ago
+- [IT Governance] Cyber Health Check Case Study - 22 hours ago
+- [RegisterSoftware] Garmin autopilot lands small aircraft without human assistance - 22 hours ago
+- [BleepingComputer] Microsoft rolls out hardware-accelerated BitLocker in Windows 11 - 22 hours ago
+- [BleepingComputer] FBI seizes domain storing bank credentials stolen from U.S. victims - 22 hours ago
+- [BleepingComputer] MongoDB warns admins to patch severe RCE flaw immediately - 22 hours ago
+- [RegisterSec] US shuts down phisherfolk’s $14.6M password-hoarding platform - 22 hours ago
+- [RegisterSoftware] Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0 - 23 hours ago
+- [IT Governance] Strengthening Operational Resilience Under DORA - 23 hours ago
+- [SecurityWeek] Pro-Russian Hackers Claim Cyberattack on French Postal Service - 23 hours ago
+- [IT Governance] FastTrack your ISO 27001 ISMS: Implementation and Certification - 23 hours ago
+- [IT Governance] Data Protection Gap Analysis: Identifying weak spots before regulators do - 23 hours ago
+- [HackerNews] Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media - 23 hours ago
+- [RegisterSoftware] One real reason AI isn't delivering: Meatbags in manglement - 1 day ago
+- [IT Governance] Panel Discussion: AI in Cyber Security – Balancing Innovation and Compliance - 1 day ago
+- [IT Governance] Ensuring DSAR compliance: Navigating requests and building customer trust - 1 day ago
+- [HackerNews] Attacks are Evolving: 3 Ways to Protect Your Business in 2026 - 1 day ago
+- [IT Governance] Building Your Career as a DPO and Privacy Lead - 1 day ago
+- [IT Governance] Panel discussion: How ISO 27001 can help you comply with DORA - 1 day ago
+- [IT Governance] FastTrack ISO 27001 Certification – Compliance and Continual Improvement - 1 day ago
+- [HackerNews] SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips - 1 day ago
+- [RegisterSoftware] Keeping Windows and macOS alive past their sell-by date - 1 day ago
+- [HackerNews] Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition - 1 day ago
 - [HIBP] Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts - 1 day ago
 - [RegisterSoftware] Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - 1 day ago
 - [RegisterSec] Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - 1 day ago
@@ -53,28 +59,11 @@ description: Latest Updates
 - [HackerNews] Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites - 1 day ago
 - [SecurityWeek] ServiceNow to Acquire Armis for $7.75 Billion in Cash - 1 day ago
 - [RegisterSoftware] Memory is running out, and so are excuses for software bloat - 1 day ago
-- [BleepingComputer] Microsoft Teams strengthens messaging security by default in January - 1 day ago
-- [BleepingComputer] Malicious extensions in Chrome Web store steal user credentials - 1 day ago
-- [RegisterSoftware] Like a Virgin Airways bot, planning for the very first time - 1 day ago
-- [IT Governance] GRC International announces rebranding of IT Governance Ltd to GRC Solutions - 1 day ago
-- [IT Governance] GRC International partners with Bloom Equity for next phase of growth - 1 day ago
-- [BleepingComputer] Cyberattack knocks offline France's postal, banking services - 1 day ago
-- [SecurityWeek] Feds Seize Password Database Used in Massive Bank Account Takeover Scheme - 1 day ago
-- [SecurityWeek] Nissan Confirms Impact From Red Hat Data Breach - 1 day ago
-- [HackerNews] Passwd: A walkthrough of the Google Workspace Password Manager - 1 day ago
-- [HackerNews] INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty - 1 day ago
-- [SecurityWeek] NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data - 1 day ago
-- [BleepingComputer] Italy fines Apple $116 million over App Store privacy policy issues - 1 day ago
-- [SecurityWeek] Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal - 1 day ago
-- [BleepingComputer] Baker University says 2024 data breach impacts 53,000 people - 1 day ago
-- [GitHub] Incident with Issues and Pull Requests - 1 day ago
-- [RegisterSoftware] Pizza restaurant signage caught serving raw Windows - 1 day ago
-- [SecurityWeek] 574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings - 1 day ago
-- [HackerNews] U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme - 1 day ago
-- [HackerNews] Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances - 1 day ago
-- [SecurityWeek] 3.5 Million Affected by University of Phoenix Data Breach - 1 day ago
-- [HackerNews] FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks - 1 day ago
-- [SecurityWeek] Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush - 2 days ago
+- [BleepingComputer] Microsoft Teams strengthens messaging security by default in January - 2 days ago
+- [BleepingComputer] Malicious extensions in Chrome Web store steal user credentials - 2 days ago
+- [RegisterSoftware] Like a Virgin Airways bot, planning for the very first time - 2 days ago
+- [IT Governance] GRC International announces rebranding of IT Governance Ltd to GRC Solutions - 2 days ago
+- [IT Governance] GRC International partners with Bloom Equity for next phase of growth - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
