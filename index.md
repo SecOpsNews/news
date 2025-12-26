@@ -9,16 +9,19 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HIBP] Utair - 401,400 breached accounts - 1 hour ago
-- [BleepingComputer] ChatGPT’s new formatting blocks make its UI look more like a task tool - 8 hours ago
-- [HackerNews] ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories - 16 hours ago
-- [BleepingComputer] Google will finally allow you to change your @gmail.com address - 16 hours ago
-- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 17 hours ago
-- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 17 hours ago
-- [RegisterSoftware] AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top? - 18 hours ago
-- [RegisterSoftware] You don't need Linux to run free and open source software - 21 hours ago
-- [HackerNews] CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution - 22 hours ago
-- [HackerNews] Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability - 22 hours ago
+- [RegisterSoftware] 'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work - 2 hours ago
+- [HackerNews] Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection - 3 hours ago
+- [BleepingComputer] Trust Wallet Chrome extension hack tied to millions in losses - 4 hours ago
+- [HIBP] Utair - 401,400 breached accounts - 8 hours ago
+- [BleepingComputer] ChatGPT’s new formatting blocks make its UI look more like a task tool - 15 hours ago
+- [HackerNews] ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories - 23 hours ago
+- [BleepingComputer] Google will finally allow you to change your @gmail.com address - 23 hours ago
+- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 1 day ago
+- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 1 day ago
+- [RegisterSoftware] AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top? - 1 day ago
+- [RegisterSoftware] You don't need Linux to run free and open source software - 1 day ago
+- [HackerNews] CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution - 1 day ago
+- [HackerNews] Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability - 1 day ago
 - [BleepingComputer] Microsoft Teams to let admins block external users via Defender portal - 1 day ago
 - [BleepingComputer] Fake MAS Windows activation domain used to spread PowerShell malware - 1 day ago
 - [BleepingComputer] OpenAI is reportedly testing Claude-like Skills for ChatGPT - 1 day ago
@@ -39,16 +42,7 @@ description: Latest Updates
 - [IT Governance] FastTrack your ISO 27001 ISMS: Implementation and Certification - 1 day ago
 - [IT Governance] Data Protection Gap Analysis: Identifying weak spots before regulators do - 1 day ago
 - [HackerNews] Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media - 1 day ago
-- [RegisterSoftware] One real reason AI isn't delivering: Meatbags in manglement - 1 day ago
-- [IT Governance] Panel Discussion: AI in Cyber Security – Balancing Innovation and Compliance - 1 day ago
-- [IT Governance] Ensuring DSAR compliance: Navigating requests and building customer trust - 1 day ago
-- [HackerNews] Attacks are Evolving: 3 Ways to Protect Your Business in 2026 - 1 day ago
-- [IT Governance] Building Your Career as a DPO and Privacy Lead - 1 day ago
-- [IT Governance] Panel discussion: How ISO 27001 can help you comply with DORA - 1 day ago
-- [IT Governance] FastTrack ISO 27001 Certification – Compliance and Continual Improvement - 1 day ago
-- [HackerNews] SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips - 1 day ago
-- [RegisterSoftware] Keeping Windows and macOS alive past their sell-by date - 1 day ago
-- [HackerNews] Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition - 1 day ago
+- [RegisterSoftware] One real reason AI isn't delivering: Meatbags in manglement - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
