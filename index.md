@@ -9,32 +9,36 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 52 minutes ago
-- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 52 minutes ago
-- [RegisterSoftware] AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top? - 1 hour ago
-- [RegisterSoftware] You don't need Linux to run free and open source software - 4 hours ago
-- [HackerNews] CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution - 5 hours ago
-- [HackerNews] Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability - 5 hours ago
-- [BleepingComputer] Microsoft Teams to let admins block external users via Defender portal - 15 hours ago
-- [BleepingComputer] Fake MAS Windows activation domain used to spread PowerShell malware - 15 hours ago
-- [BleepingComputer] OpenAI is reportedly testing Claude-like Skills for ChatGPT - 15 hours ago
-- [RegisterSoftware] Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data - 15 hours ago
-- [RegisterSoftware] AI faces closing time at the cash buffet - 18 hours ago
-- [RegisterSec] Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws - 19 hours ago
-- [HackerNews] New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper - 20 hours ago
-- [IT Governance] ISO 27001 FastTrack Case Study - 21 hours ago
-- [IT Governance] Cyber Health Check Case Study - 22 hours ago
-- [RegisterSoftware] Garmin autopilot lands small aircraft without human assistance - 22 hours ago
-- [BleepingComputer] Microsoft rolls out hardware-accelerated BitLocker in Windows 11 - 22 hours ago
-- [BleepingComputer] FBI seizes domain storing bank credentials stolen from U.S. victims - 22 hours ago
-- [BleepingComputer] MongoDB warns admins to patch severe RCE flaw immediately - 22 hours ago
-- [RegisterSec] US shuts down phisherfolk’s $14.6M password-hoarding platform - 22 hours ago
-- [RegisterSoftware] Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0 - 23 hours ago
-- [IT Governance] Strengthening Operational Resilience Under DORA - 23 hours ago
-- [SecurityWeek] Pro-Russian Hackers Claim Cyberattack on French Postal Service - 23 hours ago
-- [IT Governance] FastTrack your ISO 27001 ISMS: Implementation and Certification - 23 hours ago
-- [IT Governance] Data Protection Gap Analysis: Identifying weak spots before regulators do - 23 hours ago
-- [HackerNews] Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media - 23 hours ago
+- [HIBP] Utair - 401,400 breached accounts - 1 hour ago
+- [BleepingComputer] ChatGPT’s new formatting blocks make its UI look more like a task tool - 8 hours ago
+- [HackerNews] ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories - 16 hours ago
+- [BleepingComputer] Google will finally allow you to change your @gmail.com address - 16 hours ago
+- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 17 hours ago
+- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 17 hours ago
+- [RegisterSoftware] AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top? - 18 hours ago
+- [RegisterSoftware] You don't need Linux to run free and open source software - 21 hours ago
+- [HackerNews] CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution - 22 hours ago
+- [HackerNews] Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability - 22 hours ago
+- [BleepingComputer] Microsoft Teams to let admins block external users via Defender portal - 1 day ago
+- [BleepingComputer] Fake MAS Windows activation domain used to spread PowerShell malware - 1 day ago
+- [BleepingComputer] OpenAI is reportedly testing Claude-like Skills for ChatGPT - 1 day ago
+- [RegisterSoftware] Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data - 1 day ago
+- [RegisterSoftware] AI faces closing time at the cash buffet - 1 day ago
+- [RegisterSec] Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws - 1 day ago
+- [HackerNews] New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper - 1 day ago
+- [IT Governance] ISO 27001 FastTrack Case Study - 1 day ago
+- [IT Governance] Cyber Health Check Case Study - 1 day ago
+- [RegisterSoftware] Garmin autopilot lands small aircraft without human assistance - 1 day ago
+- [BleepingComputer] Microsoft rolls out hardware-accelerated BitLocker in Windows 11 - 1 day ago
+- [BleepingComputer] FBI seizes domain storing bank credentials stolen from U.S. victims - 1 day ago
+- [BleepingComputer] MongoDB warns admins to patch severe RCE flaw immediately - 1 day ago
+- [RegisterSec] US shuts down phisherfolk’s $14.6M password-hoarding platform - 1 day ago
+- [RegisterSoftware] Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0 - 1 day ago
+- [IT Governance] Strengthening Operational Resilience Under DORA - 1 day ago
+- [SecurityWeek] Pro-Russian Hackers Claim Cyberattack on French Postal Service - 1 day ago
+- [IT Governance] FastTrack your ISO 27001 ISMS: Implementation and Certification - 1 day ago
+- [IT Governance] Data Protection Gap Analysis: Identifying weak spots before regulators do - 1 day ago
+- [HackerNews] Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media - 1 day ago
 - [RegisterSoftware] One real reason AI isn't delivering: Meatbags in manglement - 1 day ago
 - [IT Governance] Panel Discussion: AI in Cyber Security – Balancing Innovation and Compliance - 1 day ago
 - [IT Governance] Ensuring DSAR compliance: Navigating requests and building customer trust - 1 day ago
@@ -45,25 +49,6 @@ description: Latest Updates
 - [HackerNews] SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips - 1 day ago
 - [RegisterSoftware] Keeping Windows and macOS alive past their sell-by date - 1 day ago
 - [HackerNews] Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition - 1 day ago
-- [HIBP] Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts - 1 day ago
-- [RegisterSoftware] Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - 1 day ago
-- [RegisterSec] Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - 1 day ago
-- [RegisterSoftware] AWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor - 1 day ago
-- [Slack] Incident: Issue loading threads in Slack - 1 day ago
-- [RegisterSec] ServiceNow opens $7.7B ticket titled 'Buy security company, make it Armis' - 1 day ago
-- [BleepingComputer] WebRAT malware spread via fake vulnerability exploits on GitHub - 1 day ago
-- [RegisterSec] 21K Nissan customers' data stolen in Red Hat raid - 1 day ago
-- [RegisterSoftware] Windows is testing a new, wider Run dialog box. Here’s how to try it - 1 day ago
-- [RegisterSec] Microsoft rushes an out-of-band update for Message Queuing bug - 1 day ago
-- [GrahamCluley] The AI Fix #82: Santa Claus doesn’t exist (according to AI) - 1 day ago
-- [HackerNews] Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites - 1 day ago
-- [SecurityWeek] ServiceNow to Acquire Armis for $7.75 Billion in Cash - 1 day ago
-- [RegisterSoftware] Memory is running out, and so are excuses for software bloat - 1 day ago
-- [BleepingComputer] Microsoft Teams strengthens messaging security by default in January - 2 days ago
-- [BleepingComputer] Malicious extensions in Chrome Web store steal user credentials - 2 days ago
-- [RegisterSoftware] Like a Virgin Airways bot, planning for the very first time - 2 days ago
-- [IT Governance] GRC International announces rebranding of IT Governance Ltd to GRC Solutions - 2 days ago
-- [IT Governance] GRC International partners with Bloom Equity for next phase of growth - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
