@@ -9,27 +9,31 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 1 hour ago
-- [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 4 hours ago
-- [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 4 hours ago
-- [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 5 hours ago
-- [BleepingComputer] Fake GrubHub emails promise tenfold return on sent cryptocurrency - 17 hours ago
-- [RegisterSoftware] Stop the slop by disabling AI features in Chrome - 18 hours ago
-- [RegisterSoftware] From AI to analog, cybersecurity tabletop exercises look a little different this year - 20 hours ago
-- [RegisterSec] From AI to analog, cybersecurity tabletop exercises look a little different this year - 20 hours ago
-- [HackerNews] Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code - 21 hours ago
-- [HackerNews] China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware - 22 hours ago
-- [RegisterSec] From video games to cyber defense: If you don't think like a hacker, you won't win - 22 hours ago
-- [BleepingComputer] Trust Wallet confirms extension hack led to $7 million crypto theft - 23 hours ago
+- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 45 minutes ago
+- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 1 hour ago
+- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 1 hour ago
+- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 1 hour ago
+- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 1 hour ago
+- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 1 hour ago
+- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 1 hour ago
+- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 1 hour ago
+- [HIBP] WIRED - 2,364,431 breached accounts - 3 hours ago
+- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 5 hours ago
+- [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 18 hours ago
+- [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 21 hours ago
+- [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 21 hours ago
+- [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 22 hours ago
+- [BleepingComputer] Fake GrubHub emails promise tenfold return on sent cryptocurrency - 1 day ago
+- [RegisterSoftware] Stop the slop by disabling AI features in Chrome - 1 day ago
+- [RegisterSoftware] From AI to analog, cybersecurity tabletop exercises look a little different this year - 1 day ago
+- [RegisterSec] From AI to analog, cybersecurity tabletop exercises look a little different this year - 1 day ago
+- [HackerNews] Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code - 1 day ago
+- [HackerNews] China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware - 1 day ago
+- [RegisterSec] From video games to cyber defense: If you don't think like a hacker, you won't win - 1 day ago
+- [BleepingComputer] Trust Wallet confirms extension hack led to $7 million crypto theft - 1 day ago
 - [RegisterSoftware] 'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work - 1 day ago
 - [HackerNews] Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection - 1 day ago
 - [BleepingComputer] Trust Wallet Chrome extension hack tied to millions in losses - 1 day ago
-- [HIBP] Utair - 401,400 breached accounts - 1 day ago
-- [BleepingComputer] ChatGPT’s new formatting blocks make its UI look more like a task tool - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories - 1 day ago
-- [BleepingComputer] Google will finally allow you to change your @gmail.com address - 1 day ago
-- [RegisterSoftware] Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow - 2 days ago
-- [HackerNews] LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
