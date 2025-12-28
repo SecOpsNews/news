@@ -9,20 +9,23 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 45 minutes ago
-- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 1 hour ago
-- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 1 hour ago
-- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 1 hour ago
-- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 1 hour ago
-- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 1 hour ago
-- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 1 hour ago
-- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 1 hour ago
-- [HIBP] WIRED - 2,364,431 breached accounts - 3 hours ago
-- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 5 hours ago
-- [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 18 hours ago
-- [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 21 hours ago
-- [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 21 hours ago
-- [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 22 hours ago
+- [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 54 minutes ago
+- [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 54 minutes ago
+- [TroyHunt] Weekly Update 484 - 3 hours ago
+- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 7 hours ago
+- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 8 hours ago
+- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 8 hours ago
+- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 8 hours ago
+- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 8 hours ago
+- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 8 hours ago
+- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 8 hours ago
+- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 8 hours ago
+- [HIBP] WIRED - 2,364,431 breached accounts - 10 hours ago
+- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 12 hours ago
+- [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 1 day ago
+- [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 1 day ago
+- [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 1 day ago
+- [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 1 day ago
 - [BleepingComputer] Fake GrubHub emails promise tenfold return on sent cryptocurrency - 1 day ago
 - [RegisterSoftware] Stop the slop by disabling AI features in Chrome - 1 day ago
 - [RegisterSoftware] From AI to analog, cybersecurity tabletop exercises look a little different this year - 1 day ago
@@ -31,9 +34,6 @@ description: Latest Updates
 - [HackerNews] China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware - 1 day ago
 - [RegisterSec] From video games to cyber defense: If you don't think like a hacker, you won't win - 1 day ago
 - [BleepingComputer] Trust Wallet confirms extension hack led to $7 million crypto theft - 1 day ago
-- [RegisterSoftware] 'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work - 1 day ago
-- [HackerNews] Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection - 1 day ago
-- [BleepingComputer] Trust Wallet Chrome extension hack tied to millions in losses - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
