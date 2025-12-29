@@ -9,31 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 54 minutes ago
-- [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 54 minutes ago
-- [TroyHunt] Weekly Update 484 - 3 hours ago
-- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 7 hours ago
-- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 8 hours ago
-- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 8 hours ago
-- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 8 hours ago
-- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 8 hours ago
-- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 8 hours ago
-- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 8 hours ago
-- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 8 hours ago
-- [HIBP] WIRED - 2,364,431 breached accounts - 10 hours ago
-- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 12 hours ago
+- [RegisterSec] Accused data thief threw MacBook into a river to destroy evidence - 2 hours ago
+- [RegisterSoftware] China wants to ban making yourself into an AI to keep aged relatives company - 3 hours ago
+- [BleepingComputer] Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed - 10 hours ago
+- [DataBreaches] Hacker Who Stole Millions in Seconds Finally Caught - 10 hours ago
+- [BleepingComputer] Hacker claims to leak WIRED database with 2.3 million records - 12 hours ago
+- [RegisterSec] Death, torture, and amputation: How cybercrime shook the world in 2025 - 16 hours ago
+- [DataBreaches] Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report - 16 hours ago
+- [DataBreaches] Thousands of medical records found in auctioned storage unit - 16 hours ago
+- [DataBreaches] Steward Health Care insurance mess leaves doctors liable for settlements - 16 hours ago
+- [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 18 hours ago
+- [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 18 hours ago
+- [TroyHunt] Weekly Update 484 - 21 hours ago
+- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 1 day ago
+- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 1 day ago
+- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 1 day ago
+- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 1 day ago
+- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 1 day ago
+- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 1 day ago
+- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 1 day ago
+- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 1 day ago
+- [HIBP] WIRED - 2,364,431 breached accounts - 1 day ago
+- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 1 day ago
 - [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 1 day ago
 - [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 1 day ago
 - [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 1 day ago
 - [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 1 day ago
-- [BleepingComputer] Fake GrubHub emails promise tenfold return on sent cryptocurrency - 1 day ago
-- [RegisterSoftware] Stop the slop by disabling AI features in Chrome - 1 day ago
-- [RegisterSoftware] From AI to analog, cybersecurity tabletop exercises look a little different this year - 1 day ago
-- [RegisterSec] From AI to analog, cybersecurity tabletop exercises look a little different this year - 1 day ago
-- [HackerNews] Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code - 1 day ago
-- [HackerNews] China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware - 1 day ago
-- [RegisterSec] From video games to cyber defense: If you don't think like a hacker, you won't win - 1 day ago
-- [BleepingComputer] Trust Wallet confirms extension hack led to $7 million crypto theft - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
@@ -172,10 +173,10 @@ description: Latest Updates
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 10 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 10 months ago
 - [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 10 months ago
-- [TroyHunt] Weekly Update 437 - 10 months ago
-- [HIBP] 9Lives - 109,515 breached accounts - 10 months ago
-- [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 10 months ago
-- [RegisterSoftware] Intel has officially missed the boat for AI in the datacenter - 10 months ago
+- [TroyHunt] Weekly Update 437 - 11 months ago
+- [HIBP] 9Lives - 109,515 breached accounts - 11 months ago
+- [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 11 months ago
+- [RegisterSoftware] Intel has officially missed the boat for AI in the datacenter - 11 months ago
 
 
 <!-- SecOps end -->
