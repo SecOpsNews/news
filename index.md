@@ -9,18 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] Accused data thief threw MacBook into a river to destroy evidence - 2 hours ago
-- [RegisterSoftware] China wants to ban making yourself into an AI to keep aged relatives company - 3 hours ago
-- [BleepingComputer] Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed - 10 hours ago
-- [DataBreaches] Hacker Who Stole Millions in Seconds Finally Caught - 10 hours ago
-- [BleepingComputer] Hacker claims to leak WIRED database with 2.3 million records - 12 hours ago
-- [RegisterSec] Death, torture, and amputation: How cybercrime shook the world in 2025 - 16 hours ago
-- [DataBreaches] Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report - 16 hours ago
-- [DataBreaches] Thousands of medical records found in auctioned storage unit - 16 hours ago
-- [DataBreaches] Steward Health Care insurance mess leaves doctors liable for settlements - 16 hours ago
-- [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 18 hours ago
-- [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 18 hours ago
-- [TroyHunt] Weekly Update 484 - 21 hours ago
+- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 48 minutes ago
+- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 48 minutes ago
+- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 48 minutes ago
+- [SecurityWeek] 22 Million Affected by Aflac Data Breach - 1 hour ago
+- [SecurityWeek] Coupang to Issue $1.17 Billion in Vouchers Over Data Breach - 1 hour ago
+- [BleepingComputer] Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode - 1 hour ago
+- [SecurityWeek] Infostealer Malware Delivered in EmEditor Supply Chain Attack - 2 hours ago
+- [BleepingComputer] Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks - 2 hours ago
+- [HackerNews] 27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials - 4 hours ago
+- [SecurityWeek] Fresh MongoDB Vulnerability Exploited in Attacks - 4 hours ago
+- [SecurityWeek] Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak - 4 hours ago
+- [RegisterSec] Europe's cloud challenge: Building an Airbus for the digital age - 4 hours ago
+- [HackerNews] Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors - 5 hours ago
+- [HackerNews] MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide - 5 hours ago
+- [RegisterSec] Accused data thief threw MacBook into a river to destroy evidence - 9 hours ago
+- [RegisterSoftware] China wants to ban making yourself into an AI to keep aged relatives company - 10 hours ago
+- [BleepingComputer] Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed - 17 hours ago
+- [DataBreaches] Hacker Who Stole Millions in Seconds Finally Caught - 17 hours ago
+- [BleepingComputer] Hacker claims to leak WIRED database with 2.3 million records - 19 hours ago
+- [RegisterSec] Death, torture, and amputation: How cybercrime shook the world in 2025 - 23 hours ago
+- [DataBreaches] Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report - 23 hours ago
+- [DataBreaches] Thousands of medical records found in auctioned storage unit - 23 hours ago
+- [DataBreaches] Steward Health Care insurance mess leaves doctors liable for settlements - 23 hours ago
+- [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 1 day ago
+- [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 1 day ago
+- [TroyHunt] Weekly Update 484 - 1 day ago
 - [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 1 day ago
 - [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 1 day ago
 - [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 1 day ago
@@ -31,10 +45,6 @@ description: Latest Updates
 - [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 1 day ago
 - [HIBP] WIRED - 2,364,431 breached accounts - 1 day ago
 - [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 1 day ago
-- [RegisterSoftware] SSL Santa greets London Victoria visitors with a borked update - 1 day ago
-- [BleepingComputer] OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - 1 day ago
-- [BleepingComputer] Fake Grubhub emails promise tenfold return on sent cryptocurrency - 1 day ago
-- [HackerNews] New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
@@ -172,7 +182,7 @@ description: Latest Updates
 - [BrianKrebs] Nearly a Year Later, Mozilla is Still Promoting OneRep - 10 months ago
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 10 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 10 months ago
-- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 10 months ago
+- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 11 months ago
 - [TroyHunt] Weekly Update 437 - 11 months ago
 - [HIBP] 9Lives - 109,515 breached accounts - 11 months ago
 - [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 11 months ago
