@@ -9,42 +9,53 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 48 minutes ago
-- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 48 minutes ago
-- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 48 minutes ago
-- [SecurityWeek] 22 Million Affected by Aflac Data Breach - 1 hour ago
-- [SecurityWeek] Coupang to Issue $1.17 Billion in Vouchers Over Data Breach - 1 hour ago
-- [BleepingComputer] Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode - 1 hour ago
-- [SecurityWeek] Infostealer Malware Delivered in EmEditor Supply Chain Attack - 2 hours ago
-- [BleepingComputer] Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks - 2 hours ago
-- [HackerNews] 27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials - 4 hours ago
-- [SecurityWeek] Fresh MongoDB Vulnerability Exploited in Attacks - 4 hours ago
-- [SecurityWeek] Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak - 4 hours ago
-- [RegisterSec] Europe's cloud challenge: Building an Airbus for the digital age - 4 hours ago
-- [HackerNews] Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors - 5 hours ago
-- [HackerNews] MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide - 5 hours ago
-- [RegisterSec] Accused data thief threw MacBook into a river to destroy evidence - 9 hours ago
-- [RegisterSoftware] China wants to ban making yourself into an AI to keep aged relatives company - 10 hours ago
-- [BleepingComputer] Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed - 17 hours ago
-- [DataBreaches] Hacker Who Stole Millions in Seconds Finally Caught - 17 hours ago
-- [BleepingComputer] Hacker claims to leak WIRED database with 2.3 million records - 19 hours ago
-- [RegisterSec] Death, torture, and amputation: How cybercrime shook the world in 2025 - 23 hours ago
-- [DataBreaches] Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report - 23 hours ago
-- [DataBreaches] Thousands of medical records found in auctioned storage unit - 23 hours ago
-- [DataBreaches] Steward Health Care insurance mess leaves doctors liable for settlements - 23 hours ago
+- [RegisterSec] Korean telco failed at femtocell security, exposed customers to snooping and fraud - 3 hours ago
+- [RegisterSoftware] Zuck buys Chinese AI company Manus that claims it deals in actions, not words - 5 hours ago
+- [BleepingComputer] Chinese state hackers use rootkit to hide ToneShell malware activity - 5 hours ago
+- [BleepingComputer] Coupang to split $1.17 billion among 33.7 million data breach victims - 8 hours ago
+- [RegisterSec] Indian cops cuff ex-Coinbase rep over selling customer info to crims - 9 hours ago
+- [BrianKrebs] Happy 16th Birthday, KrebsOnSecurity.com! - 10 hours ago
+- [RegisterSec] Crims disconnect Wired subscribers from their privacy, publish deets online - 11 hours ago
+- [BleepingComputer] Hacker arrested for KMSAuto malware campaign with 2.8 million downloads - 11 hours ago
+- [RegisterSoftware] Sam Altman is willing to pay somebody $555,000 a year to keep ChatGPT in line - 12 hours ago
+- [BleepingComputer] Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack - 14 hours ago
+- [SecurityWeek] Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000 - 15 hours ago
+- [BleepingComputer] Romanian energy provider hit by Gentlemen ransomware attack - 15 hours ago
+- [BleepingComputer] ChatGPT finally rolls out Thinking time toggle on mobile - 15 hours ago
+- [BleepingComputer] The Real-World Attacks Behind OWASP Agentic AI Top 10 - 15 hours ago
+- [DataBreaches] South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - 16 hours ago
+- [HackerNews] ⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More - 16 hours ago
+- [BleepingComputer] Former Coinbase support agent arrested for helping hackers - 16 hours ago
+- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 17 hours ago
+- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 17 hours ago
+- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 17 hours ago
+- [SecurityWeek] 22 Million Affected by Aflac Data Breach - 18 hours ago
+- [SecurityWeek] Coupang to Issue $1.17 Billion in Vouchers Over Data Breach - 18 hours ago
+- [BleepingComputer] Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode - 18 hours ago
+- [SecurityWeek] Infostealer Malware Delivered in EmEditor Supply Chain Attack - 19 hours ago
+- [BleepingComputer] Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks - 19 hours ago
+- [HackerNews] 27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials - 21 hours ago
+- [SecurityWeek] Fresh MongoDB Vulnerability Exploited in Attacks - 21 hours ago
+- [SecurityWeek] Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak - 21 hours ago
+- [RegisterSec] Europe's cloud challenge: Building an Airbus for the digital age - 21 hours ago
+- [HackerNews] Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors - 22 hours ago
+- [HackerNews] MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide - 22 hours ago
+- [RegisterSec] Accused data thief threw MacBook into a river to destroy evidence - 1 day ago
+- [RegisterSoftware] China wants to ban making yourself into an AI to keep aged relatives company - 1 day ago
+- [BleepingComputer] Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed - 1 day ago
+- [DataBreaches] Hacker Who Stole Millions in Seconds Finally Caught - 1 day ago
+- [BleepingComputer] Hacker claims to leak WIRED database with 2.3 million records - 1 day ago
+- [RegisterSec] Death, torture, and amputation: How cybercrime shook the world in 2025 - 1 day ago
+- [DataBreaches] Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report - 1 day ago
+- [DataBreaches] Thousands of medical records found in auctioned storage unit - 1 day ago
+- [DataBreaches] Steward Health Care insurance mess leaves doctors liable for settlements - 1 day ago
 - [DataBreaches] Health Share of Oregon and CareOregon notify members of data breach - 1 day ago
 - [DataBreaches] Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy - 1 day ago
 - [TroyHunt] Weekly Update 484 - 1 day ago
-- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 1 day ago
-- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 1 day ago
-- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 1 day ago
-- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 1 day ago
-- [FullDisclosure] Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 - 1 day ago
-- [FullDisclosure] Backdoor.Win32.Poison.jh / Insecure Permissions - 1 day ago
-- [FullDisclosure] [KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability - 1 day ago
-- [FullDisclosure] [KIS-2025-11] Open Journal Systems <= 3.5.0-1 (NativeXmlIssueGalleyFilter.php) Path Traversal Vulnerability - 1 day ago
-- [HIBP] WIRED - 2,364,431 breached accounts - 1 day ago
-- [DataBreaches] OrthopedicsNY fined $500K by NYS for patient data breach - 1 day ago
+- [FullDisclosure] [KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability - 2 days ago
+- [FullDisclosure] [KIS-2025-12] PKP-WAL <= 3.5.0-1 (baseColour) LESS Code	Injection Vulnerability - 2 days ago
+- [FullDisclosure] [KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability - 2 days ago
+- [BleepingComputer] Massive Rainbow Six Siege breach gives players billions of credits - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
