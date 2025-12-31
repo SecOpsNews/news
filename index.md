@@ -9,30 +9,69 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 17 minutes ago
-- [RegisterSec] Hong Kong’s newest anti-scam technology is over-the-counter banking - 1 hour ago
-- [RegisterSec] Cybersecurity pros admit to moonlighting as ransomware scum - 4 hours ago
-- [RegisterSec] New York’s incoming mayor bans Raspberry Pi at his inauguration party - 5 hours ago
-- [BleepingComputer] New ErrTraffic service enables ClickFix attacks via fake browser glitches - 9 hours ago
-- [RegisterSec] An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit - 11 hours ago
-- [HackerNews] CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution - 13 hours ago
-- [BleepingComputer] Zoom Stealer browser extensions harvest corporate meeting intelligence - 14 hours ago
-- [BleepingComputer] European Space Agency confirms breach of "external servers" - 14 hours ago
-- [BleepingComputer] US cybersecurity experts plead guilty to BlackCat ransomware attacks - 15 hours ago
-- [BleepingComputer] CISA orders feds to patch MongoBleed flaw exploited in attacks - 16 hours ago
-- [RegisterSoftware] Banksy's Limitless limited by Windows Activation - 17 hours ago
-- [DataBreaches] ‘Why should we pay these criminals?’: the hidden world of ransomware negotiations - 18 hours ago
-- [DataBreaches] French software company fined $2 million for cyber failings leading to data breach - 18 hours ago
-- [DataBreaches] US, Australia say ‘MongoBleed’ bug being exploited - 18 hours ago
-- [SecurityWeek] 8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025 - 18 hours ago
-- [DataBreaches] Software company lacked ‘downstream’ liability for data breach - 18 hours ago
-- [HackerNews] Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware - 20 hours ago
-- [RegisterSoftware] When the AI bubble pops, Nvidia becomes the most important software company overnight - 20 hours ago
-- [HackerNews] How to Integrate AI into Modern SOC Workflows - 20 hours ago
-- [RegisterSoftware] Tis the season when tech leaders rub their crystal balls - 20 hours ago
-- [SecurityWeek] Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit - 20 hours ago
-- [HackerNews] Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor - 21 hours ago
-- [SecurityWeek] Korean Air Data Compromised in Oracle EBS Hack - 22 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-12 - 24 minutes ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 52 minutes ago
+- [SecurityWeek] Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist - 1 hour ago
+- [CloudFlare] VCP (Campinas) on 2026-01-15 - 1 hour ago
+- [CloudFlare] TLH (Tallahassee) on 2026-01-12 - 2 hours ago
+- [CloudFlare] QRO (Queretaro) on 2026-01-12 - 2 hours ago
+- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 2 hours ago
+- [CloudFlare] SSA (Salvador) on 2026-01-14 - 2 hours ago
+- [CloudFlare] PIT (Pittsburgh) on 2026-01-09 - 2 hours ago
+- [CloudFlare] MSP (Minneapolis) on 2026-01-09 - 2 hours ago
+- [CloudFlare] STL (St. Louis) on 2026-01-09 - 2 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 2 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 2 hours ago
+- [RegisterSoftware] Everybody has a theory about why Nvidia dropped $20B on Groq - they're mostly wrong - 2 hours ago
+- [CloudFlare] DTW (Detroit) on 2026-01-09 - 2 hours ago
+- [CloudFlare] JAX (Jacksonville) on 2026-01-09 - 2 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2026-01-14 - 2 hours ago
+- [CloudFlare] SJU (San Juan) on 2026-01-14 - 2 hours ago
+- [CloudFlare] BOG (Bogota) on 2026-01-14 - 2 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-09 - 3 hours ago
+- [CloudFlare] MEM (Memphis) on 2026-01-09 - 3 hours ago
+- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 3 hours ago
+- [CloudFlare] CMH (Columbus) on 2026-01-13 - 3 hours ago
+- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 3 hours ago
+- [BleepingComputer] IBM warns of critical API Connect auth bypass vulnerability - 3 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 3 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 3 hours ago
+- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 3 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 3 hours ago
+- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 3 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 3 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-13 - 3 hours ago
+- [CloudFlare] EWR (Newark) on 2026-01-12 - 3 hours ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 3 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-12 - 3 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 3 hours ago
+- [SecurityWeek] European Space Agency Confirms Breach After Hacker Offers to Sell Data - 4 hours ago
+- [BleepingComputer] Disney will pay $10 million to settle children's data privacy lawsuit - 4 hours ago
+- [RegisterSoftware] The most durable tech is boring, old, and everywhere - 4 hours ago
+- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 7 hours ago
+- [RegisterSec] Hong Kong’s newest anti-scam technology is over-the-counter banking - 8 hours ago
+- [RegisterSec] Cybersecurity pros admit to moonlighting as ransomware scum - 10 hours ago
+- [RegisterSec] New York’s incoming mayor bans Raspberry Pi at his inauguration party - 12 hours ago
+- [BleepingComputer] New ErrTraffic service enables ClickFix attacks via fake browser glitches - 16 hours ago
+- [RegisterSec] An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit - 18 hours ago
+- [HackerNews] CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution - 20 hours ago
+- [BleepingComputer] Zoom Stealer browser extensions harvest corporate meeting intelligence - 21 hours ago
+- [BleepingComputer] European Space Agency confirms breach of "external servers" - 21 hours ago
+- [BleepingComputer] US cybersecurity experts plead guilty to BlackCat ransomware attacks - 22 hours ago
+- [BleepingComputer] CISA orders feds to patch MongoBleed flaw exploited in attacks - 23 hours ago
+- [RegisterSoftware] Banksy's Limitless limited by Windows Activation - 1 day ago
+- [DataBreaches] ‘Why should we pay these criminals?’: the hidden world of ransomware negotiations - 1 day ago
+- [DataBreaches] French software company fined $2 million for cyber failings leading to data breach - 1 day ago
+- [DataBreaches] US, Australia say ‘MongoBleed’ bug being exploited - 1 day ago
+- [SecurityWeek] 8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025 - 1 day ago
+- [DataBreaches] Software company lacked ‘downstream’ liability for data breach - 1 day ago
+- [HackerNews] Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware - 1 day ago
+- [RegisterSoftware] When the AI bubble pops, Nvidia becomes the most important software company overnight - 1 day ago
+- [HackerNews] How to Integrate AI into Modern SOC Workflows - 1 day ago
+- [RegisterSoftware] Tis the season when tech leaders rub their crystal balls - 1 day ago
+- [SecurityWeek] Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit - 1 day ago
+- [HackerNews] Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor - 1 day ago
+- [SecurityWeek] Korean Air Data Compromised in Oracle EBS Hack - 1 day ago
 - [RegisterSec] Korean telco failed at femtocell security, exposed customers to snooping and fraud - 1 day ago
 - [RegisterSoftware] Zuck buys Chinese AI company Manus that claims it deals in actions, not words - 1 day ago
 - [BleepingComputer] Chinese state hackers use rootkit to hide ToneShell malware activity - 1 day ago
@@ -50,20 +89,9 @@ description: Latest Updates
 - [DataBreaches] South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - 1 day ago
 - [HackerNews] ⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More - 1 day ago
 - [BleepingComputer] Former Coinbase support agent arrested for helping hackers - 1 day ago
-- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 1 day ago
-- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 1 day ago
-- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 1 day ago
-- [SecurityWeek] 22 Million Affected by Aflac Data Breach - 1 day ago
-- [SecurityWeek] Coupang to Issue $1.17 Billion in Vouchers Over Data Breach - 1 day ago
-- [BleepingComputer] Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode - 1 day ago
-- [SecurityWeek] Infostealer Malware Delivered in EmEditor Supply Chain Attack - 1 day ago
-- [BleepingComputer] Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks - 1 day ago
-- [HackerNews] 27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials - 1 day ago
-- [SecurityWeek] Fresh MongoDB Vulnerability Exploited in Attacks - 1 day ago
-- [SecurityWeek] Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak - 1 day ago
-- [RegisterSec] Europe's cloud challenge: Building an Airbus for the digital age - 1 day ago
-- [HackerNews] Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors - 1 day ago
-- [HackerNews] MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide - 1 day ago
+- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 2 days ago
+- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 2 days ago
+- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
