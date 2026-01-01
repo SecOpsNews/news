@@ -9,56 +9,80 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] ORD (Chicago) on 2026-01-12 - 24 minutes ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 52 minutes ago
-- [SecurityWeek] Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist - 1 hour ago
-- [CloudFlare] VCP (Campinas) on 2026-01-15 - 1 hour ago
-- [CloudFlare] TLH (Tallahassee) on 2026-01-12 - 2 hours ago
-- [CloudFlare] QRO (Queretaro) on 2026-01-12 - 2 hours ago
-- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 2 hours ago
-- [CloudFlare] SSA (Salvador) on 2026-01-14 - 2 hours ago
-- [CloudFlare] PIT (Pittsburgh) on 2026-01-09 - 2 hours ago
-- [CloudFlare] MSP (Minneapolis) on 2026-01-09 - 2 hours ago
-- [CloudFlare] STL (St. Louis) on 2026-01-09 - 2 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 2 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 2 hours ago
-- [RegisterSoftware] Everybody has a theory about why Nvidia dropped $20B on Groq - they're mostly wrong - 2 hours ago
-- [CloudFlare] DTW (Detroit) on 2026-01-09 - 2 hours ago
-- [CloudFlare] JAX (Jacksonville) on 2026-01-09 - 2 hours ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-14 - 2 hours ago
-- [CloudFlare] SJU (San Juan) on 2026-01-14 - 2 hours ago
-- [CloudFlare] BOG (Bogota) on 2026-01-14 - 2 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-09 - 3 hours ago
-- [CloudFlare] MEM (Memphis) on 2026-01-09 - 3 hours ago
-- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 3 hours ago
-- [CloudFlare] CMH (Columbus) on 2026-01-13 - 3 hours ago
-- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 3 hours ago
-- [BleepingComputer] IBM warns of critical API Connect auth bypass vulnerability - 3 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 3 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 3 hours ago
-- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 3 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 3 hours ago
-- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 3 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 3 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-01-13 - 3 hours ago
-- [CloudFlare] EWR (Newark) on 2026-01-12 - 3 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 3 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-01-12 - 3 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 3 hours ago
-- [SecurityWeek] European Space Agency Confirms Breach After Hacker Offers to Sell Data - 4 hours ago
-- [BleepingComputer] Disney will pay $10 million to settle children's data privacy lawsuit - 4 hours ago
-- [RegisterSoftware] The most durable tech is boring, old, and everywhere - 4 hours ago
-- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 7 hours ago
-- [RegisterSec] Hong Kong’s newest anti-scam technology is over-the-counter banking - 8 hours ago
-- [RegisterSec] Cybersecurity pros admit to moonlighting as ransomware scum - 10 hours ago
-- [RegisterSec] New York’s incoming mayor bans Raspberry Pi at his inauguration party - 12 hours ago
-- [BleepingComputer] New ErrTraffic service enables ClickFix attacks via fake browser glitches - 16 hours ago
-- [RegisterSec] An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit - 18 hours ago
-- [HackerNews] CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution - 20 hours ago
-- [BleepingComputer] Zoom Stealer browser extensions harvest corporate meeting intelligence - 21 hours ago
-- [BleepingComputer] European Space Agency confirms breach of "external servers" - 21 hours ago
-- [BleepingComputer] US cybersecurity experts plead guilty to BlackCat ransomware attacks - 22 hours ago
-- [BleepingComputer] CISA orders feds to patch MongoBleed flaw exploited in attacks - 23 hours ago
+- [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 1 hour ago
+- [BleepingComputer] NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - 8 hours ago
+- [RegisterSoftware] US Army seeks human AI officers to manage its battle bots - 11 hours ago
+- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 12 hours ago
+- [CloudFlare] CMH (Columbus) on 2026-01-13 - 13 hours ago
+- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 13 hours ago
+- [DataBreaches] Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information - 14 hours ago
+- [HackerNews] Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack - 14 hours ago
+- [RegisterSec] European Space Agency hit again as cybercrims claim 200 GB data up for sale - 14 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 14 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 14 hours ago
+- [HackerNews] DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide - 14 hours ago
+- [BleepingComputer] Hackers drain $3.9M from Unleash Protocol after multisig hijack - 14 hours ago
+- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 14 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 15 hours ago
+- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 15 hours ago
+- [BleepingComputer] RondoDox botnet exploits React2Shell flaw to breach Next.js servers - 15 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 15 hours ago
+- [DataBreaches] Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware - 16 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-13 - 16 hours ago
+- [CloudFlare] EWR (Newark) on 2026-01-12 - 16 hours ago
+- [HackerNews] Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry - 16 hours ago
+- [HackerNews] IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass - 16 hours ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 16 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-12 - 17 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 17 hours ago
+- [SecurityWeek] Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist - 18 hours ago
+- [CloudFlare] VCP (Campinas) on 2026-01-15 - 18 hours ago
+- [CloudFlare] TLH (Tallahassee) on 2026-01-12 - 19 hours ago
+- [CloudFlare] QRO (Queretaro) on 2026-01-12 - 19 hours ago
+- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 19 hours ago
+- [CloudFlare] SSA (Salvador) on 2026-01-14 - 19 hours ago
+- [CloudFlare] PIT (Pittsburgh) on 2026-01-09 - 19 hours ago
+- [CloudFlare] MSP (Minneapolis) on 2026-01-09 - 19 hours ago
+- [CloudFlare] STL (St. Louis) on 2026-01-09 - 19 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 19 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 19 hours ago
+- [RegisterSoftware] Everybody has a theory about why Nvidia dropped $20B on Groq - they're mostly wrong - 19 hours ago
+- [CloudFlare] DTW (Detroit) on 2026-01-09 - 20 hours ago
+- [CloudFlare] JAX (Jacksonville) on 2026-01-09 - 20 hours ago
+- [CloudFlare] EZE (Buenos Aires) on 2026-01-14 - 20 hours ago
+- [CloudFlare] SJU (San Juan) on 2026-01-14 - 20 hours ago
+- [CloudFlare] BOG (Bogota) on 2026-01-14 - 20 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-09 - 20 hours ago
+- [CloudFlare] MEM (Memphis) on 2026-01-09 - 20 hours ago
+- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 20 hours ago
+- [CloudFlare] CMH (Columbus) on 2026-01-13 - 20 hours ago
+- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 20 hours ago
+- [BleepingComputer] IBM warns of critical API Connect auth bypass vulnerability - 20 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 20 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 20 hours ago
+- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 20 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 20 hours ago
+- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 20 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 20 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-13 - 20 hours ago
+- [CloudFlare] EWR (Newark) on 2026-01-12 - 20 hours ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 20 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-01-12 - 20 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 20 hours ago
+- [SecurityWeek] European Space Agency Confirms Breach After Hacker Offers to Sell Data - 21 hours ago
+- [BleepingComputer] Disney will pay $10 million to settle children's data privacy lawsuit - 21 hours ago
+- [RegisterSoftware] The most durable tech is boring, old, and everywhere - 21 hours ago
+- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 1 day ago
+- [RegisterSec] Hong Kong’s newest anti-scam technology is over-the-counter banking - 1 day ago
+- [RegisterSec] Cybersecurity pros admit to moonlighting as ransomware scum - 1 day ago
+- [RegisterSec] New York’s incoming mayor bans Raspberry Pi at his inauguration party - 1 day ago
+- [BleepingComputer] New ErrTraffic service enables ClickFix attacks via fake browser glitches - 1 day ago
+- [RegisterSec] An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit - 1 day ago
+- [HackerNews] CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution - 1 day ago
+- [BleepingComputer] Zoom Stealer browser extensions harvest corporate meeting intelligence - 1 day ago
+- [BleepingComputer] European Space Agency confirms breach of "external servers" - 1 day ago
+- [BleepingComputer] US cybersecurity experts plead guilty to BlackCat ransomware attacks - 1 day ago
+- [BleepingComputer] CISA orders feds to patch MongoBleed flaw exploited in attacks - 1 day ago
 - [RegisterSoftware] Banksy's Limitless limited by Windows Activation - 1 day ago
 - [DataBreaches] ‘Why should we pay these criminals?’: the hidden world of ransomware negotiations - 1 day ago
 - [DataBreaches] French software company fined $2 million for cyber failings leading to data breach - 1 day ago
@@ -72,26 +96,6 @@ description: Latest Updates
 - [SecurityWeek] Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit - 1 day ago
 - [HackerNews] Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor - 1 day ago
 - [SecurityWeek] Korean Air Data Compromised in Oracle EBS Hack - 1 day ago
-- [RegisterSec] Korean telco failed at femtocell security, exposed customers to snooping and fraud - 1 day ago
-- [RegisterSoftware] Zuck buys Chinese AI company Manus that claims it deals in actions, not words - 1 day ago
-- [BleepingComputer] Chinese state hackers use rootkit to hide ToneShell malware activity - 1 day ago
-- [BleepingComputer] Coupang to split $1.17 billion among 33.7 million data breach victims - 1 day ago
-- [RegisterSec] Indian cops cuff ex-Coinbase rep over selling customer info to crims - 1 day ago
-- [BrianKrebs] Happy 16th Birthday, KrebsOnSecurity.com! - 1 day ago
-- [RegisterSec] Crims disconnect Wired subscribers from their privacy, publish deets online - 1 day ago
-- [BleepingComputer] Hacker arrested for KMSAuto malware campaign with 2.8 million downloads - 1 day ago
-- [RegisterSoftware] Sam Altman is willing to pay somebody $555,000 a year to keep ChatGPT in line - 1 day ago
-- [BleepingComputer] Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack - 1 day ago
-- [SecurityWeek] Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000 - 1 day ago
-- [BleepingComputer] Romanian energy provider hit by Gentlemen ransomware attack - 1 day ago
-- [BleepingComputer] ChatGPT finally rolls out Thinking time toggle on mobile - 1 day ago
-- [BleepingComputer] The Real-World Attacks Behind OWASP Agentic AI Top 10 - 1 day ago
-- [DataBreaches] South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - 1 day ago
-- [HackerNews] ⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More - 1 day ago
-- [BleepingComputer] Former Coinbase support agent arrested for helping hackers - 1 day ago
-- [SecurityWeek] Fortinet Warns of New Attacks Exploiting Old Vulnerability - 2 days ago
-- [BleepingComputer] Korean Air data breach exposes data of thousands of employees - 2 days ago
-- [DataBreaches] Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
