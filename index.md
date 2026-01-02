@@ -9,14 +9,23 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 11 hours ago
-- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 11 hours ago
-- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 11 hours ago
-- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 14 hours ago
-- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 15 hours ago
-- [RegisterSoftware] Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk - 20 hours ago
-- [HackerNews] RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - 20 hours ago
-- [RegisterSoftware] How Microsoft gave customers what they wanted: An audience with Bill Gates - 21 hours ago
+- [HackerNews] The ROI Problem in Attack Surface Management - 1 hour ago
+- [SecurityWeek] Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks - 1 hour ago
+- [RegisterSec] LockBit takedown architect gets New Year award from King Charles - 1 hour ago
+- [SecurityWeek] RondoDox Botnet Exploiting React2Shell Vulnerability - 2 hours ago
+- [SecurityWeek] Covenant Health Data Breach Impacts 478,000 Individuals - 3 hours ago
+- [SecurityWeek] Adobe ColdFusion Servers Targeted in Coordinated Campaign - 3 hours ago
+- [HackerNews] Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign - 3 hours ago
+- [RegisterSoftware] Safe CEO: AI is an assistant, not a replacement - 4 hours ago
+- [RegisterSec] Cisco XDR in 30: Turning Security Signals Into Confident Action - 5 hours ago
+- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 18 hours ago
+- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 18 hours ago
+- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 18 hours ago
+- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 21 hours ago
+- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 22 hours ago
+- [RegisterSoftware] Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk - 1 day ago
+- [HackerNews] RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - 1 day ago
+- [RegisterSoftware] How Microsoft gave customers what they wanted: An audience with Bill Gates - 1 day ago
 - [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 1 day ago
 - [BleepingComputer] NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - 1 day ago
 - [RegisterSoftware] US Army seeks human AI officers to manage its battle bots - 1 day ago
@@ -41,46 +50,8 @@ description: Latest Updates
 - [HackerNews] Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry - 1 day ago
 - [HackerNews] IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass - 1 day ago
 - [CloudFlare] YYZ (Toronto) on 2026-01-12 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-01-12 - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 1 day ago
-- [SecurityWeek] Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist - 1 day ago
-- [CloudFlare] VCP (Campinas) on 2026-01-15 - 1 day ago
-- [CloudFlare] TLH (Tallahassee) on 2026-01-12 - 1 day ago
-- [CloudFlare] QRO (Queretaro) on 2026-01-12 - 1 day ago
-- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 1 day ago
-- [CloudFlare] SSA (Salvador) on 2026-01-14 - 1 day ago
-- [CloudFlare] PIT (Pittsburgh) on 2026-01-09 - 1 day ago
-- [CloudFlare] MSP (Minneapolis) on 2026-01-09 - 1 day ago
-- [CloudFlare] STL (St. Louis) on 2026-01-09 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 1 day ago
-- [RegisterSoftware] Everybody has a theory about why Nvidia dropped $20B on Groq - they're mostly wrong - 1 day ago
-- [CloudFlare] DTW (Detroit) on 2026-01-09 - 1 day ago
-- [CloudFlare] JAX (Jacksonville) on 2026-01-09 - 1 day ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-14 - 1 day ago
-- [CloudFlare] SJU (San Juan) on 2026-01-14 - 1 day ago
-- [CloudFlare] BOG (Bogota) on 2026-01-14 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-09 - 1 day ago
-- [CloudFlare] MEM (Memphis) on 2026-01-09 - 1 day ago
-- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-01-13 - 1 day ago
-- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 1 day ago
-- [BleepingComputer] IBM warns of critical API Connect auth bypass vulnerability - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 1 day ago
-- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 1 day ago
-- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-01-13 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-01-12 - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-01-12 - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 1 day ago
-- [SecurityWeek] European Space Agency Confirms Breach After Hacker Offers to Sell Data - 1 day ago
-- [BleepingComputer] Disney will pay $10 million to settle children's data privacy lawsuit - 1 day ago
-- [RegisterSoftware] The most durable tech is boring, old, and everywhere - 1 day ago
-- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 2 days ago
+- [CloudFlare] ORD (Chicago) on 2026-01-12 - 2 days ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
