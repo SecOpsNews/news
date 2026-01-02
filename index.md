@@ -9,33 +9,38 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk - 2 hours ago
-- [HackerNews] RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - 3 hours ago
-- [RegisterSoftware] How Microsoft gave customers what they wanted: An audience with Bill Gates - 4 hours ago
-- [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 8 hours ago
-- [BleepingComputer] NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - 15 hours ago
-- [RegisterSoftware] US Army seeks human AI officers to manage its battle bots - 18 hours ago
-- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 19 hours ago
-- [CloudFlare] CMH (Columbus) on 2026-01-13 - 20 hours ago
-- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 20 hours ago
-- [DataBreaches] Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information - 20 hours ago
-- [HackerNews] Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack - 20 hours ago
-- [RegisterSec] European Space Agency hit again as cybercrims claim 200 GB data up for sale - 20 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 20 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 21 hours ago
-- [HackerNews] DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide - 21 hours ago
-- [BleepingComputer] Hackers drain $3.9M from Unleash Protocol after multisig hijack - 21 hours ago
-- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 21 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 22 hours ago
-- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 22 hours ago
-- [BleepingComputer] RondoDox botnet exploits React2Shell flaw to breach Next.js servers - 22 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 22 hours ago
-- [DataBreaches] Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware - 23 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-01-13 - 23 hours ago
-- [CloudFlare] EWR (Newark) on 2026-01-12 - 23 hours ago
-- [HackerNews] Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry - 23 hours ago
-- [HackerNews] IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass - 23 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 23 hours ago
+- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 11 hours ago
+- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 11 hours ago
+- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 11 hours ago
+- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 14 hours ago
+- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 15 hours ago
+- [RegisterSoftware] Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk - 20 hours ago
+- [HackerNews] RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - 20 hours ago
+- [RegisterSoftware] How Microsoft gave customers what they wanted: An audience with Bill Gates - 21 hours ago
+- [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 1 day ago
+- [BleepingComputer] NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - 1 day ago
+- [RegisterSoftware] US Army seeks human AI officers to manage its battle bots - 1 day ago
+- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 1 day ago
+- [CloudFlare] CMH (Columbus) on 2026-01-13 - 1 day ago
+- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 1 day ago
+- [DataBreaches] Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information - 1 day ago
+- [HackerNews] Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack - 1 day ago
+- [RegisterSec] European Space Agency hit again as cybercrims claim 200 GB data up for sale - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 1 day ago
+- [HackerNews] DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide - 1 day ago
+- [BleepingComputer] Hackers drain $3.9M from Unleash Protocol after multisig hijack - 1 day ago
+- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 1 day ago
+- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 1 day ago
+- [BleepingComputer] RondoDox botnet exploits React2Shell flaw to breach Next.js servers - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 1 day ago
+- [DataBreaches] Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware - 1 day ago
+- [CloudFlare] ORD (Chicago) on 2026-01-13 - 1 day ago
+- [CloudFlare] EWR (Newark) on 2026-01-12 - 1 day ago
+- [HackerNews] Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry - 1 day ago
+- [HackerNews] IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass - 1 day ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 1 day ago
 - [CloudFlare] ORD (Chicago) on 2026-01-12 - 1 day ago
 - [CloudFlare] ATL (Atlanta) on 2026-01-13 - 1 day ago
 - [SecurityWeek] Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist - 1 day ago
@@ -75,18 +80,7 @@ description: Latest Updates
 - [SecurityWeek] European Space Agency Confirms Breach After Hacker Offers to Sell Data - 1 day ago
 - [BleepingComputer] Disney will pay $10 million to settle children's data privacy lawsuit - 1 day ago
 - [RegisterSoftware] The most durable tech is boring, old, and everywhere - 1 day ago
-- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 1 day ago
-- [RegisterSec] Hong Kong’s newest anti-scam technology is over-the-counter banking - 1 day ago
-- [RegisterSec] Cybersecurity pros admit to moonlighting as ransomware scum - 1 day ago
-- [RegisterSec] New York’s incoming mayor bans Raspberry Pi at his inauguration party - 1 day ago
-- [BleepingComputer] New ErrTraffic service enables ClickFix attacks via fake browser glitches - 1 day ago
-- [RegisterSec] An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit - 1 day ago
-- [HackerNews] CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution - 1 day ago
-- [BleepingComputer] Zoom Stealer browser extensions harvest corporate meeting intelligence - 1 day ago
-- [BleepingComputer] European Space Agency confirms breach of "external servers" - 1 day ago
-- [BleepingComputer] US cybersecurity experts plead guilty to BlackCat ransomware attacks - 1 day ago
-- [BleepingComputer] CISA orders feds to patch MongoBleed flaw exploited in attacks - 1 day ago
-- [RegisterSoftware] Banksy's Limitless limited by Windows Activation - 2 days ago
+- [HackerNews] U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
