@@ -9,49 +9,43 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] The ROI Problem in Attack Surface Management - 1 hour ago
-- [SecurityWeek] Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks - 1 hour ago
-- [RegisterSec] LockBit takedown architect gets New Year award from King Charles - 1 hour ago
-- [SecurityWeek] RondoDox Botnet Exploiting React2Shell Vulnerability - 2 hours ago
-- [SecurityWeek] Covenant Health Data Breach Impacts 478,000 Individuals - 3 hours ago
-- [SecurityWeek] Adobe ColdFusion Servers Targeted in Coordinated Campaign - 3 hours ago
-- [HackerNews] Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign - 3 hours ago
-- [RegisterSoftware] Safe CEO: AI is an assistant, not a replacement - 4 hours ago
-- [RegisterSec] Cisco XDR in 30: Turning Security Signals Into Confident Action - 5 hours ago
-- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 18 hours ago
-- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 18 hours ago
-- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 18 hours ago
-- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 21 hours ago
-- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 22 hours ago
+- [RegisterSoftware] Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop - 5 hours ago
+- [RegisterSoftware] Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it - 5 hours ago
+- [RegisterSoftware] Microsoft CEO Satya Nadell becomes AI influencer, asks us all to move beyond slop - 9 hours ago
+- [RegisterSec] Bitfinex crypto thief who was serving five years thanks Trump for early release - 10 hours ago
+- [DataBreaches] European Space Agency confirms breach of “external servers” - 11 hours ago
+- [DataBreaches] NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - 11 hours ago
+- [DataBreaches] Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People - 11 hours ago
+- [DataBreaches] NZ: ManageMyHealth data breach: More than 108k users potentially affected - 11 hours ago
+- [BleepingComputer] Covenant Health says May data breach impacted nearly 478,000 patients - 12 hours ago
+- [RegisterSec] Cybercrook claims to be selling infrastructure info about three major US utilities - 12 hours ago
+- [BleepingComputer] Cryptocurrency theft attacks traced to 2022 LastPass breach - 13 hours ago
+- [RegisterSoftware] Finally - a terminal solution to the browser wars - 13 hours ago
+- [RegisterSoftware] Google snaps up datacenter power biz Intersect while xAI plans more capacity - 14 hours ago
+- [RegisterSec] Brit lands invite-only Aussie visa after uncovering vuln in government systems - 14 hours ago
+- [BleepingComputer] Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass - 14 hours ago
+- [BleepingComputer] Google is testing a new image AI and it's going to be its fastest model - 15 hours ago
+- [BrianKrebs] The Kimwolf Botnet is Stalking Your Local Network - 16 hours ago
+- [BleepingComputer] Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack - 16 hours ago
+- [HackerNews] Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia - 16 hours ago
+- [HackerNews] The ROI Problem in Attack Surface Management - 18 hours ago
+- [SecurityWeek] Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks - 18 hours ago
+- [RegisterSec] LockBit takedown architect gets New Year award from King Charles - 18 hours ago
+- [SecurityWeek] RondoDox Botnet Exploiting React2Shell Vulnerability - 19 hours ago
+- [SecurityWeek] Covenant Health Data Breach Impacts 478,000 Individuals - 20 hours ago
+- [SecurityWeek] Adobe ColdFusion Servers Targeted in Coordinated Campaign - 20 hours ago
+- [HackerNews] Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign - 20 hours ago
+- [RegisterSoftware] Safe CEO: AI is an assistant, not a replacement - 21 hours ago
+- [RegisterSec] Cisco XDR in 30: Turning Security Signals Into Confident Action - 22 hours ago
+- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 1 day ago
+- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 1 day ago
+- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 1 day ago
+- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 1 day ago
+- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 1 day ago
 - [RegisterSoftware] Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk - 1 day ago
 - [HackerNews] RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - 1 day ago
 - [RegisterSoftware] How Microsoft gave customers what they wanted: An audience with Bill Gates - 1 day ago
-- [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 1 day ago
-- [BleepingComputer] NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - 1 day ago
-- [RegisterSoftware] US Army seeks human AI officers to manage its battle bots - 1 day ago
-- [CloudFlare] SDQ (Santo Domingo) on 2026-01-13 - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-01-13 - 1 day ago
-- [CloudFlare] MEX (Mexico City) on 2026-01-13 - 1 day ago
-- [DataBreaches] Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information - 1 day ago
-- [HackerNews] Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack - 1 day ago
-- [RegisterSec] European Space Agency hit again as cybercrims claim 200 GB data up for sale - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-12 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-12 - 1 day ago
-- [HackerNews] DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide - 1 day ago
-- [BleepingComputer] Hackers drain $3.9M from Unleash Protocol after multisig hijack - 1 day ago
-- [CloudFlare] MCI (Kansas City) on 2026-01-12 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-13 - 1 day ago
-- [CloudFlare] BGI (Bridgetown) on 2026-01-13 - 1 day ago
-- [BleepingComputer] RondoDox botnet exploits React2Shell flaw to breach Next.js servers - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 1 day ago
-- [DataBreaches] Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-01-13 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-01-12 - 1 day ago
-- [HackerNews] Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry - 1 day ago
-- [HackerNews] IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-12 - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-01-12 - 2 days ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 2 days ago
+- [HackerNews] Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
