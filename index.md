@@ -9,12 +9,14 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Hackers claim to hack Resecurity, firm says it was a honeypot - 7 hours ago
-- [BleepingComputer] Hackers claim Resecurity hack, firm says it was a honeypot - 8 hours ago
-- [BleepingComputer] ShinyHunters claims Resecurity hack, firm says it’s a honeypot - 10 hours ago
-- [DataBreaches] ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot - 11 hours ago
-- [RegisterSoftware] Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot - 19 hours ago
-- [SecurityWeek] President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests - 20 hours ago
+- [RegisterSec] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 3 hours ago
+- [RegisterSoftware] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 3 hours ago
+- [BleepingComputer] Hackers claim to hack Resecurity, firm says it was a honeypot - 14 hours ago
+- [BleepingComputer] Hackers claim Resecurity hack, firm says it was a honeypot - 15 hours ago
+- [BleepingComputer] ShinyHunters claims Resecurity hack, firm says it’s a honeypot - 17 hours ago
+- [DataBreaches] ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot - 18 hours ago
+- [RegisterSoftware] Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot - 1 day ago
+- [SecurityWeek] President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests - 1 day ago
 - [RegisterSoftware] Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop - 1 day ago
 - [RegisterSoftware] Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it - 1 day ago
 - [RegisterSoftware] Microsoft CEO Satya Nadell becomes AI influencer, asks us all to move beyond slop - 1 day ago
@@ -34,15 +36,6 @@ description: Latest Updates
 - [BrianKrebs] The Kimwolf Botnet is Stalking Your Local Network - 1 day ago
 - [BleepingComputer] Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack - 1 day ago
 - [HackerNews] Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia - 1 day ago
-- [HackerNews] The ROI Problem in Attack Surface Management - 1 day ago
-- [SecurityWeek] Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks - 1 day ago
-- [RegisterSec] LockBit takedown architect gets New Year award from King Charles - 1 day ago
-- [SecurityWeek] RondoDox Botnet Exploiting React2Shell Vulnerability - 1 day ago
-- [SecurityWeek] Covenant Health Data Breach Impacts 478,000 Individuals - 1 day ago
-- [SecurityWeek] Adobe ColdFusion Servers Targeted in Coordinated Campaign - 1 day ago
-- [HackerNews] Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign - 1 day ago
-- [RegisterSoftware] Safe CEO: AI is an assistant, not a replacement - 1 day ago
-- [RegisterSec] Cisco XDR in 30: Turning Security Signals Into Confident Action - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
