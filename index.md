@@ -9,27 +9,31 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot - 2 hours ago
-- [SecurityWeek] President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests - 3 hours ago
-- [RegisterSoftware] Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop - 12 hours ago
-- [RegisterSoftware] Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it - 12 hours ago
-- [RegisterSoftware] Microsoft CEO Satya Nadell becomes AI influencer, asks us all to move beyond slop - 16 hours ago
-- [RegisterSec] Bitfinex crypto thief who was serving five years thanks Trump for early release - 17 hours ago
-- [DataBreaches] European Space Agency confirms breach of “external servers” - 18 hours ago
-- [DataBreaches] NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - 18 hours ago
-- [DataBreaches] Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People - 18 hours ago
-- [DataBreaches] NZ: ManageMyHealth data breach: More than 108k users potentially affected - 18 hours ago
-- [BleepingComputer] Covenant Health says May data breach impacted nearly 478,000 patients - 18 hours ago
-- [RegisterSec] Cybercrook claims to be selling infrastructure info about three major US utilities - 19 hours ago
-- [BleepingComputer] Cryptocurrency theft attacks traced to 2022 LastPass breach - 20 hours ago
-- [RegisterSoftware] Finally - a terminal solution to the browser wars - 20 hours ago
-- [RegisterSoftware] Google snaps up datacenter power biz Intersect while xAI plans more capacity - 21 hours ago
-- [RegisterSec] Brit lands invite-only Aussie visa after uncovering vuln in government systems - 21 hours ago
-- [BleepingComputer] Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass - 21 hours ago
-- [BleepingComputer] Google is testing a new image AI and it's going to be its fastest model - 22 hours ago
-- [BrianKrebs] The Kimwolf Botnet is Stalking Your Local Network - 23 hours ago
-- [BleepingComputer] Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack - 23 hours ago
-- [HackerNews] Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia - 23 hours ago
+- [BleepingComputer] Hackers claim to hack Resecurity, firm says it was a honeypot - 7 hours ago
+- [BleepingComputer] Hackers claim Resecurity hack, firm says it was a honeypot - 8 hours ago
+- [BleepingComputer] ShinyHunters claims Resecurity hack, firm says it’s a honeypot - 10 hours ago
+- [DataBreaches] ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot - 11 hours ago
+- [RegisterSoftware] Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot - 19 hours ago
+- [SecurityWeek] President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests - 20 hours ago
+- [RegisterSoftware] Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop - 1 day ago
+- [RegisterSoftware] Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it - 1 day ago
+- [RegisterSoftware] Microsoft CEO Satya Nadell becomes AI influencer, asks us all to move beyond slop - 1 day ago
+- [RegisterSec] Bitfinex crypto thief who was serving five years thanks Trump for early release - 1 day ago
+- [DataBreaches] European Space Agency confirms breach of “external servers” - 1 day ago
+- [DataBreaches] NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - 1 day ago
+- [DataBreaches] Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People - 1 day ago
+- [DataBreaches] NZ: ManageMyHealth data breach: More than 108k users potentially affected - 1 day ago
+- [BleepingComputer] Covenant Health says May data breach impacted nearly 478,000 patients - 1 day ago
+- [RegisterSec] Cybercrook claims to be selling infrastructure info about three major US utilities - 1 day ago
+- [BleepingComputer] Cryptocurrency theft attacks traced to 2022 LastPass breach - 1 day ago
+- [RegisterSoftware] Finally - a terminal solution to the browser wars - 1 day ago
+- [RegisterSoftware] Google snaps up datacenter power biz Intersect while xAI plans more capacity - 1 day ago
+- [RegisterSec] Brit lands invite-only Aussie visa after uncovering vuln in government systems - 1 day ago
+- [BleepingComputer] Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass - 1 day ago
+- [BleepingComputer] Google is testing a new image AI and it's going to be its fastest model - 1 day ago
+- [BrianKrebs] The Kimwolf Botnet is Stalking Your Local Network - 1 day ago
+- [BleepingComputer] Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack - 1 day ago
+- [HackerNews] Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia - 1 day ago
 - [HackerNews] The ROI Problem in Attack Surface Management - 1 day ago
 - [SecurityWeek] Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks - 1 day ago
 - [RegisterSec] LockBit takedown architect gets New Year award from King Charles - 1 day ago
@@ -39,11 +43,6 @@ description: Latest Updates
 - [HackerNews] Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign - 1 day ago
 - [RegisterSoftware] Safe CEO: AI is an assistant, not a replacement - 1 day ago
 - [RegisterSec] Cisco XDR in 30: Turning Security Signals Into Confident Action - 1 day ago
-- [BleepingComputer] New GlassWorm malware wave targets Macs with trojanized crypto wallets - 1 day ago
-- [BleepingComputer] The biggest cybersecurity and cyberattack stories of 2025 - 1 day ago
-- [BleepingComputer] OpenAI is offering $20 ChatGPT Plus for free to some users - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories - 1 day ago
-- [HackerNews] How To Browse Faster and Get More Done Using Adapt Browser - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
