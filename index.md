@@ -9,18 +9,23 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Techie turned the tables on office bullies with remote access rumble - 26 minutes ago
-- [RegisterSec] Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions - 12 hours ago
-- [DataBreaches] Illinois Department of Human Services tightens map security after data incident - 14 hours ago
-- [DataBreaches] Reminder: Survey on threats experienced by journalists and security researchers - 14 hours ago
-- [RegisterSec] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 20 hours ago
-- [RegisterSoftware] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 20 hours ago
+- [SecurityWeek] Kimwolf Android Botnet Grows Through Residential Proxy Networks - 47 minutes ago
+- [RegisterSec] New Zealand orders review into ManageMyHealth cyberattack - 1 hour ago
+- [SecurityWeek] Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes - 1 hour ago
+- [HackerNews] The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations - 1 hour ago
+- [HackerNews] Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act - 4 hours ago
+- [CloudFlare] MEM (Memphis) on 2026-01-09 - 5 hours ago
+- [HackerNews] New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - 5 hours ago
+- [RegisterSoftware] Techie turned the tables on office bullies with remote access rumble - 7 hours ago
+- [RegisterSec] Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions - 19 hours ago
+- [DataBreaches] Illinois Department of Human Services tightens map security after data incident - 21 hours ago
+- [DataBreaches] Reminder: Survey on threats experienced by journalists and security researchers - 21 hours ago
+- [RegisterSec] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 1 day ago
+- [RegisterSoftware] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 1 day ago
 - [BleepingComputer] Hackers claim to hack Resecurity, firm says it was a honeypot - 1 day ago
 - [BleepingComputer] Hackers claim Resecurity hack, firm says it was a honeypot - 1 day ago
 - [BleepingComputer] ShinyHunters claims Resecurity hack, firm says it’s a honeypot - 1 day ago
 - [DataBreaches] ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot - 1 day ago
-- [RegisterSoftware] Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot - 1 day ago
-- [SecurityWeek] President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
