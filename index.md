@@ -9,23 +9,50 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Kimwolf Android Botnet Grows Through Residential Proxy Networks - 47 minutes ago
-- [RegisterSec] New Zealand orders review into ManageMyHealth cyberattack - 1 hour ago
-- [SecurityWeek] Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes - 1 hour ago
-- [HackerNews] The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations - 1 hour ago
-- [HackerNews] Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act - 4 hours ago
-- [CloudFlare] MEM (Memphis) on 2026-01-09 - 5 hours ago
-- [HackerNews] New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - 5 hours ago
-- [RegisterSoftware] Techie turned the tables on office bullies with remote access rumble - 7 hours ago
-- [RegisterSec] Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions - 19 hours ago
-- [DataBreaches] Illinois Department of Human Services tightens map security after data incident - 21 hours ago
-- [DataBreaches] Reminder: Survey on threats experienced by journalists and security researchers - 21 hours ago
+- [FullDisclosure] Linux Kernel Block Subsystem Vulnerabilities - 17 minutes ago
+- [FullDisclosure] Security Vulnerability in Koller Secret: Real Hidden App	(com.koller.secret.hidemyphoto) - 17 minutes ago
+- [FullDisclosure] SigInt-Hombre v1 / dynamic Suricata detection rules from real-time threat feeds - 17 minutes ago
+- [FullDisclosure] zlib v1.3.1.2 Global Buffer Overflow in TGZfname() of zlib untgz Utility via Unbounded strcpy() on User-Supplied Archive Name - 17 minutes ago
+- [HackerNews] New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands - 1 hour ago
+- [BleepingComputer] Cloud file-sharing sites targeted for corporate data theft attacks - 8 hours ago
+- [RegisterSoftware] Claude devs complain about surprise usage limits, Anthropic blames expiring bonus - 9 hours ago
+- [RegisterSoftware] ChatGPT is playing doctor for a lot of US residents, and OpenAI smells money - 10 hours ago
+- [BleepingComputer] ClickFix attack uses fake Windows BSOD screens to push malware - 10 hours ago
+- [RegisterSoftware] AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention - 10 hours ago
+- [BleepingComputer] US broadband provider Brightspeed investigates breach claims - 10 hours ago
+- [RegisterSec] Congrats, cybercrims: You just fell into a honeypot - 10 hours ago
+- [SecurityWeek] Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece - 12 hours ago
+- [RegisterSec] Playing Koi: Palo Alto isn't saying if it will buy security start-up - 12 hours ago
+- [HackerNews] Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government - 12 hours ago
+- [SecurityWeek] Sedgwick Confirms Cyberattack on Government Subsidiary - 13 hours ago
+- [SecurityWeek] Brightspeed Investigating Cyberattack - 13 hours ago
+- [HackerNews] Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks - 13 hours ago
+- [RegisterSoftware] EU won't scrap tech regs just because Washington dislikes them - 13 hours ago
+- [BleepingComputer] VSCode IDE forks expose users to "recommended extension" attacks - 14 hours ago
+- [DataBreaches] NZ: High Court grants injunction over ManageMyHealth cyber breach - 14 hours ago
+- [DataBreaches] Ca: Leduc County target of Christmas Day cybersecurity attack - 14 hours ago
+- [RegisterSoftware] The last supported version of HP-UX is no more - 14 hours ago
+- [SecurityWeek] CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries - 15 hours ago
+- [BleepingComputer] Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome - 15 hours ago
+- [BleepingComputer] Ledger customers impacted by third-party Global-e data breach - 15 hours ago
+- [BleepingComputer] NordVPN denies breach claims, says attackers have "dummy data" - 16 hours ago
+- [RegisterSec] Gmail preparing to drop POP3 mail fetching - 16 hours ago
+- [HackerNews] ⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More - 16 hours ago
+- [RegisterSoftware] Gmail preparing to drop POP3 mail fetching - 16 hours ago
+- [DataBreaches] Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was. - 16 hours ago
+- [SecurityWeek] Kimwolf Android Botnet Grows Through Residential Proxy Networks - 17 hours ago
+- [RegisterSec] New Zealand orders review into ManageMyHealth cyberattack - 18 hours ago
+- [SecurityWeek] Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes - 18 hours ago
+- [HackerNews] The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations - 18 hours ago
+- [HackerNews] Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act - 21 hours ago
+- [CloudFlare] MEM (Memphis) on 2026-01-09 - 22 hours ago
+- [HackerNews] New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - 22 hours ago
+- [RegisterSoftware] Techie turned the tables on office bullies with remote access rumble - 1 day ago
+- [RegisterSec] Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions - 1 day ago
+- [DataBreaches] Illinois Department of Human Services tightens map security after data incident - 1 day ago
+- [DataBreaches] Reminder: Survey on threats experienced by journalists and security researchers - 1 day ago
 - [RegisterSec] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 1 day ago
 - [RegisterSoftware] Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat - 1 day ago
-- [BleepingComputer] Hackers claim to hack Resecurity, firm says it was a honeypot - 1 day ago
-- [BleepingComputer] Hackers claim Resecurity hack, firm says it was a honeypot - 1 day ago
-- [BleepingComputer] ShinyHunters claims Resecurity hack, firm says it’s a honeypot - 1 day ago
-- [DataBreaches] ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
