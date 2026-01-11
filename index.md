@@ -9,46 +9,48 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] Defense in depth -- the Microsoft way (part 95): the (shared)	"Start Menu" is dispensable - 1 hour ago
-- [FullDisclosure] TinyOS 2.1.2 printfUART Global Buffer Overflow via Unbounded	Format Expansion - 2 hours ago
-- [FullDisclosure] TinyOS 2.1.2 Stack-Based Buffer Overflow in mcp2200gpio - 2 hours ago
-- [FullDisclosure] RIOT OS 2026.01-devel-317 Stack-Based Buffer Overflow in tapslip6 Utility via Unbounded Device Path Construction - 2 hours ago
-- [FullDisclosure] RIOT OS 2026.01-devel-317 Stack-Based Buffer Overflow in RIOT ethos Serial Frame Parser - 2 hours ago
-- [FullDisclosure] Re: Multiple Security Misconfigurations and Customer	Enumeration Exposure in Convercent Whistleblowing Platform	(EQS Group) - 2 hours ago
-- [BleepingComputer] Microsoft is retiring 'Send to Kindle' in Word - 5 hours ago
-- [BleepingComputer] BreachForums hacking forum database leaked, exposing 324,000 accounts - 12 hours ago
-- [BleepingComputer] Spain arrests 34 suspects linked to Black Axe cyber crime - 14 hours ago
-- [DataBreaches] Basketball player arrested for alleged ransomware ties freed in Russia-France prisoner swap - 15 hours ago
-- [HIBP] BreachForums (2025) - 324,449 breached accounts - 18 hours ago
-- [HackerNews] MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors - 19 hours ago
-- [BleepingComputer] Ireland recalls almost 13,000 passports over missing 'IRL' code - 20 hours ago
-- [HackerNews] Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime - 21 hours ago
-- [RegisterSec] UK government exempting itself from flagship cyber law inspires little confidence - 21 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 23 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 23 hours ago
-- [CloudFlare] UIO (Quito) on 2026-01-13 - 23 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-13 - 23 hours ago
-- [CloudFlare] SJC (San Jose) on 2026-01-13 - 23 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-01-13 - 23 hours ago
-- [CloudFlare] KIX (Osaka) on 2026-01-13 - 23 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2026-01-13 - 23 hours ago
-- [CloudFlare] COK (Kochi) on 2026-01-13 - 23 hours ago
-- [CloudFlare] FRA (Frankfurt) on 2026-01-14 - 23 hours ago
-- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 23 hours ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-01-14 - 23 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 23 hours ago
-- [CloudFlare] SJU (San Juan) on 2026-01-14 - 23 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-14 - 23 hours ago
-- [CloudFlare] DFW (Dallas) on 2026-01-14 - 23 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-01-14 - 23 hours ago
-- [CloudFlare] FRA (Frankfurt) on 2026-01-15 - 23 hours ago
-- [CloudFlare] VCP (Campinas) on 2026-01-15 - 23 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 23 hours ago
-- [CloudFlare] PDX (Portland) on 2026-01-15 - 23 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-01-15 - 23 hours ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-15 - 23 hours ago
-- [CloudFlare] BOS (Boston) on 2026-01-15 - 23 hours ago
-- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 23 hours ago
+- [HIBP] BreachForums (2025) - 672,247 breached accounts - 4 hours ago
+- [RegisterSoftware] Brussels plots open source push to pry Europe off Big Tech - 4 hours ago
+- [FullDisclosure] Defense in depth -- the Microsoft way (part 95): the (shared)	"Start Menu" is dispensable - 8 hours ago
+- [FullDisclosure] TinyOS 2.1.2 printfUART Global Buffer Overflow via Unbounded	Format Expansion - 9 hours ago
+- [FullDisclosure] TinyOS 2.1.2 Stack-Based Buffer Overflow in mcp2200gpio - 9 hours ago
+- [FullDisclosure] RIOT OS 2026.01-devel-317 Stack-Based Buffer Overflow in tapslip6 Utility via Unbounded Device Path Construction - 9 hours ago
+- [FullDisclosure] RIOT OS 2026.01-devel-317 Stack-Based Buffer Overflow in RIOT ethos Serial Frame Parser - 9 hours ago
+- [FullDisclosure] Re: Multiple Security Misconfigurations and Customer	Enumeration Exposure in Convercent Whistleblowing Platform	(EQS Group) - 9 hours ago
+- [BleepingComputer] Microsoft is retiring 'Send to Kindle' in Word - 12 hours ago
+- [BleepingComputer] BreachForums hacking forum database leaked, exposing 324,000 accounts - 19 hours ago
+- [BleepingComputer] Spain arrests 34 suspects linked to Black Axe cyber crime - 21 hours ago
+- [DataBreaches] Basketball player arrested for alleged ransomware ties freed in Russia-France prisoner swap - 22 hours ago
+- [HIBP] BreachForums (2025) - 324,449 breached accounts - 1 day ago
+- [HackerNews] MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors - 1 day ago
+- [BleepingComputer] Ireland recalls almost 13,000 passports over missing 'IRL' code - 1 day ago
+- [HackerNews] Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime - 1 day ago
+- [RegisterSec] UK government exempting itself from flagship cyber law inspires little confidence - 1 day ago
+- [CloudFlare] ATL (Atlanta) on 2026-01-13 - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-13 - 1 day ago
+- [CloudFlare] UIO (Quito) on 2026-01-13 - 1 day ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-13 - 1 day ago
+- [CloudFlare] SJC (San Jose) on 2026-01-13 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-01-13 - 1 day ago
+- [CloudFlare] KIX (Osaka) on 2026-01-13 - 1 day ago
+- [CloudFlare] HKG (Hong Kong) on 2026-01-13 - 1 day ago
+- [CloudFlare] COK (Kochi) on 2026-01-13 - 1 day ago
+- [CloudFlare] FRA (Frankfurt) on 2026-01-14 - 1 day ago
+- [CloudFlare] POA (Porto Alegre) on 2026-01-14 - 1 day ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-01-14 - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-14 - 1 day ago
+- [CloudFlare] SJU (San Juan) on 2026-01-14 - 1 day ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-14 - 1 day ago
+- [CloudFlare] DFW (Dallas) on 2026-01-14 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-01-14 - 1 day ago
+- [CloudFlare] FRA (Frankfurt) on 2026-01-15 - 1 day ago
+- [CloudFlare] VCP (Campinas) on 2026-01-15 - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-01-15 - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-01-15 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-01-15 - 1 day ago
+- [CloudFlare] ZAG (Zagreb) on 2026-01-15 - 1 day ago
+- [CloudFlare] BOS (Boston) on 2026-01-15 - 1 day ago
+- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 1 day ago
 - [BleepingComputer] Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real - 1 day ago
 - [BleepingComputer] ChatGPT tests a new feature to find jobs, improve your resume, and more - 1 day ago
 - [RegisterSoftware] Accenture bets AI will ring up retail sales with Profitmind investment - 1 day ago
@@ -88,33 +90,10 @@ description: Latest Updates
 - [SecurityWeek] Tim Kosiba Named NSA Deputy Director - 1 day ago
 - [SecurityWeek] Trend Micro Patches Critical Code Execution Flaw in Apex Central - 1 day ago
 - [RegisterSoftware] Copper supplies set to peak just as tech needs more - 1 day ago
-- [RegisterSoftware] China-linked cybercrims abused VMware ESXi zero-days a year before disclosure - 1 day ago
-- [RegisterSec] China-linked cybercrims abused VMware ESXi zero-days a year before disclosure - 1 day ago
-- [SecurityWeek] CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over - 1 day ago
-- [BleepingComputer] Illinois man charged with hacking Snapchat accounts to steal nude photos - 1 day ago
-- [SecurityWeek] ‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT - 1 day ago
-- [DataBreaches] Illinois Man Charged in Snapchat Hacking Investigation - 1 day ago
-- [SecurityWeek] 377,000 Impacted by Data Breach at Texas Gas Station Firm - 1 day ago
-- [RegisterSoftware] The Microsoft 365 Copilot app rebrand was bad, but there are far worse offenders - 1 day ago
-- [HackerNews] Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't) - 1 day ago
-- [SecurityWeek] Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure - 1 day ago
-- [RegisterSoftware] Nothing to declare at border control except a Windows 7 certificate error - 1 day ago
-- [BleepingComputer] Trend Micro warns of critical Apex Central RCE vulnerability - 1 day ago
-- [IT Governance] PCI DSS Audits – Preparing for success - 1 day ago
-- [RegisterSec] Grok told to cover up as UK weighs action over AI 'undressing' - 1 day ago
-- [RegisterSoftware] Grok told to cover up as UK weighs action over AI 'undressing' - 1 day ago
-- [HackerNews] CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024 - 1 day ago
-- [HackerNews] Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions - 1 day ago
-- [GrahamCluley] pcTattletale founder pleads guilty in rare stalkerware prosecution - 1 day ago
-- [RegisterSoftware] Bank of England's Oracle cloud migration bill triples as project grinds on - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-01-14 - 1 day ago
-- [CloudFlare] SJU (San Juan) on 2026-01-14 - 1 day ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-15 - 1 day ago
-- [CloudFlare] BOS (Boston) on 2026-01-15 - 1 day ago
-- [RegisterSec] Help desk read irrelevant script, so techies found and fixed their own problem - 1 day ago
-- [RegisterSoftware] Tech that helps people outshone overhyped AI at CES 2026 - 2 days ago
-- [HackerNews] FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing - 2 days ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-13 - 2 days ago
+- [RegisterSoftware] China-linked cybercrims abused VMware ESXi zero-days a year before disclosure - 2 days ago
+- [RegisterSec] China-linked cybercrims abused VMware ESXi zero-days a year before disclosure - 2 days ago
+- [SecurityWeek] CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over - 2 days ago
+- [BleepingComputer] Illinois man charged with hacking Snapchat accounts to steal nude photos - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
