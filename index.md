@@ -9,17 +9,20 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Malicious GhostPoster browser extensions found with 840,000 installs - 3 hours ago
-- [BleepingComputer] Credential-stealing Chrome extensions target enterprise HR platforms - 3 hours ago
-- [BleepingComputer] Google Chrome now lets you turn off on-device AI model powering scam detection - 3 hours ago
-- [DataBreaches] US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026 - 10 hours ago
-- [HackerNews] Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice - 13 hours ago
-- [DataBreaches] OCR’s Latest HIPAA Guidance and Common HIPAA Pitfalls - 14 hours ago
-- [DataBreaches] A faceless hacker stole my therapy notes – now my deepest secrets are online forever - 14 hours ago
-- [DataBreaches] Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply - 16 hours ago
-- [SecurityWeek] Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System - 18 hours ago
-- [RegisterSec] Fast Pair, loose security: Bluetooth accessories open to silent hijack - 18 hours ago
-- [HackerNews] OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans - 21 hours ago
+- [RegisterSoftware] Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD - 1 hour ago
+- [TroyHunt] Weekly Update 487 - 3 hours ago
+- [RegisterSoftware] Not hot on bots, project names and shames AI-created open source software - 4 hours ago
+- [BleepingComputer] Malicious GhostPoster browser extensions found with 840,000 installs - 10 hours ago
+- [BleepingComputer] Credential-stealing Chrome extensions target enterprise HR platforms - 10 hours ago
+- [BleepingComputer] Google Chrome now lets you turn off on-device AI model powering scam detection - 10 hours ago
+- [DataBreaches] US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026 - 17 hours ago
+- [HackerNews] Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice - 20 hours ago
+- [DataBreaches] OCR’s Latest HIPAA Guidance and Common HIPAA Pitfalls - 21 hours ago
+- [DataBreaches] A faceless hacker stole my therapy notes – now my deepest secrets are online forever - 21 hours ago
+- [DataBreaches] Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply - 23 hours ago
+- [SecurityWeek] Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System - 1 day ago
+- [RegisterSec] Fast Pair, loose security: Bluetooth accessories open to silent hijack - 1 day ago
+- [HackerNews] OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans - 1 day ago
 - [RegisterSoftware] Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors - 1 day ago
 - [BleepingComputer] ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads - 1 day ago
 - [RegisterSoftware] Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day - 1 day ago
@@ -75,47 +78,9 @@ description: Latest Updates
 - [RegisterSoftware] Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term - 1 day ago
 - [IT Governance] The Business Case for Data Protection Investment – Board Briefing - 1 day ago
 - [DataBreaches] Former Conti member “Tramp,” now known as “Devman,” added to Interpol’s wanted list - 1 day ago
-- [IT Governance] How Insecure IoT Devices in Your Buildings Could Expose Tenants’ Data - 1 day ago
-- [RegisterSec] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 1 day ago
-- [RegisterSoftware] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 1 day ago
-- [BleepingComputer] Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks - 1 day ago
-- [BleepingComputer] Microsoft: Windows 11 update causes Outlook freezes for POP users - 1 day ago
-- [SecurityWeek] WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking - 1 day ago
-- [SecurityWeek] Cyber Insights 2026: Social Engineering - 1 day ago
-- [RegisterSec] Bankrupt scooter startup left one private key to rule them all - 1 day ago
-- [SecurityWeek] 750,000 Impacted by Data Breach at Canadian Investment Watchdog - 1 day ago
-- [SecurityWeek] WhisperPair Attack Leaves Millions of Bluetooth Accessories Open to Hijacking - 1 day ago
-- [SecurityWeek] Cybersecurity Firms React to China’s Reported Software Ban - 1 day ago
-- [RegisterSec] Probably not the best security in the world: Carlsberg wristbands spill visitor pics - 1 day ago
-- [RegisterSoftware] Just because Linus Torvalds vibe codes doesn't mean it's a good idea - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-01-16 - 1 day ago
-- [CloudFlare] STL (St. Louis) on 2026-01-16 - 1 day ago
-- [HackerNews] LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing - 1 day ago
-- [HackerNews] Your Digital Footprint Can Lead Right to Your Front Door - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-16 - 1 day ago
-- [CloudFlare] Issue with Ruleset Modification Audit Logs - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-21 - 1 day ago
-- [SecurityWeek] Cisco Patches Vulnerability Exploited by Chinese Hackers - 1 day ago
-- [CloudFlare] CLT (Charlotte) on 2026-01-19 - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-01-19 - 1 day ago
-- [CloudFlare] ATH (Athens) on 2026-01-21 - 1 day ago
-- [BleepingComputer] Cisco finally fixes AsyncOS zero-day exploited since November - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-01-16 - 1 day ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-19 - 1 day ago
-- [HackerNews] China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure - 1 day ago
-- [BleepingComputer] Microsoft: Some Windows PCs fail to shut down after January update - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-19 - 1 day ago
-- [CloudFlare] BUF (Buffalo) on 2026-01-19 - 1 day ago
-- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 1 day ago
-- [SecurityWeek] Former CISA Director Jen Easterly Appointed CEO of RSAC - 1 day ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-22 - 1 day ago
-- [CloudFlare] AUS (Austin) on 2026-01-22 - 1 day ago
-- [CloudFlare] YYC (Calgary) on 2026-01-23 - 1 day ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-21 - 1 day ago
-- [CloudFlare] AUS (Austin) on 2026-01-21 - 1 day ago
-- [TroyHunt] Weekly Update 486 - 1 day ago
-- [BleepingComputer] Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices - 2 days ago
-- [HackerNews] Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways - 2 days ago
+- [IT Governance] How Insecure IoT Devices in Your Buildings Could Expose Tenants’ Data - 2 days ago
+- [RegisterSec] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 2 days ago
+- [RegisterSoftware] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
