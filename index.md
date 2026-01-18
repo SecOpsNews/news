@@ -9,64 +9,72 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System - 1 hour ago
-- [RegisterSec] Fast Pair, loose security: Bluetooth accessories open to silent hijack - 1 hour ago
-- [HackerNews] OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans - 4 hours ago
-- [RegisterSoftware] Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors - 12 hours ago
-- [BleepingComputer] ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads - 14 hours ago
-- [RegisterSoftware] Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day - 14 hours ago
-- [CloudFlare] PDX (Portland) on 2026-01-21 - 14 hours ago
-- [BleepingComputer] OpenAI says its new ChatGPT ads won't influence answers - 14 hours ago
-- [BleepingComputer] StealC hackers hacked as researchers hijack malware control panels - 16 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-21 - 16 hours ago
-- [CloudFlare] CLT (Charlotte) on 2026-01-19 - 17 hours ago
-- [CloudFlare] CMH (Columbus) on 2026-01-19 - 17 hours ago
-- [DataBreaches] Former Conti member, now known as “Devman,” added to Interpol’s wanted list (updated) - 17 hours ago
-- [DataBreaches] Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies - 17 hours ago
-- [CloudFlare] ATH (Athens) on 2026-01-21 - 17 hours ago
-- [CloudFlare] CWB (Curitiba) on 2026-01-22 - 17 hours ago
-- [CloudFlare] CWB (Curitiba) on 2026-01-23 - 17 hours ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-19 - 18 hours ago
-- [CloudFlare] BUF (Buffalo) on 2026-01-19 - 18 hours ago
-- [BleepingComputer] Black Basta boss makes it onto Interpol's 'Red Notice' list - 18 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-01-19 - 18 hours ago
-- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 18 hours ago
-- [CloudFlare] ZAG (Zagreb) on 2026-01-22 - 19 hours ago
-- [DataBreaches] Former Conti member “Tramp,” now known as “Devman,” added to Interpol’s wanted list (updated) - 19 hours ago
-- [HackerNews] GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection - 19 hours ago
-- [CloudFlare] AUS (Austin) on 2026-01-22 - 19 hours ago
-- [CloudFlare] YYC (Calgary) on 2026-01-23 - 20 hours ago
-- [BleepingComputer] China-linked hackers exploited Sitecore zero-day for initial access - 20 hours ago
-- [CloudFlare] EWR (Newark) on 2026-01-27 - 20 hours ago
-- [HackerNews] China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions - 21 hours ago
-- [RegisterSec] Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch - 21 hours ago
-- [RegisterSoftware] Windows Backup adds second-chance restore at sign-in - 21 hours ago
-- [RegisterSoftware] Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch - 21 hours ago
-- [CloudFlare] KHI (Karachi) on 2026-01-19 - 21 hours ago
-- [CloudFlare] JAX (Jacksonville) on 2026-01-20 - 21 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-01-20 - 21 hours ago
-- [CloudFlare] DFW (Dallas) on 2026-01-22 - 21 hours ago
-- [CloudFlare] SJO (San José) on 2026-01-23 - 21 hours ago
-- [CloudFlare] DFW (Dallas) on 2026-01-28 - 21 hours ago
-- [BleepingComputer] Verizon starts issuing $20 credits after nationwide outage - 21 hours ago
-- [SecurityWeek] In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack - 21 hours ago
-- [CloudFlare] YOW (Ottawa) on 2026-01-19 - 21 hours ago
-- [CloudFlare] SJP (São José do Rio Preto) on 2026-01-20 - 21 hours ago
-- [CloudFlare] VIX (Vitoria) on 2026-01-20 - 21 hours ago
-- [CloudFlare] SJK (São José dos Campos) on 2026-01-20 - 21 hours ago
-- [CloudFlare] CWB (Curitiba) on 2026-01-20 - 21 hours ago
-- [CloudFlare] SJO (San José) on 2026-01-20 - 21 hours ago
-- [CloudFlare] AUS (Austin) on 2026-01-20 - 21 hours ago
-- [CloudFlare] XAP (Chapeco) on 2026-01-21 - 21 hours ago
-- [HackerNews] Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts - 22 hours ago
-- [RegisterSec] German cops add Black Basta boss to EU most-wanted list - 22 hours ago
-- [RegisterSoftware] Ready for a newbie-friendly Linux? Mint team officially releases v 22.3, 'Zena' - 22 hours ago
-- [DataBreaches] Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18 - 22 hours ago
-- [SecurityWeek] Monnai Raises $12 Million for Identity and Risk Data Infrastructure - 22 hours ago
-- [SecurityWeek] Project Eleven Raises $20 Million for Post-Quantum Security - 23 hours ago
-- [RegisterSoftware] Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term - 23 hours ago
-- [IT Governance] The Business Case for Data Protection Investment – Board Briefing - 23 hours ago
-- [DataBreaches] Former Conti member “Tramp,” now known as “Devman,” added to Interpol’s wanted list - 23 hours ago
+- [BleepingComputer] Malicious GhostPoster browser extensions found with 840,000 installs - 3 hours ago
+- [BleepingComputer] Credential-stealing Chrome extensions target enterprise HR platforms - 3 hours ago
+- [BleepingComputer] Google Chrome now lets you turn off on-device AI model powering scam detection - 3 hours ago
+- [DataBreaches] US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026 - 10 hours ago
+- [HackerNews] Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice - 13 hours ago
+- [DataBreaches] OCR’s Latest HIPAA Guidance and Common HIPAA Pitfalls - 14 hours ago
+- [DataBreaches] A faceless hacker stole my therapy notes – now my deepest secrets are online forever - 14 hours ago
+- [DataBreaches] Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply - 16 hours ago
+- [SecurityWeek] Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System - 18 hours ago
+- [RegisterSec] Fast Pair, loose security: Bluetooth accessories open to silent hijack - 18 hours ago
+- [HackerNews] OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans - 21 hours ago
+- [RegisterSoftware] Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors - 1 day ago
+- [BleepingComputer] ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads - 1 day ago
+- [RegisterSoftware] Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-01-21 - 1 day ago
+- [BleepingComputer] OpenAI says its new ChatGPT ads won't influence answers - 1 day ago
+- [BleepingComputer] StealC hackers hacked as researchers hijack malware control panels - 1 day ago
+- [CloudFlare] YYZ (Toronto) on 2026-01-21 - 1 day ago
+- [CloudFlare] CLT (Charlotte) on 2026-01-19 - 1 day ago
+- [CloudFlare] CMH (Columbus) on 2026-01-19 - 1 day ago
+- [DataBreaches] Former Conti member, now known as “Devman,” added to Interpol’s wanted list (updated) - 1 day ago
+- [DataBreaches] Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies - 1 day ago
+- [CloudFlare] ATH (Athens) on 2026-01-21 - 1 day ago
+- [CloudFlare] CWB (Curitiba) on 2026-01-22 - 1 day ago
+- [CloudFlare] CWB (Curitiba) on 2026-01-23 - 1 day ago
+- [CloudFlare] EZE (Buenos Aires) on 2026-01-19 - 1 day ago
+- [CloudFlare] BUF (Buffalo) on 2026-01-19 - 1 day ago
+- [BleepingComputer] Black Basta boss makes it onto Interpol's 'Red Notice' list - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2026-01-19 - 1 day ago
+- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 1 day ago
+- [CloudFlare] ZAG (Zagreb) on 2026-01-22 - 1 day ago
+- [DataBreaches] Former Conti member “Tramp,” now known as “Devman,” added to Interpol’s wanted list (updated) - 1 day ago
+- [HackerNews] GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection - 1 day ago
+- [CloudFlare] AUS (Austin) on 2026-01-22 - 1 day ago
+- [CloudFlare] YYC (Calgary) on 2026-01-23 - 1 day ago
+- [BleepingComputer] China-linked hackers exploited Sitecore zero-day for initial access - 1 day ago
+- [CloudFlare] EWR (Newark) on 2026-01-27 - 1 day ago
+- [HackerNews] China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions - 1 day ago
+- [RegisterSec] Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch - 1 day ago
+- [RegisterSoftware] Windows Backup adds second-chance restore at sign-in - 1 day ago
+- [RegisterSoftware] Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch - 1 day ago
+- [CloudFlare] KHI (Karachi) on 2026-01-19 - 1 day ago
+- [CloudFlare] JAX (Jacksonville) on 2026-01-20 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-01-20 - 1 day ago
+- [CloudFlare] DFW (Dallas) on 2026-01-22 - 1 day ago
+- [CloudFlare] SJO (San José) on 2026-01-23 - 1 day ago
+- [CloudFlare] DFW (Dallas) on 2026-01-28 - 1 day ago
+- [BleepingComputer] Verizon starts issuing $20 credits after nationwide outage - 1 day ago
+- [SecurityWeek] In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack - 1 day ago
+- [CloudFlare] YOW (Ottawa) on 2026-01-19 - 1 day ago
+- [CloudFlare] SJP (São José do Rio Preto) on 2026-01-20 - 1 day ago
+- [CloudFlare] VIX (Vitoria) on 2026-01-20 - 1 day ago
+- [CloudFlare] SJK (São José dos Campos) on 2026-01-20 - 1 day ago
+- [CloudFlare] CWB (Curitiba) on 2026-01-20 - 1 day ago
+- [CloudFlare] SJO (San José) on 2026-01-20 - 1 day ago
+- [CloudFlare] AUS (Austin) on 2026-01-20 - 1 day ago
+- [CloudFlare] XAP (Chapeco) on 2026-01-21 - 1 day ago
+- [HackerNews] Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts - 1 day ago
+- [RegisterSec] German cops add Black Basta boss to EU most-wanted list - 1 day ago
+- [RegisterSoftware] Ready for a newbie-friendly Linux? Mint team officially releases v 22.3, 'Zena' - 1 day ago
+- [DataBreaches] Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18 - 1 day ago
+- [SecurityWeek] Monnai Raises $12 Million for Identity and Risk Data Infrastructure - 1 day ago
+- [SecurityWeek] Project Eleven Raises $20 Million for Post-Quantum Security - 1 day ago
+- [RegisterSoftware] Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term - 1 day ago
+- [IT Governance] The Business Case for Data Protection Investment – Board Briefing - 1 day ago
+- [DataBreaches] Former Conti member “Tramp,” now known as “Devman,” added to Interpol’s wanted list - 1 day ago
 - [IT Governance] How Insecure IoT Devices in Your Buildings Could Expose Tenants’ Data - 1 day ago
 - [RegisterSec] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 1 day ago
 - [RegisterSoftware] RondoDox botnet linked to large-scale exploit of critical HPE OneView bug - 1 day ago
@@ -106,93 +114,8 @@ description: Latest Updates
 - [CloudFlare] ZAG (Zagreb) on 2026-01-21 - 1 day ago
 - [CloudFlare] AUS (Austin) on 2026-01-21 - 1 day ago
 - [TroyHunt] Weekly Update 486 - 1 day ago
-- [BleepingComputer] Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices - 1 day ago
-- [HackerNews] Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways - 1 day ago
-- [RegisterSoftware] Wikimedia’s 25th birthday gift: Letting more AIs scour pages volunteers created - 1 day ago
-- [RegisterSoftware] TSMC sees no signs of the AI boom slowing for at least two or three years - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-19 - 1 day ago
-- [CloudFlare] ATH (Athens) on 2026-01-20 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-01-27 - 1 day ago
-- [RegisterSoftware] OpenAI invests in brain-interface biz co-founded by CEO Sam Altman - 1 day ago
-- [BleepingComputer] ChatGPT is now more reliable at finding and remembering your past chat - 1 day ago
-- [BleepingComputer] Google now lets you change your @gmail.com address, rolling out - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-01-15 - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-01-22 - 1 day ago
-- [CloudFlare] SJO (San José) on 2026-01-23 - 1 day ago
-- [CloudFlare] MCI (Kansas City) on 2026-01-16 - 1 day ago
-- [RegisterSec] Cisco finally fixes max-severity bug under active attack for weeks - 1 day ago
-- [RegisterSoftware] Over half of AI projects are shelved due to complex infrastructure - 1 day ago
-- [CloudFlare] YXE (Saskatoon) on 2026-01-16 - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-01-28 - 1 day ago
-- [BleepingComputer] Gootloader now uses 1,000-part ZIP archives for stealthy delivery - 1 day ago
-- [CloudFlare] GVA (Geneva) on 2026-01-16 - 1 day ago
-- [RegisterSec] Chinese spies used Maduro's capture as a lure to phish US govt agencies - 1 day ago
-- [CloudFlare] KHI (Karachi) on 2026-01-19 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-01-20 - 1 day ago
-- [BleepingComputer] Grubhub confirms hackers stole data in recent security breach - 1 day ago
-- [CloudFlare] NRT (Tokyo) on 2026-01-15 - 1 day ago
-- [BleepingComputer] Hackers exploit Modular DS WordPress plugin flaw for admin access - 1 day ago
-- [SecurityWeek] New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors - 1 day ago
-- [RegisterSec] Flipping one bit leaves AMD CPUs open to VM vuln - 1 day ago
-- [CloudFlare] BOM (Mumbai) on 2026-01-15 - 1 day ago
-- [HackerNews] AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-01-16 - 1 day ago
-- [BleepingComputer] Verizon blames nationwide outage on a "software issue" - 1 day ago
-- [Slack] Incident: Trouble loading Slack, messages, or canvas - 1 day ago
-- [CloudFlare] STL (St. Louis) on 2026-01-16 - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-16 - 1 day ago
-- [Slack] Incident: Errors when performing API Calls - 1 day ago
-- [RegisterSoftware] Contagious Claude Code bug Anthropic ignored promptly spreads to Cowork - 1 day ago
-- [RegisterSoftware] Bond, debt bond: Investors shaken, not stirred by Oracle’s borrowing spree sue Big Red - 1 day ago
-- [BleepingComputer] Microsoft Copilot Studio extension for VS Code now publicly available - 1 day ago
-- [RegisterSec] Contagious Claude Code bug Anthropic ignored promptly spreads to Cowork - 1 day ago
-- [CloudFlare] Cloudflare Dashboard and Cloudflare API service issues - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-01-16 - 1 day ago
-- [RegisterSoftware] OpenAI to serve up ChatGPT on Cerebras’ AI dinner plates in $10B+ deal - 1 day ago
-- [DataBreaches] HHS OCR comments on its 2026 priorities (1) - 1 day ago
-- [DataBreaches] Website that leaked thousands of ICE agents’ personal information is down after DDoS attack - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-21 - 1 day ago
-- [SecurityWeek] New StackWarp Attack Threatens Confidential VMs on AMD Processors - 1 day ago
-- [SecurityWeek] Forget Predictions: True 2026 Cybersecurity Priorities From Leaders - 1 day ago
-- [CloudFlare] CLT (Charlotte) on 2026-01-19 - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-01-19 - 1 day ago
-- [SecurityWeek] Vibe Coding Tested: AI Agents Nail SQLi but Fail Miserably on Security Controls - 1 day ago
-- [GrahamCluley] WEF: AI overtakes ransomware as fastest-growing cyber risk - 1 day ago
-- [CloudFlare] Cloudflare Realtime SFU issues in Frankfurt, Germany - (FRA) - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-01-16 - 1 day ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-01-19 - 1 day ago
-- [CloudFlare] CGK (Jakarta) on 2026-01-21 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-01-19 - 1 day ago
-- [CloudFlare] BUF (Buffalo) on 2026-01-19 - 1 day ago
-- [CloudFlare] YYC (Calgary) on 2026-01-23 - 1 day ago
-- [BleepingComputer] Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices - 1 day ago
-- [HackerNews] Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot - 1 day ago
-- [HackerNews] Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-01-15 - 1 day ago
-- [CloudFlare] Cloudflare Network Interconnect issues in Frankfurt, Germany - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-01-19 - 1 day ago
-- [RegisterSoftware] Apple, Google pulled into Grok controversy as campaigners demand app store takedown - 1 day ago
-- [CloudFlare] YVR (Vancouver) on 2026-01-15 - 1 day ago
-- [DataBreaches] HHS OCR comments on its 2026 priorities - 1 day ago
-- [BleepingComputer] How to automate just-in-time access to applications with Tines - 1 day ago
-- [GrahamCluley] Smashing Security podcast #450: From Instagram panic to Grok gone wild - 1 day ago
-- [RegisterSec] A simple CodeBuild flaw put every AWS environment at risk – and pwned 'the central nervous system of the cloud' - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories - 1 day ago
-- [IT Governance] Cyber Essentials Certification Process Infographic - 1 day ago
-- [GitHub] Actions workflow run and job status updates are experiencing delays - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-01-27 - 1 day ago
-- [RegisterSoftware] Teach an AI to write buggy code, and it starts fantasizing about enslaving humans - 1 day ago
-- [RegisterSoftware] Windows App forgets how to log in with first security update of the year - 1 day ago
-- [DataBreaches] JPMorgan Claims Ex-Advisor In Fla. Stole Trade Secrets To Poach Clients For LPL - 1 day ago
-- [GitHub] Actions experiencing postback delays - 1 day ago
-- [CloudFlare] TLH (Tallahassee) on 2026-01-15 - 1 day ago
-- [RegisterSec] US regulator tells GM to hit the brakes on customer tracking - 2 days ago
-- [SecurityWeek] Depthfirst Raises $40 Million for Vulnerability Management - 2 days ago
-- [HackerNews] Model Security Is the Wrong Frame – The Real Risk Is Workflow Security - 2 days ago
-- [SecurityWeek] isVerified Emerges From Stealth With Voice Deepfake Detection Apps - 2 days ago
-- [RegisterSec] Woman bailed as cops probe doctor's surgery data breach - 2 days ago
-- [CloudFlare] ATH (Athens) on 2026-01-20 - 2 days ago
-- [CloudFlare] DFW (Dallas) on 2026-01-22 - 2 days ago
+- [BleepingComputer] Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices - 2 days ago
+- [HackerNews] Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 8 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 8 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 8 months ago
