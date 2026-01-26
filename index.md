@@ -9,12 +9,18 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Microsoft investigates Windows 11 boot failures after January updates - 23 minutes ago
-- [BleepingComputer] Microsoft releases emergency OOB update to fix Outlook freezes - 10 hours ago
-- [GitHub] Disruption with repo creation - 10 hours ago
-- [BleepingComputer] Sandworm hackers linked to failed wiper attack on Poland’s energy systems - 15 hours ago
-- [BleepingComputer] Konni hackers target blockchain engineers with AI-built malware - 22 hours ago
-- [RegisterSoftware] How an experienced developer teamed up with Claude to create Elo programming language - 23 hours ago
+- [SecurityWeek] 2024 VMware Flaw Now in Attackers’ Crosshairs - 1 hour ago
+- [BleepingComputer] ChatGPT Temporary chat feature is getting a much-needed upgrade - 5 hours ago
+- [RegisterSec] Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M - 7 hours ago
+- [BleepingComputer] 1Password adds pop-up warnings for suspected phishing sites - 12 hours ago
+- [BleepingComputer] 1Password adds pop-pup warnings for suspected phishing sites - 15 hours ago
+- [RegisterSoftware] Emmabuntüs DE 6: A newbie-friendly Linux to help those in need - 16 hours ago
+- [BleepingComputer] Microsoft investigates Windows 11 boot failures after January updates - 17 hours ago
+- [BleepingComputer] Microsoft releases emergency OOB update to fix Outlook freezes - 1 day ago
+- [GitHub] Disruption with repo creation - 1 day ago
+- [BleepingComputer] Sandworm hackers linked to failed wiper attack on Poland’s energy systems - 1 day ago
+- [BleepingComputer] Konni hackers target blockchain engineers with AI-built malware - 1 day ago
+- [RegisterSoftware] How an experienced developer teamed up with Claude to create Elo programming language - 1 day ago
 - [DataBreaches] France’s Waltio faces ransom threat from notorious hacker collective - 1 day ago
 - [DataBreaches] ShinyHunters claim to be behind SSO-account data theft attacks - 1 day ago
 - [DataBreaches] Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment. - 1 day ago
@@ -24,37 +30,6 @@ description: Latest Updates
 - [HackerNews] Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents - 1 day ago
 - [HackerNews] New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector - 1 day ago
 - [SecurityWeek] Nike Probing Potential Security Incident as Hackers Threaten to Leak Data - 1 day ago
-- [RegisterSec] CISA won't attend infosec industry's biggest conference this year - 1 day ago
-- [BleepingComputer] ShinyHunters claim to be behind SSO-account data theft attacks - 1 day ago
-- [RegisterSec] Patch or die: VMware vCenter Server bug fixed in 2024 under attack today - 1 day ago
-- [1Password] Sign-in failure in some cases due to 2FA prompt not appearing - 1 day ago
-- [RegisterSec] Surrender as a service: Microsoft unlocks BitLocker for feds - 1 day ago
-- [RegisterSoftware] Surrender as a service: Microsoft unlocks BitLocker for feds - 1 day ago
-- [1Password] Sign-in failure in some cases due to MFA prompt not appearing - 1 day ago
-- [BleepingComputer] Malicious AI extensions on VSCode Marketplace steal developer data - 1 day ago
-- [1Password] 1Password Browser Extension Code Syntax Rendering Issue - 1 day ago
-- [RegisterSoftware] As Oracle loses interest in MySQL, devs mull future options - 1 day ago
-- [RegisterSec] ShinyHunters claims Okta customer breaches, leaks data belonging to 3 orgs - 1 day ago
-- [BleepingComputer] CISA confirms active exploitation of four enterprise software bugs - 1 day ago
-- [RegisterSoftware] China’s Deepin Linux gets a slick desktop - and, yes, built-in AI - 1 day ago
-- [RegisterSoftware] AI-powered cyberattack kits are 'just a matter of time,' warns Google exec - 1 day ago
-- [RegisterSec] AI-powered cyberattack kits are 'just a matter of time,' warns Google exec - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-03 - 1 day ago
-- [RegisterSoftware] Microsoft shifting to cloud management software brings possibility of it peeking into your estate - 1 day ago
-- [BleepingComputer] US to deport Venezuelans who emptied bank ATMs using malware - 1 day ago
-- [BleepingComputer] Hackers exploit critical telnetd auth bypass flaw to get root - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-02 - 1 day ago
-- [HackerNews] CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities - 1 day ago
-- [BleepingComputer] What an AI-Written Honeypot Taught Us About Trusting Machines - 1 day ago
-- [BleepingComputer] Microsoft: Outlook for iOS crashes, freezes due to coding error - 2 days ago
-- [RegisterSoftware] Devs begin to assess options for MySQL's future beyond Oracle - 2 days ago
-- [RegisterSoftware] Tesla Full Self Driving subscription to rise alongside its capabilities - 2 days ago
-- [DataBreaches] NL: Police warned about security hole used by Russian hackers in major theft of police data - 2 days ago
-- [DataBreaches] INC ransomware opsec fail allowed data recovery for 12 US orgs - 2 days ago
-- [DataBreaches] ShinyHunters group opens new dark web leak site, claims responsibility for OKTA vishing campaign - 2 days ago
-- [DataBreaches] Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Concern - 2 days ago
-- [SecurityWeek] In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice - 2 days ago
-- [SecurityWeek] Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
