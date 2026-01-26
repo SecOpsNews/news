@@ -9,27 +9,39 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] 2024 VMware Flaw Now in Attackers’ Crosshairs - 1 hour ago
-- [BleepingComputer] ChatGPT Temporary chat feature is getting a much-needed upgrade - 5 hours ago
-- [RegisterSec] Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M - 7 hours ago
-- [BleepingComputer] 1Password adds pop-up warnings for suspected phishing sites - 12 hours ago
-- [BleepingComputer] 1Password adds pop-pup warnings for suspected phishing sites - 15 hours ago
-- [RegisterSoftware] Emmabuntüs DE 6: A newbie-friendly Linux to help those in need - 16 hours ago
-- [BleepingComputer] Microsoft investigates Windows 11 boot failures after January updates - 17 hours ago
+- [BleepingComputer] Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies - 17 minutes ago
+- [RegisterSec] EU looking into Elon Musk's X after Grok produces deepfake sex images - 47 minutes ago
+- [SecurityWeek] Cyber Insights 2026: Threat Hunting in an Age of Automation and AI - 1 hour ago
+- [SecurityWeek] Crunchbase Confirms Data Breach After Hacking Claims - 1 hour ago
+- [RegisterSec] Moscow likely behind wiper attack on Poland’s power grid, experts say - 1 hour ago
+- [RegisterSec] Data thieves borrow Nike's 'Just Do It' mantra, claim they ran off with 1.4TB - 1 hour ago
+- [RegisterSoftware] When AI 'builds a browser,' check the repo before believing the hype - 1 hour ago
+- [RegisterSoftware] Microsoft probes Windows 11 boot failures tied to January security updates - 1 hour ago
+- [HackerNews] ⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More - 1 hour ago
+- [SecurityWeek] ‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing - 2 hours ago
+- [BleepingComputer] CISA says critical VMware RCE flaw now actively exploited - 2 hours ago
+- [HackerNews] Winning Against AI-Based Attacks Requires a Combined Defensive Approach - 2 hours ago
+- [SecurityWeek] TikTok Finalizes a Deal to Form a New American Entity - 2 hours ago
+- [RegisterSoftware] Just the Browser is just the beginning: Why breaking free means building small - 2 hours ago
+- [RegisterSoftware] Microsoft rushes out another fix for cloud storage after January update - 3 hours ago
+- [RegisterSec] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 3 hours ago
+- [RegisterSoftware] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 3 hours ago
+- [RegisterSoftware] Red Teaming for AI: The Cornerstone of Secure Compliance - 4 hours ago
+- [RegisterSec] UK digital ID goes in-house, government swears it isn't an ID card - 4 hours ago
+- [HackerNews] Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers - 4 hours ago
+- [SecurityWeek] Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid - 5 hours ago
+- [SecurityWeek] 2024 VMware Flaw Now in Attackers’ Crosshairs - 8 hours ago
+- [BleepingComputer] ChatGPT Temporary chat feature is getting a much-needed upgrade - 12 hours ago
+- [RegisterSec] Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M - 14 hours ago
+- [BleepingComputer] 1Password adds pop-up warnings for suspected phishing sites - 19 hours ago
+- [BleepingComputer] 1Password adds pop-pup warnings for suspected phishing sites - 22 hours ago
+- [RegisterSoftware] Emmabuntüs DE 6: A newbie-friendly Linux to help those in need - 23 hours ago
+- [BleepingComputer] Microsoft investigates Windows 11 boot failures after January updates - 1 day ago
 - [BleepingComputer] Microsoft releases emergency OOB update to fix Outlook freezes - 1 day ago
 - [GitHub] Disruption with repo creation - 1 day ago
 - [BleepingComputer] Sandworm hackers linked to failed wiper attack on Poland’s energy systems - 1 day ago
 - [BleepingComputer] Konni hackers target blockchain engineers with AI-built malware - 1 day ago
 - [RegisterSoftware] How an experienced developer teamed up with Claude to create Elo programming language - 1 day ago
-- [DataBreaches] France’s Waltio faces ransom threat from notorious hacker collective - 1 day ago
-- [DataBreaches] ShinyHunters claim to be behind SSO-account data theft attacks - 1 day ago
-- [DataBreaches] Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment. - 1 day ago
-- [HackerNews] Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware - 1 day ago
-- [RegisterSec] UK border tech budget swells by £100M as Home Office targets small boat crossings - 1 day ago
-- [HackerNews] CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog - 1 day ago
-- [HackerNews] Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents - 1 day ago
-- [HackerNews] New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector - 1 day ago
-- [SecurityWeek] Nike Probing Potential Security Incident as Hackers Threaten to Leak Data - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
