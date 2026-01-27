@@ -9,39 +9,83 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies - 17 minutes ago
-- [RegisterSec] EU looking into Elon Musk's X after Grok produces deepfake sex images - 47 minutes ago
-- [SecurityWeek] Cyber Insights 2026: Threat Hunting in an Age of Automation and AI - 1 hour ago
-- [SecurityWeek] Crunchbase Confirms Data Breach After Hacking Claims - 1 hour ago
-- [RegisterSec] Moscow likely behind wiper attack on Poland’s power grid, experts say - 1 hour ago
-- [RegisterSec] Data thieves borrow Nike's 'Just Do It' mantra, claim they ran off with 1.4TB - 1 hour ago
-- [RegisterSoftware] When AI 'builds a browser,' check the repo before believing the hype - 1 hour ago
-- [RegisterSoftware] Microsoft probes Windows 11 boot failures tied to January security updates - 1 hour ago
-- [HackerNews] ⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More - 1 hour ago
-- [SecurityWeek] ‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing - 2 hours ago
-- [BleepingComputer] CISA says critical VMware RCE flaw now actively exploited - 2 hours ago
-- [HackerNews] Winning Against AI-Based Attacks Requires a Combined Defensive Approach - 2 hours ago
-- [SecurityWeek] TikTok Finalizes a Deal to Form a New American Entity - 2 hours ago
-- [RegisterSoftware] Just the Browser is just the beginning: Why breaking free means building small - 2 hours ago
-- [RegisterSoftware] Microsoft rushes out another fix for cloud storage after January update - 3 hours ago
-- [RegisterSec] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 3 hours ago
-- [RegisterSoftware] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 3 hours ago
-- [RegisterSoftware] Red Teaming for AI: The Cornerstone of Secure Compliance - 4 hours ago
-- [RegisterSec] UK digital ID goes in-house, government swears it isn't an ID card - 4 hours ago
-- [HackerNews] Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers - 4 hours ago
-- [SecurityWeek] Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid - 5 hours ago
-- [SecurityWeek] 2024 VMware Flaw Now in Attackers’ Crosshairs - 8 hours ago
-- [BleepingComputer] ChatGPT Temporary chat feature is getting a much-needed upgrade - 12 hours ago
-- [RegisterSec] Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M - 14 hours ago
-- [BleepingComputer] 1Password adds pop-up warnings for suspected phishing sites - 19 hours ago
-- [BleepingComputer] 1Password adds pop-pup warnings for suspected phishing sites - 22 hours ago
-- [RegisterSoftware] Emmabuntüs DE 6: A newbie-friendly Linux to help those in need - 23 hours ago
+- [FullDisclosure] SEC Consult SA-20260126-1 :: Multiple Critical Vulnerabilities in dormakaba Access Manager - 2 hours ago
+- [FullDisclosure] SEC Consult SA-20260126-2 :: UART Leaking Sensitive Data in dormakaba registration unit 9002 (PIN pad) - 2 hours ago
+- [FullDisclosure] SEC Consult SA-20260126-0 :: Multiple Critical Vulnerabilities in dormakaba Kaba exos 9300 - 2 hours ago
+- [HIBP] SoundCloud - 29,815,722 breached accounts - 3 hours ago
+- [DataBreaches]  - 5 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-03 - 5 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-04 - 5 hours ago
+- [RegisterSoftware] Vibe coding may be hazardous to open source - 7 hours ago
+- [BleepingComputer] New malware service guarantees phishing extensions on Chrome web store - 7 hours ago
+- [RegisterSec] Canva among ~100 targets of ShinyHunters Okta identity-theft campaign - 8 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-01-29 - 9 hours ago
+- [BleepingComputer] New ClickFix attacks abuse Windows App-V scripts to push malware - 9 hours ago
+- [RegisterSoftware] How one developer used Claude to build a memory-safe extension of C - 9 hours ago
+- [CloudFlare] PDX (Portland) on 2026-02-04 - 9 hours ago
+- [GitHub] Regression in windows runners for public repositories - 11 hours ago
+- [DataBreaches] Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls - 12 hours ago
+- [BleepingComputer] Cloudflare misconfiguration behind recent BGP route leak - 12 hours ago
+- [BleepingComputer] Microsoft patches actively exploited Office zero-day vulnerability - 12 hours ago
+- [BleepingComputer] EU launches investigation into X over Grok-generated sexual images - 13 hours ago
+- [RegisterSoftware] AI adoption at work flatlined in Q4, says Gallup - 13 hours ago
+- [HackerNews] Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware - 13 hours ago
+- [SecurityWeek] Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms - 14 hours ago
+- [BrianKrebs] Who Operates the Badbox 2.0 Botnet? - 14 hours ago
+- [HackerNews] Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code - 14 hours ago
+- [RegisterSoftware] AI is coming to solve your system outages - 14 hours ago
+- [RegisterSoftware] KDE Plasma 6.6 beta ships a login manager that won't log in without systemd - 15 hours ago
+- [BleepingComputer] 6 Okta security settings you might have overlooked - 15 hours ago
+- [BleepingComputer] Nearly 800,000 Telnet servers exposed to remote attacks - 15 hours ago
+- [SecurityWeek] Upwind Raises $250 Million at $1.5 Billion Valuation - 16 hours ago
+- [BleepingComputer] Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies - 17 hours ago
+- [RegisterSec] EU looking into Elon Musk's X after Grok produces deepfake sex images - 17 hours ago
+- [SecurityWeek] Cyber Insights 2026: Threat Hunting in an Age of Automation and AI - 18 hours ago
+- [SecurityWeek] Crunchbase Confirms Data Breach After Hacking Claims - 18 hours ago
+- [RegisterSec] Moscow likely behind wiper attack on Poland’s power grid, experts say - 18 hours ago
+- [RegisterSec] Data thieves borrow Nike's 'Just Do It' mantra, claim they ran off with 1.4TB - 18 hours ago
+- [RegisterSoftware] When AI 'builds a browser,' check the repo before believing the hype - 18 hours ago
+- [RegisterSoftware] Microsoft probes Windows 11 boot failures tied to January security updates - 18 hours ago
+- [HackerNews] ⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More - 18 hours ago
+- [SecurityWeek] ‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing - 19 hours ago
+- [BleepingComputer] CISA says critical VMware RCE flaw now actively exploited - 19 hours ago
+- [HackerNews] Winning Against AI-Based Attacks Requires a Combined Defensive Approach - 19 hours ago
+- [SecurityWeek] TikTok Finalizes a Deal to Form a New American Entity - 19 hours ago
+- [RegisterSoftware] Just the Browser is just the beginning: Why breaking free means building small - 19 hours ago
+- [RegisterSoftware] Microsoft rushes out another fix for cloud storage after January update - 20 hours ago
+- [RegisterSec] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 20 hours ago
+- [RegisterSoftware] Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit - 20 hours ago
+- [RegisterSoftware] Red Teaming for AI: The Cornerstone of Secure Compliance - 21 hours ago
+- [RegisterSec] UK digital ID goes in-house, government swears it isn't an ID card - 21 hours ago
+- [HackerNews] Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers - 21 hours ago
+- [SecurityWeek] Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid - 22 hours ago
+- [SecurityWeek] 2024 VMware Flaw Now in Attackers’ Crosshairs - 1 day ago
+- [BleepingComputer] ChatGPT Temporary chat feature is getting a much-needed upgrade - 1 day ago
+- [RegisterSec] Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M - 1 day ago
+- [BleepingComputer] 1Password adds pop-up warnings for suspected phishing sites - 1 day ago
+- [BleepingComputer] 1Password adds pop-pup warnings for suspected phishing sites - 1 day ago
+- [RegisterSoftware] Emmabuntüs DE 6: A newbie-friendly Linux to help those in need - 1 day ago
 - [BleepingComputer] Microsoft investigates Windows 11 boot failures after January updates - 1 day ago
-- [BleepingComputer] Microsoft releases emergency OOB update to fix Outlook freezes - 1 day ago
-- [GitHub] Disruption with repo creation - 1 day ago
-- [BleepingComputer] Sandworm hackers linked to failed wiper attack on Poland’s energy systems - 1 day ago
-- [BleepingComputer] Konni hackers target blockchain engineers with AI-built malware - 1 day ago
-- [RegisterSoftware] How an experienced developer teamed up with Claude to create Elo programming language - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
