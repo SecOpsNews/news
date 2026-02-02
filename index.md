@@ -9,97 +9,34 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough - 11 hours ago
-- [BleepingComputer] OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation - 11 hours ago
-- [Slack] Incident: Users on Free, Trial, or Pro plans may see the workspaces appearing blurred out - 11 hours ago
-- [DataBreaches] StopICE Hacked: Names And Locations of Over 100k Users Were Sent to the FBI, ICE and HSI - 17 hours ago
-- [DataBreaches] Comcast agrees to $117.5 million settlement to resolve lawsuits over 2023 Citrix Bleed data breach - 17 hours ago
-- [DataBreaches] RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach - 17 hours ago
-- [BleepingComputer] U.S. convicts ex-Google engineer for sending AI tech data to China - 20 hours ago
-- [DataBreaches] When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night - 20 hours ago
-- [BleepingComputer] Cloud storage payment scam floods inboxes with fake renewals - 21 hours ago
-- [DataBreaches] BD: 14,000 journos’ personal data leaked online - 21 hours ago
-- [BleepingComputer] Mandiant details how ShinyHunters abuse SSO to steal cloud data - 22 hours ago
-- [SecurityWeek] eScan Antivirus Delivers Malware in Supply Chain Attack - 22 hours ago
-- [BleepingComputer] Researcher reveals evidence of private Instagram profiles leaking photos - 23 hours ago
-- [BleepingComputer] Researcher reveals evidence of Instagram private profiles leaking photos - 23 hours ago
+- [HackerNews] eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware - 43 minutes ago
+- [HackerNews] Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm - 1 hour ago
+- [CloudFlare] DAR (Dar es Salaam) on 2026-02-04 - 5 hours ago
+- [CloudFlare] ADB (Izmir) on 2026-02-04 - 5 hours ago
+- [RegisterSec] Open-source AI is a global security nightmare waiting to happen, say researchers - 7 hours ago
+- [BleepingComputer] Exposed MongoDB instances still targeted in data extortion attacks - 15 hours ago
+- [BleepingComputer] New Apple privacy feature limits location tracking on iPhones, iPads - 16 hours ago
+- [RegisterSec] AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. - 16 hours ago
+- [BleepingComputer] OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough - 1 day ago
+- [BleepingComputer] OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation - 1 day ago
+- [Slack] Incident: Users on Free, Trial, or Pro plans may see the workspaces appearing blurred out - 1 day ago
+- [DataBreaches] StopICE Hacked: Names And Locations of Over 100k Users Were Sent to the FBI, ICE and HSI - 1 day ago
+- [DataBreaches] Comcast agrees to $117.5 million settlement to resolve lawsuits over 2023 Citrix Bleed data breach - 1 day ago
+- [DataBreaches] RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach - 1 day ago
+- [BleepingComputer] U.S. convicts ex-Google engineer for sending AI tech data to China - 1 day ago
+- [DataBreaches] When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night - 1 day ago
+- [BleepingComputer] Cloud storage payment scam floods inboxes with fake renewals - 1 day ago
+- [DataBreaches] BD: 14,000 journos’ personal data leaked online - 1 day ago
+- [BleepingComputer] Mandiant details how ShinyHunters abuse SSO to steal cloud data - 1 day ago
+- [SecurityWeek] eScan Antivirus Delivers Malware in Supply Chain Attack - 1 day ago
+- [BleepingComputer] Researcher reveals evidence of private Instagram profiles leaking photos - 1 day ago
+- [BleepingComputer] Researcher reveals evidence of Instagram private profiles leaking photos - 1 day ago
 - [HackerNews] Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists - 1 day ago
 - [GrahamCluley] FBI takes notorious RAMP ransomware forum offline - 1 day ago
 - [RegisterSoftware] Broadcom 'bulldozes' VMware cloud partners as March deadline looms - 1 day ago
 - [HIBP] Panera Bread - 5,112,502 breached accounts - 1 day ago
 - [HackerNews] Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms - 1 day ago
 - [HackerNews] CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms - 1 day ago
-- [CloudFlare] LAS (Las Vegas) on 2026-02-05 - 1 day ago
-- [CloudFlare] CNX (Chiang Mai) on 2026-02-03 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-02-04 - 1 day ago
-- [CloudFlare] MNL (Manila) on 2026-02-04 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-04 - 1 day ago
-- [CloudFlare] DAC (Dhaka) on 2026-02-04 - 1 day ago
-- [CloudFlare] HKG (Hong Kong) on 2026-02-03 - 1 day ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-02-04 - 1 day ago
-- [CloudFlare] CGK (Jakarta) on 2026-02-04 - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-05 - 1 day ago
-- [CloudFlare] BOM (Mumbai) on 2026-02-02 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-23 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-24 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-25 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-26 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-27 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-03-02 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-09 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-10 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-11 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-12 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-13 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-17 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-18 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-19 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 day ago
-- [RegisterSoftware] 'Hey! I’m chatting here!’ Fugazi answers doom NYC’s AI bot - 1 day ago
-- [RegisterSec] January blues return as Ivanti coughs up exploited EPMM zero-days - 1 day ago
-- [CloudFlare] AUS (Austin) on 2026-01-30 - 1 day ago
-- [Slack] Incident: Events errors related to Salesforce Automation application - 1 day ago
-- [RegisterSoftware] Ex-Googler nailed for stealing AI secrets for Chinese startups - 1 day ago
-- [CloudFlare] BOG (Bogota) on 2026-01-30 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-03 - 1 day ago
-- [GitHub] Degraded Experience - Failing to finalize some CCA Jobs - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-01-30 - 1 day ago
-- [CloudFlare] YWG (Winnipeg) on 2026-01-30 - 1 day ago
-- [CloudFlare] LAS (Las Vegas) on 2026-02-05 - 1 day ago
-- [CloudFlare] URT (Surat Thani) on 2026-02-02 - 1 day ago
-- [CloudFlare] CNX (Chiang Mai) on 2026-02-02 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-02-03 - 1 day ago
-- [CloudFlare] CNX (Chiang Mai) on 2026-02-03 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-02-04 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-01-29 - 1 day ago
-- [CloudFlare] ISB (Islamabad) on 2026-01-30 - 1 day ago
-- [RegisterSoftware] Feeling taxed by layoffs, IRS turns to AI helpers - 1 day ago
-- [RegisterSec] Thousands more Oregon residents learn their health data was stolen in TriZetto breach - 1 day ago
-- [BleepingComputer] Crypto wallets received a record $158 billion in illicit funds last year - 1 day ago
-- [SecurityWeek] In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak - 1 day ago
-- [CloudFlare] DEL (New Delhi) on 2026-01-30 - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-02 - 1 day ago
-- [CloudFlare] HKG (Hong Kong) on 2026-02-03 - 1 day ago
-- [CloudFlare] EZE (Buenos Aires) on 2026-02-04 - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-05 - 1 day ago
-- [BleepingComputer] Microsoft to disable NTLM by default in future Windows releases - 1 day ago
-- [RegisterSoftware] Backblaze says AI traffic and neoclouds could shape future networks - 1 day ago
-- [DataBreaches] SK Telecom rejects consumer agency’s compensation settlement over personal data leak - 1 day ago
-- [DataBreaches] Investigation into data breach involving Blue Cross Blue Shield members could head to court - 1 day ago
-- [BleepingComputer] Operation Switch Off dismantles major pirate TV streaming services - 1 day ago
-- [Slack] Incident: Trouble connecting to Salesforce Channels - 1 day ago
-- [1Password] Intermittent Performance Issues - 1 day ago
-- [RegisterSoftware] Oracle seeks to build bridges with MySQL developers - 1 day ago
-- [SecurityWeek] 175,000 Exposed Ollama Hosts Could Enable LLM Abuse - 1 day ago
-- [BleepingComputer] Microsoft fixes Outlook bug blocking access to encrypted emails - 1 day ago
-- [SecurityWeek] Aisy Launches Out of Stealth to Transform Vulnerability Management - 1 day ago
-- [IT Governance] How Cyber Criminals Target POS (Point-of-Sale) Systems and eCommerce Sites - 1 day ago
-- [RegisterSoftware] Autonomous cars, drones cheerfully obey prompt injection by road sign - 1 day ago
-- [HackerNews] Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access - 1 day ago
-- [RegisterSoftware] OpenAI gives ChatGPT models the chop – two weeks' notice, take it or leave it - 2 days ago
-- [RegisterSoftware] Want digital sovereignty? That'll be 1% of your GDP into AI infrastructure please - 2 days ago
-- [HackerNews] China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware - 2 days ago
-- [IT Governance] The Differences Between NIS2 and GDPR Representatives - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
@@ -238,10 +175,10 @@ description: Latest Updates
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 11 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 11 months ago
 - [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 12 months ago
-- [TroyHunt] Weekly Update 437 - 12 months ago
-- [HIBP] 9Lives - 109,515 breached accounts - 12 months ago
-- [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 12 months ago
-- [RegisterSoftware] Intel has officially missed the boat for AI in the datacenter - 12 months ago
+- [TroyHunt] Weekly Update 437 - 1 year ago
+- [HIBP] 9Lives - 109,515 breached accounts - 1 year ago
+- [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 1 year ago
+- [RegisterSoftware] Intel has officially missed the boat for AI in the datacenter - 1 year ago
 
 
 <!-- SecOps end -->
