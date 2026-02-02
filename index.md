@@ -9,14 +9,38 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware - 43 minutes ago
-- [HackerNews] Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm - 1 hour ago
-- [CloudFlare] DAR (Dar es Salaam) on 2026-02-04 - 5 hours ago
-- [CloudFlare] ADB (Izmir) on 2026-02-04 - 5 hours ago
-- [RegisterSec] Open-source AI is a global security nightmare waiting to happen, say researchers - 7 hours ago
-- [BleepingComputer] Exposed MongoDB instances still targeted in data extortion attacks - 15 hours ago
-- [BleepingComputer] New Apple privacy feature limits location tracking on iPhones, iPads - 16 hours ago
-- [RegisterSec] AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. - 16 hours ago
+- [DataBreaches] Threats: Results of a pilot survey on threats, and a new category on DataBreaches.net - 34 minutes ago
+- [DataBreaches] Under Pressure: Exploring the effect of legal and criminal threats on security researchers and journalists - 34 minutes ago
+- [ScottHelme] The European Space Agency got hacked, and now we own the domain used! - 34 minutes ago
+- [SecurityWeek] Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities - 34 minutes ago
+- [HackerNews] Securing the Mid-Market Across the Complete Threat Lifecycle - 34 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats - 34 minutes ago
+- [RegisterSec] Notepad++ update service hijacked in targeted state-linked attack - 34 minutes ago
+- [BleepingComputer] Panera Bread breach impacts 5.1 million accounts, not 14 million customers - 34 minutes ago
+- [RegisterSoftware] Notepad++ update service hijacked in targeted state-linked attack - 34 minutes ago
+- [SecurityWeek] Cyber Insights 2026: Malware and Cyberattacks in the Age of AI - 1 hour ago
+- [BleepingComputer] Microsoft fixes bug causing password sign-in option to disappear - 2 hours ago
+- [RegisterSoftware] Microsoft's Sinofsky saw Surface fail coming – then hit up Epstein for advice on exit - 2 hours ago
+- [SecurityWeek] Microsoft Moves Closer to Disabling NTLM - 2 hours ago
+- [SecurityWeek] Over 1,400 MongoDB Databases Ransacked by Threat Actor - 2 hours ago
+- [SecurityWeek] Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows - 3 hours ago
+- [Slack] Incident: Users unable to create or edit workflows - 3 hours ago
+- [RegisterSec] Infrastructure cyberattacks are suddenly in fashion. We can buck the trend - 4 hours ago
+- [BleepingComputer] NationStates confirms data breach, shuts down game site - 4 hours ago
+- [HackerNews] Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users - 4 hours ago
+- [RegisterSoftware] Microsoft's 'atypical' emergency Windows patches are becoming awfully typical - 4 hours ago
+- [SecurityWeek] Notepad++ Supply Chain Hack Conducted by China via Hosting Provider - 5 hours ago
+- [RegisterSec] Why native cloud security falls short - 5 hours ago
+- [IT Governance] BSI Professional Services Japan, a division of BSI Japan, becomes GRC Japan KK, joining the GRC Solutions group - 5 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-05 - 6 hours ago
+- [HackerNews] eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware - 7 hours ago
+- [HackerNews] Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm - 8 hours ago
+- [CloudFlare] DAR (Dar es Salaam) on 2026-02-04 - 12 hours ago
+- [CloudFlare] ADB (Izmir) on 2026-02-04 - 12 hours ago
+- [RegisterSec] Open-source AI is a global security nightmare waiting to happen, say researchers - 14 hours ago
+- [BleepingComputer] Exposed MongoDB instances still targeted in data extortion attacks - 22 hours ago
+- [BleepingComputer] New Apple privacy feature limits location tracking on iPhones, iPads - 23 hours ago
+- [RegisterSec] AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. - 23 hours ago
 - [BleepingComputer] OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough - 1 day ago
 - [BleepingComputer] OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation - 1 day ago
 - [Slack] Incident: Users on Free, Trial, or Pro plans may see the workspaces appearing blurred out - 1 day ago
@@ -30,13 +54,7 @@ description: Latest Updates
 - [BleepingComputer] Mandiant details how ShinyHunters abuse SSO to steal cloud data - 1 day ago
 - [SecurityWeek] eScan Antivirus Delivers Malware in Supply Chain Attack - 1 day ago
 - [BleepingComputer] Researcher reveals evidence of private Instagram profiles leaking photos - 1 day ago
-- [BleepingComputer] Researcher reveals evidence of Instagram private profiles leaking photos - 1 day ago
-- [HackerNews] Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists - 1 day ago
-- [GrahamCluley] FBI takes notorious RAMP ransomware forum offline - 1 day ago
-- [RegisterSoftware] Broadcom 'bulldozes' VMware cloud partners as March deadline looms - 1 day ago
-- [HIBP] Panera Bread - 5,112,502 breached accounts - 1 day ago
-- [HackerNews] Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms - 1 day ago
-- [HackerNews] CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms - 1 day ago
+- [BleepingComputer] Researcher reveals evidence of Instagram private profiles leaking photos - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
@@ -174,7 +192,7 @@ description: Latest Updates
 - [BrianKrebs] Nearly a Year Later, Mozilla is Still Promoting OneRep - 11 months ago
 - [Slack] Incident: Some users may have trouble adding multiple existing workspace members to channels by email address - 11 months ago
 - [Slack] Incident: Trouble with adding or triggering steps in Workflow Builder - 11 months ago
-- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 12 months ago
+- [FullDisclosure] APPLE-SA-01-30-2025-1 GarageBand 10.4.12 - 1 year ago
 - [TroyHunt] Weekly Update 437 - 1 year ago
 - [HIBP] 9Lives - 109,515 breached accounts - 1 year ago
 - [BleepingComputer] Google says hackers abuse Gemini AI to empower their attacks - 1 year ago
