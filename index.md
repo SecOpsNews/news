@@ -9,20 +9,21 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [FullDisclosure] Certified Asterisk Security Release certified-20.7-cert9 - 2 hours ago
-- [FullDisclosure] Asterisk Security Release 20.18.2 - 2 hours ago
-- [FullDisclosure] Asterisk Security Release 22.8.2 - 2 hours ago
-- [FullDisclosure] Asterisk Security Release 21.12.1 - 2 hours ago
-- [FullDisclosure] Asterisk Security Release 23.2.2 - 2 hours ago
-- [AWS] Service impact: [Resolved] Network Connectivity - 12 hours ago
-- [RegisterSoftware] Whether they are building agents or folding proteins, LLMs need a friend - 15 hours ago
-- [BleepingComputer] State actor targets 155 countries in 'Shadow Campaigns' espionage op - 15 hours ago
-- [GrahamCluley] Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam - 18 hours ago
-- [SecurityWeek] Organizations Urged to Replace Discontinued Edge Devices - 18 hours ago
-- [RegisterSec] Study confirms experience beats youthful enthusiasm - 18 hours ago
-- [HackerNews] German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists - 18 hours ago
-- [RegisterSoftware] Study confirms experience beats youthful enthusiasm - 18 hours ago
-- [BleepingComputer] Payments platform BridgePay confirms ransomware attack behind outage - 21 hours ago
+- [HackerNews] OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - 5 hours ago
+- [FullDisclosure] Certified Asterisk Security Release certified-20.7-cert9 - 9 hours ago
+- [FullDisclosure] Asterisk Security Release 20.18.2 - 9 hours ago
+- [FullDisclosure] Asterisk Security Release 22.8.2 - 9 hours ago
+- [FullDisclosure] Asterisk Security Release 21.12.1 - 9 hours ago
+- [FullDisclosure] Asterisk Security Release 23.2.2 - 9 hours ago
+- [AWS] Service impact: [Resolved] Network Connectivity - 19 hours ago
+- [RegisterSoftware] Whether they are building agents or folding proteins, LLMs need a friend - 22 hours ago
+- [BleepingComputer] State actor targets 155 countries in 'Shadow Campaigns' espionage op - 22 hours ago
+- [GrahamCluley] Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam - 1 day ago
+- [SecurityWeek] Organizations Urged to Replace Discontinued Edge Devices - 1 day ago
+- [RegisterSec] Study confirms experience beats youthful enthusiasm - 1 day ago
+- [HackerNews] German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists - 1 day ago
+- [RegisterSoftware] Study confirms experience beats youthful enthusiasm - 1 day ago
+- [BleepingComputer] Payments platform BridgePay confirms ransomware attack behind outage - 1 day ago
 - [HIBP] Substack - 663,121 breached accounts - 1 day ago
 - [RegisterSoftware] AI video company arouses fury by boasting about replacing creative jobs - 1 day ago
 - [BleepingComputer] Germany warns of Signal account hijacking targeting senior figures - 1 day ago
@@ -47,25 +48,8 @@ description: Latest Updates
 - [BleepingComputer] EU says TikTok faces large fine over "addictive design" - 1 day ago
 - [RegisterSoftware] Microsoft starts the countdown for the end of Exchange Web Services - 1 day ago
 - [HackerNews] CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk - 1 day ago
-- [HackerNews] Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities - 1 day ago
-- [BleepingComputer] Man pleads guilty to hacking nearly 600 women’s Snapchat accounts - 1 day ago
-- [RegisterSoftware] Romanian rail workers accused of bribery turned to ChatGPT for legal tips - 1 day ago
-- [SecurityWeek] Living off the AI: The Next Evolution of Attacker Tradecraft - 1 day ago
-- [SecurityWeek] Flickr Security Incident Tied to Third-Party Email System - 1 day ago
-- [RegisterSoftware] DWP considers chatbot work coaches as AI-fueled job losses loom - 1 day ago
-- [Slack] Incident: Issue with scheduled workflows - 1 day ago
-- [SecurityWeek] In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities - 1 day ago
-- [HackerNews] How Samsung Knox Helps Stop Your Network Security Breach - 1 day ago
-- [RegisterSoftware] UK council digs deeper into capital assets to keep Oracle project afloat - 1 day ago
-- [SecurityWeek] Airrived Emerges From Stealth With $6.1 Million in Funding - 1 day ago
-- [RegisterSoftware] Summer in Australia means beers, beaches, and bork - 1 day ago
-- [BleepingComputer] Flickr discloses potential data breach exposing users' names, emails - 1 day ago
-- [HackerNews] Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware - 1 day ago
-- [BleepingComputer] CISA orders federal agencies to replace end-of-life edge devices - 1 day ago
-- [SecurityWeek] ‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks - 1 day ago
-- [SecurityWeek] Critical SmarterMail Vulnerability Exploited in Ransomware Attacks - 1 day ago
-- [SecurityWeek] 5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel - 1 day ago
-- [RegisterSoftware] New hire fixed a problem so fast, their boss left to become a yoga instructor - 1 day ago
+- [HackerNews] Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities - 2 days ago
+- [BleepingComputer] Man pleads guilty to hacking nearly 600 women’s Snapchat accounts - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
