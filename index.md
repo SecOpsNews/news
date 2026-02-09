@@ -9,47 +9,33 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - 5 hours ago
-- [FullDisclosure] Certified Asterisk Security Release certified-20.7-cert9 - 9 hours ago
-- [FullDisclosure] Asterisk Security Release 20.18.2 - 9 hours ago
-- [FullDisclosure] Asterisk Security Release 22.8.2 - 9 hours ago
-- [FullDisclosure] Asterisk Security Release 21.12.1 - 9 hours ago
-- [FullDisclosure] Asterisk Security Release 23.2.2 - 9 hours ago
-- [AWS] Service impact: [Resolved] Network Connectivity - 19 hours ago
-- [RegisterSoftware] Whether they are building agents or folding proteins, LLMs need a friend - 22 hours ago
-- [BleepingComputer] State actor targets 155 countries in 'Shadow Campaigns' espionage op - 22 hours ago
+- [CloudFlare] PDX (Portland) on 2026-02-19 - 50 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 hour ago
+- [TroyHunt] Weekly Update 490 - 3 hours ago
+- [RegisterSec] Indian police commissioner wants ID cards for AI agents - 3 hours ago
+- [RegisterSoftware] Indian police commissioner wants ID cards for AI agents - 3 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-02-20 - 3 hours ago
+- [RegisterSoftware] Linus Torvalds keeps his ‘fingers and toes’ rule by decreeing next Linux will be version 7.0 - 5 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2026-02-16 - 8 hours ago
+- [RegisterSec] Telcos aren't saying how they fought back against China's Salt Typhoon attacks - 8 hours ago
+- [RegisterSoftware] This dev made a Llama with three inference engines - 10 hours ago
+- [BleepingComputer] New tool blocks imposter attacks disguised as safe commands - 16 hours ago
+- [RegisterSoftware] Three AI engines walk into a bar in single file... - 16 hours ago
+- [HackerNews] OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - 23 hours ago
+- [FullDisclosure] Certified Asterisk Security Release certified-20.7-cert9 - 1 day ago
+- [FullDisclosure] Asterisk Security Release 20.18.2 - 1 day ago
+- [FullDisclosure] Asterisk Security Release 22.8.2 - 1 day ago
+- [FullDisclosure] Asterisk Security Release 21.12.1 - 1 day ago
+- [FullDisclosure] Asterisk Security Release 23.2.2 - 1 day ago
+- [AWS] Service impact: [Resolved] Network Connectivity - 1 day ago
+- [RegisterSoftware] Whether they are building agents or folding proteins, LLMs need a friend - 1 day ago
+- [BleepingComputer] State actor targets 155 countries in 'Shadow Campaigns' espionage op - 1 day ago
 - [GrahamCluley] Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam - 1 day ago
 - [SecurityWeek] Organizations Urged to Replace Discontinued Edge Devices - 1 day ago
 - [RegisterSec] Study confirms experience beats youthful enthusiasm - 1 day ago
 - [HackerNews] German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists - 1 day ago
 - [RegisterSoftware] Study confirms experience beats youthful enthusiasm - 1 day ago
 - [BleepingComputer] Payments platform BridgePay confirms ransomware attack behind outage - 1 day ago
-- [HIBP] Substack - 663,121 breached accounts - 1 day ago
-- [RegisterSoftware] AI video company arouses fury by boasting about replacing creative jobs - 1 day ago
-- [BleepingComputer] Germany warns of Signal account hijacking targeting senior figures - 1 day ago
-- [RegisterSoftware] Four horsemen of the AI-pocalypse line up capex bigger than Israel's GDP - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-02-13 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-02-11 - 1 day ago
-- [BleepingComputer] DKnife Linux toolkit hijacks router traffic to spy, deliver malware - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-11 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-12 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-13 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-16 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-17 - 1 day ago
-- [RegisterSoftware] Four horsemen of the AI-pocalypse line up capex bigger than Israel’s GDP - 1 day ago
-- [GitHub] Incident with Pull Requests - 1 day ago
-- [RegisterSec] Flickr emails users about data breach, pins it on 3rd party - 1 day ago
-- [BleepingComputer] CISA warns of SmarterMail RCE flaw used in ransomware attacks - 1 day ago
-- [RegisterSec] DDoS deluge: Brit biz battered as botnet blitzes break records - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-02-11 - 1 day ago
-- [BleepingComputer] EDR, Email, and SASE Miss This Entire Class of Browser Attacks - 1 day ago
-- [RegisterSoftware] Supermarket sorry after facial recognition alert flags right criminal, wrong customer - 1 day ago
-- [HackerNews] China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery - 1 day ago
-- [BleepingComputer] EU says TikTok faces large fine over "addictive design" - 1 day ago
-- [RegisterSoftware] Microsoft starts the countdown for the end of Exchange Web Services - 1 day ago
-- [HackerNews] CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk - 1 day ago
-- [HackerNews] Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities - 2 days ago
-- [BleepingComputer] Man pleads guilty to hacking nearly 600 women’s Snapchat accounts - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
