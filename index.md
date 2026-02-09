@@ -9,19 +9,46 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] PDX (Portland) on 2026-02-19 - 50 minutes ago
-- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 hour ago
-- [TroyHunt] Weekly Update 490 - 3 hours ago
-- [RegisterSec] Indian police commissioner wants ID cards for AI agents - 3 hours ago
-- [RegisterSoftware] Indian police commissioner wants ID cards for AI agents - 3 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-02-20 - 3 hours ago
-- [RegisterSoftware] Linus Torvalds keeps his ‘fingers and toes’ rule by decreeing next Linux will be version 7.0 - 5 hours ago
-- [CloudFlare] DUS (Düsseldorf) on 2026-02-16 - 8 hours ago
-- [RegisterSec] Telcos aren't saying how they fought back against China's Salt Typhoon attacks - 8 hours ago
-- [RegisterSoftware] This dev made a Llama with three inference engines - 10 hours ago
-- [BleepingComputer] New tool blocks imposter attacks disguised as safe commands - 16 hours ago
-- [RegisterSoftware] Three AI engines walk into a bar in single file... - 16 hours ago
-- [HackerNews] OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - 23 hours ago
+- [HackerNews] How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring - 57 minutes ago
+- [RegisterSec] How the GNU C Compiler became the Clippy of cryptography - 57 minutes ago
+- [SecurityWeek] SmarterTools Hit by Ransomware via Vulnerability in Its Own Product - 58 minutes ago
+- [SecurityWeek] Recent SolarWinds Flaws Potentially Exploited as Zero-Days - 58 minutes ago
+- [RegisterSoftware] How the GNU C Compiler became the Clippy of cryptography - 58 minutes ago
+- [SecurityWeek] Cybersecurity M&A Roundup: 34 Deals Announced in January 2026 - 58 minutes ago
+- [BleepingComputer] BeyondTrust warns of critical RCE flaw in remote support software - 58 minutes ago
+- [RegisterSoftware] Brussels eyes crowbar for Meta's WhatsApp AI lockout - 58 minutes ago
+- [RegisterSec] Follow the money: Switzerland remains Europe's top destination for tech pay - 2 hours ago
+- [BleepingComputer] Men charged in FanDuel scheme fueled by thousands of stolen identities - 2 hours ago
+- [RegisterSoftware] Follow the money: Switzerland remains Europe's top destination for tech pay - 2 hours ago
+- [HackerNews] Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign - 3 hours ago
+- [RegisterSoftware] Matrix is quietly becoming the chat layer for governments chasing digital sovereignty - 3 hours ago
+- [RegisterSec] European Commission probes intrusion into staff mobile management backend - 3 hours ago
+- [BleepingComputer] Microsoft: Exchange Online flags legitimate emails as phishing - 3 hours ago
+- [SecurityWeek] New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog - 4 hours ago
+- [BleepingComputer] European Commission discloses breach that exposed staff data - 4 hours ago
+- [RegisterSoftware] The Linux mid-life crisis that's an opportunity for Tux-led transformation - 4 hours ago
+- [HackerNews] TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure - 4 hours ago
+- [GitHub] Degraded performance for Copilot Coding Agent - 4 hours ago
+- [CloudFlare] HEL (Helsinki) on 2026-02-12 - 4 hours ago
+- [RegisterSoftware] Unlocking the hidden power of unstructured data with AI - 5 hours ago
+- [HackerNews] BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA - 5 hours ago
+- [SecurityWeek] European Commission Investigating Cyberattack - 5 hours ago
+- [CloudFlare] OSL (Oslo) on 2026-02-12 - 5 hours ago
+- [GitHub] Degraded Performance in Webhooks API and UI, Pull Requests - 5 hours ago
+- [CloudFlare] PDX (Portland) on 2026-02-18 - 6 hours ago
+- [CloudFlare] PDX (Portland) on 2026-02-19 - 7 hours ago
+- [CloudFlare] PDX (Portland) on 2026-02-20 - 8 hours ago
+- [TroyHunt] Weekly Update 490 - 10 hours ago
+- [RegisterSec] Indian police commissioner wants ID cards for AI agents - 10 hours ago
+- [RegisterSoftware] Indian police commissioner wants ID cards for AI agents - 10 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-02-20 - 10 hours ago
+- [RegisterSoftware] Linus Torvalds keeps his ‘fingers and toes’ rule by decreeing next Linux will be version 7.0 - 12 hours ago
+- [CloudFlare] DUS (Düsseldorf) on 2026-02-16 - 15 hours ago
+- [RegisterSec] Telcos aren't saying how they fought back against China's Salt Typhoon attacks - 15 hours ago
+- [RegisterSoftware] This dev made a Llama with three inference engines - 17 hours ago
+- [BleepingComputer] New tool blocks imposter attacks disguised as safe commands - 22 hours ago
+- [RegisterSoftware] Three AI engines walk into a bar in single file... - 23 hours ago
+- [HackerNews] OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - 1 day ago
 - [FullDisclosure] Certified Asterisk Security Release certified-20.7-cert9 - 1 day ago
 - [FullDisclosure] Asterisk Security Release 20.18.2 - 1 day ago
 - [FullDisclosure] Asterisk Security Release 22.8.2 - 1 day ago
@@ -30,12 +57,8 @@ description: Latest Updates
 - [AWS] Service impact: [Resolved] Network Connectivity - 1 day ago
 - [RegisterSoftware] Whether they are building agents or folding proteins, LLMs need a friend - 1 day ago
 - [BleepingComputer] State actor targets 155 countries in 'Shadow Campaigns' espionage op - 1 day ago
-- [GrahamCluley] Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam - 1 day ago
-- [SecurityWeek] Organizations Urged to Replace Discontinued Edge Devices - 1 day ago
-- [RegisterSec] Study confirms experience beats youthful enthusiasm - 1 day ago
-- [HackerNews] German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists - 1 day ago
-- [RegisterSoftware] Study confirms experience beats youthful enthusiasm - 1 day ago
-- [BleepingComputer] Payments platform BridgePay confirms ransomware attack behind outage - 1 day ago
+- [GrahamCluley] Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam - 2 days ago
+- [SecurityWeek] Organizations Urged to Replace Discontinued Edge Devices - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
