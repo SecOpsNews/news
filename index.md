@@ -9,69 +9,110 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] From Ransomware to Residency: Inside the Rise of the Digital Parasite - 6 minutes ago
-- [RegisterSec] Singapore spent 11 months booting China-linked snoops out of telco networks - 6 minutes ago
-- [RegisterSoftware] Oracle Java licensing worries are percolating through the userbase - 6 minutes ago
-- [IT Governance] The Cyber Essentials Scheme’s 2026 Update and What it Means for Your Organisation - 1 hour ago
-- [RegisterSoftware] GitHub appears to be struggling with measly three nines availability - 1 hour ago
-- [BleepingComputer] ZeroDayRAT malware grants full access to Android, iOS devices - 1 hour ago
-- [SecurityWeek] New ‘SSHStalker’ Linux Botnet Uses Old Techniques - 1 hour ago
-- [HackerNews] ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security - 1 hour ago
-- [BleepingComputer] Microsoft announces new mobile-style Windows security controls - 1 hour ago
-- [SecurityWeek] New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices - 1 hour ago
-- [CloudFlare] EWR (Newark) on 2026-02-18 - 2 hours ago
-- [SecurityWeek] BeyondTrust Patches Critical RCE Vulnerability - 2 hours ago
-- [RegisterSoftware] AI vastly reduced stress of IPv6 migrations in university experiment - 2 hours ago
-- [HackerNews] Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server - 2 hours ago
-- [RegisterSec] Nearly 17,000 Volvo staff dinged in supplier breach - 3 hours ago
-- [RegisterSoftware] Frankfurt to dethrone London as colocation king by 2031 - 3 hours ago
-- [SecurityWeek] Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms - 4 hours ago
-- [RegisterSec] British Army splashes $86M on AI gear to speed up the battlefield kill chain - 4 hours ago
-- [RegisterSoftware] Edinburgh councillors pull the plug on 'green' AI datacenter - 4 hours ago
-- [HackerNews] Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data - 5 hours ago
-- [BleepingComputer] Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison - 5 hours ago
-- [SecurityWeek] RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool - 6 hours ago
-- [HackerNews] Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution - 8 hours ago
-- [HIBP] Association Nationale des Premiers Secours - 5,600 breached accounts - 10 hours ago
-- [HIBP] Toy Battles - 1,017 breached accounts - 10 hours ago
-- [RegisterSoftware] OpenAI introduces ads...for the people! - 12 hours ago
-- [RegisterSoftware] Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt - 14 hours ago
-- [CloudFlare] LYS (Lyon) on 2026-02-17 - 15 hours ago
-- [BleepingComputer] Chinese cyberspies breach Singapore's four largest telcos - 15 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-23 - 15 hours ago
-- [RegisterSec] Someone's attacking SolarWinds WHD to steal high‑privilege credentials - but we don't know who or how - 16 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-24 - 16 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-25 - 16 hours ago
-- [RegisterSoftware] AI chatbots are no better at medical advice than a search engine - 17 hours ago
-- [RegisterSoftware] Google soaks up 1GW of Texas sunshine to power $185B AI spending spree - 17 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-26 - 17 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-27 - 17 hours ago
-- [BleepingComputer] Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks - 17 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-02-12 - 18 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-02-12 - 18 hours ago
-- [CloudFlare] PDX (Portland) on 2026-03-02 - 18 hours ago
-- [ScottHelme] DNS-PERSIST-01; Handling Domain Control Validation in a short-lived certificate World - 18 hours ago
-- [BleepingComputer] Hackers breach SmarterTools network using flaw in its own software - 18 hours ago
-- [HackerNews] China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign - 18 hours ago
-- [CloudFlare] SJC (San Jose) on 2026-02-24 - 19 hours ago
-- [GitHub] Incident with Issues, Actions and Git Operations - 19 hours ago
-- [CloudFlare] SJC (San Jose) on 2026-02-18 - 20 hours ago
-- [RegisterSoftware] Anthropic's Claude Opus 4.6 spends $20K trying to write a C compiler - 21 hours ago
-- [RegisterSoftware] More than 135,000 OpenClaw instances exposed to internet in latest vibe-coded disaster - 21 hours ago
-- [SecurityWeek] Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk - 21 hours ago
-- [RegisterSec] More than 135,000 OpenClaw instances exposed to internet in latest vibe-coded disaster - 21 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-12 - 21 hours ago
-- [IT Governance] Ransomware - 21 hours ago
-- [RegisterSoftware] AI.com goes for $70M as crypto boss bets big on buzzword bubble - 21 hours ago
-- [GitHub] Notifications are delayed - 22 hours ago
-- [GitHub] Copilot Policy Propagation Delays - 22 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-13 - 22 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-17 - 22 hours ago
-- [RegisterSec] Dutch data watchdog snitches on itself after getting caught in Ivanti zero-day attacks - 22 hours ago
-- [HackerNews] SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers - 22 hours ago
-- [BleepingComputer] Password guessing without AI: How attackers build targeted wordlists - 22 hours ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-18 - 23 hours ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-19 - 23 hours ago
+- [HackerNews] North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations - 9 minutes ago
+- [RegisterSoftware] Open Compute taps IOWN to help design distributed datacenters and a 'computing continuum' - 2 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Change Propagation Delays - 2 hours ago
+- [BleepingComputer] Microsoft releases Windows 11 26H1 for select and upcoming CPUs - 4 hours ago
+- [RegisterSoftware] AI connector for Google Calendar makes convenient malware launchpad, researchers show - 4 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-02-12 - 4 hours ago
+- [Slack] Incident: Unable to Install Apps to Workspaces - 4 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-02-13 - 7 hours ago
+- [RegisterSoftware] AI can predict your future salary based on your photo, boffins claim - 7 hours ago
+- [BleepingComputer] New Linux botnet SSHStalker uses old-school IRC for C2 comms - 8 hours ago
+- [CloudFlare] EWR (Newark) on 2026-02-12 - 8 hours ago
+- [AWS] Service impact: Change Propagation Delays - 8 hours ago
+- [BleepingComputer] North Korean hackers use new macOS malware in crypto-theft attacks - 8 hours ago
+- [RegisterSec] Microsoft's Valentine's gift to admins: 6 exploited zero-day fixes - 8 hours ago
+- [RegisterSoftware] AI face analysis used to predict MBA pay, researchers claim - 9 hours ago
+- [BrianKrebs] Patch Tuesday, February 2026 Edition - 9 hours ago
+- [RegisterSoftware] Cadence heard you wanted some AI in your AI so it used AI to design an AI chip - 10 hours ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-24 - 10 hours ago
+- [BleepingComputer] Windows 11 KB5077181 & KB5075941 cumulative updates released - 12 hours ago
+- [BleepingComputer] Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws - 12 hours ago
+- [BleepingComputer] Microsoft releases Windows 10 KB5075912 extended security update - 12 hours ago
+- [BleepingComputer] Malicious 7-Zip site distributes installer laced with proxy tool - 12 hours ago
+- [SecurityWeek] 6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates - 12 hours ago
+- [HackerNews] DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies - 13 hours ago
+- [RegisterSec] AI agents spill secrets just by previewing malicious links - 13 hours ago
+- [SecurityWeek] Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps - 13 hours ago
+- [SecurityWeek] EU Unconditionally Approves Google’s $32B Acquisition of Wiz - 13 hours ago
+- [RegisterSoftware] AI agents spill secrets just by previewing malicious links - 13 hours ago
+- [BleepingComputer] Microsoft rolls out new Secure Boot certificates before June expiration - 14 hours ago
+- [BleepingComputer] Volvo Group North America customer data exposed in Conduent hack - 14 hours ago
+- [SecurityWeek] RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India - 14 hours ago
+- [SecurityWeek] Vega Raises $120M in Series B Funding to Grow Security Analytics Platform - 14 hours ago
+- [SecurityWeek] Reco Raises $30 Million to Enhance AI SaaS Security - 14 hours ago
+- [RegisterSoftware] Microsoft dials up the nagging in Windows, calls it security - 15 hours ago
+- [SecurityWeek] Backslash Raises $19 Million to Secure Vibe Coding - 15 hours ago
+- [RegisterSoftware] Trump to hyperscalers: your datacenters, your power bill - 15 hours ago
+- [BleepingComputer] How to Automate AWS Incident Investigation with Tines and AI - 15 hours ago
+- [SecurityWeek] SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities - 15 hours ago
+- [BleepingComputer] Microsoft 365 outage takes down admin center in North America - 15 hours ago
+- [RegisterSoftware] What to expect from this year’s NVIDIA GTC conference - 15 hours ago
+- [HackerNews] Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools - 15 hours ago
+- [HackerNews] From Ransomware to Residency: Inside the Rise of the Digital Parasite - 17 hours ago
+- [RegisterSec] Singapore spent 11 months booting China-linked snoops out of telco networks - 17 hours ago
+- [RegisterSoftware] Oracle Java licensing worries are percolating through the userbase - 17 hours ago
+- [IT Governance] The Cyber Essentials Scheme’s 2026 Update and What it Means for Your Organisation - 18 hours ago
+- [RegisterSoftware] GitHub appears to be struggling with measly three nines availability - 18 hours ago
+- [BleepingComputer] ZeroDayRAT malware grants full access to Android, iOS devices - 18 hours ago
+- [SecurityWeek] New ‘SSHStalker’ Linux Botnet Uses Old Techniques - 18 hours ago
+- [HackerNews] ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security - 18 hours ago
+- [BleepingComputer] Microsoft announces new mobile-style Windows security controls - 18 hours ago
+- [SecurityWeek] New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices - 18 hours ago
+- [CloudFlare] EWR (Newark) on 2026-02-18 - 19 hours ago
+- [SecurityWeek] BeyondTrust Patches Critical RCE Vulnerability - 19 hours ago
+- [RegisterSoftware] AI vastly reduced stress of IPv6 migrations in university experiment - 19 hours ago
+- [HackerNews] Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server - 19 hours ago
+- [RegisterSec] Nearly 17,000 Volvo staff dinged in supplier breach - 20 hours ago
+- [RegisterSoftware] Frankfurt to dethrone London as colocation king by 2031 - 20 hours ago
+- [SecurityWeek] Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms - 21 hours ago
+- [RegisterSec] British Army splashes $86M on AI gear to speed up the battlefield kill chain - 21 hours ago
+- [RegisterSoftware] Edinburgh councillors pull the plug on 'green' AI datacenter - 21 hours ago
+- [HackerNews] Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data - 22 hours ago
+- [BleepingComputer] Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison - 22 hours ago
+- [SecurityWeek] RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool - 23 hours ago
+- [HackerNews] Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution - 1 day ago
+- [HIBP] Association Nationale des Premiers Secours - 5,600 breached accounts - 1 day ago
+- [HIBP] Toy Battles - 1,017 breached accounts - 1 day ago
+- [RegisterSoftware] OpenAI introduces ads...for the people! - 1 day ago
+- [RegisterSoftware] Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt - 1 day ago
+- [CloudFlare] LYS (Lyon) on 2026-02-17 - 1 day ago
+- [BleepingComputer] Chinese cyberspies breach Singapore's four largest telcos - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-23 - 1 day ago
+- [RegisterSec] Someone's attacking SolarWinds WHD to steal high‑privilege credentials - but we don't know who or how - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-24 - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-25 - 1 day ago
+- [RegisterSoftware] AI chatbots are no better at medical advice than a search engine - 1 day ago
+- [RegisterSoftware] Google soaks up 1GW of Texas sunshine to power $185B AI spending spree - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-26 - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-27 - 1 day ago
+- [BleepingComputer] Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-12 - 1 day ago
+- [CloudFlare] IAD (Ashburn) on 2026-02-12 - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-03-02 - 1 day ago
+- [ScottHelme] DNS-PERSIST-01; Handling Domain Control Validation in a short-lived certificate World - 1 day ago
+- [BleepingComputer] Hackers breach SmarterTools network using flaw in its own software - 1 day ago
+- [HackerNews] China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign - 1 day ago
+- [CloudFlare] SJC (San Jose) on 2026-02-24 - 1 day ago
+- [GitHub] Incident with Issues, Actions and Git Operations - 1 day ago
+- [CloudFlare] SJC (San Jose) on 2026-02-18 - 1 day ago
+- [RegisterSoftware] Anthropic's Claude Opus 4.6 spends $20K trying to write a C compiler - 1 day ago
+- [RegisterSoftware] More than 135,000 OpenClaw instances exposed to internet in latest vibe-coded disaster - 1 day ago
+- [SecurityWeek] Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk - 1 day ago
+- [RegisterSec] More than 135,000 OpenClaw instances exposed to internet in latest vibe-coded disaster - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-12 - 1 day ago
+- [IT Governance] Ransomware - 1 day ago
+- [RegisterSoftware] AI.com goes for $70M as crypto boss bets big on buzzword bubble - 1 day ago
+- [GitHub] Notifications are delayed - 1 day ago
+- [GitHub] Copilot Policy Propagation Delays - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-13 - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-17 - 1 day ago
+- [RegisterSec] Dutch data watchdog snitches on itself after getting caught in Ivanti zero-day attacks - 1 day ago
+- [HackerNews] SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers - 1 day ago
+- [BleepingComputer] Password guessing without AI: How attackers build targeted wordlists - 1 day ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-18 - 1 day ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-19 - 1 day ago
 - [HackerNews] ⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More - 1 day ago
 - [RegisterSec] Taiwan tells Uncle Sam its chip ecosystem ain't going anywhere - 1 day ago
 - [SecurityWeek] Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats - 1 day ago
@@ -105,18 +146,10 @@ description: Latest Updates
 - [CloudFlare] OSL (Oslo) on 2026-02-12 - 1 day ago
 - [GitHub] Degraded Performance in Webhooks API and UI, Pull Requests - 1 day ago
 - [CloudFlare] PDX (Portland) on 2026-02-18 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-19 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 day ago
-- [TroyHunt] Weekly Update 490 - 1 day ago
-- [RegisterSec] Indian police commissioner wants ID cards for AI agents - 1 day ago
-- [RegisterSoftware] Indian police commissioner wants ID cards for AI agents - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-20 - 1 day ago
-- [RegisterSoftware] Linus Torvalds keeps his ‘fingers and toes’ rule by decreeing next Linux will be version 7.0 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2026-02-16 - 1 day ago
-- [RegisterSec] Telcos aren't saying how they fought back against China's Salt Typhoon attacks - 1 day ago
-- [RegisterSoftware] This dev made a Llama with three inference engines - 1 day ago
-- [BleepingComputer] New tool blocks imposter attacks disguised as safe commands - 1 day ago
-- [RegisterSoftware] Three AI engines walk into a bar in single file... - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-19 - 2 days ago
+- [CloudFlare] PDX (Portland) on 2026-02-20 - 2 days ago
+- [BleepingComputer] New tool blocks imposter attacks disguised as safe commands - 2 days ago
+- [RegisterSoftware] Three AI engines walk into a bar in single file... - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
