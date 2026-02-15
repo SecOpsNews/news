@@ -9,16 +9,16 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] Dutch phone giant Odido says millions of customers affected by data breach - 3 hours ago
-- [DataBreaches] New “Kurd Hackers Forum” Focuses on Middle Eastern Data Breaches and Leaks - 3 hours ago
-- [DataBreaches] Cyber Attacks on Schools Plateaued in 2025, but More Records Exposed - 3 hours ago
-- [DataBreaches] Guernsey medical practice sanctioned after cyber criminals access patient data through email account - 3 hours ago
-- [DataBreaches] Nevada unveils new statewide data classification policy months after cyberattack - 3 hours ago
-- [BleepingComputer] One threat actor responsible for 83% of recent Ivanti RCE attacks - 14 hours ago
-- [BleepingComputer] Snail mail letters target Trezor and Ledger users in crypto-theft attacks - 15 hours ago
-- [SecurityWeek] Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data - 18 hours ago
-- [RegisterSoftware] Contain your Windows apps inside Linux Windows - 18 hours ago
-- [RegisterSoftware] How AI could eat itself: Competitors can probe models to steal their secrets and clone them - 20 hours ago
+- [DataBreaches] Dutch phone giant Odido says millions of customers affected by data breach - 9 hours ago
+- [DataBreaches] New “Kurd Hackers Forum” Focuses on Middle Eastern Data Breaches and Leaks - 9 hours ago
+- [DataBreaches] Cyber Attacks on Schools Plateaued in 2025, but More Records Exposed - 9 hours ago
+- [DataBreaches] Guernsey medical practice sanctioned after cyber criminals access patient data through email account - 9 hours ago
+- [DataBreaches] Nevada unveils new statewide data classification policy months after cyberattack - 9 hours ago
+- [BleepingComputer] One threat actor responsible for 83% of recent Ivanti RCE attacks - 21 hours ago
+- [BleepingComputer] Snail mail letters target Trezor and Ledger users in crypto-theft attacks - 22 hours ago
+- [SecurityWeek] Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data - 1 day ago
+- [RegisterSoftware] Contain your Windows apps inside Linux Windows - 1 day ago
+- [RegisterSoftware] How AI could eat itself: Competitors can probe models to steal their secrets and clone them - 1 day ago
 - [CloudFlare] PDX (Portland) on 2026-02-17 - 1 day ago
 - [CloudFlare] DUS (Düsseldorf) on 2026-02-18 - 1 day ago
 - [CloudFlare] CAN (Guangzhou) on 2026-02-18 - 1 day ago
@@ -59,24 +59,10 @@ description: Latest Updates
 - [CloudFlare] Network Performance Issues in Delhi, India - 1 day ago
 - [RegisterSoftware] Investors shove another $30B into the Anthropic money furnace - 1 day ago
 - [RegisterSoftware] Misconfigured AI could trigger the next national infrastructure meltdown - 1 day ago
-- [RegisterSoftware] ʎɹǝʌoɔǝᴚ sʍopuᴉM ʇɐ sǝʇɐuᴉɯɹǝʇ snq sᴉɥ┴ - 1 day ago
-- [CloudFlare] Elevated 4xx errors being returned from Cloudflare AI Search - 1 day ago
-- [HackerNews] Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History - 1 day ago
-- [SecurityWeek] Dutch Carrier Odido Discloses Data Breach Impacting 6 Million - 1 day ago
-- [SecurityWeek] Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat - 1 day ago
-- [BleepingComputer] CISA flags critical Microsoft SCCM flaw as exploited in attacks - 1 day ago
-- [IT Governance] The Top 5 Ways Hackers Could Access Your Property Management Systems - 1 day ago
-- [RegisterSec] Top Dutch telco Odido admits 6.2M customers caught in contact system caper - 1 day ago
-- [RegisterSoftware] OK, so Anthropic's AI built a C compiler. That don't impress me much - 1 day ago
-- [SecurityWeek] BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release - 1 day ago
-- [HackerNews] npm’s Update to Harden Their Supply Chain, and Points to Consider - 1 day ago
-- [SecurityWeek] CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities - 1 day ago
-- [BleepingComputer] Microsoft fixes bug that blocked Google Chrome from launching - 1 day ago
-- [GrahamCluley] Urgent warnings from UK and US cyber agencies after Polish energy grid attack - 1 day ago
-- [HackerNews] Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability - 1 day ago
-- [SecurityWeek] Chrome 145 Patches 11 Vulnerabilities - 1 day ago
-- [SecurityWeek] China Revives Tianfu Cup Hacking Contest Under Increased Secrecy - 1 day ago
-- [RegisterSec] Enforcing piracy policy earned helpdesk worker death threats - 1 day ago
+- [RegisterSoftware] ʎɹǝʌoɔǝᴚ sʍopuᴉM ʇɐ sǝʇɐuᴉɯɹǝʇ snq sᴉɥ┴ - 2 days ago
+- [CloudFlare] Elevated 4xx errors being returned from Cloudflare AI Search - 2 days ago
+- [HackerNews] Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History - 2 days ago
+- [SecurityWeek] Dutch Carrier Odido Discloses Data Breach Impacting 6 Million - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
