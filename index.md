@@ -9,60 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] Dutch phone giant Odido says millions of customers affected by data breach - 9 hours ago
-- [DataBreaches] New “Kurd Hackers Forum” Focuses on Middle Eastern Data Breaches and Leaks - 9 hours ago
-- [DataBreaches] Cyber Attacks on Schools Plateaued in 2025, but More Records Exposed - 9 hours ago
-- [DataBreaches] Guernsey medical practice sanctioned after cyber criminals access patient data through email account - 9 hours ago
-- [DataBreaches] Nevada unveils new statewide data classification policy months after cyberattack - 9 hours ago
-- [BleepingComputer] One threat actor responsible for 83% of recent Ivanti RCE attacks - 21 hours ago
-- [BleepingComputer] Snail mail letters target Trezor and Ledger users in crypto-theft attacks - 22 hours ago
+- [RegisterSec] US appears open to reversing some China tech bans - 1 hour ago
+- [RegisterSoftware] US appears open to reversing some China tech bans - 1 hour ago
+- [RegisterSoftware] Cisco set to release home-brew hypervisor as a VMware alternative - 1 hour ago
+- [BleepingComputer] Canada Goose investigating as hackers leak 600K customer records - 1 hour ago
+- [CloudFlare] PDX (Portland) on 2026-03-02 - 3 hours ago
+- [RegisterSoftware] OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents - 5 hours ago
+- [BleepingComputer] New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS - 5 hours ago
+- [CloudFlare] SJC (San Jose) on 2026-02-24 - 5 hours ago
+- [CloudFlare] SJC (San Jose) on 2026-02-18 - 7 hours ago
+- [RegisterSec] Infosec exec sold eight zero-day exploit kits to Russia, says DoJ - 8 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-02-19 - 8 hours ago
+- [BleepingComputer] Windows 11 KB5077181 fixes boot failures linked to failed updates - 9 hours ago
+- [BleepingComputer] CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups - 14 hours ago
+- [BleepingComputer] Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps - 15 hours ago
+- [HackerNews] Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging - 16 hours ago
+- [RegisterSoftware] GPT-5 bests human judges in legal smack down - 16 hours ago
+- [DataBreaches] Dutch phone giant Odido says millions of customers affected by data breach - 1 day ago
+- [DataBreaches] New “Kurd Hackers Forum” Focuses on Middle Eastern Data Breaches and Leaks - 1 day ago
+- [DataBreaches] Cyber Attacks on Schools Plateaued in 2025, but More Records Exposed - 1 day ago
+- [DataBreaches] Guernsey medical practice sanctioned after cyber criminals access patient data through email account - 1 day ago
+- [DataBreaches] Nevada unveils new statewide data classification policy months after cyberattack - 1 day ago
+- [BleepingComputer] One threat actor responsible for 83% of recent Ivanti RCE attacks - 1 day ago
+- [BleepingComputer] Snail mail letters target Trezor and Ledger users in crypto-theft attacks - 1 day ago
 - [SecurityWeek] Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data - 1 day ago
 - [RegisterSoftware] Contain your Windows apps inside Linux Windows - 1 day ago
 - [RegisterSoftware] How AI could eat itself: Competitors can probe models to steal their secrets and clone them - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-17 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2026-02-18 - 1 day ago
-- [CloudFlare] CAN (Guangzhou) on 2026-02-18 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-18 - 1 day ago
-- [CloudFlare] LIS (Lisbon) on 2026-03-04 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-19 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 day ago
-- [CloudFlare] IAH (Houston) on 2026-02-17 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-02-20 - 1 day ago
-- [GitHub] Disruption with some GitHub services regarding file upload - 1 day ago
-- [CloudFlare] LIS (Lisbon) on 2026-03-03 - 1 day ago
-- [CloudFlare] TLL (Tallinn) on 2026-03-03 - 1 day ago
-- [BleepingComputer] Fake job recruiters hide malware in developer coding challenges - 1 day ago
-- [RegisterSoftware] Anthropic wants comp-sci students to vibe code their way through college - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-25 - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-26 - 1 day ago
-- [BleepingComputer] Claude LLM artifacts abused to push Mac infostealers in ClickFix attack - 1 day ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-24 - 1 day ago
-- [CloudFlare] LYS (Lyon) on 2026-02-17 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-02-18 - 1 day ago
-- [CloudFlare] LAS (Las Vegas) on 2026-02-19 - 1 day ago
-- [CloudFlare] MSP (Minneapolis) on 2026-02-20 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-23 - 1 day ago
-- [RegisterSec] Attackers finally get around to exploiting critical Microsoft bug from 2024 - 1 day ago
-- [BleepingComputer] Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches - 1 day ago
-- [RegisterSoftware] Trump's Genesis Mission gets its first set of 26 sure-to-succeed objectives - 1 day ago
-- [CloudFlare] HKG (Hong Kong) on 2026-02-13 - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-02-18 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-24 - 1 day ago
-- [HackerNews] Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations - 1 day ago
-- [HackerNews] Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-25 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-26 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-27 - 1 day ago
-- [HackerNews] UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors - 1 day ago
-- [BleepingComputer] Turning IBM QRadar Alerts into Action with Criminal IP - 1 day ago
-- [SecurityWeek] In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine - 1 day ago
-- [CloudFlare] Network Performance Issues in Delhi, India - 1 day ago
-- [RegisterSoftware] Investors shove another $30B into the Anthropic money furnace - 1 day ago
-- [RegisterSoftware] Misconfigured AI could trigger the next national infrastructure meltdown - 1 day ago
-- [RegisterSoftware] ʎɹǝʌoɔǝᴚ sʍopuᴉM ʇɐ sǝʇɐuᴉɯɹǝʇ snq sᴉɥ┴ - 2 days ago
-- [CloudFlare] Elevated 4xx errors being returned from Cloudflare AI Search - 2 days ago
-- [HackerNews] Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History - 2 days ago
-- [SecurityWeek] Dutch Carrier Odido Discloses Data Breach Impacting 6 Million - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 9 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 9 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 9 months ago
