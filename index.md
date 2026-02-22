@@ -9,21 +9,22 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HIBP] CarGurus - 12,461,887 breached accounts - 5 hours ago
-- [BleepingComputer] Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks - 15 hours ago
-- [BleepingComputer] Predator spyware hooks iOS SpringBoard to hide mic, camera activity - 15 hours ago
-- [HackerNews] AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - 16 hours ago
-- [DataBreaches] Update Chrome now: Zero-day bug allows code execution via malicious webpages - 17 hours ago
-- [DataBreaches] Discord’s age verification data has a frontend leak — now what? - 17 hours ago
-- [DataBreaches] This is how you do it: Dentist speaks out after practice hit by cyber attack - 17 hours ago
-- [DataBreaches] Ukrainian hackers uncover how Russian drone operators are using Belarus - 17 hours ago
-- [BleepingComputer] Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks - 17 hours ago
-- [SecurityWeek] Critical Grandstream Phone Vulnerability Exposes Calls to Interception - 18 hours ago
-- [CloudFlare] PDX (Portland) on 2026-02-23 - 20 hours ago
-- [CloudFlare] Workers AI elevated error rates - 21 hours ago
-- [HackerNews] EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security - 22 hours ago
-- [HackerNews] CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog - 23 hours ago
-- [HackerNews] Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning - 23 hours ago
+- [RegisterSec] UK council faces data breach claim after mishandling trans complaints - 4 hours ago
+- [HIBP] CarGurus - 12,461,887 breached accounts - 12 hours ago
+- [BleepingComputer] Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks - 21 hours ago
+- [BleepingComputer] Predator spyware hooks iOS SpringBoard to hide mic, camera activity - 21 hours ago
+- [HackerNews] AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - 23 hours ago
+- [DataBreaches] Update Chrome now: Zero-day bug allows code execution via malicious webpages - 1 day ago
+- [DataBreaches] Discord’s age verification data has a frontend leak — now what? - 1 day ago
+- [DataBreaches] This is how you do it: Dentist speaks out after practice hit by cyber attack - 1 day ago
+- [DataBreaches] Ukrainian hackers uncover how Russian drone operators are using Belarus - 1 day ago
+- [BleepingComputer] Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks - 1 day ago
+- [SecurityWeek] Critical Grandstream Phone Vulnerability Exposes Calls to Interception - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-02-23 - 1 day ago
+- [CloudFlare] Workers AI elevated error rates - 1 day ago
+- [HackerNews] EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security - 1 day ago
+- [HackerNews] CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog - 1 day ago
+- [HackerNews] Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning - 1 day ago
 - [AWS] Service impact: AWS Direct Connect Connectivity Issues - 1 day ago
 - [AWS] Service impact: AWS Direct Connect Connectivity Issues - 1 day ago
 - [AWS] Service is operating normally: [RESOLVED] AWS Direct Connect Connectivity Issues - 1 day ago
@@ -83,27 +84,9 @@ description: Latest Updates
 - [RegisterSec] Ukrainian gets five years for helping North Koreans secure US tech jobs - 1 day ago
 - [HackerNews] ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware - 1 day ago
 - [HackerNews] Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - 1 day ago
-- [BleepingComputer] PayPal discloses data breach that exposed user info for 6 months - 1 day ago
-- [HackerNews] ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT - 1 day ago
-- [RegisterSoftware] LLM wrote it? Fine, but show us human documentation, demands EFF - 1 day ago
-- [SecurityWeek] BeyondTrust Vulnerability Exploited in Ransomware Attacks - 1 day ago
-- [RegisterSec] CISA gives federal agencies three days to patch actively exploited Dell bug - 1 day ago
-- [CloudFlare] Bot Management Issues - 1 day ago
-- [BleepingComputer] Mississippi medical center closes all clinics after ransomware attack - 1 day ago
-- [IT Governance] 10 Key GDPR (General Data Protection Regulation) Requirements - 1 day ago
-- [SecurityWeek] FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025 - 1 day ago
-- [RegisterSec] Ex-Google engineers accused of helping themselves to chip security secrets - 1 day ago
-- [HackerNews] Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case - 1 day ago
-- [HackerNews] Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026 - 1 day ago
-- [RegisterSoftware] From Agile to AI: Anniversary workshop says test-driven development ideal for AI coding - 1 day ago
-- [RegisterSec] Attackers have 16-digit card numbers, expiry dates, but not names. Should org get £500k fine? - 1 day ago
-- [BleepingComputer] FBI: Over $20 million stolen in surge of ATM malware attacks in 2025 - 1 day ago
-- [GitHub] Incident with Copilot GPT-5.1-Codex - 1 day ago
-- [SecurityWeek] Chip Testing Giant Advantest Hit by Ransomware - 1 day ago
-- [HackerNews] Former Google Engineers Indicted Over Trade Secret Transfers to Iran - 1 day ago
-- [HackerNews] FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025 - 1 day ago
-- [BleepingComputer] Ukrainian gets 5 years for helping North Koreans infiltrate US firms - 1 day ago
-- [SecurityWeek] PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence - 1 day ago
+- [BleepingComputer] PayPal discloses data breach that exposed user info for 6 months - 2 days ago
+- [HackerNews] ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT - 2 days ago
+- [RegisterSoftware] LLM wrote it? Fine, but show us human documentation, demands EFF - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
