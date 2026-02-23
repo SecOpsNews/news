@@ -9,38 +9,52 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-25 - 47 minutes ago
-- [CloudFlare] GRU (São Paulo) on 2026-02-26 - 47 minutes ago
-- [CloudFlare] COK (Kochi) on 2026-02-23 - 2 hours ago
-- [CloudFlare] TLL (Tallinn) on 2026-03-03 - 2 hours ago
-- [RegisterSoftware] Infosys chair says AI will clean up legacy systems – then make more of them - 3 hours ago
-- [CloudFlare] IAH (Houston) on 2026-02-23 - 3 hours ago
-- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-24 - 3 hours ago
-- [RegisterSoftware] Linus Torvalds: Someone ‘more competent who isn't afraid of numbers past the teens’ will take over Linux one day - 5 hours ago
-- [CloudFlare] MAN (Manchester) on 2026-02-23 - 5 hours ago
-- [RegisterSec] Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records - 7 hours ago
-- [CloudFlare] Analytics Engine API Increased 500s - 11 hours ago
-- [FullDisclosure] [KIS-2026-04] SmarterMail <= 9518 (MailboxId) Reflected Cross-Site Scripting Vulnerability - 13 hours ago
-- [FullDisclosure] SEC Consult SA-20260218-0 :: Multiple Critical Vulnerabilities in NesterSoft WorkTime (on-prem/cloud) - 13 hours ago
-- [DataBreaches] Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back. - 15 hours ago
-- [BleepingComputer] Arkanix Stealer pops up as short-lived AI info-stealer experiment - 16 hours ago
-- [DataBreaches] The hospitality sector continues to be lucrative targets - 16 hours ago
-- [RegisterSec] UK council faces data breach claim after mishandling trans complaints - 22 hours ago
+- [SecurityWeek] Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud - 30 minutes ago
+- [HackerNews] ⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More - 30 minutes ago
+- [RegisterSec] Suspected Anonymous members detained in Spain over post-flood DDoS blitz - 1 hour ago
+- [SecurityWeek] Romanian Hacker Pleads Guilty to Selling Access to US State Network - 1 hour ago
+- [SecurityWeek] Autonomous AI Agents Provide New Class of Supply Chain Attack - 1 hour ago
+- [HackerNews] How Exposed Endpoints Increase Risk Across LLM Infrastructure - 1 hour ago
+- [RegisterSoftware] Altman: You think AI is inefficient? Try raising 100 billion humans - 1 hour ago
+- [SecurityWeek] Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS - 2 hours ago
+- [HackerNews] Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens - 2 hours ago
+- [IT Governance] The 5 Biggest Phishing Scams of All Time - 2 hours ago
+- [RegisterSoftware] AWS says more than 600 FortiGate firewalls hit in AI-augmented campaign - 2 hours ago
+- [RegisterSec] AWS says more than 600 FortiGate firewalls hit in AI-augmented campaign - 2 hours ago
+- [BleepingComputer] CISA: Recently patched RoundCube flaws now exploited in attacks - 2 hours ago
+- [IT Governance] ISO 27001 vs SOC 2 Certification: What’s the Difference? - 3 hours ago
+- [SecurityWeek] Mississippi Hospital System Closes All Clinics After Ransomware Attack - 3 hours ago
+- [SecurityWeek] Recent RoundCube Webmail Vulnerability Exploited in Attacks - 3 hours ago
+- [RegisterSoftware] Feeling the burn: When open source developers decide to take a break - 3 hours ago
+- [RegisterSec] Every day in every way, passwords are getting worse and worse - 4 hours ago
+- [SecurityWeek] PayPal Data Breach Led to Fraudulent Transactions - 4 hours ago
+- [HackerNews] MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP - 6 hours ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-25 - 7 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-26 - 7 hours ago
+- [CloudFlare] COK (Kochi) on 2026-02-23 - 8 hours ago
+- [CloudFlare] TLL (Tallinn) on 2026-03-03 - 8 hours ago
+- [RegisterSoftware] Infosys chair says AI will clean up legacy systems – then make more of them - 10 hours ago
+- [CloudFlare] IAH (Houston) on 2026-02-23 - 10 hours ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-24 - 10 hours ago
+- [RegisterSoftware] Linus Torvalds: Someone ‘more competent who isn't afraid of numbers past the teens’ will take over Linux one day - 12 hours ago
+- [CloudFlare] MAN (Manchester) on 2026-02-23 - 12 hours ago
+- [RegisterSec] Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records - 14 hours ago
+- [CloudFlare] Analytics Engine API Increased 500s - 18 hours ago
+- [FullDisclosure] [KIS-2026-04] SmarterMail <= 9518 (MailboxId) Reflected Cross-Site Scripting Vulnerability - 19 hours ago
+- [FullDisclosure] SEC Consult SA-20260218-0 :: Multiple Critical Vulnerabilities in NesterSoft WorkTime (on-prem/cloud) - 19 hours ago
+- [DataBreaches] Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back. - 22 hours ago
+- [BleepingComputer] Arkanix Stealer pops up as short-lived AI info-stealer experiment - 22 hours ago
+- [DataBreaches] The hospitality sector continues to be lucrative targets - 23 hours ago
+- [RegisterSec] UK council faces data breach claim after mishandling trans complaints - 1 day ago
 - [HIBP] CarGurus - 12,461,887 breached accounts - 1 day ago
 - [BleepingComputer] Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks - 1 day ago
 - [BleepingComputer] Predator spyware hooks iOS SpringBoard to hide mic, camera activity - 1 day ago
 - [HackerNews] AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - 1 day ago
-- [DataBreaches] Update Chrome now: Zero-day bug allows code execution via malicious webpages - 1 day ago
-- [DataBreaches] Discord’s age verification data has a frontend leak — now what? - 1 day ago
-- [DataBreaches] This is how you do it: Dentist speaks out after practice hit by cyber attack - 1 day ago
-- [DataBreaches] Ukrainian hackers uncover how Russian drone operators are using Belarus - 1 day ago
-- [BleepingComputer] Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks - 1 day ago
-- [SecurityWeek] Critical Grandstream Phone Vulnerability Exposes Calls to Interception - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-23 - 1 day ago
-- [CloudFlare] Workers AI elevated error rates - 1 day ago
-- [HackerNews] EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security - 1 day ago
-- [HackerNews] CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog - 1 day ago
-- [HackerNews] Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning - 1 day ago
+- [DataBreaches] Update Chrome now: Zero-day bug allows code execution via malicious webpages - 2 days ago
+- [DataBreaches] Discord’s age verification data has a frontend leak — now what? - 2 days ago
+- [DataBreaches] This is how you do it: Dentist speaks out after practice hit by cyber attack - 2 days ago
+- [DataBreaches] Ukrainian hackers uncover how Russian drone operators are using Belarus - 2 days ago
+- [BleepingComputer] Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
