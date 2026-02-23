@@ -9,11 +9,27 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSec] UK council faces data breach claim after mishandling trans complaints - 4 hours ago
-- [HIBP] CarGurus - 12,461,887 breached accounts - 12 hours ago
-- [BleepingComputer] Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks - 21 hours ago
-- [BleepingComputer] Predator spyware hooks iOS SpringBoard to hide mic, camera activity - 21 hours ago
-- [HackerNews] AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - 23 hours ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-25 - 47 minutes ago
+- [CloudFlare] GRU (São Paulo) on 2026-02-26 - 47 minutes ago
+- [CloudFlare] COK (Kochi) on 2026-02-23 - 2 hours ago
+- [CloudFlare] TLL (Tallinn) on 2026-03-03 - 2 hours ago
+- [RegisterSoftware] Infosys chair says AI will clean up legacy systems – then make more of them - 3 hours ago
+- [CloudFlare] IAH (Houston) on 2026-02-23 - 3 hours ago
+- [CloudFlare] GIG (Rio de Janeiro) on 2026-02-24 - 3 hours ago
+- [RegisterSoftware] Linus Torvalds: Someone ‘more competent who isn't afraid of numbers past the teens’ will take over Linux one day - 5 hours ago
+- [CloudFlare] MAN (Manchester) on 2026-02-23 - 5 hours ago
+- [RegisterSec] Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records - 7 hours ago
+- [CloudFlare] Analytics Engine API Increased 500s - 11 hours ago
+- [FullDisclosure] [KIS-2026-04] SmarterMail <= 9518 (MailboxId) Reflected Cross-Site Scripting Vulnerability - 13 hours ago
+- [FullDisclosure] SEC Consult SA-20260218-0 :: Multiple Critical Vulnerabilities in NesterSoft WorkTime (on-prem/cloud) - 13 hours ago
+- [DataBreaches] Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back. - 15 hours ago
+- [BleepingComputer] Arkanix Stealer pops up as short-lived AI info-stealer experiment - 16 hours ago
+- [DataBreaches] The hospitality sector continues to be lucrative targets - 16 hours ago
+- [RegisterSec] UK council faces data breach claim after mishandling trans complaints - 22 hours ago
+- [HIBP] CarGurus - 12,461,887 breached accounts - 1 day ago
+- [BleepingComputer] Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks - 1 day ago
+- [BleepingComputer] Predator spyware hooks iOS SpringBoard to hide mic, camera activity - 1 day ago
+- [HackerNews] AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - 1 day ago
 - [DataBreaches] Update Chrome now: Zero-day bug allows code execution via malicious webpages - 1 day ago
 - [DataBreaches] Discord’s age verification data has a frontend leak — now what? - 1 day ago
 - [DataBreaches] This is how you do it: Dentist speaks out after practice hit by cyber attack - 1 day ago
@@ -25,68 +41,6 @@ description: Latest Updates
 - [HackerNews] EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security - 1 day ago
 - [HackerNews] CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog - 1 day ago
 - [HackerNews] Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning - 1 day ago
-- [AWS] Service impact: AWS Direct Connect Connectivity Issues - 1 day ago
-- [AWS] Service impact: AWS Direct Connect Connectivity Issues - 1 day ago
-- [AWS] Service is operating normally: [RESOLVED] AWS Direct Connect Connectivity Issues - 1 day ago
-- [DataBreaches] Resource:  Privacy Law Directory — Codamail - 1 day ago
-- [DataBreaches] Hospitals at Risk of BeyondTrust Ransomware Hacks - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2026-02-24 - 1 day ago
-- [AWS] Service impact: AWS Direct Connect connectivity loss - 1 day ago
-- [AWS] Service impact: AWS Direct Connect connectivity loss - 1 day ago
-- [AWS] Service impact: AWS Direct Connect connectivity issues - 1 day ago
-- [RegisterSoftware] The idea of using a Raspberry Pi to run OpenClaw makes no sense - 1 day ago
-- [CloudFlare] FUK (Fukuoka) on 2026-02-23 - 1 day ago
-- [GrahamCluley] Spanish police say they have arrested hacker who booked luxury hotel rooms for just one cent - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-24 - 1 day ago
-- [RegisterSoftware] Anthropic: No, absolutely not, you may not use third-party harnesses with Claude subs - 1 day ago
-- [RegisterSec] PayPal app code error leaked personal info and a 'few' unauthorized transactions - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-02-20 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-25 - 1 day ago
-- [DataBreaches] Romanian hacker faces up to 7 years for breaching Oregon emergency management department - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-26 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-27 - 1 day ago
-- [CloudFlare] IAH (Houston) on 2026-02-20 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-03-02 - 1 day ago
-- [BrianKrebs] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA - 1 day ago
-- [RegisterSec] AI coding assistant Cline compromised to create more OpenClaw chaos - 1 day ago
-- [GitHub] Extended job start delays for larger hosted runners - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-02-20 - 1 day ago
-- [CloudFlare] MIA (Miami) on 2026-02-24 - 1 day ago
-- [RegisterSoftware] Cerebras plans humongous AI supercomputer in India backed by UAE - 1 day ago
-- [CloudFlare] SJC (San Jose) on 2026-02-24 - 1 day ago
-- [CloudFlare] Cloudflare is investigating connectivity issues - 1 day ago
-- [CloudFlare] Elevated errors on one.one.one.one landing page - 1 day ago
-- [BleepingComputer] Japanese tech giant Advantest hit by ransomware attack - 1 day ago
-- [RegisterSoftware] Amazon's vibe-coding tool Kiro reportedly vibed too hard and brought down AWS - 1 day ago
-- [RegisterSec] ShinyHunters demands $1.5M not to leak Vegas casino and resort chain data - 1 day ago
-- [CloudFlare] LIS (Lisbon) on 2026-03-04 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-02-20 - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-02-24 - 1 day ago
-- [BleepingComputer] Data breach at French bank registry impacts 1.2 million accounts - 1 day ago
-- [HackerNews] BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration - 1 day ago
-- [BleepingComputer] CISA: BeyondTrust RCE flaw now exploited in ransomware attacks - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-02-23 - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-02-24 - 1 day ago
-- [CloudFlare] HAM (Hamburg) on 2026-02-25 - 1 day ago
-- [RegisterSoftware] EFF policy says bots can code but humans must write the docs - 1 day ago
-- [RegisterSoftware] Accenture tells staffers: If you want a promotion, use AI at work - 1 day ago
-- [RegisterSoftware] Quebec vehicles agency spent C$245M over budget on SAP ERP it wasn't sure it needed - 1 day ago
-- [SecurityWeek] NIST’s Quantum Breakthrough: Single Photons Produced on a Chip - 1 day ago
-- [RegisterSec] Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine - 1 day ago
-- [SecurityWeek] In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI - 1 day ago
-- [BleepingComputer] Why the shift left dream has become a nightmare for security and developers - 1 day ago
-- [DataBreaches] Loan applications, drivers licences, personal data of 440k Aussies exposed after hacker hits Sydney finance tech company youX - 1 day ago
-- [DataBreaches] San Jose slow to tell workers about data breach - 1 day ago
-- [DataBreaches] A single compromised account gave hackers access to 1.2 million French banking records - 1 day ago
-- [RegisterSoftware] Founder ditches AWS for Euro stack, finds sovereignty isn't plug-and-play - 1 day ago
-- [RegisterSoftware] Accenture tells staffers: Want promotion? Use AI at work - 1 day ago
-- [RegisterSec] Founder ditches AWS for Euro stack, finds sovereignty isn't plug-and-play - 1 day ago
-- [RegisterSec] Ukrainian gets five years for helping North Koreans secure US tech jobs - 1 day ago
-- [HackerNews] ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware - 1 day ago
-- [HackerNews] Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - 1 day ago
-- [BleepingComputer] PayPal discloses data breach that exposed user info for 6 months - 2 days ago
-- [HackerNews] ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT - 2 days ago
-- [RegisterSoftware] LLM wrote it? Fine, but show us human documentation, demands EFF - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
