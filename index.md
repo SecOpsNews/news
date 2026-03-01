@@ -9,20 +9,25 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] QuickLens Chrome extension steals crypto, shows ClickFix attack - 11 hours ago
-- [HackerNews] ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket - 13 hours ago
-- [BleepingComputer] $4.8M in crypto stolen after Korean tax agency exposes wallet seed - 15 hours ago
-- [DataBreaches] Connecticut Senate Bill Raises the Stakes on Data Breach Response - 17 hours ago
-- [DataBreaches] Leaked Odido data exposes sensitive information - 18 hours ago
-- [DataBreaches] Israel plunges Iran into darkness with largest cyberattack in history during attack against Iran - 18 hours ago
-- [DataBreaches] Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage - 18 hours ago
-- [BrianKrebs] Who is the Kimwolf Botmaster “Dort”? - 18 hours ago
-- [CloudFlare] Elevated 500 error rate on Cache Purge API requests - 18 hours ago
-- [SecurityWeek] Canadian Tire Data Breach Impacts 38 Million Accounts - 19 hours ago
-- [RegisterSec] Denizens of DEF CON are 'fed up with government' - 20 hours ago
-- [CloudFlare] Increased traffic and elevated 5xx errors in Salt Lake City, US region - 20 hours ago
-- [HackerNews] Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement - 21 hours ago
-- [RegisterSoftware] Open source devs consider making hogs pay for every Git pull - 23 hours ago
+- [AWS] Service impact: Increased Error Rates - 50 minutes ago
+- [AWS] Service impact: Increased Error Rates - 50 minutes ago
+- [SecurityWeek] Hackers Weaponize Claude Code in Mexican Government Cyberattack - 1 hour ago
+- [RegisterSoftware] OpenClaw, but in containers: Meet NanoClaw - 2 hours ago
+- [RegisterSoftware] SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again - 5 hours ago
+- [BleepingComputer] QuickLens Chrome extension steals crypto, shows ClickFix attack - 18 hours ago
+- [HackerNews] ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket - 20 hours ago
+- [BleepingComputer] $4.8M in crypto stolen after Korean tax agency exposes wallet seed - 22 hours ago
+- [DataBreaches] Connecticut Senate Bill Raises the Stakes on Data Breach Response - 23 hours ago
+- [DataBreaches] Leaked Odido data exposes sensitive information - 1 day ago
+- [DataBreaches] Israel plunges Iran into darkness with largest cyberattack in history during attack against Iran - 1 day ago
+- [DataBreaches] Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage - 1 day ago
+- [BrianKrebs] Who is the Kimwolf Botmaster “Dort”? - 1 day ago
+- [CloudFlare] Elevated 500 error rate on Cache Purge API requests - 1 day ago
+- [SecurityWeek] Canadian Tire Data Breach Impacts 38 Million Accounts - 1 day ago
+- [RegisterSec] Denizens of DEF CON are 'fed up with government' - 1 day ago
+- [CloudFlare] Increased traffic and elevated 5xx errors in Salt Lake City, US region - 1 day ago
+- [HackerNews] Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement - 1 day ago
+- [RegisterSoftware] Open source devs consider making hogs pay for every Git pull - 1 day ago
 - [CloudFlare] TLL (Tallinn) on 2026-03-03 - 1 day ago
 - [CloudFlare] GRU (São Paulo) on 2026-03-05 - 1 day ago
 - [HackerNews] Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute - 1 day ago
@@ -73,28 +78,15 @@ description: Latest Updates
 - [IT Governance] EU Digital Operational Resilience Act (DORA) – A compliance guide - 1 day ago
 - [RegisterSec] French DIY etailer ManoMano admits customer data stolen - 1 day ago
 - [DataBreaches] South Korean Authorities Accidentally Hand Hackers $4.8M in Crypto - 1 day ago
-- [RegisterSec] Cops back Dutch telco Odido after second wave of ShinyHunters leaks - 1 day ago
-- [SecurityWeek] 900 Sangoma FreePBX Instances Infected With Web Shells - 1 day ago
-- [SecurityWeek] 38 Million Allegedly Impacted by ManoMano Data Breach - 1 day ago
-- [HackerNews] ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks - 1 day ago
-- [DataBreaches] NL: Hackers had access to prison staff data for five months - 1 day ago
-- [RegisterSoftware] 50 GW of datacenter demand queues up for UK grid access - 1 day ago
-- [DataBreaches] UK Court of Appeal Rules on the Concept of Personal Data in the Context of Data Security - 1 day ago
-- [DataBreaches] Hacker Used Anthropic’s Claude to Steal Sensitive Mexican Data - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-02-28 - 1 day ago
-- [BleepingComputer] Ukrainian man pleads guilty to running AI-powered fake ID site - 1 day ago
-- [SecurityWeek] Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience - 1 day ago
-- [SecurityWeek] Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline - 1 day ago
-- [SecurityWeek] Chilean Carding Shop Operator Extradited to US - 1 day ago
-- [RegisterSoftware] Sopra Steria sues UK government over £958M Capita outsourcing award - 1 day ago
-- [SecurityWeek] Juniper Networks PTX Routers Affected by Critical Vulnerability - 1 day ago
-- [RegisterSoftware] Mondelēz picks Celonis as process backbone for SAP overhaul - 1 day ago
-- [HackerNews] Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms - 1 day ago
-- [CloudFlare] Cloudflare is investigating dashboard login issues - 1 day ago
-- [RegisterSoftware] AI agents need orchestration - not just intelligence - 1 day ago
-- [HackerNews] Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams - 1 day ago
-- [RegisterSoftware] Engineer held hostage by client who asked for the wrong fix - 1 day ago
-- [SecurityWeek] Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking - 1 day ago
+- [RegisterSec] Cops back Dutch telco Odido after second wave of ShinyHunters leaks - 2 days ago
+- [SecurityWeek] 900 Sangoma FreePBX Instances Infected With Web Shells - 2 days ago
+- [SecurityWeek] 38 Million Allegedly Impacted by ManoMano Data Breach - 2 days ago
+- [HackerNews] ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks - 2 days ago
+- [DataBreaches] NL: Hackers had access to prison staff data for five months - 2 days ago
+- [RegisterSoftware] 50 GW of datacenter demand queues up for UK grid access - 2 days ago
+- [DataBreaches] UK Court of Appeal Rules on the Concept of Personal Data in the Context of Data Security - 2 days ago
+- [DataBreaches] Hacker Used Anthropic’s Claude to Steal Sensitive Mexican Data - 2 days ago
+- [CloudFlare] ORD (Chicago) on 2026-02-28 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
