@@ -9,41 +9,62 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HIBP] Quitbro - 22,874 breached accounts - 1 hour ago
-- [AWS] Service impact: Increased connectivity issues and API Error Rates - 1 hour ago
-- [RegisterSoftware] OpenAI’s Altman says Pentagon set ‘scary precedent’ binning Anthropic - 2 hours ago
-- [CloudFlare] HAM (Hamburg) on 2026-03-03 - 3 hours ago
-- [HIBP] KomikoAI - 1,060,191 breached accounts - 3 hours ago
-- [RegisterSec] UK government's Vulnerability Monitoring System is working - fixes flow far faster - 3 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-03-04 - 5 hours ago
-- [RegisterSec] South Korea’s tax office apologizes for leaking seed phrase to seized crypto - 5 hours ago
-- [DataBreaches] South Korean Police Lose Seized Crypto By Posting Password Online - 5 hours ago
-- [RegisterSoftware] AWS Middle East disrupted after ‘objects struck datacenter’ amid Iran war - 8 hours ago
-- [BleepingComputer] ClawJacked attack let malicious websites hijack OpenClaw to steal data - 9 hours ago
-- [AWS] Service disruption: Increased Error Rates - 13 hours ago
-- [BleepingComputer] Samsung TVs to stop collecting Texans’ data without express consent - 15 hours ago
-- [AWS] Service degradation: Increased Error Rates - 16 hours ago
-- [Slack] Incident: Issue with Slack Search feature - 16 hours ago
-- [AWS] Service impact: Increased Error Rates - 18 hours ago
-- [AWS] Service impact: Increased Error Rates - 18 hours ago
-- [SecurityWeek] Hackers Weaponize Claude Code in Mexican Government Cyberattack - 18 hours ago
-- [RegisterSoftware] OpenClaw, but in containers: Meet NanoClaw - 20 hours ago
-- [RegisterSoftware] SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again - 22 hours ago
+- [SecurityWeek] Madison Square Garden Data Breach Confirmed Months After Hacker Attack - 9 minutes ago
+- [SecurityWeek] OpenClaw Vulnerability Allowed Malicious Websites to Hijack AI Agents - 9 minutes ago
+- [RegisterSoftware] SAP writes $480M check to finally end IP legal spat with Teradata - 9 minutes ago
+- [HackerNews] ⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More - 9 minutes ago
+- [RegisterSec] Scammers try to SIM-swap Dubai citizens hours after Iranian missile strikes - 9 minutes ago
+- [RegisterSec] Memory scalpers hunt scarce DRAM with bot blitz - 9 minutes ago
+- [DataBreaches] CISA Releases New Guidance on Assembling Multi-Disciplinary Insider Threat Management Teams - 1 hour ago
+- [BleepingComputer] Anthropic confirms Claude is down in a worldwide outage - 1 hour ago
+- [RegisterSoftware] Windows 11 tops market share as 10 faces extended farewell - 1 hour ago
+- [DataBreaches] Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule - 1 hour ago
+- [SecurityWeek] AWS Expands Security Hub Into a Cross-Domain Security Platform - 1 hour ago
+- [SecurityWeek] Nick Andersen Appointed Acting Director of CISA - 1 hour ago
+- [HackerNews] How to Protect Your SaaS from Bot Attacks with SafeLine WAF - 1 hour ago
+- [CloudFlare] YYZ (Toronto) on 2026-03-06 - 1 hour ago
+- [RegisterSoftware] Firefox 149 beta develops a split personality - 2 hours ago
+- [SecurityWeek] North Korean APT Targets Air-Gapped Systems in Recent Campaign - 2 hours ago
+- [CloudFlare] Unable to view logs in Durable Objects dashboard - 2 hours ago
+- [HackerNews] APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday - 2 hours ago
+- [SecurityWeek] US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates - 2 hours ago
+- [SecurityWeek] Google Working Towards Quantum-Safe Chrome HTTPS Certificates - 2 hours ago
+- [CloudFlare] Challenge Pages issues with HTTP connections - 3 hours ago
+- [HackerNews] North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT - 4 hours ago
+- [RegisterSoftware] LibreOffice Online dragged out of the attic, dusted off for another go - 4 hours ago
+- [CloudFlare] Newark (EWR) Datacenter Increase in HTTP Request latency - 4 hours ago
+- [CloudFlare] MAD (Madrid) on 2026-03-03 - 4 hours ago
+- [AWS] Service impact: Increased Connectivity Issues and API Error Rates - 5 hours ago
+- [TroyHunt] Weekly Update 493 - 5 hours ago
+- [HIBP] Lovora - 495,556 breached accounts - 5 hours ago
+- [Slack] Incident: Degraded Search Performance for Dubai IDR Users – Middle East (Dubai) Region - 5 hours ago
+- [HIBP] Quitbro - 22,874 breached accounts - 8 hours ago
+- [AWS] Service impact: Increased connectivity issues and API Error Rates - 8 hours ago
+- [RegisterSoftware] OpenAI’s Altman says Pentagon set ‘scary precedent’ binning Anthropic - 9 hours ago
+- [CloudFlare] HAM (Hamburg) on 2026-03-03 - 10 hours ago
+- [HIBP] KomikoAI - 1,060,191 breached accounts - 10 hours ago
+- [RegisterSec] UK government's Vulnerability Monitoring System is working - fixes flow far faster - 10 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2026-03-04 - 12 hours ago
+- [RegisterSec] South Korea’s tax office apologizes for leaking seed phrase to seized crypto - 12 hours ago
+- [DataBreaches] South Korean Police Lose Seized Crypto By Posting Password Online - 12 hours ago
+- [RegisterSoftware] AWS Middle East disrupted after ‘objects struck datacenter’ amid Iran war - 15 hours ago
+- [BleepingComputer] ClawJacked attack let malicious websites hijack OpenClaw to steal data - 16 hours ago
+- [AWS] Service disruption: Increased Error Rates - 20 hours ago
+- [BleepingComputer] Samsung TVs to stop collecting Texans’ data without express consent - 22 hours ago
+- [AWS] Service degradation: Increased Error Rates - 23 hours ago
+- [Slack] Incident: Issue with Slack Search feature - 23 hours ago
+- [AWS] Service impact: Increased Error Rates - 1 day ago
+- [AWS] Service impact: Increased Error Rates - 1 day ago
+- [SecurityWeek] Hackers Weaponize Claude Code in Mexican Government Cyberattack - 1 day ago
+- [RegisterSoftware] OpenClaw, but in containers: Meet NanoClaw - 1 day ago
+- [RegisterSoftware] SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again - 1 day ago
 - [BleepingComputer] QuickLens Chrome extension steals crypto, shows ClickFix attack - 1 day ago
 - [HackerNews] ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket - 1 day ago
 - [BleepingComputer] $4.8M in crypto stolen after Korean tax agency exposes wallet seed - 1 day ago
-- [DataBreaches] Connecticut Senate Bill Raises the Stakes on Data Breach Response - 1 day ago
-- [DataBreaches] Leaked Odido data exposes sensitive information - 1 day ago
-- [DataBreaches] Israel plunges Iran into darkness with largest cyberattack in history during attack against Iran - 1 day ago
-- [DataBreaches] Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage - 1 day ago
-- [BrianKrebs] Who is the Kimwolf Botmaster “Dort”? - 1 day ago
-- [CloudFlare] Elevated 500 error rate on Cache Purge API requests - 1 day ago
-- [SecurityWeek] Canadian Tire Data Breach Impacts 38 Million Accounts - 1 day ago
-- [RegisterSec] Denizens of DEF CON are 'fed up with government' - 1 day ago
-- [CloudFlare] Increased traffic and elevated 5xx errors in Salt Lake City, US region - 1 day ago
-- [HackerNews] Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement - 1 day ago
-- [RegisterSoftware] Open source devs consider making hogs pay for every Git pull - 1 day ago
-- [CloudFlare] TLL (Tallinn) on 2026-03-03 - 2 days ago
+- [DataBreaches] Connecticut Senate Bill Raises the Stakes on Data Breach Response - 2 days ago
+- [DataBreaches] Leaked Odido data exposes sensitive information - 2 days ago
+- [DataBreaches] Israel plunges Iran into darkness with largest cyberattack in history during attack against Iran - 2 days ago
+- [DataBreaches] Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
