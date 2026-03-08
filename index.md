@@ -9,16 +9,19 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 10 hours ago
-- [HackerNews] OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues - 13 hours ago
-- [BleepingComputer] Termite ransomware breaches linked to ClickFix CastleRAT attacks - 14 hours ago
-- [SecurityWeek] US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies - 15 hours ago
-- [BleepingComputer] Microsoft: Hackers abusing AI at every stage of cyberattacks - 15 hours ago
-- [HackerNews] Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model - 17 hours ago
-- [RegisterSoftware] Unpacking the deceptively simple science of tokenomics - 18 hours ago
-- [SecurityWeek] Over 100 GitHub Repositories Distributing BoryptGrab Stealer - 18 hours ago
-- [SecurityWeek] Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare - 19 hours ago
-- [RegisterSoftware] Brits fear AI will strip the human touch from public services - 20 hours ago
+- [SecurityWeek] Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited - 1 hour ago
+- [RegisterSec] AI agents now help attackers, including North Korea, manage their drudge work - 2 hours ago
+- [RegisterSoftware] AI agents now help attackers, including North Korea, manage their drudge work - 2 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 17 hours ago
+- [HackerNews] OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues - 20 hours ago
+- [BleepingComputer] Termite ransomware breaches linked to ClickFix CastleRAT attacks - 21 hours ago
+- [SecurityWeek] US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies - 22 hours ago
+- [BleepingComputer] Microsoft: Hackers abusing AI at every stage of cyberattacks - 22 hours ago
+- [HackerNews] Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model - 1 day ago
+- [RegisterSoftware] Unpacking the deceptively simple science of tokenomics - 1 day ago
+- [SecurityWeek] Over 100 GitHub Repositories Distributing BoryptGrab Stealer - 1 day ago
+- [SecurityWeek] Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare - 1 day ago
+- [RegisterSoftware] Brits fear AI will strip the human touch from public services - 1 day ago
 - [RegisterSoftware] Anthropic bods rework AI damage yardstick, find scant labor impact - 1 day ago
 - [RegisterSoftware] Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids - 1 day ago
 - [SecurityWeek] FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information - 1 day ago
@@ -45,32 +48,11 @@ description: Latest Updates
 - [RegisterSoftware] US state laws push age checks into the operating system - 1 day ago
 - [BleepingComputer] Microsoft 365 Backup to add file-level restore for faster recovery - 1 day ago
 - [CloudFlare] Issues with 1.1.1.1 public resolver in North America - 1 day ago
-- [SecurityWeek] CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List - 1 day ago
-- [RegisterSec] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 1 day ago
-- [RegisterSoftware] UK peers warn weakening AI copyright law could hammer creative industries - 1 day ago
-- [RegisterSoftware] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 1 day ago
-- [RegisterSoftware] Washington reportedly moves to tighten leash on AI chip exports - 1 day ago
-- [RegisterSoftware] Son of government contractor arrested after alleged $46M crypto heist from US Marshals - 1 day ago
-- [RegisterSoftware] Microsoft kicks new Outlook opt-out deadline down the road to 2027 - 1 day ago
-- [SecurityWeek] Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks - 1 day ago
-- [RegisterSec] Son of government contractor arrested after alleged $46M crypto heist from US Marshals - 1 day ago
-- [SecurityWeek] Iranian APT Hacked US Airport, Bank, Software Company - 1 day ago
-- [SecurityWeek] James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO - 1 day ago
-- [RegisterSec] Microsoft finally gets around to fixing Windows 10 Recovery Environment after breaking it in October - 1 day ago
-- [RegisterSoftware] UK Treasury not sure about ditching Oracle to join £1.7 billion shared services program it is funding - 1 day ago
-- [RegisterSoftware] Microsoft finally gets around to fixing Windows 10 Recovery Environment after breaking it in October - 1 day ago
-- [HackerNews] Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor - 1 day ago
-- [HackerNews] The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity - 1 day ago
-- [RegisterSec] Transport for London says 2024 breach affected 7M customers, not 5,000 - 1 day ago
-- [BleepingComputer] Ghanain man pleads guilty to role in $100 million fraud ring - 1 day ago
-- [CloudFlare] Title: Cloudflare Realtime - Realtimekit - 1 day ago
-- [SecurityWeek] Data Security Firm Evervault Raises $25 Million in Series B Funding - 1 day ago
-- [RegisterSoftware] Altman said no to military AI abuses – then signed Pentagon deal anyway - 1 day ago
-- [HackerNews] China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks - 1 day ago
-- [BleepingComputer] FBI investigates breach of surveillance and wiretap systems - 1 day ago
-- [HackerNews] Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog - 1 day ago
-- [HackerNews] Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-03-10 - 2 days ago
+- [SecurityWeek] CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List - 2 days ago
+- [RegisterSec] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 2 days ago
+- [RegisterSoftware] UK peers warn weakening AI copyright law could hammer creative industries - 2 days ago
+- [RegisterSoftware] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 2 days ago
+- [RegisterSoftware] Washington reportedly moves to tighten leash on AI chip exports - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
