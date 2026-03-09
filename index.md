@@ -9,29 +9,53 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] IST (Istanbul) on 2026-03-09 - 2 hours ago
-- [CloudFlare] ZRH (Zurich) on 2026-03-11 - 2 hours ago
-- [GitHub] Incident with Codespaces - 3 hours ago
-- [Slack] Incident: Intermittent SSO login errors accessing Slack workspace. - 3 hours ago
-- [RegisterSec] Iran is the first out-loud cyberwar the US has fought - 5 hours ago
-- [BrianKrebs] How AI Assistants are Moving the Security Goalposts - 7 hours ago
-- [RegisterSec] FBI is investigating breach that may have hit its wiretapping tools - 8 hours ago
-- [CloudFlare] LHR (London) on 2026-03-09 - 8 hours ago
-- [BleepingComputer] EU court adviser says banks must immediately refund phishing victims - 15 hours ago
-- [BleepingComputer] Hackers abuse .arpa DNS and ipv6 to evade phishing defenses - 17 hours ago
-- [SecurityWeek] Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited - 19 hours ago
-- [RegisterSec] AI agents now help attackers, including North Korea, manage their drudge work - 20 hours ago
-- [RegisterSoftware] AI agents now help attackers, including North Korea, manage their drudge work - 20 hours ago
+- [RegisterSoftware] Ex-Meta execs pop up on Nscale board as rent-a-GPU firm raises $2B - 34 minutes ago
+- [RegisterSec] Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma - 34 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-03-24 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-03-25 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-03-26 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-03-30 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-03-31 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-04-01 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-04-02 - 36 minutes ago
+- [CloudFlare] PDX (Portland) on 2026-04-07 - 36 minutes ago
+- [RegisterSoftware] Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns - 1 hour ago
+- [RegisterSec] Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns - 1 hour ago
+- [RegisterSec] Russian cybercrims phish their way into officials' Signal and WhatsApp accounts - 1 hour ago
+- [SecurityWeek] Internet Infrastructure TLD .arpa Abused in Phishing Attacks - 1 hour ago
+- [SecurityWeek] ClickFix Attack Uses Windows Terminal to Evade Detection - 1 hour ago
+- [HackerNews] Can the Security Platform Finally Deliver for the Mid-Market? - 1 hour ago
+- [SecurityWeek] Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign - 2 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2026-03-10 - 2 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-12 - 2 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-19 - 2 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-23 - 2 hours ago
+- [HackerNews] Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft - 3 hours ago
+- [RegisterSoftware] UK government's Shared Services Strategy is entering the danger zone - 3 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-10 - 3 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-11 - 3 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2026-03-16 - 4 hours ago
+- [RegisterSec] Royal Navy races to arm ships against drone threat - 4 hours ago
+- [HackerNews] Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure - 6 hours ago
+- [CloudFlare] IST (Istanbul) on 2026-03-09 - 9 hours ago
+- [CloudFlare] ZRH (Zurich) on 2026-03-11 - 9 hours ago
+- [GitHub] Incident with Codespaces - 10 hours ago
+- [Slack] Incident: Intermittent SSO login errors accessing Slack workspace. - 10 hours ago
+- [RegisterSec] Iran is the first out-loud cyberwar the US has fought - 12 hours ago
+- [BrianKrebs] How AI Assistants are Moving the Security Goalposts - 14 hours ago
+- [RegisterSec] FBI is investigating breach that may have hit its wiretapping tools - 15 hours ago
+- [CloudFlare] LHR (London) on 2026-03-09 - 15 hours ago
+- [BleepingComputer] EU court adviser says banks must immediately refund phishing victims - 22 hours ago
+- [BleepingComputer] Hackers abuse .arpa DNS and ipv6 to evade phishing defenses - 1 day ago
+- [SecurityWeek] Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited - 1 day ago
+- [RegisterSec] AI agents now help attackers, including North Korea, manage their drudge work - 1 day ago
+- [RegisterSoftware] AI agents now help attackers, including North Korea, manage their drudge work - 1 day ago
 - [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 1 day ago
 - [HackerNews] OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues - 1 day ago
 - [BleepingComputer] Termite ransomware breaches linked to ClickFix CastleRAT attacks - 1 day ago
 - [SecurityWeek] US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies - 1 day ago
 - [BleepingComputer] Microsoft: Hackers abusing AI at every stage of cyberattacks - 1 day ago
-- [HackerNews] Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model - 1 day ago
-- [RegisterSoftware] Unpacking the deceptively simple science of tokenomics - 1 day ago
-- [SecurityWeek] Over 100 GitHub Repositories Distributing BoryptGrab Stealer - 1 day ago
-- [SecurityWeek] Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare - 1 day ago
-- [RegisterSoftware] Brits fear AI will strip the human touch from public services - 1 day ago
+- [HackerNews] Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
