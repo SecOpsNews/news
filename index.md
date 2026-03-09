@@ -9,50 +9,29 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited - 1 hour ago
-- [RegisterSec] AI agents now help attackers, including North Korea, manage their drudge work - 2 hours ago
-- [RegisterSoftware] AI agents now help attackers, including North Korea, manage their drudge work - 2 hours ago
-- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 17 hours ago
-- [HackerNews] OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues - 20 hours ago
-- [BleepingComputer] Termite ransomware breaches linked to ClickFix CastleRAT attacks - 21 hours ago
-- [SecurityWeek] US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies - 22 hours ago
-- [BleepingComputer] Microsoft: Hackers abusing AI at every stage of cyberattacks - 22 hours ago
+- [CloudFlare] IST (Istanbul) on 2026-03-09 - 2 hours ago
+- [CloudFlare] ZRH (Zurich) on 2026-03-11 - 2 hours ago
+- [GitHub] Incident with Codespaces - 3 hours ago
+- [Slack] Incident: Intermittent SSO login errors accessing Slack workspace. - 3 hours ago
+- [RegisterSec] Iran is the first out-loud cyberwar the US has fought - 5 hours ago
+- [BrianKrebs] How AI Assistants are Moving the Security Goalposts - 7 hours ago
+- [RegisterSec] FBI is investigating breach that may have hit its wiretapping tools - 8 hours ago
+- [CloudFlare] LHR (London) on 2026-03-09 - 8 hours ago
+- [BleepingComputer] EU court adviser says banks must immediately refund phishing victims - 15 hours ago
+- [BleepingComputer] Hackers abuse .arpa DNS and ipv6 to evade phishing defenses - 17 hours ago
+- [SecurityWeek] Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited - 19 hours ago
+- [RegisterSec] AI agents now help attackers, including North Korea, manage their drudge work - 20 hours ago
+- [RegisterSoftware] AI agents now help attackers, including North Korea, manage their drudge work - 20 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rates - 1 day ago
+- [HackerNews] OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues - 1 day ago
+- [BleepingComputer] Termite ransomware breaches linked to ClickFix CastleRAT attacks - 1 day ago
+- [SecurityWeek] US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies - 1 day ago
+- [BleepingComputer] Microsoft: Hackers abusing AI at every stage of cyberattacks - 1 day ago
 - [HackerNews] Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model - 1 day ago
 - [RegisterSoftware] Unpacking the deceptively simple science of tokenomics - 1 day ago
 - [SecurityWeek] Over 100 GitHub Repositories Distributing BoryptGrab Stealer - 1 day ago
 - [SecurityWeek] Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare - 1 day ago
 - [RegisterSoftware] Brits fear AI will strip the human touch from public services - 1 day ago
-- [RegisterSoftware] Anthropic bods rework AI damage yardstick, find scant labor impact - 1 day ago
-- [RegisterSoftware] Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids - 1 day ago
-- [SecurityWeek] FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information - 1 day ago
-- [RegisterSoftware] Don’t blame AI yet for poor jobs numbers, analysts say - 1 day ago
-- [RegisterSec] Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits - 1 day ago
-- [RegisterSoftware] Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits - 1 day ago
-- [BleepingComputer] Cognizant TriZetto breach exposes health data of 3.4 million patients - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-03-06 - 1 day ago
-- [CloudFlare] Access Configuration Updates Delayed - 1 day ago
-- [RegisterSec] Spyware disguised as emergency-alert app sent to Israeli smartphones - 1 day ago
-- [GrahamCluley] How hackers bypassed MFA with a $120 phishing kit – until a global takedown shut it down - 1 day ago
-- [GitHub] Incident with Webhooks - 1 day ago
-- [SecurityWeek] ArmorCode Raises $16 Million for Exposure Management Platform - 1 day ago
-- [BleepingComputer] CISA warns feds to patch iOS flaws exploited in crypto-theft attacks - 1 day ago
-- [CloudFlare] Intermittent connectivity issues in Ashburn, VA - 1 day ago
-- [BleepingComputer] CISA warns of Apple flaws exploited in spyware, crypto-theft attacks - 1 day ago
-- [SecurityWeek] In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike - 1 day ago
-- [HackerNews] Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT - 1 day ago
-- [HackerNews] Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India - 1 day ago
-- [RegisterSec] Cisco warns of two more SD-WAN bugs under active attack - 1 day ago
-- [BleepingComputer] Fake Claude Code install guides push infostealers in InstallFix attacks - 1 day ago
-- [BleepingComputer] EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security - 1 day ago
-- [RegisterSoftware] Anthropic sues US government after unprecedented national security designation - 1 day ago
-- [RegisterSoftware] US state laws push age checks into the operating system - 1 day ago
-- [BleepingComputer] Microsoft 365 Backup to add file-level restore for faster recovery - 1 day ago
-- [CloudFlare] Issues with 1.1.1.1 public resolver in North America - 1 day ago
-- [SecurityWeek] CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List - 2 days ago
-- [RegisterSec] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 2 days ago
-- [RegisterSoftware] UK peers warn weakening AI copyright law could hammer creative industries - 2 days ago
-- [RegisterSoftware] Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal - 2 days ago
-- [RegisterSoftware] Washington reportedly moves to tighten leash on AI chip exports - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
