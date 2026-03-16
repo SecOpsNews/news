@@ -9,34 +9,59 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] PDX (Portland) on 2026-03-26 - 9 minutes ago
-- [RegisterSoftware] Data analytics help make the mighty lionesses roar - 1 hour ago
-- [HackerNews] Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse - 1 hour ago
-- [CloudFlare] PDX (Portland) on 2026-03-30 - 1 hour ago
-- [CloudFlare] PDX (Portland) on 2026-03-31 - 3 hours ago
-- [CloudFlare] PDX (Portland) on 2026-04-01 - 3 hours ago
-- [RegisterSoftware] India tests whether AI can stop trains hitting elephants - 5 hours ago
-- [CloudFlare] ZRH (Zurich) on 2026-03-16 - 5 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-03-16 - 5 hours ago
-- [CloudFlare] PDX (Portland) on 2026-04-02 - 5 hours ago
-- [RegisterSec] Outsourcer Telus admits to attack – may have lost a petabyte of data to ShinyHunters - 8 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2026-03-18 - 8 hours ago
-- [BleepingComputer] OpenAI says ChatGPT ads are not rolling out globally for now - 8 hours ago
-- [CloudFlare] PDX (Portland) on 2026-04-07 - 8 hours ago
-- [CloudFlare] SSL Certificate Provisioning Delays - 9 hours ago
-- [RegisterSoftware] Nvidia GTC will be full of surprises - just not for the consumer class - 9 hours ago
-- [BleepingComputer] Betterleaks, a new open-source secrets scanner to replace Gitleaks - 17 hours ago
-- [RegisterSoftware] Jury out on whether Americans approve or disapprove of datacenters - 19 hours ago
-- [SecurityWeek] Loblaw Data Breach Impacts Customer Information - 21 hours ago
+- [RegisterSoftware] Free Software Foundation calls for free-range LLMs rather than factory-farmed AI - 10 minutes ago
+- [SecurityWeek] Security Firm Executive Targeted in Sophisticated Phishing Attack - 10 minutes ago
+- [BleepingComputer] Shadow AI is everywhere. Here’s how to find and secure it. - 10 minutes ago
+- [CloudFlare] Elevated Error Rates for Workers AI Services - 15 minutes ago
+- [RegisterSoftware] Age verification isn't sage verification when it's inside operating systems - 1 hour ago
+- [RegisterSoftware] ServiceNow boss warns AI could push grad unemployment past 30% - 1 hour ago
+- [SecurityWeek] Threat Actor Targeting VPN Users in New Credential Theft Campaign - 1 hour ago
+- [SecurityWeek] China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation - 1 hour ago
+- [RegisterSec] Flaw in UK's corporate registry let directors rummage through rival records - 1 hour ago
+- [HackerNews] ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers - 1 hour ago
+- [HackerNews] Why Security Validation Is Becoming Agentic - 1 hour ago
+- [BleepingComputer] Microsoft pulls Samsung app blocking Windows C: drive from Store - 1 hour ago
+- [SecurityWeek] ForceMemo: Python Repositories Compromised in GlassWorm Aftermath - 2 hours ago
+- [RegisterSoftware] Microsoft points at Samsung after Galaxy app bug locks users out of C:/ - 2 hours ago
+- [RegisterSoftware] West Sussex's Oracle rollout pushed back again as costs balloon 15 times - 3 hours ago
+- [RegisterSoftware] UK splashes £45M on AI supercomputer to help crack fusion power - 3 hours ago
+- [HackerNews] DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage - 3 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-16 - 3 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-17 - 3 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-18 - 3 hours ago
+- [RegisterSoftware] Horizon redress still a mess, MPs say – and Fujitsu hasn't paid a penny - 4 hours ago
+- [SecurityWeek] Hacking Attempt Reported at Poland’s Nuclear Research Center - 4 hours ago
+- [CloudFlare] MAD (Madrid) on 2026-03-16 - 4 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-17 - 4 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-24 - 4 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-25 - 6 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-26 - 7 hours ago
+- [RegisterSoftware] Data analytics help make the mighty lionesses roar - 8 hours ago
+- [HackerNews] Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse - 8 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-30 - 8 hours ago
+- [CloudFlare] PDX (Portland) on 2026-03-31 - 10 hours ago
+- [CloudFlare] PDX (Portland) on 2026-04-01 - 10 hours ago
+- [RegisterSoftware] India tests whether AI can stop trains hitting elephants - 12 hours ago
+- [CloudFlare] ZRH (Zurich) on 2026-03-16 - 12 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-03-16 - 12 hours ago
+- [CloudFlare] PDX (Portland) on 2026-04-02 - 12 hours ago
+- [RegisterSec] Outsourcer Telus admits to attack – may have lost a petabyte of data to ShinyHunters - 15 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-18 - 15 hours ago
+- [BleepingComputer] OpenAI says ChatGPT ads are not rolling out globally for now - 15 hours ago
+- [CloudFlare] PDX (Portland) on 2026-04-07 - 15 hours ago
+- [CloudFlare] SSL Certificate Provisioning Delays - 15 hours ago
+- [RegisterSoftware] Nvidia GTC will be full of surprises - just not for the consumer class - 16 hours ago
+- [BleepingComputer] Betterleaks, a new open-source secrets scanner to replace Gitleaks - 23 hours ago
+- [RegisterSoftware] Jury out on whether Americans approve or disapprove of datacenters - 1 day ago
+- [SecurityWeek] Loblaw Data Breach Impacts Customer Information - 1 day ago
 - [HIBP] Divine Skins - 105,814 breached accounts - 1 day ago
 - [HIBP] Baydöner - 1,266,822 breached accounts - 1 day ago
 - [BleepingComputer] Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw - 1 day ago
 - [BleepingComputer] Microsoft re-releases Windows 11 OOB hotpatch to fix RRAS RCE flaw - 1 day ago
 - [HackerNews] OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration - 1 day ago
 - [BleepingComputer] AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code - 1 day ago
-- [BleepingComputer] AppsFlyer Web SDK used to spread crypto stealer JavaScript code - 1 day ago
-- [HackerNews] GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers - 1 day ago
-- [SecurityWeek] Critical HPE AOS-CX Vulnerability Allows Admin Password Resets - 1 day ago
+- [BleepingComputer] AppsFlyer Web SDK used to spread crypto stealer JavaScript code - 2 days ago
+- [HackerNews] GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
