@@ -9,16 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - 13 hours ago
-- [BleepingComputer] Microsoft Azure Monitor alerts abused for callback phishing attacks - 14 hours ago
-- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 16 hours ago
-- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 16 hours ago
-- [HackerNews] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks - 18 hours ago
-- [SecurityWeek] Critical Quest KACE Vulnerability Potentially Exploited in Attacks - 20 hours ago
-- [HackerNews] Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager - 20 hours ago
-- [RegisterSoftware] Payment biz pulls plug on open source charity after KYC spat - 21 hours ago
-- [HackerNews] CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026 - 22 hours ago
-- [HackerNews] Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages - 23 hours ago
+- [RegisterSoftware] CERN eggheads burn AI into silicon to stem data deluge - 2 hours ago
+- [BleepingComputer] Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - 20 hours ago
+- [BleepingComputer] Microsoft Azure Monitor alerts abused for callback phishing attacks - 21 hours ago
+- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 23 hours ago
+- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 23 hours ago
+- [HackerNews] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks - 1 day ago
+- [SecurityWeek] Critical Quest KACE Vulnerability Potentially Exploited in Attacks - 1 day ago
+- [HackerNews] Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager - 1 day ago
+- [RegisterSoftware] Payment biz pulls plug on open source charity after KYC spat - 1 day ago
+- [HackerNews] CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026 - 1 day ago
+- [HackerNews] Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages - 1 day ago
 - [CloudFlare] YUL (Montréal) on 2026-03-20 - 1 day ago
 - [RegisterSec] Cryptographers engage in war of words over RustSec bug reports and subsequent ban - 1 day ago
 - [CloudFlare] LHR (London) on 2026-03-23 - 1 day ago
@@ -45,34 +46,11 @@ description: Latest Updates
 - [SecurityWeek] In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting - 1 day ago
 - [BleepingComputer] How CISOs Can Survive the Era of Geopolitical Cyberattacks - 1 day ago
 - [SecurityWeek] 3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China - 1 day ago
-- [RegisterSoftware] UK police force presses pause on live facial recognition after study finds racial bias - 1 day ago
-- [RegisterSoftware] Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update - 1 day ago
-- [SecurityWeek] Eclypsium Raises $25 Million for Device Supply Chain Security - 1 day ago
-- [RegisterSec] Feds disrupt monster IoT botnets behind record-breaking DDoS attacks - 1 day ago
-- [RegisterSec] UK police force presses pause on live facial recognition after study finds racial bias - 1 day ago
-- [SecurityWeek] US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites - 1 day ago
-- [RegisterSec] Jaguar Land Rover's cyber bailout sets worrying precedent, watchdog warns - 1 day ago
-- [HackerNews] Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover - 1 day ago
-- [RegisterSoftware] UK to rethink tech buying after Palantir contracts - 1 day ago
-- [SecurityWeek] Cape Raises $100 Million for Protection Against Cellular Security Threats - 1 day ago
-- [CloudFlare] Network Performance Issues in Jakarta - 1 day ago
-- [RegisterSoftware] UK to rethink tech buying after Palantir backlash, but won't revisit contracts - 1 day ago
-- [SecurityWeek] Navia Data Breach Impacts 2.7 Million - 1 day ago
-- [HackerNews] Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams - 1 day ago
-- [RegisterSec] Starmer's digital ID reboot raises same old questions as its Blair-era ancestor - 1 day ago
-- [GrahamCluley] LeakNet ransomware: what you need to know - 1 day ago
-- [HackerNews] The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks - 1 day ago
-- [SecurityWeek] Thousands of Magento Sites Hit in Ongoing Defacement Campaign - 1 day ago
-- [SecurityWeek] Allure Security Raises $17 Million for Online Brand Protection - 1 day ago
-- [BleepingComputer] Musician admits to $10M streaming royalty fraud using AI bots - 1 day ago
-- [RegisterSoftware] Sashiko: AI code review system for the Linux kernel spots bugs humans miss - 1 day ago
-- [SecurityWeek] Critical Langflow Vulnerability Exploited Hours After Public Disclosure - 1 day ago
-- [BleepingComputer] International joint action disrupts world’s largest DDoS botnets - 1 day ago
-- [CloudFlare] KIX (Osaka) on 2026-03-24 - 1 day ago
-- [SecurityWeek] Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation - 1 day ago
-- [RegisterSec] While you're here, could you go out of your way to do an impossible job? - 1 day ago
-- [BleepingComputer] Ex-data analyst stole company data in $2.5M extortion scheme - 1 day ago
-- [BleepingComputer] Microsoft: March Windows updates break Teams, OneDrive sign-ins - 1 day ago
+- [RegisterSoftware] UK police force presses pause on live facial recognition after study finds racial bias - 2 days ago
+- [RegisterSoftware] Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update - 2 days ago
+- [SecurityWeek] Eclypsium Raises $25 Million for Device Supply Chain Security - 2 days ago
+- [RegisterSec] Feds disrupt monster IoT botnets behind record-breaking DDoS attacks - 2 days ago
+- [RegisterSec] UK police force presses pause on live facial recognition after study finds racial bias - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
@@ -81,13 +59,13 @@ description: Latest Updates
 - [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 10 months ago
 - [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 10 months ago
 - [TroyHunt] Weekly Update 449 - 10 months ago
-- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 10 months ago
-- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 10 months ago
-- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 10 months ago
-- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 10 months ago
-- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 10 months ago
-- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 10 months ago
-- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 10 months ago
+- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 11 months ago
+- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 11 months ago
+- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 11 months ago
+- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 11 months ago
+- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 11 months ago
+- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 11 months ago
+- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 11 months ago
 - [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 11 months ago
 - [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 11 months ago
 - [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 11 months ago
