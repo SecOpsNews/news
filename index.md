@@ -9,26 +9,41 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems - 32 minutes ago
-- [SecurityWeek] Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability - 1 hour ago
-- [CloudFlare] FRA (Frankfurt) on 2026-03-24 - 1 hour ago
-- [RegisterSoftware] Microsoft: Removing some Copilots will improve Windows 11 - 3 hours ago
-- [Slack] Incident: Authorization Failure Errors Connecting to the Slack MCP Sever - 3 hours ago
-- [RegisterSec] Russians are posing as Signal support to launch phishing attacks - 9 hours ago
-- [BleepingComputer] VoidStealer malware steals Chrome master key via debugger trick - 17 hours ago
-- [RegisterSoftware] CERN eggheads burn AI into silicon to stem data deluge - 20 hours ago
+- [HackerNews] We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them - 29 minutes ago
+- [HackerNews] ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More - 29 minutes ago
+- [BleepingComputer] Varonis Atlas: Securing AI and the Data That Powers It - 29 minutes ago
+- [RegisterSoftware] Palantir trial plugs into UK financial watchdog's data trove - 29 minutes ago
+- [SecurityWeek] Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack - 29 minutes ago
+- [BleepingComputer] Microsoft Exchange Online service change causes email access issues - 1 hour ago
+- [RegisterSec] RSAC 2026: Uncle Sam backs out, and AI agents are everywhere - 1 hour ago
+- [RegisterSec] US chip testing firm shrugged off ransomware hit as minor - then came the data leak - 1 hour ago
+- [RegisterSoftware] Microsoft fixes broken Windows update days after vowing fewer broken updates - 2 hours ago
+- [HackerNews] Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware - 2 hours ago
+- [RegisterSec] Microsoft fixes broken Windows update days after vowing fewer broken updates - 2 hours ago
+- [SecurityWeek] Tycoon 2FA Fully Operational Despite Law Enforcement Takedown - 3 hours ago
+- [SecurityWeek] QNAP Patches Four Vulnerabilities Exploited at Pwn2Own - 3 hours ago
+- [RegisterSec] The drone swarm is coming, and NATO air defenses are too expensive to cope - 3 hours ago
+- [BleepingComputer] FBI warns of Handala hackers using Telegram in malware attacks - 4 hours ago
+- [HackerNews] Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper - 5 hours ago
+- [BleepingComputer] CISA orders feds to patch DarkSword iOS flaws exploited attacks - 5 hours ago
+- [RegisterSoftware] Data analytics help make the mighty lionesses roar - 5 hours ago
+- [RegisterSoftware] Junior disobeyed orders and tried untested feature during a live robot demo - 6 hours ago
+- [BleepingComputer] New KB5085516 emergency update fixes Microsoft account sign-in - 6 hours ago
+- [HackerNews] Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems - 7 hours ago
+- [SecurityWeek] Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability - 8 hours ago
+- [CloudFlare] FRA (Frankfurt) on 2026-03-24 - 8 hours ago
+- [RegisterSoftware] Microsoft: Removing some Copilots will improve Windows 11 - 10 hours ago
+- [Slack] Incident: Authorization Failure Errors Connecting to the Slack MCP Sever - 10 hours ago
+- [RegisterSec] Russians are posing as Signal support to launch phishing attacks - 16 hours ago
+- [BleepingComputer] VoidStealer malware steals Chrome master key via debugger trick - 1 day ago
+- [RegisterSoftware] CERN eggheads burn AI into silicon to stem data deluge - 1 day ago
 - [BleepingComputer] Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - 1 day ago
 - [BleepingComputer] Microsoft Azure Monitor alerts abused for callback phishing attacks - 1 day ago
-- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 1 day ago
-- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 1 day ago
-- [HackerNews] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks - 1 day ago
-- [SecurityWeek] Critical Quest KACE Vulnerability Potentially Exploited in Attacks - 1 day ago
-- [HackerNews] Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager - 1 day ago
-- [RegisterSoftware] Payment biz pulls plug on open source charity after KYC spat - 1 day ago
-- [HackerNews] CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026 - 1 day ago
-- [HackerNews] Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages - 1 day ago
-- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
-- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
+- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 2 days ago
+- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 2 days ago
+- [HackerNews] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks - 2 days ago
+- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
+- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
 - [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 11 months ago
 - [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 11 months ago
