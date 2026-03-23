@@ -9,56 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] CERN eggheads burn AI into silicon to stem data deluge - 2 hours ago
-- [BleepingComputer] Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - 20 hours ago
-- [BleepingComputer] Microsoft Azure Monitor alerts abused for callback phishing attacks - 21 hours ago
-- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 23 hours ago
-- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 23 hours ago
+- [HackerNews] Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems - 32 minutes ago
+- [SecurityWeek] Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability - 1 hour ago
+- [CloudFlare] FRA (Frankfurt) on 2026-03-24 - 1 hour ago
+- [RegisterSoftware] Microsoft: Removing some Copilots will improve Windows 11 - 3 hours ago
+- [Slack] Incident: Authorization Failure Errors Connecting to the Slack MCP Sever - 3 hours ago
+- [RegisterSec] Russians are posing as Signal support to launch phishing attacks - 9 hours ago
+- [BleepingComputer] VoidStealer malware steals Chrome master key via debugger trick - 17 hours ago
+- [RegisterSoftware] CERN eggheads burn AI into silicon to stem data deluge - 20 hours ago
+- [BleepingComputer] Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - 1 day ago
+- [BleepingComputer] Microsoft Azure Monitor alerts abused for callback phishing attacks - 1 day ago
+- [BleepingComputer] Microsoft Azure Monitor alerts abused in callback phishing campaigns - 1 day ago
+- [BleepingComputer] Google adds ‘Advanced Flow’ for safe APK sideloading on Android - 1 day ago
 - [HackerNews] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks - 1 day ago
 - [SecurityWeek] Critical Quest KACE Vulnerability Potentially Exploited in Attacks - 1 day ago
 - [HackerNews] Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager - 1 day ago
 - [RegisterSoftware] Payment biz pulls plug on open source charity after KYC spat - 1 day ago
 - [HackerNews] CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026 - 1 day ago
 - [HackerNews] Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-03-20 - 1 day ago
-- [RegisterSec] Cryptographers engage in war of words over RustSec bug reports and subsequent ban - 1 day ago
-- [CloudFlare] LHR (London) on 2026-03-23 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-03-24 - 1 day ago
-- [BleepingComputer] FBI links Signal phishing attacks to Russian intelligence services - 1 day ago
-- [CloudFlare] PMO (Palermo) on 2026-03-24 - 1 day ago
-- [CloudFlare] DUS (Düsseldorf) on 2026-03-24 - 1 day ago
-- [CloudFlare] CDG (Paris) on 2026-03-25 - 1 day ago
-- [CloudFlare] LHR (London) on 2026-03-26 - 1 day ago
-- [CloudFlare] BOG (Bogota) on 2026-03-19 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-03-23 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-03-24 - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-03-25 - 1 day ago
-- [BleepingComputer] Oracle pushes emergency fix for critical Identity Manager RCE flaw - 1 day ago
-- [RegisterSoftware] Salesforce snaps up the team who built calendar app Clockwise to work on Agentforce - 1 day ago
-- [HackerNews] Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2026-03-27 - 1 day ago
-- [BleepingComputer] Police take down 373,000 fake CSAM sites in Operation Alice - 1 day ago
-- [CloudFlare] ZRH (Zurich) on 2026-03-24 - 1 day ago
-- [RegisterSoftware] WSL graphics driver update brings better GPU support for Linux apps - 1 day ago
-- [HackerNews] Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure - 1 day ago
-- [GrahamCluley] Denver’s crosswalks hacked to broadcast anti-Trump messages - 1 day ago
-- [BleepingComputer] CISA orders feds to patch max-severity Cisco flaw by Sunday - 1 day ago
-- [SecurityWeek] In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting - 1 day ago
-- [BleepingComputer] How CISOs Can Survive the Era of Geopolitical Cyberattacks - 1 day ago
-- [SecurityWeek] 3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China - 1 day ago
-- [RegisterSoftware] UK police force presses pause on live facial recognition after study finds racial bias - 2 days ago
-- [RegisterSoftware] Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update - 2 days ago
-- [SecurityWeek] Eclypsium Raises $25 Million for Device Supply Chain Security - 2 days ago
-- [RegisterSec] Feds disrupt monster IoT botnets behind record-breaking DDoS attacks - 2 days ago
-- [RegisterSec] UK police force presses pause on live facial recognition after study finds racial bias - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 10 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 10 months ago
-- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 10 months ago
-- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 10 months ago
-- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 10 months ago
-- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 10 months ago
-- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 10 months ago
-- [TroyHunt] Weekly Update 449 - 10 months ago
+- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
+- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 11 months ago
+- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 11 months ago
+- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 11 months ago
+- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 11 months ago
+- [TroyHunt] Weekly Update 449 - 11 months ago
 - [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 11 months ago
 - [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 11 months ago
 - [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 11 months ago
