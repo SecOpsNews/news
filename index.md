@@ -9,18 +9,49 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] European Commission confirms data breach after Europa.eu hack - 1 hour ago
-- [CloudFlare] JNB (Johannesburg) on 2026-03-30 - 1 hour ago
-- [RegisterSec] US foreign router ban criticized for being ‘industrial policy disguised as cybersecurity’ - 3 hours ago
-- [CloudFlare] ICN (Seoul) on 2026-03-31 - 3 hours ago
-- [CloudFlare] LHR (London) on 2026-03-30 - 6 hours ago
-- [CloudFlare] DME (Moscow) on 2026-03-30 - 8 hours ago
-- [RegisterSoftware] AI will write code, but prepare to babysit it - and be sure you speak its language - 9 hours ago
-- [CloudFlare] JNB (Johannesburg) on 2026-03-29 - 9 hours ago
-- [Slack] Incident: Issue with Sending and Receiving Messages - 9 hours ago
-- [BleepingComputer] FBI confirms hack of Director Patel's personal email inbox - 10 hours ago
-- [BleepingComputer] File read flaw in Smart Slider plugin impacts 500K WordPress sites - 17 hours ago
-- [RegisterSoftware] The first thing vibe coding builds is confidence it will help you succeed - 19 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2026-03-31 - 8 minutes ago
+- [CloudFlare] FRA (Frankfurt) on 2026-04-01 - 8 minutes ago
+- [RegisterSoftware] Microsoft Fabric Database Hub only a 'partial' solution for admins - 1 hour ago
+- [RegisterSec] Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat - 1 hour ago
+- [IT Governance] How Long Does a Penetration Test Take? - 1 hour ago
+- [RegisterSoftware] South Korea's Rebellions raises $400B to take rack-scale AI platform global - 1 hour ago
+- [SecurityWeek] Huskeys Emerges From Stealth With $8 Million in Funding - 1 hour ago
+- [GitHub] Elevated delays in Actions workflow runs and Pull Request status updates - 1 hour ago
+- [CloudFlare] LAX (Los Angeles) on 2026-03-30 - 1 hour ago
+- [SecurityWeek] Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare - 2 hours ago
+- [SecurityWeek] European Commission Reports Cyber Intrusion and Data Theft - 2 hours ago
+- [SecurityWeek] Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit - 2 hours ago
+- [RegisterSoftware] Humanoid robots one tiny step closer to exterminating autoworkers' jobs - 2 hours ago
+- [HackerNews] The State of Secrets Sprawl 2026: 9 Takeaways for CISOs - 2 hours ago
+- [RegisterSoftware] Microsoft yanks Windows 11 preview update after install failures - 2 hours ago
+- [CloudFlare] Workers Assets increased upload failure - 3 hours ago
+- [HackerNews] Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels - 3 hours ago
+- [BleepingComputer] Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now - 3 hours ago
+- [ScottHelme] Launching Passkeys support on Report URI! 🗝️ - 3 hours ago
+- [RegisterSec] European Commission admits attackers broke into public web systems, but says little else - 3 hours ago
+- [SecurityWeek] Telnyx Targeted in Growing TeamPCP Supply Chain Attack - 3 hours ago
+- [SecurityWeek] Exploitation of Fresh Citrix NetScaler Vulnerability Begins - 5 hours ago
+- [BleepingComputer] Microsoft pulls KB5079391 Windows update over install issues - 5 hours ago
+- [RegisterSoftware] AI will write code, but prepare to babysit it – and be sure you speak its language - 5 hours ago
+- [CloudFlare] EWR (Newark) on 2026-03-31 - 5 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-04-02 - 5 hours ago
+- [BleepingComputer] Critical Fortinet Forticlient EMS flaw now exploited in attacks - 6 hours ago
+- [HackerNews] Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign - 6 hours ago
+- [RegisterSec] Security contractor blew the whistle on support crew's viral indifference - 6 hours ago
+- [SecurityWeek] F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild - 6 hours ago
+- [SecurityWeek] FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers - 6 hours ago
+- [BleepingComputer] European Commission confirms data breach after Europa.eu hack - 7 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2026-03-30 - 7 hours ago
+- [RegisterSec] US foreign router ban criticized for being ‘industrial policy disguised as cybersecurity’ - 9 hours ago
+- [CloudFlare] ICN (Seoul) on 2026-03-31 - 9 hours ago
+- [CloudFlare] LHR (London) on 2026-03-30 - 12 hours ago
+- [CloudFlare] DME (Moscow) on 2026-03-30 - 15 hours ago
+- [RegisterSoftware] AI will write code, but prepare to babysit it - and be sure you speak its language - 15 hours ago
+- [CloudFlare] JNB (Johannesburg) on 2026-03-29 - 16 hours ago
+- [Slack] Incident: Issue with Sending and Receiving Messages - 16 hours ago
+- [BleepingComputer] FBI confirms hack of Director Patel's personal email inbox - 17 hours ago
+- [BleepingComputer] File read flaw in Smart Slider plugin impacts 500K WordPress sites - 1 day ago
+- [RegisterSoftware] The first thing vibe coding builds is confidence it will help you succeed - 1 day ago
 - [FullDisclosure] APPLE-SA-03-24-2026-9 Safari 26.4 - 1 day ago
 - [FullDisclosure] APPLE-SA-03-24-2026-10 Xcode 26.4 - 1 day ago
 - [FullDisclosure] CVE-2026-33150, CVE-2026-33179: libfuse io_uring memory safety vulnerabilities (use-after-free, NULL deref) - 1 day ago
@@ -37,13 +68,8 @@ description: Latest Updates
 - [FullDisclosure] APPLE-SA-03-24-2026-8 visionOS 26.4 - 1 day ago
 - [HackerNews] Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack - 1 day ago
 - [BleepingComputer] New Infinity Stealer malware grabs macOS data via ClickFix lures - 1 day ago
-- [RegisterSoftware] Anthropic struggling with Chinese competition, its own safety obsession - 1 day ago
-- [SecurityWeek] Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs - 1 day ago
-- [HackerNews] Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug - 1 day ago
-- [HackerNews] TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign - 1 day ago
-- [HackerNews] CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation - 2 days ago
-- [HackerNews] TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign - 2 days ago
-- [SecurityWeek] OpenAI Launches Bug Bounty Program for Abuse and Safety Risks - 2 days ago
+- [RegisterSoftware] Anthropic struggling with Chinese competition, its own safety obsession - 2 days ago
+- [SecurityWeek] OpenAI Launches Bug Bounty Program for Abuse and Safety Risks - 3 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
