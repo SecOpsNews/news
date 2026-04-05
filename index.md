@@ -9,14 +9,16 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS - 1 hour ago
-- [HackerNews] 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants - 1 hour ago
-- [BleepingComputer] Axios npm hack used fake Teams error fix to hijack maintainer account - 10 hours ago
-- [BleepingComputer] LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - 16 hours ago
-- [BleepingComputer] Device code phishing attacks surge 37x as new kits spread online - 16 hours ago
-- [RegisterSoftware] Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup - 18 hours ago
-- [SecurityWeek] European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack - 20 hours ago
-- [RegisterSoftware] PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud - 23 hours ago
+- [RegisterSec] Researchers didn’t want to glamorize cybercrims. So they roasted them - 1 hour ago
+- [RegisterSoftware] AI agents promise to 'run the business,' but who is liable if things go wrong? - 3 hours ago
+- [HackerNews] Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS - 8 hours ago
+- [HackerNews] 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants - 8 hours ago
+- [BleepingComputer] Axios npm hack used fake Teams error fix to hijack maintainer account - 17 hours ago
+- [BleepingComputer] LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - 23 hours ago
+- [BleepingComputer] Device code phishing attacks surge 37x as new kits spread online - 23 hours ago
+- [RegisterSoftware] Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup - 1 day ago
+- [SecurityWeek] European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack - 1 day ago
+- [RegisterSoftware] PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud - 1 day ago
 - [HIBP] Crunchyroll - 1,195,684 breached accounts - 1 day ago
 - [HIBP] SongTrivia2 - 291,739 breached accounts - 1 day ago
 - [CloudFlare] Queue resource error - 1 day ago
@@ -36,26 +38,6 @@ description: Latest Updates
 - [BleepingComputer] Die Linke German political party confirms data stolen by Qilin ransomware - 1 day ago
 - [RegisterSec] Hybrid work, expanded risk: what needs to change - 1 day ago
 - [BleepingComputer] Evolution of Ransomware: Multi-Extortion Ransomware Attacks - 1 day ago
-- [HackerNews] Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture - 1 day ago
-- [HackerNews] UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack - 1 day ago
-- [SecurityWeek] Critical ShareFile Flaws Lead to Unauthenticated RCE - 1 day ago
-- [SecurityWeek] In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware - 1 day ago
-- [SecurityWeek] TrueConf Zero-Day Exploited in Asian Government Attacks - 1 day ago
-- [BleepingComputer] Microsoft still working to fix Exchange Online mailbox access issues - 1 day ago
-- [SecurityWeek] T-Mobile Sets the Record Straight on Latest Data Breach Filing - 1 day ago
-- [SecurityWeek] React2Shell Exploited in Large-Scale Credential Harvesting Campaign - 1 day ago
-- [SecurityWeek] Mobile Attack Surface Expands as Enterprises Lose Control - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-04-08 - 1 day ago
-- [GrahamCluley] Nigerian romance scammer jailed after being caught out by fellow fraudster - 1 day ago
-- [SecurityWeek] North Korean Hackers Drain $285 Million From Drift in 10 Seconds - 1 day ago
-- [CloudFlare] DME (Moscow) on 2026-04-07 - 1 day ago
-- [HackerNews] Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK - 1 day ago
-- [HackerNews] New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images - 1 day ago
-- [BleepingComputer] Man admits to locking thousands of Windows devices in extortion plot - 1 day ago
-- [CloudFlare] WARP connectivity issues affecting a subset of windows users, using latest version 2026.3.846.0. - 1 day ago
-- [CloudFlare] WARP connectivity issues - 1 day ago
-- [BleepingComputer] Microsoft now force upgrades unmanaged Windows 11 24H2 PCs - 1 day ago
-- [BleepingComputer] CERT-EU: European Commission hack exposes data of 30 EU entities - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
