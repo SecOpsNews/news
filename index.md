@@ -9,28 +9,33 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup - 1 hour ago
-- [SecurityWeek] European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack - 3 hours ago
-- [RegisterSoftware] PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud - 6 hours ago
-- [HIBP] Crunchyroll - 1,195,684 breached accounts - 7 hours ago
-- [HIBP] SongTrivia2 - 291,739 breached accounts - 10 hours ago
-- [CloudFlare] Queue resource error - 14 hours ago
-- [RegisterSec] Trump wants to take a battle axe to CISA again and slash $707M from budget - 15 hours ago
-- [CloudFlare] Customers using our Email Security product might see some links flagged as suspicious - 15 hours ago
-- [BleepingComputer] LinkedIn secretely scans for 6,000+ Chrome extensions, collects data - 17 hours ago
-- [RegisterSoftware] Netflix - yes Netflix - jumps on the AI bandwagon with video editor - 17 hours ago
-- [CloudFlare] AUS (Austin) on 2026-04-03 - 17 hours ago
-- [CloudFlare] BRU (Brussels) on 2026-04-06 - 19 hours ago
-- [BleepingComputer] Hims & Hers warns of data breach after Zendesk support ticket breach - 20 hours ago
-- [HackerNews] China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing - 20 hours ago
-- [CloudFlare] KIX (Osaka) on 2026-04-14 - 20 hours ago
-- [HackerNews] Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers - 21 hours ago
-- [RegisterSoftware] NHS staff resist using Palantir software - 21 hours ago
-- [CloudFlare] Pages increased deployment errors - 21 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-04-07 - 21 hours ago
-- [BleepingComputer] Die Linke German political party confirms data stolen by Qilin ransomware - 21 hours ago
-- [RegisterSec] Hybrid work, expanded risk: what needs to change - 21 hours ago
-- [BleepingComputer] Evolution of Ransomware: Multi-Extortion Ransomware Attacks - 23 hours ago
+- [HackerNews] Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS - 1 hour ago
+- [HackerNews] 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants - 1 hour ago
+- [BleepingComputer] Axios npm hack used fake Teams error fix to hijack maintainer account - 10 hours ago
+- [BleepingComputer] LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - 16 hours ago
+- [BleepingComputer] Device code phishing attacks surge 37x as new kits spread online - 16 hours ago
+- [RegisterSoftware] Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup - 18 hours ago
+- [SecurityWeek] European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack - 20 hours ago
+- [RegisterSoftware] PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud - 23 hours ago
+- [HIBP] Crunchyroll - 1,195,684 breached accounts - 1 day ago
+- [HIBP] SongTrivia2 - 291,739 breached accounts - 1 day ago
+- [CloudFlare] Queue resource error - 1 day ago
+- [RegisterSec] Trump wants to take a battle axe to CISA again and slash $707M from budget - 1 day ago
+- [CloudFlare] Customers using our Email Security product might see some links flagged as suspicious - 1 day ago
+- [BleepingComputer] LinkedIn secretely scans for 6,000+ Chrome extensions, collects data - 1 day ago
+- [RegisterSoftware] Netflix - yes Netflix - jumps on the AI bandwagon with video editor - 1 day ago
+- [CloudFlare] AUS (Austin) on 2026-04-03 - 1 day ago
+- [CloudFlare] BRU (Brussels) on 2026-04-06 - 1 day ago
+- [BleepingComputer] Hims & Hers warns of data breach after Zendesk support ticket breach - 1 day ago
+- [HackerNews] China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing - 1 day ago
+- [CloudFlare] KIX (Osaka) on 2026-04-14 - 1 day ago
+- [HackerNews] Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers - 1 day ago
+- [RegisterSoftware] NHS staff resist using Palantir software - 1 day ago
+- [CloudFlare] Pages increased deployment errors - 1 day ago
+- [CloudFlare] ORD (Chicago) on 2026-04-07 - 1 day ago
+- [BleepingComputer] Die Linke German political party confirms data stolen by Qilin ransomware - 1 day ago
+- [RegisterSec] Hybrid work, expanded risk: what needs to change - 1 day ago
+- [BleepingComputer] Evolution of Ransomware: Multi-Extortion Ransomware Attacks - 1 day ago
 - [HackerNews] Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture - 1 day ago
 - [HackerNews] UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack - 1 day ago
 - [SecurityWeek] Critical ShareFile Flaws Lead to Unauthenticated RCE - 1 day ago
@@ -50,57 +55,7 @@ description: Latest Updates
 - [CloudFlare] WARP connectivity issues affecting a subset of windows users, using latest version 2026.3.846.0. - 1 day ago
 - [CloudFlare] WARP connectivity issues - 1 day ago
 - [BleepingComputer] Microsoft now force upgrades unmanaged Windows 11 24H2 PCs - 1 day ago
-- [BleepingComputer] CERT-EU: European Commission hack exposes data of 30 EU entities - 1 day ago
-- [BleepingComputer] Drift loses $280 million North Korean hackers seize Security Council powers - 1 day ago
-- [FullDisclosure] [CVE-2026-33691] OWASP CRS whitespace padding bypass	vulnerability - 1 day ago
-- [FullDisclosure] [KIS-2026-06] MetInfo CMS <= 8.1 (weixinreply.class.php) PHP Code Injection Vulnerability - 1 day ago
-- [FullDisclosure] Apple OHTTP Relay: 14 Third-Party Endpoints, 6 Countries,	Zero User Visibility - 1 day ago
-- [FullDisclosure] SEC Consult SA-20260326-0 :: Local Privilege Escalation in Vienna Assistant (MacOS) - Vienna Symphonic Library - 1 day ago
-- [FullDisclosure] SEC Consult SA-20260401-0 :: Broken Access Control in Open	WebUI - 1 day ago
-- [RegisterSoftware] AI models will deceive you to save their own kind - 1 day ago
-- [RegisterSoftware] Google battles Chinese open-weights models with Gemma 4 - 1 day ago
-- [CloudFlare] PTY (Panama City) on 2026-04-03 - 1 day ago
-- [RegisterSoftware] Microsoft shivs OpenAI with three new AI models for speech and images - 1 day ago
-- [BleepingComputer] Claude Code leak used to push infostealer malware on GitHub - 1 day ago
-- [HackerNews] Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials - 1 day ago
-- [SecurityWeek] Critical Vulnerability in Claude Code Emerges Days After Source Leak - 1 day ago
-- [BleepingComputer] Drift loses $280 million as hackers seize Security Council powers - 1 day ago
-- [CloudFlare] SMF (Sacramento) on 2026-04-03 - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-04-09 - 1 day ago
-- [RegisterSec] They thought they were downloading Claude Code source. They got a nasty dose of malware instead - 1 day ago
-- [RegisterSoftware] They thought they were downloading Claude Code source. They got a nasty dose of malware instead - 1 day ago
-- [CloudFlare] GYE (Guayaquil) on 2026-04-02 - 1 day ago
-- [CloudFlare] Elevated latency uploading Workers Static Assets - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-04-06 - 1 day ago
-- [HackerNews] Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise - 1 day ago
-- [RegisterSoftware] Even Microsoft knows Copilot shouldn't be trusted with anything important - 1 day ago
-- [SecurityWeek] Apple Rolls Out DarkSword Exploit Protection to More Devices - 1 day ago
-- [CloudFlare] Digital Experience Monitoring (DEX) Delay - 1 day ago
-- [CloudFlare] STL (St. Louis) on 2026-04-09 - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-04-15 - 1 day ago
-- [CloudFlare] FRA (Frankfurt) on 2026-04-16 - 1 day ago
-- [GitHub] Copilot Coding Agent failing to start some jobs - 1 day ago
-- [RegisterSoftware] Artemis II astronaut: 'I have two Microsoft Outlooks, and neither one of those are working' - 1 day ago
-- [RegisterSoftware] Forking frenzy ensues after Euro-Office launch sparks OnlyOffice backlash - 1 day ago
-- [BleepingComputer] Residential proxies evaded IP reputation checks in 78% of 4B sessions - 1 day ago
-- [CloudFlare] PIT (Pittsburgh) on 2026-04-06 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-04-14 - 1 day ago
-- [SecurityWeek] Cybersecurity M&A Roundup: 38 Deals Announced in March 2026 - 1 day ago
-- [CloudFlare] POA (Porto Alegre) on 2026-04-06 - 1 day ago
-- [ScottHelme] Bringing in the experts; Having our Passkeys implementation Security Tested - 2 days ago
-- [BleepingComputer] Medtech giant Stryker fully operational after data-wiping attack - 2 days ago
-- [BleepingComputer] New Progress ShareFile flaws can be chained in pre-auth RCE attacks - 2 days ago
-- [BleepingComputer] Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime - 2 days ago
-- [RegisterSoftware] Microsoft veteran says some 'broken by update' PCs were already doomed - 2 days ago
-- [RegisterSoftware] Cloudflare previews 'EmDash' – an AI-driven rebuild of WordPress in TypeScript - 2 days ago
-- [HackerNews] ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories - 2 days ago
-- [CloudFlare] Issues with creating Managed Rules exceptions via the Cloudflare Dashboard - 2 days ago
-- [CloudFlare] Cache Purging Delays - 2 days ago
-- [CloudFlare] AMS (Amsterdam) on 2026-04-13 - 2 days ago
-- [HackerNews] The State of Trusted Open Source Report - 2 days ago
-- [HackerNews] Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners - 2 days ago
-- [SecurityWeek] 250,000 Affected by Data Breach at Nacogdoches Memorial Hospital - 2 days ago
-- [SecurityWeek] Cisco Patches Critical and High-Severity Vulnerabilities - 2 days ago
+- [BleepingComputer] CERT-EU: European Commission hack exposes data of 30 EU entities - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
