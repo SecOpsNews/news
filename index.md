@@ -9,26 +9,33 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] Delayed Cloudflare Page Shield data updates - 3 hours ago
-- [RegisterSoftware] Anthropic sure has a mess on its hands thanks to that Claude Code source leak - 5 hours ago
-- [RegisterSec] Anthropic sure has a mess on its hands thanks to that Claude Code source leak - 5 hours ago
-- [BrianKrebs] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab - 5 hours ago
-- [CloudFlare] SOC alerting for Core applications was impacted - 6 hours ago
-- [CloudFlare] SMF (Sacramento) on 2026-04-06 - 10 hours ago
-- [BleepingComputer] Traffic violation scams switch to QR codes in new phishing texts - 12 hours ago
-- [HackerNews] $285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation - 12 hours ago
-- [BleepingComputer] New FortiClient EMS flaw exploited in attacks, emergency patch released - 13 hours ago
-- [BleepingComputer] Hackers exploit React2Shell in automated credential theft campaign - 17 hours ago
-- [RegisterSec] Researchers didn’t want to glamorize cybercrims. So they roasted them - 18 hours ago
-- [RegisterSoftware] AI agents promise to 'run the business,' but who is liable if things go wrong? - 21 hours ago
+- [BleepingComputer] Why Simple Breach Monitoring is No Longer Enough - 10 minutes ago
+- [CloudFlare] AMS (Amsterdam) on 2026-04-13 - 10 minutes ago
+- [HackerNews] How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers - 1 hour ago
+- [CloudFlare] VIE (Vienna) on 2026-04-08 - 1 hour ago
+- [SecurityWeek] Guardarian Users Targeted With Malicious Strapi NPM Packages - 2 hours ago
+- [HackerNews] Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools - 3 hours ago
+- [SecurityWeek] North Korean Hackers Target High-Profile Node.js Maintainers - 3 hours ago
+- [RegisterSoftware] Windows asks a networking question on a Stratford billboard - 3 hours ago
+- [SecurityWeek] Fortinet Rushes Emergency Fixes for Exploited Zero-Day - 4 hours ago
+- [HackerNews] BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks - 5 hours ago
+- [CloudFlare] Delayed Cloudflare Page Shield data updates - 9 hours ago
+- [RegisterSoftware] Anthropic sure has a mess on its hands thanks to that Claude Code source leak - 12 hours ago
+- [RegisterSec] Anthropic sure has a mess on its hands thanks to that Claude Code source leak - 12 hours ago
+- [BrianKrebs] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab - 12 hours ago
+- [CloudFlare] SOC alerting for Core applications was impacted - 12 hours ago
+- [CloudFlare] SMF (Sacramento) on 2026-04-06 - 16 hours ago
+- [BleepingComputer] Traffic violation scams switch to QR codes in new phishing texts - 18 hours ago
+- [HackerNews] $285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation - 19 hours ago
+- [BleepingComputer] New FortiClient EMS flaw exploited in attacks, emergency patch released - 19 hours ago
+- [BleepingComputer] Hackers exploit React2Shell in automated credential theft campaign - 23 hours ago
+- [RegisterSec] Researchers didn’t want to glamorize cybercrims. So they roasted them - 1 day ago
+- [RegisterSoftware] AI agents promise to 'run the business,' but who is liable if things go wrong? - 1 day ago
 - [HackerNews] Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS - 1 day ago
 - [HackerNews] 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants - 1 day ago
 - [BleepingComputer] Axios npm hack used fake Teams error fix to hijack maintainer account - 1 day ago
 - [BleepingComputer] LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - 1 day ago
 - [BleepingComputer] Device code phishing attacks surge 37x as new kits spread online - 1 day ago
-- [RegisterSoftware] Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup - 1 day ago
-- [SecurityWeek] European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack - 1 day ago
-- [RegisterSoftware] PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud - 1 day ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
