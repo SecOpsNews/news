@@ -9,15 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - 47 minutes ago
-- [HackerNews] CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads - 47 minutes ago
-- [HIBP] Hallmark - 1,736,520 breached accounts - 4 hours ago
-- [CloudFlare] Workers AI Gemma 4 model unhealthy - 10 hours ago
-- [BleepingComputer] Over 20,000 crypto fraud victims identified in international crackdown - 17 hours ago
-- [GrahamCluley] AI and cryptocurrency scams are costing Americans billions, FBI reports - 17 hours ago
-- [RegisterSec] Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise - 20 hours ago
-- [RegisterSec] Hungarian government creds left in the safe hands of 'FrankLampard' - 22 hours ago
-- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 23 hours ago
+- [RegisterSoftware] Growing void between enterprise and frontier AI puts open weights models in the spotlight - 3 hours ago
+- [SecurityWeek] Adobe Patches Reader Zero-Day Exploited for Months - 6 hours ago
+- [HackerNews] Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - 7 hours ago
+- [HackerNews] CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads - 7 hours ago
+- [HIBP] Hallmark - 1,736,520 breached accounts - 10 hours ago
+- [CloudFlare] Workers AI Gemma 4 model unhealthy - 16 hours ago
+- [BleepingComputer] Over 20,000 crypto fraud victims identified in international crackdown - 23 hours ago
+- [GrahamCluley] AI and cryptocurrency scams are costing Americans billions, FBI reports - 1 day ago
+- [RegisterSec] Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise - 1 day ago
+- [RegisterSec] Hungarian government creds left in the safe hands of 'FrankLampard' - 1 day ago
+- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 1 day ago
 - [BleepingComputer] ChatGPT rolls out new $100 Pro subscription to challenge Claude - 1 day ago
 - [RegisterSoftware] Red Hat RHELocates its Chinese engineering team to India - 1 day ago
 - [Slack] Incident: Trouble Sending Messages - 1 day ago
@@ -27,33 +29,16 @@ description: Latest Updates
 - [CloudFlare] KIX (Osaka) on 2026-04-14 - 1 day ago
 - [SecurityWeek] In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack - 1 day ago
 - [CloudFlare] Workers Assets increased upload failure - 1 day ago
-- [SecurityWeek] Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday - 1 day ago
-- [SecurityWeek] Juniper Networks Patches Dozens of Junos OS Vulnerabilities - 1 day ago
-- [RegisterSec] CPUID site hijacked to serve malware instead of HWMonitor downloads - 1 day ago
-- [RegisterSoftware] Amazon would rather shareholders did not look too closely at carbon footprint - 1 day ago
-- [RegisterSoftware] CPUID site hijacked to serve malware instead of HWMonitor downloads - 1 day ago
-- [BleepingComputer] Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor - 1 day ago
-- [BleepingComputer] Analysis of one billion CISA KEV remediation records exposes limits of human-scale security - 1 day ago
-- [HackerNews] GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs - 1 day ago
-- [GitHub] Problems with third-party Claude and Codex Agent sessions not being listed in the agents tab dashboard - 1 day ago
-- [RegisterSoftware] Project Glasswing and open source software: The good, the bad, and the ugly - 1 day ago
-- [RegisterSoftware] Suits won't quit AI spending, even if they can't prove it's working - 1 day ago
-- [BleepingComputer] Microsoft: Canadian employees targeted in payroll pirate attacks - 1 day ago
-- [SecurityWeek] Orthanc DICOM Vulnerabilities Lead to Crashes, RCE - 1 day ago
-- [RegisterSec] Project Glasswing and open source software: The good, the bad, and the ugly - 1 day ago
-- [BleepingComputer] Google rolls out Gmail end-to-end encryption on mobile devices - 1 day ago
-- [HackerNews] Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure - 1 day ago
-- [HackerNews] Browser Extensions Are the New AI Consumption Channel That No One Is Talking About - 1 day ago
-- [SecurityWeek] Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 - 1 day ago
-- [RegisterSec] Britain seeks views before it drops the hammer on signal jammers - 1 day ago
-- [SecurityWeek] MITRE Releases Fight Fraud Framework - 1 day ago
-- [RegisterSoftware] Britain's biggest nuclear site skips competition, hands SAP £33M to start ERP switch - 1 day ago
-- [HackerNews] Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows - 1 day ago
-- [SecurityWeek] Critical Marimo Flaw Exploited Hours After Public Disclosure - 1 day ago
-- [RegisterSec] Unpacking AI security in 2026 from experimentation to the agentic era - 1 day ago
-- [HackerNews] Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers - 1 day ago
-- [SecurityWeek] Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users - 1 day ago
-- [SecurityWeek] Google Rolls Out Cookie Theft Protections in Chrome - 1 day ago
+- [SecurityWeek] Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday - 2 days ago
+- [SecurityWeek] Juniper Networks Patches Dozens of Junos OS Vulnerabilities - 2 days ago
+- [RegisterSec] CPUID site hijacked to serve malware instead of HWMonitor downloads - 2 days ago
+- [RegisterSoftware] Amazon would rather shareholders did not look too closely at carbon footprint - 2 days ago
+- [RegisterSoftware] CPUID site hijacked to serve malware instead of HWMonitor downloads - 2 days ago
+- [BleepingComputer] Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor - 2 days ago
+- [BleepingComputer] Analysis of one billion CISA KEV remediation records exposes limits of human-scale security - 2 days ago
+- [HackerNews] GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs - 2 days ago
+- [GitHub] Problems with third-party Claude and Codex Agent sessions not being listed in the agents tab dashboard - 2 days ago
+- [RegisterSoftware] Suits won't quit AI spending, even if they can't prove it's working - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
