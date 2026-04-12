@@ -9,19 +9,24 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [GrahamCluley] AI and cryptocurrency scams are costing Americans billions, FBI reports - 21 minutes ago
-- [RegisterSec] Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise - 2 hours ago
-- [RegisterSec] Hungarian government creds left in the safe hands of 'FrankLampard' - 5 hours ago
-- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 6 hours ago
-- [BleepingComputer] ChatGPT rolls out new $100 Pro subscription to challenge Claude - 11 hours ago
-- [RegisterSoftware] Red Hat RHELocates its Chinese engineering team to India - 16 hours ago
-- [Slack] Incident: Trouble Sending Messages - 18 hours ago
-- [RegisterSoftware] Microsoft's Copilot strategy is just more user abuse from Redmond, says Mozilla - 21 hours ago
-- [BleepingComputer] CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads - 21 hours ago
-- [BleepingComputer] Nearly 4,000 US industrial devices exposed to Iranian cyberattacks - 22 hours ago
-- [CloudFlare] KIX (Osaka) on 2026-04-14 - 22 hours ago
-- [SecurityWeek] In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack - 23 hours ago
-- [CloudFlare] Workers Assets increased upload failure - 23 hours ago
+- [HackerNews] Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - 47 minutes ago
+- [HackerNews] CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads - 47 minutes ago
+- [HIBP] Hallmark - 1,736,520 breached accounts - 4 hours ago
+- [CloudFlare] Workers AI Gemma 4 model unhealthy - 10 hours ago
+- [BleepingComputer] Over 20,000 crypto fraud victims identified in international crackdown - 17 hours ago
+- [GrahamCluley] AI and cryptocurrency scams are costing Americans billions, FBI reports - 17 hours ago
+- [RegisterSec] Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise - 20 hours ago
+- [RegisterSec] Hungarian government creds left in the safe hands of 'FrankLampard' - 22 hours ago
+- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 23 hours ago
+- [BleepingComputer] ChatGPT rolls out new $100 Pro subscription to challenge Claude - 1 day ago
+- [RegisterSoftware] Red Hat RHELocates its Chinese engineering team to India - 1 day ago
+- [Slack] Incident: Trouble Sending Messages - 1 day ago
+- [RegisterSoftware] Microsoft's Copilot strategy is just more user abuse from Redmond, says Mozilla - 1 day ago
+- [BleepingComputer] CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads - 1 day ago
+- [BleepingComputer] Nearly 4,000 US industrial devices exposed to Iranian cyberattacks - 1 day ago
+- [CloudFlare] KIX (Osaka) on 2026-04-14 - 1 day ago
+- [SecurityWeek] In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack - 1 day ago
+- [CloudFlare] Workers Assets increased upload failure - 1 day ago
 - [SecurityWeek] Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday - 1 day ago
 - [SecurityWeek] Juniper Networks Patches Dozens of Junos OS Vulnerabilities - 1 day ago
 - [RegisterSec] CPUID site hijacked to serve malware instead of HWMonitor downloads - 1 day ago
@@ -49,39 +54,6 @@ description: Latest Updates
 - [HackerNews] Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers - 1 day ago
 - [SecurityWeek] Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users - 1 day ago
 - [SecurityWeek] Google Rolls Out Cookie Theft Protections in Chrome - 1 day ago
-- [HackerNews] EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs - 1 day ago
-- [SecurityWeek] Can We Trust AI? No – But Eventually We Must - 1 day ago
-- [RegisterSoftware] Microsoft cuts cloudy desktop prices by 20 percent, warns they’ll wake up slowly - 1 day ago
-- [RegisterSoftware] Chatbots are great at manipulating people to buy stuff, Princeton boffins find - 1 day ago
-- [BleepingComputer] New ‘LucidRook’ malware used in targeted attacks on NGOs, universities - 1 day ago
-- [BleepingComputer] New VENOM phishing attacks steal senior executives' Microsoft logins - 1 day ago
-- [BleepingComputer] Healthcare IT solutions provider ChipSoft hit by ransomware attack - 1 day ago
-- [HackerNews] EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets - 1 day ago
-- [RegisterSoftware] Anthropic will let your agents sleep on its couch - 1 day ago
-- [RegisterSec] Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case - 1 day ago
-- [BleepingComputer] Google Chrome adds infostealer protection against session cookie theft - 1 day ago
-- [RegisterSoftware] AWS: Agents shouldn't be secret, so we built a registry for them - 1 day ago
-- [RegisterSec] 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree - 1 day ago
-- [CloudFlare] Increased HTTP 5xx errors in Philadelphia colo - 1 day ago
-- [RegisterSoftware] Nutanix to add KubeVirt support to run VMs on K8s at the edge - 1 day ago
-- [HackerNews] UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns - 1 day ago
-- [RegisterSoftware] How Gartner will help accelerate and scale your AI strategy - 1 day ago
-- [RegisterSec] Chevin pulls the handbrake on FleetWave software after security scare - 1 day ago
-- [BleepingComputer] Smart Slider updates hijacked to push malicious WordPress, Joomla versions - 1 day ago
-- [RegisterSoftware] Spark creator bags computing gong for making big data a little bit smaller - 1 day ago
-- [RegisterSoftware] Microsoft locks out VeraCrypt and WireGuard devs, blames verification process - 1 day ago
-- [RegisterSoftware] OpenAI puts Stargate UK on ice, blames energy costs and red tape - 1 day ago
-- [BleepingComputer] When attackers already have the keys, MFA is just another door to open - 1 day ago
-- [SecurityWeek] Can we Trust AI? No – But Eventually We Must - 1 day ago
-- [SecurityWeek] Apple Intelligence AI Guardrails Bypassed in New Attack - 1 day ago
-- [RegisterSec] Microsoft locks out VeraCrypt and WireGuard devs, blames verification process - 1 day ago
-- [RegisterSec] Months-old Adobe Reader zero-day uses PDFs to size up targets - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories - 2 days ago
-- [SecurityWeek] Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities - 2 days ago
-- [SecurityWeek] Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access - 2 days ago
-- [BleepingComputer] Webinar: From noise to signal - What threat actors are targeting next - 2 days ago
-- [RegisterSec] Security researchers tricked Apple Intelligence into cursing at users. It could have been a lot worse - 2 days ago
-- [RegisterSoftware] Microsoft developer chief Julia Liuson is logging off - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
