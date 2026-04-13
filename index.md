@@ -9,36 +9,26 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Growing void between enterprise and frontier AI puts open weights models in the spotlight - 3 hours ago
-- [SecurityWeek] Adobe Patches Reader Zero-Day Exploited for Months - 6 hours ago
-- [HackerNews] Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - 7 hours ago
-- [HackerNews] CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads - 7 hours ago
-- [HIBP] Hallmark - 1,736,520 breached accounts - 10 hours ago
-- [CloudFlare] Workers AI Gemma 4 model unhealthy - 16 hours ago
-- [BleepingComputer] Over 20,000 crypto fraud victims identified in international crackdown - 23 hours ago
+- [HackerNews] OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident - 34 minutes ago
+- [RegisterSoftware] France’s digital directorate dumping Windows desktops, adopting Linux instead - 34 minutes ago
+- [RegisterSec] China wants AI to prepare school lessons and mark homework - 5 hours ago
+- [RegisterSoftware] Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers and their impact on release process - 5 hours ago
+- [RegisterSoftware] China wants AI to prepare school lessons and mark homework - 5 hours ago
+- [RegisterSec] Anthropic's mysterious Mythos AI threatens to upend the infosec world - 9 hours ago
+- [RegisterSoftware] Anthropic's mysterious Mythos AI threatens to upend the infosec world - 9 hours ago
+- [RegisterSoftware] I vibe coded a feed reading web app. It was enlightening and uncomfortable - 17 hours ago
+- [BleepingComputer] Critical Marimo pre-auth RCE flaw now under active exploitation - 17 hours ago
+- [RegisterSoftware] Growing void between enterprise and frontier AI puts open weights models in the spotlight - 21 hours ago
+- [SecurityWeek] Adobe Patches Reader Zero-Day Exploited for Months - 1 day ago
+- [HackerNews] Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - 1 day ago
+- [HackerNews] CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads - 1 day ago
+- [HIBP] Hallmark - 1,736,520 breached accounts - 1 day ago
+- [CloudFlare] Workers AI Gemma 4 model unhealthy - 1 day ago
+- [BleepingComputer] Over 20,000 crypto fraud victims identified in international crackdown - 1 day ago
 - [GrahamCluley] AI and cryptocurrency scams are costing Americans billions, FBI reports - 1 day ago
 - [RegisterSec] Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise - 1 day ago
 - [RegisterSec] Hungarian government creds left in the safe hands of 'FrankLampard' - 1 day ago
-- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 1 day ago
-- [BleepingComputer] ChatGPT rolls out new $100 Pro subscription to challenge Claude - 1 day ago
-- [RegisterSoftware] Red Hat RHELocates its Chinese engineering team to India - 1 day ago
-- [Slack] Incident: Trouble Sending Messages - 1 day ago
-- [RegisterSoftware] Microsoft's Copilot strategy is just more user abuse from Redmond, says Mozilla - 1 day ago
-- [BleepingComputer] CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads - 1 day ago
-- [BleepingComputer] Nearly 4,000 US industrial devices exposed to Iranian cyberattacks - 1 day ago
-- [CloudFlare] KIX (Osaka) on 2026-04-14 - 1 day ago
-- [SecurityWeek] In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack - 1 day ago
-- [CloudFlare] Workers Assets increased upload failure - 1 day ago
-- [SecurityWeek] Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday - 2 days ago
-- [SecurityWeek] Juniper Networks Patches Dozens of Junos OS Vulnerabilities - 2 days ago
-- [RegisterSec] CPUID site hijacked to serve malware instead of HWMonitor downloads - 2 days ago
-- [RegisterSoftware] Amazon would rather shareholders did not look too closely at carbon footprint - 2 days ago
-- [RegisterSoftware] CPUID site hijacked to serve malware instead of HWMonitor downloads - 2 days ago
-- [BleepingComputer] Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor - 2 days ago
-- [BleepingComputer] Analysis of one billion CISA KEV remediation records exposes limits of human-scale security - 2 days ago
-- [HackerNews] GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs - 2 days ago
-- [GitHub] Problems with third-party Claude and Codex Agent sessions not being listed in the agents tab dashboard - 2 days ago
-- [RegisterSoftware] Suits won't quit AI spending, even if they can't prove it's working - 2 days ago
+- [HackerNews] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
