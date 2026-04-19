@@ -9,29 +9,32 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support - 10 minutes ago
-- [BleepingComputer] Microsoft Teams right-click paste broken by Edge update bug - 10 minutes ago
-- [SecurityWeek] Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks - 3 hours ago
-- [CloudFlare] HTTP Log Analytics Issue - 4 hours ago
-- [RegisterSoftware] Cloudflare can remember it for you wholesale - 5 hours ago
-- [HackerNews] $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims - 5 hours ago
-- [HackerNews] [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data - 5 hours ago
-- [HackerNews] Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet - 7 hours ago
-- [CloudFlare] Cloudflare Workers AI Issues - 15 hours ago
-- [CloudFlare] DNS resolution intermittently failing for .co domains - 16 hours ago
-- [RegisterSoftware] Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams - 17 hours ago
-- [CloudFlare] Increase in API errors and latency - 18 hours ago
-- [BleepingComputer] Payouts King ransomware uses QEMU VMs to bypass endpoint security - 18 hours ago
-- [SecurityWeek] White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology - 18 hours ago
-- [CloudFlare] Increased errors in Seattle or Argo Smart Routing - 19 hours ago
-- [RegisterSec] CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack - 21 hours ago
-- [CloudFlare] Elevated 502 errors returned from some locations - 21 hours ago
-- [RegisterSec] Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker - 21 hours ago
-- [SecurityWeek] CoChat Launches AI Collaboration Platform to Combat Shadow AI - 22 hours ago
-- [BleepingComputer] Grinex exchange blames "Western intelligence" for $13.7M crypto hack - 22 hours ago
-- [CloudFlare] co ccTLD DNS errors - 22 hours ago
-- [HackerNews] Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched - 23 hours ago
-- [BleepingComputer] Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops - 23 hours ago
+- [CloudFlare] R2 customers may see an increase of HTTP 500s in KIX - 2 hours ago
+- [CloudFlare] WARP connectivity - 14 hours ago
+- [BleepingComputer] Critical flaw in Protobuf library enables JavaScript code execution - 16 hours ago
+- [BleepingComputer] NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support - 17 hours ago
+- [BleepingComputer] Microsoft Teams right-click paste broken by Edge update bug - 17 hours ago
+- [SecurityWeek] Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks - 21 hours ago
+- [CloudFlare] HTTP Log Analytics Issue - 22 hours ago
+- [RegisterSoftware] Cloudflare can remember it for you wholesale - 22 hours ago
+- [HackerNews] $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims - 22 hours ago
+- [HackerNews] [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data - 22 hours ago
+- [HackerNews] Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet - 1 day ago
+- [CloudFlare] Cloudflare Workers AI Issues - 1 day ago
+- [CloudFlare] DNS resolution intermittently failing for .co domains - 1 day ago
+- [RegisterSoftware] Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams - 1 day ago
+- [CloudFlare] Increase in API errors and latency - 1 day ago
+- [BleepingComputer] Payouts King ransomware uses QEMU VMs to bypass endpoint security - 1 day ago
+- [SecurityWeek] White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology - 1 day ago
+- [CloudFlare] Increased errors in Seattle or Argo Smart Routing - 1 day ago
+- [RegisterSec] CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack - 1 day ago
+- [CloudFlare] Elevated 502 errors returned from some locations - 1 day ago
+- [RegisterSec] Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker - 1 day ago
+- [SecurityWeek] CoChat Launches AI Collaboration Platform to Combat Shadow AI - 1 day ago
+- [BleepingComputer] Grinex exchange blames "Western intelligence" for $13.7M crypto hack - 1 day ago
+- [CloudFlare] co ccTLD DNS errors - 1 day ago
+- [HackerNews] Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched - 1 day ago
+- [BleepingComputer] Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops - 1 day ago
 - [SecurityWeek] In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested - 1 day ago
 - [BleepingComputer] Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery - 1 day ago
 - [GrahamCluley] Sometimes changing the password on your email mailbox isn’t enough - 1 day ago
@@ -53,59 +56,6 @@ description: Latest Updates
 - [SecurityWeek] 53 DDoS Domains Taken Down by Law Enforcement - 1 day ago
 - [BleepingComputer] Microsoft: Some Windows servers enter reboot loops after April patches - 1 day ago
 - [SecurityWeek] Cursor AI Vulnerability Exposed Developer Devices - 1 day ago
-- [HIBP] Amtrak - 2,147,679 breached accounts - 1 day ago
-- [BleepingComputer] Recently leaked Windows zero-days now exploited in attacks - 1 day ago
-- [CloudFlare] DME (Moscow) on 2026-04-20 - 1 day ago
-- [RegisterSoftware] Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say - 1 day ago
-- [HackerNews] Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation - 1 day ago
-- [RegisterSec] Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say - 1 day ago
-- [TroyHunt] Here's What Agentic AI Can Do With Have I Been Pwned's APIs - 1 day ago
-- [CloudFlare] ORD (Chicago) on 2026-04-16 - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-04-16 - 1 day ago
-- [RegisterSec] Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researcher says - 1 day ago
-- [RegisterSoftware] Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researcher says - 1 day ago
-- [BleepingComputer] ZionSiphon malware designed to sabotage water treatment systems - 1 day ago
-- [BleepingComputer] Operation PowerOFF identifies 75k DDoS users, takes down 53 domains - 1 day ago
-- [CloudFlare] CF1 Client DEX - Device analytics overtime gaps - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-04-17 - 1 day ago
-- [RegisterSoftware] NodeWeaver says its perpetual licensing beats VMware’s perpetual price hikes - 1 day ago
-- [RegisterSoftware] Mozilla throws Thunderbolt at enterprise AI providers - 1 day ago
-- [CloudFlare] WAW (Warsaw) on 2026-04-17 - 1 day ago
-- [RegisterSoftware] Anthropic squeezes enterprises by ejecting bundled tokens from seat deal - 1 day ago
-- [BleepingComputer] New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges - 1 day ago
-- [CloudFlare] STL (St. Louis) on 2026-04-17 - 1 day ago
-- [HackerNews] Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic - 1 day ago
-- [RegisterSoftware] If you want into Anthropic's Claude club, you may have to show ID - 1 day ago
-- [RegisterSoftware] Loud, power hungry - opposition grows to datacenters as Maine passes bit barn ban - 1 day ago
-- [RegisterSec] North Korea targets macOS users in latest heist - 1 day ago
-- [SecurityWeek] Government Can’t Win the Cyber War Without the Private Sector - 1 day ago
-- [RegisterSec] Nobody knows how many CVEs Anthropic's Project Glasswing has actually found - 1 day ago
-- [BleepingComputer] Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face - 1 day ago
-- [RegisterSoftware] Nobody knows how many CVEs Anthropic's Project Glasswing has actually found - 1 day ago
-- [BleepingComputer] Google expands Gemini AI use to fight malicious ads on its platform - 1 day ago
-- [RegisterSoftware] DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses - 1 day ago
-- [RegisterSec] Americans who masterminded Nork IT worker fraud sentenced to 200 months behind bars - 1 day ago
-- [CloudFlare] Workers script upload issues - 1 day ago
-- [BleepingComputer] Most "AI SOCs" Are Just Faster Triage. That's Not Enough. - 1 day ago
-- [BleepingComputer] New ATHR vishing platform uses AI voice agents for automated attacks - 1 day ago
-- [RegisterSec] Git identity spoof fools Claude into giving bad code the nod - 1 day ago
-- [SecurityWeek] OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal - 1 day ago
-- [RegisterSoftware] Git identity spoof fools Claude into giving bad code the nod - 1 day ago
-- [HackerNews] [Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment - 1 day ago
-- [RegisterSoftware] Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue - 1 day ago
-- [HackerNews] ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories - 1 day ago
-- [RegisterSoftware] Make crappy moves around AI and face voter backlash, govts warned - 1 day ago
-- [CloudFlare] API Analytics Delays - 1 day ago
-- [CloudFlare] API Analytics Delays - 1 day ago
-- [HackerNews] Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu - 2 days ago
-- [HackerNews] Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks - 2 days ago
-- [SecurityWeek] Splunk Enterprise Update Patches Code Execution Vulnerability - 2 days ago
-- [SecurityWeek] Artemis Emerges From Stealth With $70 Million in Funding - 2 days ago
-- [HackerNews] Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution - 2 days ago
-- [SecurityWeek] Data Breach at Tennessee Hospital Affects 337,000 - 2 days ago
-- [RegisterSec] Textbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed - 2 days ago
-- [BleepingComputer] Cisco says critical Webex Services flaw requires customer action - 2 days ago
-- [CloudFlare] Cloudflare API failures/errors - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
