@@ -9,16 +9,19 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] R2 customers may see an increase of HTTP 500s in KIX - 2 hours ago
-- [CloudFlare] WARP connectivity - 14 hours ago
-- [BleepingComputer] Critical flaw in Protobuf library enables JavaScript code execution - 16 hours ago
-- [BleepingComputer] NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support - 17 hours ago
-- [BleepingComputer] Microsoft Teams right-click paste broken by Edge update bug - 17 hours ago
-- [SecurityWeek] Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks - 21 hours ago
-- [CloudFlare] HTTP Log Analytics Issue - 22 hours ago
-- [RegisterSoftware] Cloudflare can remember it for you wholesale - 22 hours ago
-- [HackerNews] $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims - 22 hours ago
-- [HackerNews] [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data - 22 hours ago
+- [RegisterSoftware] I meant to do that! AI vendors shrug off responsibility for vulns - 2 hours ago
+- [RegisterSec] I meant to do that! AI vendors shrug off responsibility for vulns - 2 hours ago
+- [RegisterSoftware] Ruby Central in 'real financial jeopardy' following RubyGems maintainer ruckus - 6 hours ago
+- [CloudFlare] R2 customers may see an increase of HTTP 500s in KIX - 8 hours ago
+- [CloudFlare] WARP connectivity - 21 hours ago
+- [BleepingComputer] Critical flaw in Protobuf library enables JavaScript code execution - 22 hours ago
+- [BleepingComputer] NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support - 1 day ago
+- [BleepingComputer] Microsoft Teams right-click paste broken by Edge update bug - 1 day ago
+- [SecurityWeek] Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks - 1 day ago
+- [CloudFlare] HTTP Log Analytics Issue - 1 day ago
+- [RegisterSoftware] Cloudflare can remember it for you wholesale - 1 day ago
+- [HackerNews] $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims - 1 day ago
+- [HackerNews] [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data - 1 day ago
 - [HackerNews] Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet - 1 day ago
 - [CloudFlare] Cloudflare Workers AI Issues - 1 day ago
 - [CloudFlare] DNS resolution intermittently failing for .co domains - 1 day ago
@@ -35,27 +38,11 @@ description: Latest Updates
 - [CloudFlare] co ccTLD DNS errors - 1 day ago
 - [HackerNews] Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched - 1 day ago
 - [BleepingComputer] Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops - 1 day ago
-- [SecurityWeek] In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested - 1 day ago
-- [BleepingComputer] Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery - 1 day ago
-- [GrahamCluley] Sometimes changing the password on your email mailbox isn’t enough - 1 day ago
-- [GrahamCluley] Singer loses life savings to fake wallet downloaded from the Apple App Store - 1 day ago
-- [HackerNews] Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul - 1 day ago
-- [SecurityWeek] Recent Apache ActiveMQ Vulnerability Exploited in the Wild - 1 day ago
-- [SecurityWeek] Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed - 1 day ago
-- [SecurityWeek] Another DraftKings Hacker Sentenced to Prison - 1 day ago
-- [RegisterSec] Locked-out iPhone user tells The Reg that Apple is scrambling to fix character flaw passcode bug - 1 day ago
-- [CloudFlare] D1 control plane upgrade - 1 day ago
-- [BleepingComputer] CISA flags Apache ActiveMQ flaw as actively exploited in attacks - 1 day ago
-- [SecurityWeek] ZionSiphon Malware Targets ICS in Water Facilities - 1 day ago
-- [SecurityWeek] Two North Korean IT Worker Scheme Facilitators Jailed in the US - 1 day ago
-- [HackerNews] Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts - 1 day ago
-- [HackerNews] NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions - 1 day ago
-- [RegisterSec] Claude Opus wrote a Chrome exploit for $2,283 - 1 day ago
-- [RegisterSoftware] Claude Opus wrote a Chrome exploit for $2,283 - 1 day ago
-- [BleepingComputer] Man gets 30 months for selling thousands of hacked DraftKings accounts - 1 day ago
-- [SecurityWeek] 53 DDoS Domains Taken Down by Law Enforcement - 1 day ago
-- [BleepingComputer] Microsoft: Some Windows servers enter reboot loops after April patches - 1 day ago
-- [SecurityWeek] Cursor AI Vulnerability Exposed Developer Devices - 1 day ago
+- [SecurityWeek] In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested - 2 days ago
+- [BleepingComputer] Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery - 2 days ago
+- [GrahamCluley] Sometimes changing the password on your email mailbox isn’t enough - 2 days ago
+- [GrahamCluley] Singer loses life savings to fake wallet downloaded from the Apple App Store - 2 days ago
+- [HackerNews] Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 11 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 11 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 11 months ago
