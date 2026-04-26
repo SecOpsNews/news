@@ -9,14 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] YUL (Montréal) on 2026-04-29 - 14 hours ago
-- [BleepingComputer] Microsoft rolls out revamped Windows Insider Program - 14 hours ago
-- [CloudFlare] YUL (Montréal) on 2026-04-28 - 14 hours ago
-- [BleepingComputer] Threat actor uses Microsoft Teams to deploy new “Snow” malware - 16 hours ago
-- [RegisterSoftware] Ex-AWS legend explains what enterprises need to make AI actually work - 18 hours ago
-- [SecurityWeek] China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks - 20 hours ago
-- [RegisterSec] Crime crew impersonates help desk, abuses Microsoft Teams to steal your data - 22 hours ago
-- [HackerNews] Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software - 22 hours ago
+- [RegisterSoftware] Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense - 2 hours ago
+- [RegisterSoftware] Hot take: AI's not going to kill open source code security - 4 hours ago
+- [RegisterSec] Hot take: AI's not going to kill open source code security - 4 hours ago
+- [CloudFlare] YUL (Montréal) on 2026-04-29 - 20 hours ago
+- [BleepingComputer] Microsoft rolls out revamped Windows Insider Program - 21 hours ago
+- [CloudFlare] YUL (Montréal) on 2026-04-28 - 21 hours ago
+- [BleepingComputer] Threat actor uses Microsoft Teams to deploy new “Snow” malware - 22 hours ago
+- [RegisterSoftware] Ex-AWS legend explains what enterprises need to make AI actually work - 1 day ago
+- [SecurityWeek] China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks - 1 day ago
+- [RegisterSec] Crime crew impersonates help desk, abuses Microsoft Teams to steal your data - 1 day ago
+- [HackerNews] Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software - 1 day ago
 - [HackerNews] CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline - 1 day ago
 - [BleepingComputer] ADT confirms data breach after ShinyHunters leak threat - 1 day ago
 - [RegisterSoftware] DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs - 1 day ago
@@ -43,40 +46,13 @@ description: Latest Updates
 - [BleepingComputer] DORA and operational resilience: Credential management as a financial risk control - 1 day ago
 - [SecurityWeek] Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions - 1 day ago
 - [CloudFlare] WARP connectivity issues in Bulgaria - 1 day ago
-- [RegisterSoftware] Intel bets the farm on AI inference to drag CPU back to the top table - 1 day ago
-- [RegisterSec] Intel bets the farm on AI inference to drag CPU back to the top table - 1 day ago
-- [RegisterSoftware] Microsoft tackles quality control issues. Just kidding, it's encouraging experienced workers to leave - 1 day ago
-- [RegisterSec] More ancient Linux device support faces the chop - 1 day ago
-- [RegisterSoftware] Open Telemetry founder tools up for project graduation party - 1 day ago
-- [RegisterSoftware] More ancient Linux device support faces the chop - 1 day ago
-- [BleepingComputer] Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks - 1 day ago
-- [HackerNews] 26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases - 1 day ago
-- [HackerNews] Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine - 1 day ago
-- [BleepingComputer] Microsoft now lets admins uninstall Copilot on enterprise devices - 1 day ago
-- [RegisterSec] It's a myth that you need Mythos to find bugs: Open source models can do it just as well - 1 day ago
-- [RegisterSec] Microsoft beefs up Remote Desktop security with ... hard-to-read messages - 1 day ago
-- [SecurityWeek] Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise - 1 day ago
-- [SecurityWeek] Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents - 1 day ago
-- [RegisterSoftware] It's a myth that you need Mythos to find bugs: Open source models can do it just as well - 1 day ago
-- [RegisterSoftware] Microsoft beefs up Remote Desktop security with ... hard-to-read messages - 1 day ago
-- [RegisterSoftware] Meta Arms itself to the teeth by signing for 'tens of millions' of AWS Graviton cores - 1 day ago
-- [RegisterSoftware] Trump to UK: Stop taxing our big beautiful tech corps or face tariff tsunami - 1 day ago
-- [SecurityWeek] Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US - 1 day ago
-- [SecurityWeek] US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor - 1 day ago
-- [HackerNews] UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware - 1 day ago
-- [HackerNews] Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2 - 1 day ago
-- [RegisterSec] UK gov pays public £550 to discuss Digital ID – then bans journalists from the room - 1 day ago
-- [RegisterSec] Greece relaxes Euro biometric border entry rules amid airport chaos - 1 day ago
-- [SecurityWeek] Vulnerabilities Patched in CrowdStrike, Tenable Products - 1 day ago
-- [RegisterSoftware] Greece relaxes Euro biometric border entry rules amid airport chaos - 1 day ago
-- [HackerNews] LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure - 1 day ago
-- [RegisterSec] Researchers find cyber-sabotage malware that may predate Stuxnet by five years - 1 day ago
-- [SecurityWeek] Copperhelm Raises $7 Million for Agentic Cloud Security Platform - 1 day ago
-- [SecurityWeek] Bitwarden NPM Package Hit in Supply Chain Attack - 1 day ago
-- [RegisterSoftware] Betting shop bug ends in kidnap plot as staff turn ransom artists - 1 day ago
-- [CloudFlare] CDG (Paris) on 2026-04-29 - 1 day ago
-- [RegisterSec] Weak security means attackers could disable all of a city's public EV chargers - 2 days ago
-- [CloudFlare] BOM (Mumbai) on 2026-05-05 - 2 days ago
+- [RegisterSoftware] Intel bets the farm on AI inference to drag CPU back to the top table - 2 days ago
+- [RegisterSec] Intel bets the farm on AI inference to drag CPU back to the top table - 2 days ago
+- [RegisterSoftware] Microsoft tackles quality control issues. Just kidding, it's encouraging experienced workers to leave - 2 days ago
+- [RegisterSec] More ancient Linux device support faces the chop - 2 days ago
+- [RegisterSoftware] Open Telemetry founder tools up for project graduation party - 2 days ago
+- [RegisterSoftware] More ancient Linux device support faces the chop - 2 days ago
+- [BleepingComputer] Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 12 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 12 months ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 12 months ago
@@ -85,13 +61,13 @@ description: Latest Updates
 - [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 12 months ago
 - [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 12 months ago
 - [TroyHunt] Weekly Update 449 - 12 months ago
-- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 12 months ago
-- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 12 months ago
-- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 12 months ago
-- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 12 months ago
-- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 12 months ago
-- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 12 months ago
-- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 12 months ago
+- [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 1 year ago
+- [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 1 year ago
+- [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 1 year ago
+- [DataBreaches] Oregon court dismisses lawsuit over 2023 MOVEit data breach affecting 3.5 million Oregonians - 1 year ago
+- [DataBreaches] High Court rules landlord entitled to additional £6m indemnity from insurance broker after data breach - 1 year ago
+- [DataBreaches] Oregon DEQ won’t say if ransomware group took employee data in cyberattack - 1 year ago
+- [HackerNews] ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion - 1 year ago
 - [RegisterSec] Signalgate lessons learned: If creating a culture of security is the goal, America is screwed - 1 year ago
 - [DataBreaches] HHS OCR Settles HIPAA Ransomware Cybersecurity Investigation with Comprehensive Neurology, PC - 1 year ago
 - [RegisterSec] Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member - 1 year ago
