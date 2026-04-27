@@ -9,58 +9,35 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense - 2 hours ago
-- [RegisterSoftware] Hot take: AI's not going to kill open source code security - 4 hours ago
-- [RegisterSec] Hot take: AI's not going to kill open source code security - 4 hours ago
-- [CloudFlare] YUL (Montréal) on 2026-04-29 - 20 hours ago
-- [BleepingComputer] Microsoft rolls out revamped Windows Insider Program - 21 hours ago
-- [CloudFlare] YUL (Montréal) on 2026-04-28 - 21 hours ago
-- [BleepingComputer] Threat actor uses Microsoft Teams to deploy new “Snow” malware - 22 hours ago
+- [RegisterSoftware] PowerPoint punishment sent users into an infinite loop after lunch - 1 hour ago
+- [CloudFlare] Turnstile Challenge Issues - 1 hour ago
+- [CloudFlare] Network Performance Issues in Brazil - 4 hours ago
+- [RegisterSoftware] Google Cloud Next proves what we suspected: Everything is AI now - 6 hours ago
+- [RegisterSec] Google Cloud Next proves what we suspected: Everything is AI now - 6 hours ago
+- [HIBP] Udemy - 1,401,259 breached accounts - 6 hours ago
+- [RegisterSoftware] AI's not going to kill open source code security - 12 hours ago
+- [RegisterSec] AI's not going to kill open source code security - 12 hours ago
+- [BleepingComputer] American utility firm Itron discloses breach of internal IT network - 18 hours ago
+- [RegisterSoftware] Tokenmaxxing isn't an AI strategy - 18 hours ago
+- [RegisterSoftware] Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense - 21 hours ago
+- [RegisterSoftware] Hot take: AI's not going to kill open source code security - 23 hours ago
+- [RegisterSec] Hot take: AI's not going to kill open source code security - 23 hours ago
+- [CloudFlare] YUL (Montréal) on 2026-04-29 - 1 day ago
+- [BleepingComputer] Microsoft rolls out revamped Windows Insider Program - 1 day ago
+- [CloudFlare] YUL (Montréal) on 2026-04-28 - 1 day ago
+- [BleepingComputer] Threat actor uses Microsoft Teams to deploy new “Snow” malware - 1 day ago
 - [RegisterSoftware] Ex-AWS legend explains what enterprises need to make AI actually work - 1 day ago
 - [SecurityWeek] China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks - 1 day ago
 - [RegisterSec] Crime crew impersonates help desk, abuses Microsoft Teams to steal your data - 1 day ago
 - [HackerNews] Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software - 1 day ago
-- [HackerNews] CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline - 1 day ago
-- [BleepingComputer] ADT confirms data breach after ShinyHunters leak threat - 1 day ago
-- [RegisterSoftware] DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs - 1 day ago
-- [BleepingComputer] Windows Update gets new controls to reduce forced restarts - 1 day ago
-- [BleepingComputer] Firestarter malware survives Cisco firewall updates, security patches - 1 day ago
-- [CloudFlare] SEA (Seattle) on 2026-04-24 - 1 day ago
-- [GitHub] Delays with Actions Jobs for Larger Runners using VNet Injection in the East US region - 1 day ago
-- [CloudFlare] BRU (Brussels) on 2026-04-30 - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-04-30 - 1 day ago
-- [BleepingComputer] Microsoft to roll out Entra passkeys on Windows in late April - 1 day ago
-- [BleepingComputer] New BlackFile extortion group linked to surge of vishing attacks - 1 day ago
-- [CloudFlare] KIX (Osaka) on 2026-04-23 - 1 day ago
-- [BleepingComputer] New ‘Pack2TheRoot’ flaw gives hackers root Linux access - 1 day ago
-- [HackerNews] FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches - 1 day ago
-- [RegisterSoftware] Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-04-27 - 1 day ago
-- [CloudFlare] MSP (Minneapolis) on 2026-05-06 - 1 day ago
-- [RegisterSec] US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-04-29 - 1 day ago
-- [HackerNews] NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software - 1 day ago
-- [RegisterSec] Governments on high alert after CISA snuffs out Firestarter backdoor on fed network - 1 day ago
-- [RegisterSec] ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface - 1 day ago
-- [SecurityWeek] In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device - 1 day ago
-- [BleepingComputer] DORA and operational resilience: Credential management as a financial risk control - 1 day ago
-- [SecurityWeek] Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions - 1 day ago
-- [CloudFlare] WARP connectivity issues in Bulgaria - 1 day ago
-- [RegisterSoftware] Intel bets the farm on AI inference to drag CPU back to the top table - 2 days ago
-- [RegisterSec] Intel bets the farm on AI inference to drag CPU back to the top table - 2 days ago
-- [RegisterSoftware] Microsoft tackles quality control issues. Just kidding, it's encouraging experienced workers to leave - 2 days ago
-- [RegisterSec] More ancient Linux device support faces the chop - 2 days ago
-- [RegisterSoftware] Open Telemetry founder tools up for project graduation party - 2 days ago
-- [RegisterSoftware] More ancient Linux device support faces the chop - 2 days ago
-- [BleepingComputer] Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 12 months ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 12 months ago
-- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 12 months ago
-- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 12 months ago
-- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 12 months ago
-- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 12 months ago
-- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 12 months ago
-- [TroyHunt] Weekly Update 449 - 12 months ago
+- [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
+- [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 1 year ago
+- [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 1 year ago
+- [FullDisclosure] Inedo ProGet Insecure Reflection and CSRF Vulnerabilities - 1 year ago
+- [FullDisclosure] [IWCC 2025] CfP: 14th International Workshop on Cyber Crime -	Ghent, Belgium, Aug 11-14, 2025 - 1 year ago
+- [TroyHunt] Weekly Update 449 - 1 year ago
 - [DataBreaches] North Dakota Expands Data Security Requirements and Issues New Licensing Requirements for Brokers - 1 year ago
 - [RegisterSoftware] Build your own antisocial writing rig with DOS and a $2 USB key - 1 year ago
 - [SecurityWeek] Cynomi Raises $37 Million Series B to Expand Its vCISO Platform - 1 year ago
