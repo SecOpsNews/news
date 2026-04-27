@@ -9,29 +9,57 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [RegisterSoftware] PowerPoint punishment sent users into an infinite loop after lunch - 1 hour ago
-- [CloudFlare] Turnstile Challenge Issues - 1 hour ago
-- [CloudFlare] Network Performance Issues in Brazil - 4 hours ago
-- [RegisterSoftware] Google Cloud Next proves what we suspected: Everything is AI now - 6 hours ago
-- [RegisterSec] Google Cloud Next proves what we suspected: Everything is AI now - 6 hours ago
-- [HIBP] Udemy - 1,401,259 breached accounts - 6 hours ago
-- [RegisterSoftware] AI's not going to kill open source code security - 12 hours ago
-- [RegisterSec] AI's not going to kill open source code security - 12 hours ago
-- [BleepingComputer] American utility firm Itron discloses breach of internal IT network - 18 hours ago
-- [RegisterSoftware] Tokenmaxxing isn't an AI strategy - 18 hours ago
-- [RegisterSoftware] Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense - 21 hours ago
-- [RegisterSoftware] Hot take: AI's not going to kill open source code security - 23 hours ago
-- [RegisterSec] Hot take: AI's not going to kill open source code security - 23 hours ago
+- [BleepingComputer] Microsoft says Outlook.com outage is causing sign‑in failures - 1 hour ago
+- [BleepingComputer] Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know - 1 hour ago
+- [RegisterSoftware] Cybersec is a thankless job: expanding workload and shrinking pay packet - 1 hour ago
+- [BleepingComputer] Money launderer linked to $230M crypto heist gets 70 months in prison - 1 hour ago
+- [BleepingComputer] Medtronic confirms breach after hackers claim 9 million records theft - 1 hour ago
+- [SecurityWeek] Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google - 1 hour ago
+- [RegisterSec] Cybersec is a thankless job: expanding workload and shrinking pay packet - 1 hour ago
+- [SecurityWeek] OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years - 1 hour ago
+- [RegisterSec] Trump's Golden Dome gets $3.2BN of contractors and an AI sprinkle - 1 hour ago
+- [SecurityWeek] Incomplete Windows Patch Opens Door to Zero-Click Attacks - 1 hour ago
+- [HackerNews] Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware - 1 hour ago
+- [HackerNews] PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks - 1 hour ago
+- [HackerNews] Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side - 1 hour ago
+- [CloudFlare] ICN (Seoul) on 2026-04-29 - 1 hour ago
+- [AWS] Service impact: Increased Connectivity Issues - 2 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Connectivity Issues - 2 hours ago
+- [RegisterSoftware] Microsoft updates the Windows Update Experience: You can hit pause now - 3 hours ago
+- [SecurityWeek] UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware - 3 hours ago
+- [SecurityWeek] Energy and Water Management Firm Itron Hacked - 3 hours ago
+- [RegisterSec] Microsoft updates the Windows Update Experience: You can hit pause now - 3 hours ago
+- [RegisterSec] Burglar alarm biz burgled: ADT confirms cyber intrusion after ShinyHunters extortion attempt - 3 hours ago
+- [CloudFlare] SLC (Salt Lake City) on 2026-04-27 - 3 hours ago
+- [RegisterSec] Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now - 5 hours ago
+- [RegisterSoftware] It's time to make agentic automation scalable - 5 hours ago
+- [RegisterSec] ICO chief John Edwards steps back as workplace probe quietly unfolds - 5 hours ago
+- [RegisterSoftware] Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now - 5 hours ago
+- [RegisterSoftware] Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot - 5 hours ago
+- [SecurityWeek] Firefox Vulnerability Allows Tor User Fingerprinting - 5 hours ago
+- [SecurityWeek] US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator - 5 hours ago
+- [SecurityWeek] Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access - 5 hours ago
+- [HIBP] ADT - 5,488,888 breached accounts - 5 hours ago
+- [HackerNews] Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud - 5 hours ago
+- [RegisterSoftware] PowerPoint punishment sent users into an infinite loop after lunch - 7 hours ago
+- [CloudFlare] Turnstile Challenge Issues - 7 hours ago
+- [CloudFlare] Network Performance Issues in Brazil - 10 hours ago
+- [RegisterSoftware] Google Cloud Next proves what we suspected: Everything is AI now - 12 hours ago
+- [RegisterSec] Google Cloud Next proves what we suspected: Everything is AI now - 12 hours ago
+- [HIBP] Udemy - 1,401,259 breached accounts - 12 hours ago
+- [RegisterSoftware] AI's not going to kill open source code security - 18 hours ago
+- [RegisterSec] AI's not going to kill open source code security - 18 hours ago
+- [BleepingComputer] American utility firm Itron discloses breach of internal IT network - 1 day ago
+- [RegisterSoftware] Tokenmaxxing isn't an AI strategy - 1 day ago
+- [RegisterSoftware] Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense - 1 day ago
+- [RegisterSoftware] Hot take: AI's not going to kill open source code security - 1 day ago
+- [RegisterSec] Hot take: AI's not going to kill open source code security - 1 day ago
 - [CloudFlare] YUL (Montréal) on 2026-04-29 - 1 day ago
 - [BleepingComputer] Microsoft rolls out revamped Windows Insider Program - 1 day ago
 - [CloudFlare] YUL (Montréal) on 2026-04-28 - 1 day ago
 - [BleepingComputer] Threat actor uses Microsoft Teams to deploy new “Snow” malware - 1 day ago
-- [RegisterSoftware] Ex-AWS legend explains what enterprises need to make AI actually work - 1 day ago
-- [SecurityWeek] China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks - 1 day ago
-- [RegisterSec] Crime crew impersonates help desk, abuses Microsoft Teams to steal your data - 1 day ago
-- [HackerNews] Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software - 1 day ago
-- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 12 months ago
-- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 12 months ago
+- [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
+- [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
 - [FullDisclosure] Microsoft ".library-ms" File / NTLM Information Disclosure (Resurrected 2025) - 1 year ago
 - [FullDisclosure] Ruby on Rails Cross-Site Request Forgery - 1 year ago
