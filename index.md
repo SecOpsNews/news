@@ -9,14 +9,16 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV - 4 minutes ago
-- [BleepingComputer] Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks - 9 hours ago
-- [BleepingComputer] ConsentFix v3 attacks target Azure with automated OAuth abuse - 17 hours ago
-- [RegisterSoftware] Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents - 20 hours ago
-- [SecurityWeek] New Bluekit Phishing Kit Features AI Assistant - 21 hours ago
-- [RegisterSoftware] UK drivers' agency shrugs off claims of week-long booking site smashes, blames browser configs - 22 hours ago
-- [RegisterSec] Brace for the patch tsunami: AI is unearthing decades of buried code debt - 23 hours ago
-- [RegisterSoftware] Brace for the patch tsunami: AI is unearthing decades of buried code debt - 23 hours ago
+- [RegisterSoftware] Inference is giving AI chip startups a second chance to make their mark - 41 minutes ago
+- [RegisterSoftware] Job's a good 'un: Bank of England tech project wins watchdog praise - 4 hours ago
+- [HackerNews] CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV - 6 hours ago
+- [BleepingComputer] Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks - 16 hours ago
+- [BleepingComputer] ConsentFix v3 attacks target Azure with automated OAuth abuse - 23 hours ago
+- [RegisterSoftware] Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents - 1 day ago
+- [SecurityWeek] New Bluekit Phishing Kit Features AI Assistant - 1 day ago
+- [RegisterSoftware] UK drivers' agency shrugs off claims of week-long booking site smashes, blames browser configs - 1 day ago
+- [RegisterSec] Brace for the patch tsunami: AI is unearthing decades of buried code debt - 1 day ago
+- [RegisterSoftware] Brace for the patch tsunami: AI is unearthing decades of buried code debt - 1 day ago
 - [HackerNews] Trellix Confirms Source Code Breach With Unauthorized Repository Access - 1 day ago
 - [HIBP] ZenBusiness - 5,118,184 breached accounts - 1 day ago
 - [BleepingComputer] Edu tech firm Instructure discloses cyber incident, probes impact - 1 day ago
@@ -38,37 +40,10 @@ description: Latest Updates
 - [HackerNews] China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists - 1 day ago
 - [HackerNews] Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks - 1 day ago
 - [CloudFlare] PHL (Philadelphia) on 2026-05-05 - 1 day ago
-- [BleepingComputer] Microsoft fixes Remote Desktop warnings displaying incorrectly - 1 day ago
-- [RegisterSec] First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed - 1 day ago
-- [RegisterSoftware] Microsoft releases first big update after Nadella's vow to 'win back fans' - 1 day ago
-- [RegisterSoftware] First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed - 1 day ago
-- [RegisterSec] OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that - 1 day ago
-- [RegisterSoftware] OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that - 1 day ago
-- [SecurityWeek] Two US Security Experts Sentenced to Prison for Helping Ransomware Gang - 1 day ago
-- [BleepingComputer] Microsoft now lets admins choose pre-installed Store apps to uninstall - 1 day ago
-- [SecurityWeek] Cisco Releases Open Source Tool for AI Model Provenance - 1 day ago
-- [HackerNews] Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks - 1 day ago
-- [SecurityWeek] Sophisticated Deep#Door Backdoor Enables Espionage, Disruption - 1 day ago
-- [HackerNews] Top Five Sales Challenges Costing MSPs Cybersecurity Revenue - 1 day ago
-- [RegisterSec] Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down - 1 day ago
-- [RegisterSoftware] Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down - 1 day ago
-- [IT Governance] Do You Need to Comply with the PCI DSS? A Practical Guide for Businesses - 1 day ago
-- [CloudFlare] Cloudflare Page Rules Unexpected Behaviour - 1 day ago
-- [SecurityWeek] Hugging Face, ClawHub Abused for Malware Distribution - 1 day ago
-- [IT Governance] Quantifying the Chaos: Assessing a Data Breach’s Risk to Individuals - 1 day ago
-- [BleepingComputer] Windows 11 KB5083631 update released with 34 changes and fixes - 1 day ago
-- [RegisterSec] Passport to £££: Home Office adds £216M to travel doc contract before a single bid's been placed - 1 day ago
-- [RegisterSoftware] DVLA's 14-week driving license fiasco – the tech, people and chatbot trying to clear it - 1 day ago
-- [RegisterSoftware] Passport to £££: Home Office adds £216M to travel doc contract before a single bid's been placed - 1 day ago
-- [RegisterSoftware] Who needs ghost train scares when Windows is such a fright? - 1 day ago
-- [HackerNews] Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft - 1 day ago
-- [CloudFlare] LHR (London) on 2026-05-08 - 1 day ago
-- [SecurityWeek] 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom - 1 day ago
-- [SecurityWeek] FBI Warns of Surge in Hacker-Enabled Cargo Theft - 1 day ago
-- [BleepingComputer] US ransomware negotiators get 4 years in prison over BlackCat attacks - 1 day ago
-- [RegisterSoftware] User found the perfect formula to make Excel misbehave - 1 day ago
-- [RegisterSoftware] Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over - 2 days ago
-- [HIBP] Aman - 215,563 breached accounts - 2 days ago
+- [BleepingComputer] Microsoft fixes Remote Desktop warnings displaying incorrectly - 2 days ago
+- [RegisterSec] First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed - 2 days ago
+- [RegisterSoftware] Microsoft releases first big update after Nadella's vow to 'win back fans' - 2 days ago
+- [RegisterSoftware] First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
