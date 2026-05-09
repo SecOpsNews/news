@@ -9,62 +9,73 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner - 6 minutes ago
-- [RegisterSec] 'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit - 6 minutes ago
-- [GrahamCluley] Inside Department 4: Russia’s secret school for hackers - 6 minutes ago
-- [BleepingComputer] Trellix source code breach claimed by RansomHouse hackers - 6 minutes ago
-- [BleepingComputer] Why More Analysts Won’t Solve Your SOC’s Alert Problem - 6 minutes ago
-- [CloudFlare] LAX (Los Angeles) on 2026-05-13 - 7 minutes ago
-- [RegisterSec] Meta U-turns on encryption push for Instagram as DMs go plaintext - 1 hour ago
-- [BleepingComputer] CISA gives feds four days to patch Ivanti flaw exploited as zero-day - 1 hour ago
-- [BleepingComputer] Trellix source code breach claimed by RansomHouse hackers or RansomHouse hackers claim Trellix source code breach - 1 hour ago
-- [IT Governance] Free PDF download: The Case for ISO 27001 – A board’s-eye view - 1 hour ago
-- [Slack] Incident: Scheduled Grid Migrations are experiencing extended downtime - 1 hour ago
-- [IT Governance] What Happens if You Get PCI DSS Compliance Wrong? - 3 hours ago
-- [SecurityWeek] Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom - 3 hours ago
-- [SecurityWeek] AI Firm Braintrust Prompts API Key Rotation After Data Breach - 3 hours ago
-- [RegisterSec] Meta fights Ofcom over how many billions count as billions - 3 hours ago
-- [SecurityWeek] Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants - 3 hours ago
-- [RegisterSec] Hackers ate my homework: Educational SaaS Canvas down after cyberattack - 3 hours ago
-- [BleepingComputer] Zara data breach exposed personal information of 197,000 people - 3 hours ago
-- [NETRESEC] Remcos Alerts from FlowCarp in EveBox - 3 hours ago
-- [HackerNews] New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials - 3 hours ago
-- [HackerNews] One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk - 3 hours ago
-- [HackerNews] Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise - 3 hours ago
-- [CloudFlare] Wrangler users may experience frequent log out - 3 hours ago
-- [GrahamCluley] Sri Lanka makes 37 arrests as it raids another scam centre - 4 hours ago
-- [BleepingComputer] New Linux 'Dirty Frag' zero-day gives root on all major distros - 6 hours ago
-- [BleepingComputer] Former govt contractor convicted for wiping dozens of federal databases - 6 hours ago
-- [HIBP] Zara - 197,376 breached accounts - 6 hours ago
-- [SecurityWeek] Ransomware Group Takes Credit for Trellix Hack - 6 hours ago
-- [SecurityWeek] ‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials - 6 hours ago
-- [HackerNews] Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions - 7 hours ago
-- [SecurityWeek] Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover - 7 hours ago
-- [CloudFlare] ICN (Seoul) on 2026-05-19 - 7 hours ago
-- [SecurityWeek] Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks - 9 hours ago
-- [CloudFlare] Cloudflare Stream Scheduled Maintenance - 9 hours ago
-- [CloudFlare] MEL (Melbourne) on 2026-05-13 - 9 hours ago
-- [BrianKrebs] Canvas Breach Disrupts Schools & Colleges Nationwide - 11 hours ago
-- [CloudFlare] OTP (Bucharest) on 2026-05-08 - 11 hours ago
-- [CloudFlare] LHR (London) on 2026-05-13 - 11 hours ago
-- [AWS] Service impact: Increased Error Rate and Latency - 11 hours ago
-- [AWS] Service impact: Increased Error Rate and Latency - 11 hours ago
-- [AWS] Service impact: Increased Error Rate and Latency - 11 hours ago
-- [AWS] Service impact: Increased Error Rate and Latency - 11 hours ago
-- [RegisterSec] Mozilla boasts Mythos boosted Firefox bug cull - 15 hours ago
-- [BleepingComputer] Canvas login portals hacked in mass ShinyHunters extortion campaign - 16 hours ago
-- [BleepingComputer] New TCLBanker malware self-spreads over WhatsApp and Outlook - 16 hours ago
-- [CloudFlare] Network Connectivity issues in Tokyo - 16 hours ago
-- [RegisterSec] Anthropic response to 1-click pwn: Shouldn't have clicked 'ok' - 18 hours ago
-- [HackerNews] PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems - 19 hours ago
-- [BleepingComputer] New PCPJack worm steals credentials, cleans TeamPCP infections - 19 hours ago
-- [HackerNews] Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access - 19 hours ago
-- [SecurityWeek] Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders - 19 hours ago
-- [BleepingComputer] Australia warns of ClickFix attacks pushing Vidar Stealer malware - 20 hours ago
-- [RegisterSec] 60% of MD5 password hashes are crackable in under an hour - 20 hours ago
-- [SecurityWeek] Boost Security Raises $4 Million for SDLC Defense Platform - 22 hours ago
-- [SecurityWeek] Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking - 22 hours ago
-- [BleepingComputer] Ivanti warns of new EPMM flaw exploited in zero-day attacks - 22 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased Error Rate and Latency - 3 hours ago
+- [CloudFlare] WAW (Warsaw) on 2026-05-08 - 10 hours ago
+- [CloudFlare] PHX (Phoenix) on 2026-05-12 - 10 hours ago
+- [CloudFlare] Certificate Issuance through Let's Encrypt unavailable - 11 hours ago
+- [CloudFlare] Cloudflare Access processing delayed audit logs - 11 hours ago
+- [HackerNews] TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms - 12 hours ago
+- [Slack] Incident: EKM customers experiencing issues with channel loading and message delivery - 12 hours ago
+- [RegisterSec] Worm rubs out competitor's malware, then takes control - 14 hours ago
+- [HackerNews] Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads - 15 hours ago
+- [BleepingComputer] NVIDIA confirms GeForce NOW data breach affecting Armenian users - 15 hours ago
+- [GrahamCluley] One in eight UK workers has sold their company passwords, and bosses think it’s fine - 15 hours ago
+- [SecurityWeek] In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner - 17 hours ago
+- [RegisterSec] 'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit - 17 hours ago
+- [GrahamCluley] Inside Department 4: Russia’s secret school for hackers - 17 hours ago
+- [BleepingComputer] Trellix source code breach claimed by RansomHouse hackers - 17 hours ago
+- [BleepingComputer] Why More Analysts Won’t Solve Your SOC’s Alert Problem - 17 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-05-13 - 17 hours ago
+- [RegisterSec] Meta U-turns on encryption push for Instagram as DMs go plaintext - 18 hours ago
+- [BleepingComputer] CISA gives feds four days to patch Ivanti flaw exploited as zero-day - 18 hours ago
+- [BleepingComputer] Trellix source code breach claimed by RansomHouse hackers or RansomHouse hackers claim Trellix source code breach - 18 hours ago
+- [IT Governance] Free PDF download: The Case for ISO 27001 – A board’s-eye view - 18 hours ago
+- [Slack] Incident: Scheduled Grid Migrations are experiencing extended downtime - 18 hours ago
+- [IT Governance] What Happens if You Get PCI DSS Compliance Wrong? - 20 hours ago
+- [SecurityWeek] Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom - 20 hours ago
+- [SecurityWeek] AI Firm Braintrust Prompts API Key Rotation After Data Breach - 20 hours ago
+- [RegisterSec] Meta fights Ofcom over how many billions count as billions - 20 hours ago
+- [SecurityWeek] Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants - 20 hours ago
+- [RegisterSec] Hackers ate my homework: Educational SaaS Canvas down after cyberattack - 20 hours ago
+- [BleepingComputer] Zara data breach exposed personal information of 197,000 people - 20 hours ago
+- [NETRESEC] Remcos Alerts from FlowCarp in EveBox - 20 hours ago
+- [HackerNews] New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials - 20 hours ago
+- [HackerNews] One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk - 20 hours ago
+- [HackerNews] Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise - 20 hours ago
+- [CloudFlare] Wrangler users may experience frequent log out - 20 hours ago
+- [GrahamCluley] Sri Lanka makes 37 arrests as it raids another scam centre - 22 hours ago
+- [BleepingComputer] New Linux 'Dirty Frag' zero-day gives root on all major distros - 23 hours ago
+- [BleepingComputer] Former govt contractor convicted for wiping dozens of federal databases - 23 hours ago
+- [HIBP] Zara - 197,376 breached accounts - 23 hours ago
+- [SecurityWeek] Ransomware Group Takes Credit for Trellix Hack - 23 hours ago
+- [SecurityWeek] ‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials - 23 hours ago
+- [HackerNews] Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions - 1 day ago
+- [SecurityWeek] Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover - 1 day ago
+- [CloudFlare] ICN (Seoul) on 2026-05-19 - 1 day ago
+- [SecurityWeek] Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks - 1 day ago
+- [CloudFlare] Cloudflare Stream Scheduled Maintenance - 1 day ago
+- [CloudFlare] MEL (Melbourne) on 2026-05-13 - 1 day ago
+- [BrianKrebs] Canvas Breach Disrupts Schools & Colleges Nationwide - 1 day ago
+- [CloudFlare] OTP (Bucharest) on 2026-05-08 - 1 day ago
+- [CloudFlare] LHR (London) on 2026-05-13 - 1 day ago
+- [AWS] Service impact: Increased Error Rate and Latency - 1 day ago
+- [AWS] Service impact: Increased Error Rate and Latency - 1 day ago
+- [AWS] Service impact: Increased Error Rate and Latency - 1 day ago
+- [AWS] Service impact: Increased Error Rate and Latency - 1 day ago
+- [RegisterSec] Mozilla boasts Mythos boosted Firefox bug cull - 1 day ago
+- [BleepingComputer] Canvas login portals hacked in mass ShinyHunters extortion campaign - 1 day ago
+- [BleepingComputer] New TCLBanker malware self-spreads over WhatsApp and Outlook - 1 day ago
+- [CloudFlare] Network Connectivity issues in Tokyo - 1 day ago
+- [RegisterSec] Anthropic response to 1-click pwn: Shouldn't have clicked 'ok' - 1 day ago
+- [HackerNews] PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems - 1 day ago
+- [BleepingComputer] New PCPJack worm steals credentials, cleans TeamPCP infections - 1 day ago
+- [HackerNews] Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access - 1 day ago
+- [SecurityWeek] Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders - 1 day ago
+- [BleepingComputer] Australia warns of ClickFix attacks pushing Vidar Stealer malware - 1 day ago
+- [RegisterSec] 60% of MD5 password hashes are crackable in under an hour - 1 day ago
+- [SecurityWeek] Boost Security Raises $4 Million for SDLC Defense Platform - 1 day ago
+- [SecurityWeek] Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking - 1 day ago
+- [BleepingComputer] Ivanti warns of new EPMM flaw exploited in zero-day attacks - 1 day ago
 - [SecurityWeek] AI Coding Agents Could Fuel Next Supply Chain Crisis - 1 day ago
 - [SecurityWeek] Vendor Says Daemon Tools Supply Chain Attack Contained - 1 day ago
 - [SecurityWeek] Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes - 1 day ago
@@ -94,46 +105,11 @@ description: Latest Updates
 - [CloudFlare] Cloudflare DNS Resolver 1.1.1.1 Website - 1 day ago
 - [CloudFlare] DUS (Düsseldorf) on 2026-05-08 - 1 day ago
 - [CloudFlare] LAX (Los Angeles) on 2026-05-12 - 1 day ago
-- [SecurityWeek] Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-05-08 - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-05-12 - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-05-13 - 1 day ago
-- [GitHub] CCR and CCA failing to start for PR comments - 1 day ago
-- [HackerNews] vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution - 1 day ago
-- [CloudFlare] Network connectivity issues in CGY (Cagayan de Oro) - 1 day ago
-- [GrahamCluley] Smashing Security podcast #466: Meta sees everything, Copy Fail, and a deepfake gets hired - 1 day ago
-- [CloudFlare] MSP (Minneapolis) on 2026-05-06 - 1 day ago
-- [CloudFlare] Cloudflare One Client Connectivity Issue in Chicago (ORD) area - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-05-07 - 1 day ago
-- [HackerNews] Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks - 1 day ago
-- [BleepingComputer] Hackers abuse Google ads for GoDaddy ManageWP login phishing - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-05-06 - 1 day ago
-- [CloudFlare] Cloudflare One Dashboard Analytics Intermittently Not Loading - 1 day ago
-- [CloudFlare] SYD (Sydney) on 2026-05-11 - 1 day ago
-- [RegisterSec] 1 in 8 employees totally cool with selling work credentials - 1 day ago
-- [RegisterSec] Arctic Wolf kicks 250 employees out of the pack to save money for AI - 1 day ago
-- [SecurityWeek] CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict - 1 day ago
-- [BleepingComputer] New Cisco DoS flaw requires manual reboot to revive devices - 1 day ago
-- [BleepingComputer] Critical vm2 sandbox bug lets attackers execute code on hosts - 1 day ago
-- [CloudFlare] Network Performance Issues in Eastern North American region - 1 day ago
-- [RegisterSec] Iran cybersnoops still LARPing as ransomware crooks in espionage ops - 1 day ago
-- [BleepingComputer] DAEMON Tools devs confirm breach, release malware-free version - 1 day ago
-- [CloudFlare] Cloudflare Dashboard Workers Editor Unavailable - 1 day ago
-- [HackerNews] MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack - 1 day ago
-- [SecurityWeek] Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago - 1 day ago
-- [SecurityWeek] Herd Security Raises $3 Million for AI-Powered Training Platform - 1 day ago
-- [SecurityWeek] Autonomous Offensive Security Firm XBOW Raises $35 Million - 1 day ago
-- [BleepingComputer] Why ransomware attacks succeed even when backups exist - 1 day ago
-- [CloudFlare] SLC (Salt Lake City) on 2026-05-06 - 1 day ago
-- [CloudFlare] WAW (Warsaw) on 2026-05-08 - 1 day ago
-- [CloudFlare] PHX (Phoenix) on 2026-05-12 - 1 day ago
-- [HackerNews] Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing? - 2 days ago
-- [HackerNews] The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open - 2 days ago
-- [SecurityWeek] Romanian Extradited to US for Role in Hacking Scheme 17 Years Ago - 2 days ago
-- [SecurityWeek] Iranian APT Intrusion Masquerades as Chaos Ransomware Attack - 2 days ago
-- [RegisterSec] UK age-gating plans risk breaking the internet, privacy groups warn - 2 days ago
-- [BleepingComputer] Webinar: Why network incidents escalate and how to fix response gaps - 2 days ago
-- [BleepingComputer] MuddyWater hackers use Chaos ransomware as a decoy in attacks - 2 days ago
+- [SecurityWeek] Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion - 2 days ago
+- [CloudFlare] AMS (Amsterdam) on 2026-05-08 - 2 days ago
+- [CloudFlare] YUL (Montréal) on 2026-05-12 - 2 days ago
+- [CloudFlare] SYD (Sydney) on 2026-05-13 - 2 days ago
+- [GitHub] CCR and CCA failing to start for PR comments - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
