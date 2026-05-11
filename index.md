@@ -9,24 +9,42 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested - 2 hours ago
-- [CloudFlare] Issues passing Challenge Pages in China - 4 hours ago
-- [CloudFlare] KIX (Osaka) on 2026-05-11 - 4 hours ago
-- [CloudFlare] SYD (Sydney) on 2026-05-14 - 4 hours ago
-- [SecurityWeek] Over 500 Organizations Hit in Years-Long Phishing Campaign - 5 hours ago
-- [TroyHunt] Weekly Update 503 - 5 hours ago
-- [TroyHunt] Welcoming the Costa Rican Government to Have I Been Pwned - 5 hours ago
-- [BleepingComputer] Hackers abuse Google ads, Claude.ai chats to push Mac malware - 15 hours ago
-- [CloudFlare] Network Performance Issues in Auckland - 15 hours ago
-- [BleepingComputer] Police shut down reboot of Crimenetwork marketplace, arrest admin - 19 hours ago
-- [HackerNews] Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - 20 hours ago
+- [GitHub] Incident with high errors on Git Operations - 50 minutes ago
+- [BleepingComputer] Webinar this week: Prevention alone is not enough against modern attacks - 2 hours ago
+- [IT Governance] Data Retention for Regulated Industries: Why it Requires More Than a Blanket Approach - 2 hours ago
+- [BleepingComputer] Google: Hackers used AI to develop zero-day exploit for web admin tool - 2 hours ago
+- [IT Governance] ISO 27001 FAQ - 2 hours ago
+- [BleepingComputer] Why Changing Passwords Doesn’t End an Active Directory Breach - 2 hours ago
+- [RegisterSec] Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged - 2 hours ago
+- [SecurityWeek] Skoda Data Breach Hits Online Shop Customers - 2 hours ago
+- [SecurityWeek] Google Detects First AI-Generated Zero-Day Exploit - 2 hours ago
+- [SecurityWeek] Build Application Firewalls Aim to Stop the Next Supply Chain Attack - 2 hours ago
+- [HackerNews] Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room - 2 hours ago
+- [HackerNews] ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More - 2 hours ago
+- [ScottHelme] Under Attack: Responding to the Rise of Info-Stealer Threats - 2 hours ago
+- [RegisterSec] Taiwan's train cyber-trauma reveals a global system that’s coming off the tracks - 4 hours ago
+- [SecurityWeek] New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks - 4 hours ago
+- [SecurityWeek] Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools - 4 hours ago
+- [SecurityWeek] Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack - 4 hours ago
+- [SecurityWeek] SailPoint Discloses GitHub Repository Hack - 4 hours ago
+- [SecurityWeek] Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring - 4 hours ago
+- [BleepingComputer] TrickMo Android banker adopts TON blockchain for covert comms - 4 hours ago
+- [RegisterSoftware] Classic Outlook's Quick Steps trip over Microsoft bug - 4 hours ago
+- [HackerNews] Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads - 4 hours ago
+- [SecurityWeek] Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested - 8 hours ago
+- [CloudFlare] Issues passing Challenge Pages in China - 10 hours ago
+- [CloudFlare] KIX (Osaka) on 2026-05-11 - 10 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-14 - 10 hours ago
+- [SecurityWeek] Over 500 Organizations Hit in Years-Long Phishing Campaign - 11 hours ago
+- [TroyHunt] Weekly Update 503 - 11 hours ago
+- [TroyHunt] Welcoming the Costa Rican Government to Have I Been Pwned - 11 hours ago
+- [BleepingComputer] Hackers abuse Google ads, Claude.ai chats to push Mac malware - 21 hours ago
+- [CloudFlare] Network Performance Issues in Auckland - 21 hours ago
+- [BleepingComputer] Police shut down reboot of Crimenetwork marketplace, arrest admin - 1 day ago
+- [HackerNews] Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - 1 day ago
 - [CloudFlare] SYD (Sydney) on 2026-05-11 - 1 day ago
 - [CloudFlare] Network Performance Issues - 1 day ago
 - [BleepingComputer] JDownloader site hacked to replace installers with Python RAT malware - 1 day ago
-- [BleepingComputer] Fake OpenAI repository on Hugging Face pushes infostealer malware - 1 day ago
-- [RegisterSoftware] macOS 27 threatens to bury Time Capsule, FOSS brings a shovel - 1 day ago
-- [CloudFlare] LHR (London) on 2026-05-12 - 1 day ago
-- [HackerNews] cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
