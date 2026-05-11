@@ -9,31 +9,24 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - 48 minutes ago
-- [CloudFlare] SYD (Sydney) on 2026-05-11 - 7 hours ago
-- [CloudFlare] Network Performance Issues - 10 hours ago
-- [BleepingComputer] JDownloader site hacked to replace installers with Python RAT malware - 18 hours ago
+- [SecurityWeek] Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested - 2 hours ago
+- [CloudFlare] Issues passing Challenge Pages in China - 4 hours ago
+- [CloudFlare] KIX (Osaka) on 2026-05-11 - 4 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-14 - 4 hours ago
+- [SecurityWeek] Over 500 Organizations Hit in Years-Long Phishing Campaign - 5 hours ago
+- [TroyHunt] Weekly Update 503 - 5 hours ago
+- [TroyHunt] Welcoming the Costa Rican Government to Have I Been Pwned - 5 hours ago
+- [BleepingComputer] Hackers abuse Google ads, Claude.ai chats to push Mac malware - 15 hours ago
+- [CloudFlare] Network Performance Issues in Auckland - 15 hours ago
+- [BleepingComputer] Police shut down reboot of Crimenetwork marketplace, arrest admin - 19 hours ago
+- [HackerNews] Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - 20 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-11 - 1 day ago
+- [CloudFlare] Network Performance Issues - 1 day ago
+- [BleepingComputer] JDownloader site hacked to replace installers with Python RAT malware - 1 day ago
 - [BleepingComputer] Fake OpenAI repository on Hugging Face pushes infostealer malware - 1 day ago
 - [RegisterSoftware] macOS 27 threatens to bury Time Capsule, FOSS brings a shovel - 1 day ago
 - [CloudFlare] LHR (London) on 2026-05-12 - 1 day ago
-- [HackerNews] cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now - 1 day ago
-- [AWS] Service is operating normally: [RESOLVED] Increased Error Rate and Latency - 1 day ago
-- [CloudFlare] WAW (Warsaw) on 2026-05-08 - 1 day ago
-- [CloudFlare] PHX (Phoenix) on 2026-05-12 - 1 day ago
-- [CloudFlare] Certificate Issuance through Let's Encrypt unavailable - 1 day ago
-- [CloudFlare] Cloudflare Access processing delayed audit logs - 1 day ago
-- [HackerNews] TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms - 1 day ago
-- [Slack] Incident: EKM customers experiencing issues with channel loading and message delivery - 1 day ago
-- [RegisterSec] Worm rubs out competitor's malware, then takes control - 1 day ago
-- [HackerNews] Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads - 1 day ago
-- [BleepingComputer] NVIDIA confirms GeForce NOW data breach affecting Armenian users - 1 day ago
-- [GrahamCluley] One in eight UK workers has sold their company passwords, and bosses think it’s fine - 1 day ago
-- [SecurityWeek] In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner - 1 day ago
-- [RegisterSec] 'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit - 1 day ago
-- [GrahamCluley] Inside Department 4: Russia’s secret school for hackers - 1 day ago
-- [BleepingComputer] Trellix source code breach claimed by RansomHouse hackers - 1 day ago
-- [BleepingComputer] Why More Analysts Won’t Solve Your SOC’s Alert Problem - 1 day ago
-- [CloudFlare] LAX (Los Angeles) on 2026-05-13 - 1 day ago
+- [HackerNews] cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
