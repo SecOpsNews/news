@@ -9,50 +9,67 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] SIN (Singapore) on 2026-05-19 - 4 minutes ago
-- [GitHub] Actions is experiencing degraded availability - 4 minutes ago
-- [HackerNews] CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits - 1 hour ago
-- [SecurityWeek] Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 - 1 hour ago
-- [HackerNews] On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email - 1 hour ago
-- [SecurityWeek] Chrome 148 Update Patches Critical Vulnerabilities - 1 hour ago
-- [GitHub] [Retroactive] Incident with GitHub.com - 3 hours ago
-- [RegisterSec] Nobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data - 10 hours ago
-- [BleepingComputer] TeamPCP hackers advertise Mistral AI code repos for sale - 10 hours ago
-- [BleepingComputer] Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin - 11 hours ago
-- [CloudFlare] SCL (Santiago) on 2026-05-13 - 11 hours ago
-- [BleepingComputer] Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks - 12 hours ago
-- [RegisterSoftware] Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts - 12 hours ago
-- [GrahamCluley] Suspected Dream Market kingpin arrested after gold bars sent to his home address - 12 hours ago
-- [CloudFlare] CAN (Guangzhou) on 2026-05-13 - 12 hours ago
-- [1Password] May 19 2026 Events API and Reporting Maintenance for CA and ENT - 12 hours ago
-- [HackerNews] Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets - 14 hours ago
-- [HackerNews] Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access - 14 hours ago
-- [BleepingComputer] Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026 - 14 hours ago
-- [BleepingComputer] OpenAI confirms security breach in TanStack supply chain attack - 14 hours ago
-- [CloudFlare] JRG (Sambalpur) on 2026-05-14 - 14 hours ago
-- [HackerNews] ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories - 16 hours ago
-- [BleepingComputer] 18-year-old NGINX vulnerability allows DoS, potential RCE - 16 hours ago
-- [CloudFlare] Elevated error rate on Cloudflare Stream API operations - 16 hours ago
-- [IT Governance] ROCs and SAQs: Which PCI DSS Compliance Validation Route Applies to Your Business? - 18 hours ago
-- [BleepingComputer] Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight - 18 hours ago
-- [HackerNews] Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike - 18 hours ago
-- [SecurityWeek] New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation - 18 hours ago
-- [SecurityWeek] Enhancing Data Center Security Without Sacrificing Performance - 18 hours ago
-- [Slack] Incident: Issues affecting file uploads, message edits, channel renames, and channel creations - 18 hours ago
-- [HackerNews] How AI Hallucinations Are Creating Real Security Risks - 20 hours ago
-- [HackerNews] PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure - 20 hours ago
-- [RegisterSec] Cops arrest man suspected of being Dream Market kingpin - 20 hours ago
-- [BleepingComputer] KongTuke hackers now use Microsoft Teams for corporate breaches - 20 hours ago
-- [SecurityWeek] Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns - 20 hours ago
-- [SecurityWeek] Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million - 20 hours ago
-- [SecurityWeek] Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere - 20 hours ago
-- [HackerNews] Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation - 22 hours ago
-- [RegisterSec] Dirty Frag gets a sequel as Fragnesia hands Linux attackers root-level access - 22 hours ago
-- [SecurityWeek] Hackers Targeted PraisonAI Vulnerability Hours After Disclosure - 22 hours ago
-- [SecurityWeek] F5 Patches Over 50 Vulnerabilities - 22 hours ago
-- [SecurityWeek] G7 Countries Release AI SBOM Guidance - 22 hours ago
-- [BleepingComputer] Dell confirms its SupportAssist software causes Windows BSOD crashes - 22 hours ago
-- [GrahamCluley] When ransomware gets physical: cybercriminals turn to threats of violence - 22 hours ago
+- [CloudFlare] Cloudflare Account Level WAF Rule Editing Restricted - 21 minutes ago
+- [CloudFlare] Bot Management Issues - 21 minutes ago
+- [CloudFlare] EWR (Newark) on 2026-05-21 - 21 minutes ago
+- [CloudFlare] AUS (Austin) on 2026-05-21 - 22 minutes ago
+- [CloudFlare] AMS (Amsterdam) on 2026-05-21 - 22 minutes ago
+- [BleepingComputer] Microsoft to automatically roll back faulty Windows drivers - 1 hour ago
+- [BleepingComputer] Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution - 1 hour ago
+- [ScottHelme] Anatomy of a WooCommerce Skimmer: A Technical Deep-Dive - 1 hour ago
+- [HackerNews] TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates - 3 hours ago
+- [HackerNews] What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface - 3 hours ago
+- [SecurityWeek] OpenAI Hit by TanStack Supply Chain Attack - 3 hours ago
+- [SecurityWeek] American Lending Center Data Breach Affects 123,000 Individuals - 3 hours ago
+- [SecurityWeek] Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild - 3 hours ago
+- [RegisterSec] OpenAI caught in TanStack npm supply chain chaos after employee devices compromised - 3 hours ago
+- [RegisterSec] MPs want social media treated more like unsafe toys than harmless apps - 5 hours ago
+- [SecurityWeek] TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code - 5 hours ago
+- [BleepingComputer] Microsoft warns of Exchange zero-day flaw exploited in attacks - 5 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-05-19 - 6 hours ago
+- [GitHub] Actions is experiencing degraded availability - 6 hours ago
+- [HackerNews] CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits - 8 hours ago
+- [SecurityWeek] Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 - 8 hours ago
+- [HackerNews] On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email - 8 hours ago
+- [SecurityWeek] Chrome 148 Update Patches Critical Vulnerabilities - 8 hours ago
+- [GitHub] [Retroactive] Incident with GitHub.com - 9 hours ago
+- [RegisterSec] Nobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data - 16 hours ago
+- [BleepingComputer] TeamPCP hackers advertise Mistral AI code repos for sale - 16 hours ago
+- [BleepingComputer] Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin - 17 hours ago
+- [CloudFlare] SCL (Santiago) on 2026-05-13 - 18 hours ago
+- [BleepingComputer] Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks - 19 hours ago
+- [RegisterSoftware] Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts - 19 hours ago
+- [GrahamCluley] Suspected Dream Market kingpin arrested after gold bars sent to his home address - 19 hours ago
+- [CloudFlare] CAN (Guangzhou) on 2026-05-13 - 19 hours ago
+- [1Password] May 19 2026 Events API and Reporting Maintenance for CA and ENT - 19 hours ago
+- [HackerNews] Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets - 20 hours ago
+- [HackerNews] Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access - 20 hours ago
+- [BleepingComputer] Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026 - 20 hours ago
+- [BleepingComputer] OpenAI confirms security breach in TanStack supply chain attack - 20 hours ago
+- [CloudFlare] JRG (Sambalpur) on 2026-05-14 - 20 hours ago
+- [HackerNews] ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories - 22 hours ago
+- [BleepingComputer] 18-year-old NGINX vulnerability allows DoS, potential RCE - 22 hours ago
+- [CloudFlare] Elevated error rate on Cloudflare Stream API operations - 22 hours ago
+- [IT Governance] ROCs and SAQs: Which PCI DSS Compliance Validation Route Applies to Your Business? - 1 day ago
+- [BleepingComputer] Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight - 1 day ago
+- [HackerNews] Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike - 1 day ago
+- [SecurityWeek] New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation - 1 day ago
+- [SecurityWeek] Enhancing Data Center Security Without Sacrificing Performance - 1 day ago
+- [Slack] Incident: Issues affecting file uploads, message edits, channel renames, and channel creations - 1 day ago
+- [HackerNews] How AI Hallucinations Are Creating Real Security Risks - 1 day ago
+- [HackerNews] PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure - 1 day ago
+- [RegisterSec] Cops arrest man suspected of being Dream Market kingpin - 1 day ago
+- [BleepingComputer] KongTuke hackers now use Microsoft Teams for corporate breaches - 1 day ago
+- [SecurityWeek] Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns - 1 day ago
+- [SecurityWeek] Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million - 1 day ago
+- [SecurityWeek] Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere - 1 day ago
+- [HackerNews] Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation - 1 day ago
+- [RegisterSec] Dirty Frag gets a sequel as Fragnesia hands Linux attackers root-level access - 1 day ago
+- [SecurityWeek] Hackers Targeted PraisonAI Vulnerability Hours After Disclosure - 1 day ago
+- [SecurityWeek] F5 Patches Over 50 Vulnerabilities - 1 day ago
+- [SecurityWeek] G7 Countries Release AI SBOM Guidance - 1 day ago
+- [BleepingComputer] Dell confirms its SupportAssist software causes Windows BSOD crashes - 1 day ago
+- [GrahamCluley] When ransomware gets physical: cybercriminals turn to threats of violence - 1 day ago
 - [RegisterSec] AI models are getting better at replacing cybersecurity pros on certain tasks - 1 day ago
 - [SecurityWeek] Researcher Drops YellowKey, GreenPlasma Windows Zero-Days - 1 day ago
 - [RegisterSec] To gain root access at this company, all an intruder had to do was ask nicely - 1 day ago
@@ -99,35 +116,20 @@ description: Latest Updates
 - [BleepingComputer] Microsoft fixes Windows Autopatch bug installing restricted drivers - 1 day ago
 - [BleepingComputer] Microsoft fixes BitLocker recovery issue only for Windows 11 users - 1 day ago
 - [BleepingComputer] Webinar tomorrow: Why security alone won't stop modern attacks - 1 day ago
-- [CloudFlare] Increased HTTP 502 Errors in San Jose, CA, United States region - 1 day ago
-- [CloudFlare] Errors with Email Sending via the Worker Binding - 1 day ago
-- [CloudFlare] Increased HTTP 502 Errors in Hong Kong region - 1 day ago
-- [CloudFlare] Cache Purging and Cache Rule Update Issues - 1 day ago
-- [CloudFlare] IST (Istanbul) on 2026-05-13 - 1 day ago
-- [SecurityWeek] 716,000 Impacted by OpenLoop Health Data Breach - 1 day ago
-- [SecurityWeek] Government to Scrutinize Instructure Over Canvas Disruption, Data Breach - 1 day ago
-- [HackerNews] Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws - 1 day ago
-- [HackerNews] Most Remediation Programs Never Confirm the Fix Actually Worked - 1 day ago
-- [HackerNews] [Webinar] Why Your AppSec Tools Miss the "Lethal Path" (and How to Fix It) - 1 day ago
-- [BleepingComputer] Microsoft says some users can't install Office on Windows 365 devices - 1 day ago
-- [BleepingComputer] 73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation - 1 day ago
-- [BleepingComputer] Foxconn confirms cyberattack claimed by Nitrogen ransomware gang - 1 day ago
-- [SecurityWeek] Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities - 1 day ago
-- [SecurityWeek] Fortinet, Ivanti Patch Critical Vulnerabilities - 1 day ago
-- [SecurityWeek] Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises - 1 day ago
-- [HackerNews] GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data - 1 day ago
-- [RegisterSoftware] dBase debased: Database titan fades to black after 47 years - 1 day ago
-- [CloudFlare] LHR (London) on 2026-05-15 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2026-05-19 - 1 day ago
-- [HIBP] Canada Life - 237,810 breached accounts - 2 days ago
-- [HackerNews] Android Adds Intrusion Logging for Sophisticated Spyware Forensics - 2 days ago
-- [SecurityWeek] ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA - 2 days ago
-- [SecurityWeek] Hundreds of Malicious Packages Force RubyGems to Suspend Registrations - 2 days ago
-- [RegisterSec] Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub - 2 days ago
-- [CloudFlare] Network Congestion in BKK - 2 days ago
-- [CloudFlare] Cloudflare Storage System Maintenance - 2 days ago
-- [RegisterSec] Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads - 2 days ago
-- [CloudFlare] MEL (Melbourne) on 2026-05-13 - 2 days ago
+- [CloudFlare] Increased HTTP 502 Errors in San Jose, CA, United States region - 2 days ago
+- [CloudFlare] Errors with Email Sending via the Worker Binding - 2 days ago
+- [CloudFlare] Increased HTTP 502 Errors in Hong Kong region - 2 days ago
+- [CloudFlare] Cache Purging and Cache Rule Update Issues - 2 days ago
+- [CloudFlare] IST (Istanbul) on 2026-05-13 - 2 days ago
+- [SecurityWeek] 716,000 Impacted by OpenLoop Health Data Breach - 2 days ago
+- [SecurityWeek] Government to Scrutinize Instructure Over Canvas Disruption, Data Breach - 2 days ago
+- [HackerNews] Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws - 2 days ago
+- [HackerNews] Most Remediation Programs Never Confirm the Fix Actually Worked - 2 days ago
+- [HackerNews] [Webinar] Why Your AppSec Tools Miss the "Lethal Path" (and How to Fix It) - 2 days ago
+- [BleepingComputer] Microsoft says some users can't install Office on Windows 365 devices - 2 days ago
+- [BleepingComputer] 73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation - 2 days ago
+- [BleepingComputer] Foxconn confirms cyberattack claimed by Nitrogen ransomware gang - 2 days ago
+- [CloudFlare] LHR (London) on 2026-05-15 - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
