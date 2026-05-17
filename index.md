@@ -9,13 +9,14 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] MEL (Melbourne) on 2026-05-26 - 3 hours ago
-- [BleepingComputer] Microsoft rejects critical Azure vulnerability report, no CVE issued - 11 hours ago
-- [CloudFlare] PayPal Billing Issues - 14 hours ago
-- [HackerNews] Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming - 15 hours ago
-- [1Password] SaaS Manager performance is degraded - 16 hours ago
-- [BleepingComputer] Russian hackers turn Kazuar backdoor into modular P2P botnet - 17 hours ago
-- [SecurityWeek] PoC Code Published for Critical NGINX Vulnerability - 21 hours ago
+- [HackerNews] Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt - 5 hours ago
+- [CloudFlare] MEL (Melbourne) on 2026-05-26 - 9 hours ago
+- [BleepingComputer] Microsoft rejects critical Azure vulnerability report, no CVE issued - 17 hours ago
+- [CloudFlare] PayPal Billing Issues - 20 hours ago
+- [HackerNews] Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming - 21 hours ago
+- [1Password] SaaS Manager performance is degraded - 22 hours ago
+- [BleepingComputer] Russian hackers turn Kazuar backdoor into modular P2P botnet - 23 hours ago
+- [SecurityWeek] PoC Code Published for Critical NGINX Vulnerability - 1 day ago
 - [CloudFlare] ICN (Seoul) on 2026-05-19 - 1 day ago
 - [CloudFlare] R2 and Durable Objects increased errors in Eastern North America - 1 day ago
 - [BleepingComputer] Funnel Builder WordPress plugin bug exploited to steal credit cards - 1 day ago
@@ -32,24 +33,15 @@ description: Latest Updates
 - [CloudFlare] EWR (Newark) on 2026-05-21 - 1 day ago
 - [CloudFlare] AUS (Austin) on 2026-05-21 - 1 day ago
 - [CloudFlare] AMS (Amsterdam) on 2026-05-21 - 1 day ago
-- [BleepingComputer] Microsoft to automatically roll back faulty Windows drivers - 1 day ago
-- [BleepingComputer] Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution - 1 day ago
-- [ScottHelme] Anatomy of a WooCommerce Skimmer: A Technical Deep-Dive - 1 day ago
-- [HackerNews] TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates - 1 day ago
-- [HackerNews] What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface - 1 day ago
-- [SecurityWeek] OpenAI Hit by TanStack Supply Chain Attack - 1 day ago
-- [SecurityWeek] American Lending Center Data Breach Affects 123,000 Individuals - 1 day ago
-- [SecurityWeek] Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild - 1 day ago
-- [RegisterSec] OpenAI caught in TanStack npm supply chain chaos after employee devices compromised - 1 day ago
-- [RegisterSec] MPs want social media treated more like unsafe toys than harmless apps - 1 day ago
-- [SecurityWeek] TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code - 1 day ago
-- [BleepingComputer] Microsoft warns of Exchange zero-day flaw exploited in attacks - 1 day ago
-- [CloudFlare] SIN (Singapore) on 2026-05-19 - 1 day ago
-- [GitHub] Actions is experiencing degraded availability - 1 day ago
-- [HackerNews] CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits - 2 days ago
-- [SecurityWeek] Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 - 2 days ago
-- [HackerNews] On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email - 2 days ago
-- [SecurityWeek] Chrome 148 Update Patches Critical Vulnerabilities - 2 days ago
+- [BleepingComputer] Microsoft to automatically roll back faulty Windows drivers - 2 days ago
+- [BleepingComputer] Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution - 2 days ago
+- [ScottHelme] Anatomy of a WooCommerce Skimmer: A Technical Deep-Dive - 2 days ago
+- [HackerNews] TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates - 2 days ago
+- [HackerNews] What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface - 2 days ago
+- [SecurityWeek] OpenAI Hit by TanStack Supply Chain Attack - 2 days ago
+- [SecurityWeek] American Lending Center Data Breach Affects 123,000 Individuals - 2 days ago
+- [SecurityWeek] Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild - 2 days ago
+- [RegisterSec] OpenAI caught in TanStack npm supply chain chaos after employee devices compromised - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
