@@ -9,54 +9,67 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Exploit available for new DirtyDecrypt Linux root escalation flaw - 1 hour ago
-- [BleepingComputer] Microsoft confirms Windows 11 security update install issues - 1 hour ago
-- [NETRESEC] PolarProxy 2.0 Released - 1 hour ago
-- [RegisterSec] Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess - 1 hour ago
-- [ScottHelme] Passkeys 101: An Introduction to Passkeys and How They Work - 1 hour ago
-- [HackerNews] MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems - 1 hour ago
-- [HackerNews] Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations - 1 hour ago
-- [SecurityWeek] Exploitation of Critical NGINX Vulnerability Begins - 1 hour ago
-- [SecurityWeek] Grafana Confirms Breach After Hackers Claim They Stole Data - 1 hour ago
-- [SecurityWeek] First Shai-Hulud Worm Clones Emerge - 1 hour ago
-- [CloudFlare] Issues with Cloudflare Log Explorer - 4 hours ago
-- [CloudFlare] SYD (Sydney) on 2026-05-19 - 4 hours ago
-- [CloudFlare] NRT (Tokyo) on 2026-05-20 - 4 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-05-21 - 4 hours ago
-- [BleepingComputer] Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026 - 5 hours ago
-- [TroyHunt] Weekly Update 504 - 5 hours ago
-- [RegisterSec] Grafana Labs admits all its codebase are belong to someone who popped its GitHub account - 5 hours ago
-- [SecurityWeek] Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 - 5 hours ago
-- [RegisterSec] Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’ - 9 hours ago
-- [CloudFlare] CDG (Paris) on 2026-05-19 - 11 hours ago
-- [BleepingComputer] New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released - 11 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-2 iOS 18.7.9 and iPadOS 18.7.9 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-3 iPadOS 17.7.11 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-4 iOS 16.7.16 and iPadOS 16.7.16 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-5 iOS 15.8.8 and iPadOS 15.8.8 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-6 macOS Tahoe 26.5 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-7 macOS Sequoia 15.7.7 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-8 macOS Sonoma 14.8.7 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-9 tvOS 26.5 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-10 watchOS 26.5 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-11-2026-11 visionOS 26.5 - 12 hours ago
-- [FullDisclosure] APPLE-SA-05-13-2026-1 Safari 26.5 - 12 hours ago
-- [FullDisclosure] SCHUTZWERK-SA-2024-002: Arbitrary File Read and Server Side Request Forgery via XML External Entities in 4D Server SOAP (CVE-2024-39847) - 13 hours ago
-- [FullDisclosure] SCHUTZWERK-SA-2024-005: Arbitrary File Read and Server Side Request Forgery via XML External Entities in Lobster_pro (CVE-2024-13971) - 13 hours ago
-- [FullDisclosure] Dovecot Security Advisory OXDC-2026-0002 - 13 hours ago
-- [FullDisclosure] Full disclosure: Edupage web and mobile application authorization bypass leaks PII and IBAN codes - 13 hours ago
-- [FullDisclosure] Full disclosure: Impersonation attacks on Edupage portal - 13 hours ago
-- [HackerNews] NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE - 20 hours ago
-- [BleepingComputer] Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing - 20 hours ago
+- [HackerNews] Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware - 2 hours ago
+- [HackerNews] Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws - 2 hours ago
+- [HackerNews] Developer Workstations Are Now Part of the Software Supply Chain - 2 hours ago
+- [HackerNews] How to Reduce Phishing Exposure Before It Turns into Business Disruption - 2 hours ago
+- [BleepingComputer] Microsoft testing adjustable taskbar, Start menu in Windows 11 - 2 hours ago
+- [BleepingComputer] Grafana says stolen GitHub token let hackers steal codebase - 2 hours ago
+- [RegisterSec] F-35 software delays leave UK buying time with US glide bombs - 2 hours ago
+- [SecurityWeek] Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE - 2 hours ago
+- [RegisterSec] Poland directs officials to ditch Signal in favor of 'secure' state-developed alternative - 2 hours ago
+- [SecurityWeek] 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand - 2 hours ago
+- [RegisterSec] NGINX Rift attackers waste no time targeting exposed servers - 2 hours ago
+- [SecurityWeek] ‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery - 2 hours ago
+- [SecurityWeek] Millions Impacted Across Several US Healthcare Data Breaches - 2 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-20 - 5 hours ago
+- [BleepingComputer] Exploit available for new DirtyDecrypt Linux root escalation flaw - 6 hours ago
+- [BleepingComputer] Microsoft confirms Windows 11 security update install issues - 6 hours ago
+- [NETRESEC] PolarProxy 2.0 Released - 6 hours ago
+- [RegisterSec] Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess - 6 hours ago
+- [ScottHelme] Passkeys 101: An Introduction to Passkeys and How They Work - 6 hours ago
+- [HackerNews] MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems - 6 hours ago
+- [HackerNews] Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations - 6 hours ago
+- [SecurityWeek] Exploitation of Critical NGINX Vulnerability Begins - 6 hours ago
+- [SecurityWeek] Grafana Confirms Breach After Hackers Claim They Stole Data - 6 hours ago
+- [SecurityWeek] First Shai-Hulud Worm Clones Emerge - 6 hours ago
+- [CloudFlare] Issues with Cloudflare Log Explorer - 9 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-19 - 9 hours ago
+- [CloudFlare] NRT (Tokyo) on 2026-05-20 - 9 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-05-21 - 9 hours ago
+- [BleepingComputer] Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026 - 10 hours ago
+- [TroyHunt] Weekly Update 504 - 10 hours ago
+- [RegisterSec] Grafana Labs admits all its codebase are belong to someone who popped its GitHub account - 10 hours ago
+- [SecurityWeek] Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 - 10 hours ago
+- [RegisterSec] Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’ - 15 hours ago
+- [CloudFlare] CDG (Paris) on 2026-05-19 - 16 hours ago
+- [BleepingComputer] New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released - 17 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-2 iOS 18.7.9 and iPadOS 18.7.9 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-3 iPadOS 17.7.11 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-4 iOS 16.7.16 and iPadOS 16.7.16 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-5 iOS 15.8.8 and iPadOS 15.8.8 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-6 macOS Tahoe 26.5 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-7 macOS Sequoia 15.7.7 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-8 macOS Sonoma 14.8.7 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-9 tvOS 26.5 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-10 watchOS 26.5 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-11-2026-11 visionOS 26.5 - 18 hours ago
+- [FullDisclosure] APPLE-SA-05-13-2026-1 Safari 26.5 - 18 hours ago
+- [FullDisclosure] SCHUTZWERK-SA-2024-002: Arbitrary File Read and Server Side Request Forgery via XML External Entities in 4D Server SOAP (CVE-2024-39847) - 19 hours ago
+- [FullDisclosure] SCHUTZWERK-SA-2024-005: Arbitrary File Read and Server Side Request Forgery via XML External Entities in Lobster_pro (CVE-2024-13971) - 19 hours ago
+- [FullDisclosure] Dovecot Security Advisory OXDC-2026-0002 - 19 hours ago
+- [FullDisclosure] Full disclosure: Edupage web and mobile application authorization bypass leaks PII and IBAN codes - 19 hours ago
+- [FullDisclosure] Full disclosure: Impersonation attacks on Edupage portal - 19 hours ago
+- [HackerNews] NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE - 1 day ago
+- [BleepingComputer] Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing - 1 day ago
 - [HackerNews] Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt - 1 day ago
 - [CloudFlare] MEL (Melbourne) on 2026-05-26 - 1 day ago
 - [BleepingComputer] Microsoft rejects critical Azure vulnerability report, no CVE issued - 1 day ago
 - [CloudFlare] PayPal Billing Issues - 1 day ago
 - [HackerNews] Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming - 1 day ago
-- [1Password] SaaS Manager performance is degraded - 1 day ago
-- [BleepingComputer] Russian hackers turn Kazuar backdoor into modular P2P botnet - 1 day ago
-- [SecurityWeek] PoC Code Published for Critical NGINX Vulnerability - 1 day ago
+- [1Password] SaaS Manager performance is degraded - 2 days ago
+- [BleepingComputer] Russian hackers turn Kazuar backdoor into modular P2P botnet - 2 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
 - [DataBreaches] SK Telecom vows to take full responsibility for damage from recent data leak - 1 year ago
 - [HackerNews] Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers - 1 year ago
