@@ -9,22 +9,36 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] NRT (Tokyo) on 2026-05-27 - 9 minutes ago
-- [CloudFlare] KUL (Kuala Lumpur) on 2026-05-27 - 9 minutes ago
-- [CloudFlare] SEA (Seattle) on 2026-05-28 - 9 minutes ago
-- [CloudFlare] NRT (Tokyo) on 2026-06-03 - 9 minutes ago
-- [RegisterSec] Anthropic to release Mythos-class models to the public - 2 hours ago
-- [RegisterSoftware] OpenBSD 7.9 arrives, a diamond in the rough proud of every sharp edge - 2 hours ago
-- [HackerNews] TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO - 2 hours ago
-- [SecurityWeek] Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack - 2 hours ago
-- [CloudFlare] SYD (Sydney) on 2026-05-27 - 4 hours ago
-- [CloudFlare] MIA (Miami) on 2026-05-25 - 9 hours ago
-- [CloudFlare] ICN (Seoul) on 2026-05-27 - 9 hours ago
-- [RegisterSoftware] Google has seriously leaned into AI enshittification lately - 11 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-05-28 - 12 hours ago
-- [CloudFlare] SLC (Salt Lake City) on 2026-05-27 - 13 hours ago
-- [CloudFlare] KTM (Kathmandu) on 2026-05-27 - 14 hours ago
-- [BleepingComputer] Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign - 20 hours ago
+- [SecurityWeek] Oncology Institute Discloses Data Breach - 46 minutes ago
+- [SecurityWeek] Ghost CMS Vulnerability Exploited to Hack Over 700 Websites - 46 minutes ago
+- [BrianKrebs] Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks - 46 minutes ago
+- [BleepingComputer] FBI warns of Kali365 phishing service targeting Microsoft 365 accounts - 46 minutes ago
+- [CloudFlare] Scheduled Maintenance for Rulesets Configuration - 2 hours ago
+- [CloudFlare] NRT (Tokyo) on 2026-05-26 - 2 hours ago
+- [CloudFlare] Cloudflare Storage Maintenance - 2 hours ago
+- [HackerNews] Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms - 4 hours ago
+- [SecurityWeek] DocketWise Data Breach Impacts 143,000 - 4 hours ago
+- [HackerNews] The Alert Firehose Finally Meets Its Match - 4 hours ago
+- [SecurityWeek] Laravel-Lang Packages Poisoned for Malware Delivery - 4 hours ago
+- [HackerNews] Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks - 4 hours ago
+- [SecurityWeek] Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects - 4 hours ago
+- [SecurityWeek] 266,000 Affected by Data Breach at Radiology Associates of Richmond - 4 hours ago
+- [CloudFlare] NRT (Tokyo) on 2026-05-27 - 5 hours ago
+- [CloudFlare] KUL (Kuala Lumpur) on 2026-05-27 - 5 hours ago
+- [CloudFlare] SEA (Seattle) on 2026-05-28 - 5 hours ago
+- [CloudFlare] NRT (Tokyo) on 2026-06-03 - 5 hours ago
+- [RegisterSec] Anthropic to release Mythos-class models to the public - 7 hours ago
+- [RegisterSoftware] OpenBSD 7.9 arrives, a diamond in the rough proud of every sharp edge - 7 hours ago
+- [HackerNews] TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO - 7 hours ago
+- [SecurityWeek] Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack - 7 hours ago
+- [CloudFlare] SYD (Sydney) on 2026-05-27 - 9 hours ago
+- [CloudFlare] MIA (Miami) on 2026-05-25 - 14 hours ago
+- [CloudFlare] ICN (Seoul) on 2026-05-27 - 14 hours ago
+- [RegisterSoftware] Google has seriously leaned into AI enshittification lately - 16 hours ago
+- [CloudFlare] SIN (Singapore) on 2026-05-28 - 17 hours ago
+- [CloudFlare] SLC (Salt Lake City) on 2026-05-27 - 18 hours ago
+- [CloudFlare] KTM (Kathmandu) on 2026-05-27 - 19 hours ago
+- [BleepingComputer] Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign - 1 day ago
 - [HIBP] 7-Eleven - 185,256 breached accounts - 1 day ago
 - [TroyHunt] Weekly Update 505 - 1 day ago
 - [BleepingComputer] Laravel Lang packages hijacked to deploy credential-stealing malware - 1 day ago
@@ -34,11 +48,7 @@ description: Latest Updates
 - [HackerNews] Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware - 1 day ago
 - [HackerNews] npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks - 1 day ago
 - [GitHub] Intermittent errors with app installation token authentication - 1 day ago
-- [BleepingComputer] Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes - 1 day ago
-- [HackerNews] Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software - 1 day ago
-- [RegisterSec] Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend - 1 day ago
-- [SecurityWeek] ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains - 1 day ago
-- [HackerNews] Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer - 2 days ago
+- [BleepingComputer] Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes - 2 days ago
 - [BleepingComputer] Microsoft warns of new Defender zero-days exploited in attacks - 4 days ago
 - [SecurityWeek] Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility - 4 days ago
 - [DataBreaches] Russian-linked hackers appear to have launched a crippling cyberattack on Western New Mexico University - 1 year ago
