@@ -9,41 +9,36 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] WP Maps Pro bug exploited to create admin accounts on WordPress sites - 28 minutes ago
-- [HackerNews] Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices - 2 hours ago
-- [CloudFlare] Durable Objects and Log Explorer issues - 5 hours ago
-- [CloudFlare] Issues with TLS certificates using Lets Encrypt CA - 8 hours ago
-- [HIBP] Atlas Menu - 63,926 breached accounts - 13 hours ago
-- [CloudFlare] Custom Hostname API issue - 13 hours ago
-- [BleepingComputer] Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks - 20 hours ago
-- [SecurityWeek] Exploit Code Published for Critical Flowise RCE Vulnerability - 22 hours ago
-- [SecurityWeek] Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say - 22 hours ago
-- [BleepingComputer] New CIFSwitch Linux flaw gives root on multiple distributions - 23 hours ago
-- [CloudFlare] Increased errors when accessing Workers secrets - 23 hours ago
-- [RegisterSoftware] Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs - 1 day ago
-- [HackerNews] PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation - 1 day ago
-- [HackerNews] New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks - 1 day ago
-- [RegisterSec] Lone attacker published 14 malicious npm packages mimicking popular OpenSearch, Elasticsearch libraries - 1 day ago
-- [BleepingComputer] ChatGPT share links abused to host fake outage pages to deliver malware - 1 day ago
-- [RegisterSec] No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out - 1 day ago
-- [HackerNews] ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface - 1 day ago
-- [RegisterSec] ICE to keep an eye on your eyes under $25M biometric scanner deal - 1 day ago
-- [BleepingComputer] California AG sues 23andMe over 2023 breach exposing health data - 1 day ago
-- [RegisterSec] 23andMe inherits lawsuit over 'disturbing' DNA data breach - 1 day ago
-- [HackerNews] Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit - 1 day ago
-- [SecurityWeek] In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks - 1 day ago
-- [RegisterSoftware] UCLA seeks pre-litigation resolution with Oracle - 1 day ago
-- [CloudFlare] HTTP Rollups delays - 1 day ago
-- [HackerNews] New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks - 2 days ago
-- [BleepingComputer] Google Chrome adds session cookie theft protection for all users - 2 days ago
-- [BleepingComputer] Dutch govt disrupts malware botnet with 17 million infected devices - 2 days ago
-- [BleepingComputer] From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market - 2 days ago
-- [RegisterSec] Russia-linked threat group put ChatGPT to work from lure to payload - 2 days ago
-- [SecurityWeek] Gogs Zero-Day Exposes Servers to Remote Code Execution - 2 days ago
-- [RegisterSec] ChatGPT blindly trusts browser content, turning the page into a payload - 2 days ago
-- [SecurityWeek] MokN Raises $15 Million for Phish-Back Platform - 2 days ago
-- [RegisterSec] Dutch cops wrest 17M devices from mystery botnet's clutches - 2 days ago
-- [SecurityWeek] Charter Communications Data Breach Could Impact Nearly 5 Million - 2 days ago
+- [BleepingComputer] Microsoft fixes KB5089549 Windows security update install issues - 8 minutes ago
+- [BleepingComputer] Microsoft confirms outage affecting MFA, My Sign-Ins platform - 8 minutes ago
+- [BleepingComputer] Webinar tomorrow: From alert to resolution in network incident response - 8 minutes ago
+- [RegisterSec] Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen - 8 minutes ago
+- [HIBP] Edmunds - 177,860 breached accounts - 8 minutes ago
+- [RegisterSec] Password manager Dashlane suspends customer accounts amid brute-force attacks - 8 minutes ago
+- [RegisterSec] Palo Alto VPN bug graduates from advisory to active exploitation - 8 minutes ago
+- [TroyHunt] 1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever - 8 minutes ago
+- [SecurityWeek] Recent Palo Alto Networks Vulnerability Exploited for Weeks - 8 minutes ago
+- [HackerNews] Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts - 8 minutes ago
+- [SecurityWeek] 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access - 8 minutes ago
+- [HackerNews] OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack - 8 minutes ago
+- [HackerNews] The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools - 8 minutes ago
+- [SecurityWeek] As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution - 8 minutes ago
+- [FullDisclosure] bmcweb (OpenBMC web server): four vulnerabilities — two unfixed, GHSA without a CVE - 5 hours ago
+- [FullDisclosure] CyberDanube Security Research 20260528-0 | Multiple Vulnerabilities in Multiple Vulnerabilities in Mennekes Amtron Series - 5 hours ago
+- [TroyHunt] Weekly Update 506 - 5 hours ago
+- [Slack] Incident: Partial Degradation Impacting Usergroups - 7 hours ago
+- [BleepingComputer] WP Maps Pro bug exploited to create admin accounts on WordPress sites - 21 hours ago
+- [HackerNews] Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices - 23 hours ago
+- [CloudFlare] Durable Objects and Log Explorer issues - 1 day ago
+- [CloudFlare] Issues with TLS certificates using Lets Encrypt CA - 1 day ago
+- [HIBP] Atlas Menu - 63,926 breached accounts - 1 day ago
+- [CloudFlare] Custom Hostname API issue - 1 day ago
+- [BleepingComputer] Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks - 1 day ago
+- [SecurityWeek] Exploit Code Published for Critical Flowise RCE Vulnerability - 1 day ago
+- [SecurityWeek] Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say - 1 day ago
+- [BleepingComputer] New CIFSwitch Linux flaw gives root on multiple distributions - 1 day ago
+- [CloudFlare] Increased errors when accessing Workers secrets - 1 day ago
+- [RegisterSoftware] Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs - 2 days ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 1 year ago
 - [CloudFlare] Increased HTTP 500 Errors in TPE & DEL colos - 1 year ago
 - [1Password] 2025-04-28 Events API and Reporting Maintenance - 1 year ago
