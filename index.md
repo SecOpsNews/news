@@ -9,36 +9,47 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [BleepingComputer] Microsoft fixes KB5089549 Windows security update install issues - 8 minutes ago
-- [BleepingComputer] Microsoft confirms outage affecting MFA, My Sign-Ins platform - 8 minutes ago
-- [BleepingComputer] Webinar tomorrow: From alert to resolution in network incident response - 8 minutes ago
-- [RegisterSec] Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen - 8 minutes ago
-- [HIBP] Edmunds - 177,860 breached accounts - 8 minutes ago
-- [RegisterSec] Password manager Dashlane suspends customer accounts amid brute-force attacks - 8 minutes ago
-- [RegisterSec] Palo Alto VPN bug graduates from advisory to active exploitation - 8 minutes ago
-- [TroyHunt] 1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever - 8 minutes ago
-- [SecurityWeek] Recent Palo Alto Networks Vulnerability Exploited for Weeks - 8 minutes ago
-- [HackerNews] Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts - 8 minutes ago
-- [SecurityWeek] 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access - 8 minutes ago
-- [HackerNews] OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack - 8 minutes ago
-- [HackerNews] The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools - 8 minutes ago
-- [SecurityWeek] As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution - 8 minutes ago
-- [FullDisclosure] bmcweb (OpenBMC web server): four vulnerabilities — two unfixed, GHSA without a CVE - 5 hours ago
-- [FullDisclosure] CyberDanube Security Research 20260528-0 | Multiple Vulnerabilities in Multiple Vulnerabilities in Mennekes Amtron Series - 5 hours ago
-- [TroyHunt] Weekly Update 506 - 5 hours ago
-- [Slack] Incident: Partial Degradation Impacting Usergroups - 7 hours ago
-- [BleepingComputer] WP Maps Pro bug exploited to create admin accounts on WordPress sites - 21 hours ago
-- [HackerNews] Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices - 23 hours ago
+- [RegisterSoftware] Anthropic, now atop the AI bubble, files for its IPO - 53 minutes ago
+- [BleepingComputer] Microsoft fixes outage affecting MFA setup, MySignIn service - 53 minutes ago
+- [BleepingComputer] Critical Windows Netlogon RCE flaw now exploited in attacks - 53 minutes ago
+- [SecurityWeek] Dragos Acquires xIoT Security Firm Phosphorus - 53 minutes ago
+- [BrianKrebs] Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts - 53 minutes ago
+- [BleepingComputer] Race Against Time: Why Faster Vulnerability Alerts Matter - 53 minutes ago
+- [SecurityWeek] Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs - 53 minutes ago
+- [BleepingComputer] Microsoft investigates Office Apps, Teams file access issues - 53 minutes ago
+- [SecurityWeek] Dutch Police Dismantle Massive 17-Million-Device Botnet - 53 minutes ago
+- [HackerNews] China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan - 53 minutes ago
+- [BleepingComputer] WordPress malware campaign hides payloads in Steam profiles - 53 minutes ago
+- [SecurityWeek] WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites - 53 minutes ago
+- [HackerNews] ⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More - 53 minutes ago
+- [BleepingComputer] Dashlane password manager users locked out by brute force attacks - 53 minutes ago
+- [RegisterSec] GTA cheat service Atlas Menu hacked as attacker alleges screenshot spying - 53 minutes ago
+- [GitHub] Delays with Code Scanning and Billing - 2 hours ago
+- [BleepingComputer] Microsoft fixes KB5089549 Windows security update install issues - 6 hours ago
+- [BleepingComputer] Microsoft confirms outage affecting MFA, My Sign-Ins platform - 6 hours ago
+- [BleepingComputer] Webinar tomorrow: From alert to resolution in network incident response - 6 hours ago
+- [RegisterSec] Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen - 6 hours ago
+- [HIBP] Edmunds - 177,860 breached accounts - 6 hours ago
+- [RegisterSec] Password manager Dashlane suspends customer accounts amid brute-force attacks - 6 hours ago
+- [RegisterSec] Palo Alto VPN bug graduates from advisory to active exploitation - 6 hours ago
+- [TroyHunt] 1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever - 6 hours ago
+- [SecurityWeek] Recent Palo Alto Networks Vulnerability Exploited for Weeks - 6 hours ago
+- [HackerNews] Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts - 6 hours ago
+- [SecurityWeek] 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access - 6 hours ago
+- [HackerNews] OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack - 6 hours ago
+- [HackerNews] The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools - 6 hours ago
+- [SecurityWeek] As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution - 6 hours ago
+- [FullDisclosure] bmcweb (OpenBMC web server): four vulnerabilities — two unfixed, GHSA without a CVE - 12 hours ago
+- [FullDisclosure] CyberDanube Security Research 20260528-0 | Multiple Vulnerabilities in Multiple Vulnerabilities in Mennekes Amtron Series - 12 hours ago
+- [TroyHunt] Weekly Update 506 - 12 hours ago
+- [Slack] Incident: Partial Degradation Impacting Usergroups - 13 hours ago
+- [BleepingComputer] WP Maps Pro bug exploited to create admin accounts on WordPress sites - 1 day ago
+- [HackerNews] Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices - 1 day ago
 - [CloudFlare] Durable Objects and Log Explorer issues - 1 day ago
 - [CloudFlare] Issues with TLS certificates using Lets Encrypt CA - 1 day ago
 - [HIBP] Atlas Menu - 63,926 breached accounts - 1 day ago
 - [CloudFlare] Custom Hostname API issue - 1 day ago
-- [BleepingComputer] Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks - 1 day ago
-- [SecurityWeek] Exploit Code Published for Critical Flowise RCE Vulnerability - 1 day ago
-- [SecurityWeek] Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say - 1 day ago
-- [BleepingComputer] New CIFSwitch Linux flaw gives root on multiple distributions - 1 day ago
-- [CloudFlare] Increased errors when accessing Workers secrets - 1 day ago
-- [RegisterSoftware] Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs - 2 days ago
+- [BleepingComputer] Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks - 2 days ago
 - [CloudFlare] DMM (Dammam) on 2025-04-28 - 1 year ago
 - [CloudFlare] Increased HTTP 500 Errors in TPE & DEL colos - 1 year ago
 - [1Password] 2025-04-28 Events API and Reporting Maintenance - 1 year ago
