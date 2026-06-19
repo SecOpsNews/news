@@ -9,50 +9,78 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] The Scripts on Your Checkout Page Are Now a PCI DSS Problem - 2 hours ago
-- [HackerNews] Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network - 2 hours ago
-- [HackerNews] DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic - 2 hours ago
-- [RegisterSec] Welcome to your new telco job – here's sudo access to a database with full customer info stored in the clear - 2 hours ago
-- [BleepingComputer] F5 issues out-of-band patches for critical NGINX vulnerabilities - 2 hours ago
-- [BleepingComputer] Telegram admits it couldn't police exam-leak channels, India tells court - 2 hours ago
-- [SecurityWeek] Atlassian, Splunk Patch Critical Vulnerabilities - 2 hours ago
-- [BleepingComputer] Apple fixes Beats Studio Buds flaw that let hackers spy on conversations - 2 hours ago
-- [SecurityWeek] Dream Raises $260 Million at $3 Billion Valuation - 2 hours ago
-- [BleepingComputer] ShapedPlugin update flow hacked to infect WordPress sites - 2 hours ago
-- [SecurityWeek] No Exploits Required - 2 hours ago
-- [BleepingComputer] Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp - 2 hours ago
-- [SecurityWeek] Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push - 2 hours ago
-- [BleepingComputer] 5 reasons Microsoft 365 backup isn’t enough for business data protection - 2 hours ago
-- [CloudFlare] SEA (Seattle) on 2026-06-19 - 4 hours ago
-- [CloudFlare] EWR (Newark) on 2026-06-23 - 4 hours ago
-- [RegisterSoftware] Oracle support timelines for Fusion Middleware tighter than expected - 5 hours ago
-- [SecurityWeek] Kodak Admits Data Breach After ShinyHunters Hack Claims - 5 hours ago
-- [SecurityWeek] SailPoint to Acquire Entro in Reported $200 Million Deal - 5 hours ago
-- [SecurityWeek] F5 Patches Critical, High-Severity NGINX Vulnerabilities - 5 hours ago
-- [SecurityWeek] Critical Command Execution Vulnerability Patched in Cisco ISE - 5 hours ago
-- [SecurityWeek] Rokarolla Banking Trojan Targets 200 Applications - 5 hours ago
-- [BleepingComputer] Microsoft fixes Windows Server 2016 security update failures - 5 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2026-06-18 - 7 hours ago
-- [CloudFlare] NRT (Tokyo) on 2026-06-18 - 7 hours ago
-- [RegisterSec] Cyber offenses now account for around a third of all crime across Asia and South Pacific - 10 hours ago
-- [HIBP] CFGI - 248,235 breached accounts - 10 hours ago
-- [CloudFlare] Snippets requests returning Worker threw exception - 11 hours ago
-- [GrahamCluley] Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed - 15 hours ago
-- [BleepingComputer] Leak confirms OpenAI is testing a ChatGPT for Science subscription - 15 hours ago
-- [Slack] Incident: Trouble loading SSO configuration settings for some workspace admins - 18 hours ago
-- [BleepingComputer] Google to use UK and EU user IP addresses for ad personalization - 19 hours ago
-- [RegisterSoftware] Git good with Epic Games' new open source VCS, Lore - 19 hours ago
-- [CloudFlare] BKK (Bangkok) on 2026-06-18 - 19 hours ago
-- [HackerNews] Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development - 21 hours ago
-- [HackerNews] Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments - 21 hours ago
-- [RegisterSec] Massive password-stealing attack hits 75k Fortinet firewalls - 21 hours ago
-- [CloudFlare] Browser Isolation Availability Issues - 22 hours ago
-- [GitHub] Disruption with Copilot next edit suggestions - 22 hours ago
-- [HackerNews] Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline - 23 hours ago
-- [SecurityWeek] Webinar Today: How Modern Breaches Bypass MFA and Evade Detection - 23 hours ago
-- [BleepingComputer] Why Account Takeovers Are Rising and How to Stop Them - 23 hours ago
-- [BleepingComputer] FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices. - 23 hours ago
-- [RegisterSec] Digital sovereignty needs an operating model - 23 hours ago
+- [BleepingComputer] CISA warns Fortinet users to secure devices after FortiBleed leak - 2 hours ago
+- [SecurityWeek] Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure - 2 hours ago
+- [SecurityWeek] 15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown - 2 hours ago
+- [SecurityWeek] Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC - 2 hours ago
+- [HackerNews] Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone - 2 hours ago
+- [CloudFlare] Durable Objects seeing increased error rates in ENAM region - 3 hours ago
+- [CloudFlare] EWR (Newark) on 2026-06-22 - 3 hours ago
+- [HIBP] Ralph Lauren - 139,903 breached accounts - 8 hours ago
+- [BleepingComputer] Gentlemen ransomware uses multiple EDR killers to disable defenses - 11 hours ago
+- [CloudFlare] DFW (Dallas) on 2026-06-18 - 12 hours ago
+- [CloudFlare] MRS (Marseille) on 2026-06-19 - 12 hours ago
+- [HIBP] Operation Endgame 4.0 - 153,527 breached accounts - 13 hours ago
+- [RegisterSec] Major US carrier stored credit card info in the clear, employee learned on first day - 13 hours ago
+- [CloudFlare] PHL (Philadelphia) on 2026-06-16 - 14 hours ago
+- [CloudFlare] Cloudflare pages build failures - 14 hours ago
+- [BleepingComputer] Nintendo confirms data stolen in WebMD subsidiary cyberattack - 15 hours ago
+- [BrianKrebs] ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm - 15 hours ago
+- [HackerNews] F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution - 15 hours ago
+- [1Password] Sync Issues Affecting Legacy 1Password 7 Clients - 16 hours ago
+- [CloudFlare] Degraded Domain Registration experience - 16 hours ago
+- [CloudFlare] MSP (Minneapolis) on 2026-06-23 - 16 hours ago
+- [SecurityWeek] Majority of Internet-Accessible REDCap Servers Outdated - 17 hours ago
+- [BleepingComputer] Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks - 17 hours ago
+- [BleepingComputer] USB worm spreads crypto-stealing malware via Windows shortcut files - 17 hours ago
+- [HackerNews] INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023 - 17 hours ago
+- [HackerNews] Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2 - 17 hours ago
+- [HackerNews] ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories - 17 hours ago
+- [RegisterSec] Google told researcher 'Nice catch!' Then denied bug bounty for flaw it still hasn't fixed - 17 hours ago
+- [HackerNews] The Scripts on Your Checkout Page Are Now a PCI DSS Problem - 21 hours ago
+- [HackerNews] Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network - 21 hours ago
+- [HackerNews] DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic - 21 hours ago
+- [RegisterSec] Welcome to your new telco job – here's sudo access to a database with full customer info stored in the clear - 21 hours ago
+- [BleepingComputer] F5 issues out-of-band patches for critical NGINX vulnerabilities - 21 hours ago
+- [BleepingComputer] Telegram admits it couldn't police exam-leak channels, India tells court - 21 hours ago
+- [SecurityWeek] Atlassian, Splunk Patch Critical Vulnerabilities - 21 hours ago
+- [BleepingComputer] Apple fixes Beats Studio Buds flaw that let hackers spy on conversations - 21 hours ago
+- [SecurityWeek] Dream Raises $260 Million at $3 Billion Valuation - 21 hours ago
+- [BleepingComputer] ShapedPlugin update flow hacked to infect WordPress sites - 21 hours ago
+- [SecurityWeek] No Exploits Required - 21 hours ago
+- [BleepingComputer] Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp - 21 hours ago
+- [SecurityWeek] Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push - 21 hours ago
+- [BleepingComputer] 5 reasons Microsoft 365 backup isn’t enough for business data protection - 21 hours ago
+- [CloudFlare] SEA (Seattle) on 2026-06-19 - 22 hours ago
+- [CloudFlare] EWR (Newark) on 2026-06-23 - 22 hours ago
+- [RegisterSoftware] Oracle support timelines for Fusion Middleware tighter than expected - 1 day ago
+- [SecurityWeek] Kodak Admits Data Breach After ShinyHunters Hack Claims - 1 day ago
+- [SecurityWeek] SailPoint to Acquire Entro in Reported $200 Million Deal - 1 day ago
+- [SecurityWeek] F5 Patches Critical, High-Severity NGINX Vulnerabilities - 1 day ago
+- [SecurityWeek] Critical Command Execution Vulnerability Patched in Cisco ISE - 1 day ago
+- [SecurityWeek] Rokarolla Banking Trojan Targets 200 Applications - 1 day ago
+- [BleepingComputer] Microsoft fixes Windows Server 2016 security update failures - 1 day ago
+- [CloudFlare] LAX (Los Angeles) on 2026-06-18 - 1 day ago
+- [CloudFlare] NRT (Tokyo) on 2026-06-18 - 1 day ago
+- [RegisterSec] Cyber offenses now account for around a third of all crime across Asia and South Pacific - 1 day ago
+- [HIBP] CFGI - 248,235 breached accounts - 1 day ago
+- [CloudFlare] Snippets requests returning Worker threw exception - 1 day ago
+- [GrahamCluley] Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed - 1 day ago
+- [BleepingComputer] Leak confirms OpenAI is testing a ChatGPT for Science subscription - 1 day ago
+- [Slack] Incident: Trouble loading SSO configuration settings for some workspace admins - 1 day ago
+- [BleepingComputer] Google to use UK and EU user IP addresses for ad personalization - 1 day ago
+- [RegisterSoftware] Git good with Epic Games' new open source VCS, Lore - 1 day ago
+- [CloudFlare] BKK (Bangkok) on 2026-06-18 - 1 day ago
+- [HackerNews] Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development - 1 day ago
+- [HackerNews] Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments - 1 day ago
+- [RegisterSec] Massive password-stealing attack hits 75k Fortinet firewalls - 1 day ago
+- [CloudFlare] Browser Isolation Availability Issues - 1 day ago
+- [GitHub] Disruption with Copilot next edit suggestions - 1 day ago
+- [HackerNews] Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline - 1 day ago
+- [SecurityWeek] Webinar Today: How Modern Breaches Bypass MFA and Evade Detection - 1 day ago
+- [BleepingComputer] Why Account Takeovers Are Rising and How to Stop Them - 1 day ago
+- [BleepingComputer] FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices. - 1 day ago
+- [RegisterSec] Digital sovereignty needs an operating model - 1 day ago
 - [CloudFlare] Scheduled Workers Platform Configuration Maintenance - 1 day ago
 - [SecurityWeek] Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack - 1 day ago
 - [SecurityWeek] Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software - 1 day ago
@@ -68,68 +96,20 @@ description: Latest Updates
 - [HackerNews] Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization - 1 day ago
 - [CloudFlare] Cloudflare Network Interconnect 2.0 BGP Route Propagation Issues - 1 day ago
 - [CloudFlare] Workers Observability query failures - 1 day ago
-- [RegisterSec] Python dev saved from disaster by intuition... and AI - 1 day ago
-- [SecurityWeek] 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs - 1 day ago
-- [SecurityWeek] Joomla, LiteSpeed Vulnerabilities Exploited in Attacks - 1 day ago
-- [SecurityWeek] Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities - 1 day ago
-- [SecurityWeek] Oracle’s Second Monthly Security Updates Deliver 245 Patches - 1 day ago
-- [SecurityWeek] Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day - 1 day ago
-- [BleepingComputer] Kodak confirms data breach claimed by ShinyHunters extortion gang - 1 day ago
-- [BleepingComputer] Microsoft working on Defender patch for RoguePlanet zero-day - 1 day ago
-- [HackerNews] CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution - 1 day ago
-- [BleepingComputer] CISA orders feds to patch max severity Joomla plugin flaw by Friday - 1 day ago
-- [HackerNews] 144 Mastra npm Packages Compromised via Hijacked Contributor Account - 1 day ago
-- [HackerNews] Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats - 1 day ago
-- [GitHub] Incident with Copilot Availability - 1 day ago
-- [RegisterSec] Cyberattack sees crops kept in the ground - 1 day ago
-- [CloudFlare] Customers may see incorrect invoice payment status - 1 day ago
-- [Slack] Incident: Trouble performing some actions - 1 day ago
-- [RegisterSoftware] The new Siri makes one of Apple's most convenient OS features a cumbersome mess - 1 day ago
-- [BleepingComputer] Malicious JetBrains Marketplace plugins steal AI API keys from developers - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-06-16 - 1 day ago
-- [CloudFlare] Zero Trust Underlying Storage Maintenance - 1 day ago
-- [HackerNews] ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures - 1 day ago
-- [HackerNews] Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting - 1 day ago
-- [BleepingComputer] Steam Workshop abused to spread malware via Wallpaper Engine app - 1 day ago
-- [BleepingComputer] New Rokarolla Android malware targets 217 banking, crypto apps - 1 day ago
-- [RegisterSec] Three critical Fortinet sandbox bugs splattered by unknown attackers - 1 day ago
-- [RegisterSec] Python dev saved from disaster by intuition...and AI - 1 day ago
-- [RegisterSoftware] Firefox 152 understands 'Sssh!' - 1 day ago
-- [1Password] Sign in events are not appearing and admins are unable to migrate to hosted provisioning - 1 day ago
-- [CloudFlare] We are investigating an issue where customers see paid invoices as unpaid. - 1 day ago
-- [CloudFlare] POA (Porto Alegre) on 2026-06-17 - 1 day ago
-- [CloudFlare] ICN (Seoul) on 2026-06-17 - 1 day ago
-- [CloudFlare] TXL (Berlin) on 2026-06-19 - 1 day ago
-- [Slack] Incident: Trouble submitting workflow forms with file attachments on Android. - 1 day ago
-- [GitHub] Disruption with some GitHub services - 1 day ago
-- [SecurityWeek] Cybercrime Group Claims Novo Nordisk Hack - 1 day ago
-- [SecurityWeek] Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round - 1 day ago
-- [SecurityWeek] AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask - 1 day ago
-- [SecurityWeek] Magnitude Emerges From Stealth Mode With $10 Million in Funding - 1 day ago
-- [SecurityWeek] Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker - 1 day ago
-- [SecurityWeek] iRhythm Confirms Data Stolen in Hack - 1 day ago
-- [HackerNews] New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds - 1 day ago
-- [RegisterSec] Crooks found a new way to collaborate using Teams – by hiding command-and-control traffic - 1 day ago
-- [BleepingComputer] FTC warns of record $3.5 billion losses to imposter scams in 2025 - 1 day ago
-- [RegisterSoftware] Firefox 152 understands “Sssh!” - 1 day ago
-- [BleepingComputer] GhostTree Attack Abused Recursive Windows Junctions to Hide Malware - 1 day ago
-- [BleepingComputer] UK to require ID or face scan before you can make social media accounts - 1 day ago
-- [CloudFlare] Cloudflare is aware of and investigating Workers AI experiencing degraded availability in some models. - 2 days ago
-- [BleepingComputer] Windows version of SprySOCKS Linux malware used to attack govt orgs - 2 days ago
-- [BleepingComputer] Critical Fortinet FortiSandbox flaws now exploited in attacks - 2 days ago
-- [BleepingComputer] Ransomware gang abuses Microsoft Teams relays to hide malicious traffic - 2 days ago
-- [BleepingComputer] CISA warns of another cPanel plugin flaw exploited in attacks - 2 days ago
-- [HackerNews] Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware - 2 days ago
-- [HackerNews] China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth - 2 days ago
-- [RegisterSec] Cardiac monitor maker's security skips a beat as data thieves go for the jugular - 2 days ago
-- [HackerNews] Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week - 2 days ago
-- [HackerNews] Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive - 2 days ago
-- [SecurityWeek] Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure - 2 days ago
-- [SecurityWeek] Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models - 2 days ago
-- [SecurityWeek] Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages - 2 days ago
-- [SecurityWeek] White House Issues Memo to Bolster NSS Cybersecurity - 2 days ago
-- [SecurityWeek] Cal Water Investigating Iranian Hackers’ Claims - 2 days ago
-- [SecurityWeek] Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire - 2 days ago
+- [RegisterSec] Python dev saved from disaster by intuition... and AI - 2 days ago
+- [SecurityWeek] 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs - 2 days ago
+- [SecurityWeek] Joomla, LiteSpeed Vulnerabilities Exploited in Attacks - 2 days ago
+- [SecurityWeek] Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities - 2 days ago
+- [SecurityWeek] Oracle’s Second Monthly Security Updates Deliver 245 Patches - 2 days ago
+- [SecurityWeek] Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day - 2 days ago
+- [BleepingComputer] Kodak confirms data breach claimed by ShinyHunters extortion gang - 2 days ago
+- [BleepingComputer] Microsoft working on Defender patch for RoguePlanet zero-day - 2 days ago
+- [HackerNews] CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution - 2 days ago
+- [BleepingComputer] CISA orders feds to patch max severity Joomla plugin flaw by Friday - 2 days ago
+- [HackerNews] 144 Mastra npm Packages Compromised via Hijacked Contributor Account - 2 days ago
+- [HackerNews] Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats - 2 days ago
+- [GitHub] Incident with Copilot Availability - 2 days ago
+- [RegisterSec] Cyberattack sees crops kept in the ground - 2 days ago
 
 
 <!-- SecOps end -->
