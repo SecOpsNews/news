@@ -9,30 +9,34 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices - 10 hours ago
-- [CloudFlare] Free WARP and WARP+ new registrations - 10 hours ago
-- [HackerNews] New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - 12 hours ago
-- [HIBP] Moody Bible Institute - 2,303,416 breached accounts - 13 hours ago
-- [HackerNews] New Avalon Malware Framework Packs CrownX Ransomware Capabilities - 13 hours ago
-- [CloudFlare] Loadbalancing and Standalone Healthcheck Services for FedRAMP customers are degraded - 13 hours ago
-- [BleepingComputer] NetNut proxy network disrupted, 2 million infected devices cut off - 15 hours ago
-- [CloudFlare] Resolution Issues for .AL Domains - 15 hours ago
-- [HackerNews] North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets - 16 hours ago
-- [CloudFlare] Durable Objects increased errors in ENAM - 16 hours ago
-- [CloudFlare] Resolution Issues for .al Domains - 16 hours ago
-- [HackerNews] Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer - 17 hours ago
-- [BleepingComputer] ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit - 17 hours ago
-- [SecurityWeek] In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting - 17 hours ago
-- [RegisterSec] AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data - 17 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2026-07-03 - 17 hours ago
-- [RegisterSec] NetNut cracked as Google and FBI target 2 million-device botnet - 20 hours ago
-- [CloudFlare] Issues with network performance in North America - 20 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-07-06 - 20 hours ago
-- [HackerNews] PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords - 22 hours ago
-- [HackerNews] European Parliament Member Investigating Spyware Was Hacked With Pegasus - 22 hours ago
-- [SecurityWeek] Alleged Scattered Spider Hacker Extradited to US - 22 hours ago
-- [SecurityWeek] Medtronic Data Breach Impacts 3.8 Million People - 22 hours ago
-- [SecurityWeek] Agentic AI Used to Conduct Ransomware Attack via Langflow - 22 hours ago
+- [HackerNews] U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case - 9 minutes ago
+- [BleepingComputer] JadePuffer ransomware used AI agent to automate entire attack - 9 minutes ago
+- [RegisterSec] Confidential computing's core trust mechanism is broken. The fix may not exist - 3 hours ago
+- [HackerNews] North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign - 3 hours ago
+- [HackerNews] Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices - 16 hours ago
+- [CloudFlare] Free WARP and WARP+ new registrations - 16 hours ago
+- [HackerNews] New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - 17 hours ago
+- [HIBP] Moody Bible Institute - 2,303,416 breached accounts - 19 hours ago
+- [HackerNews] New Avalon Malware Framework Packs CrownX Ransomware Capabilities - 19 hours ago
+- [CloudFlare] Loadbalancing and Standalone Healthcheck Services for FedRAMP customers are degraded - 19 hours ago
+- [BleepingComputer] NetNut proxy network disrupted, 2 million infected devices cut off - 20 hours ago
+- [CloudFlare] Resolution Issues for .AL Domains - 20 hours ago
+- [HackerNews] North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets - 22 hours ago
+- [CloudFlare] Durable Objects increased errors in ENAM - 22 hours ago
+- [CloudFlare] Resolution Issues for .al Domains - 22 hours ago
+- [HackerNews] Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer - 23 hours ago
+- [BleepingComputer] ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit - 23 hours ago
+- [SecurityWeek] In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting - 23 hours ago
+- [RegisterSec] AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data - 23 hours ago
+- [CloudFlare] LAX (Los Angeles) on 2026-07-03 - 23 hours ago
+- [RegisterSec] NetNut cracked as Google and FBI target 2 million-device botnet - 1 day ago
+- [CloudFlare] Issues with network performance in North America - 1 day ago
+- [CloudFlare] GRU (São Paulo) on 2026-07-06 - 1 day ago
+- [HackerNews] PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords - 1 day ago
+- [HackerNews] European Parliament Member Investigating Spyware Was Hacked With Pegasus - 1 day ago
+- [SecurityWeek] Alleged Scattered Spider Hacker Extradited to US - 1 day ago
+- [SecurityWeek] Medtronic Data Breach Impacts 3.8 Million People - 1 day ago
+- [SecurityWeek] Agentic AI Used to Conduct Ransomware Attack via Langflow - 1 day ago
 - [RegisterSoftware] Failed blockchain project ends with big fine for fibs about it being on track - 1 day ago
 - [TroyHunt] Swimming Pools, Pee, and Trying to Delete Your Data From the Internet - 1 day ago
 - [RegisterSec] User swore hacker called General Failure had invaded his PC - 1 day ago
@@ -76,37 +80,13 @@ description: Latest Updates
 - [CloudFlare] DFW (Dallas) on 2026-07-02 - 1 day ago
 - [CloudFlare] LAX (Los Angeles) on 2026-07-02 - 1 day ago
 - [CloudFlare] Realtimekit Issues - 1 day ago
-- [RegisterSec] Pacemaker manufacturer Medtronic warns patients cybercrooks may have swiped health data - 1 day ago
-- [BleepingComputer] Microsoft fixes bug that removed Copilot buttons in Outlook - 1 day ago
-- [BleepingComputer] ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds - 1 day ago
-- [HackerNews] Identity Lifecycle Management Wasn't Built for AI Agents - 1 day ago
-- [SecurityWeek] FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks - 1 day ago
-- [HackerNews] ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API - 1 day ago
-- [SecurityWeek] How to Conduct a Successful Audit of AI-Driven Software Development - 1 day ago
-- [CloudFlare] Cloudflare Workers build delays - 1 day ago
-- [CloudFlare] ARN (Stockholm) on 2026-07-03 - 1 day ago
-- [CloudFlare] GRU (São Paulo) on 2026-07-03 - 1 day ago
-- [BleepingComputer] Opera rolls out Paste Protect feature to fight ClickFix attacks - 1 day ago
-- [BleepingComputer] CISA: Microsoft SharePoint RCE flaw now actively exploited - 1 day ago
-- [BleepingComputer] Cisco finally confirms attackers exploiting Unified CM flaw - 1 day ago
-- [BleepingComputer] Microsoft fixes bug that removed Copilot button in Outlook - 1 day ago
-- [SecurityWeek] CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability - 1 day ago
-- [SecurityWeek] ‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials - 1 day ago
-- [SecurityWeek] Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability - 1 day ago
-- [SecurityWeek] Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm - 1 day ago
-- [RegisterSec] Oracle E-Business Suite was under attack via critical flaw before the public exploit code was even released - 1 day ago
-- [RegisterSec] India gives WhatsApp three days to defend username rollout amid security fears - 1 day ago
-- [CloudFlare] LOS (Lagos) on 2026-07-02 - 1 day ago
-- [RegisterSec] Hackers shoveled snow for company, were rewarded with network admin access - 1 day ago
-- [BleepingComputer] Alleged Scattered Spider hacker extradited to the United States - 1 day ago
-- [HackerNews] New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos - 1 day ago
-- [HackerNews] FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations - 1 day ago
-- [HackerNews] AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack - 1 day ago
-- [BleepingComputer] Medtronic notifies customers impacted by ShinyHunters data breach - 2 days ago
-- [HackerNews] AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android - 2 days ago
-- [HackerNews] SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation - 2 days ago
-- [CloudFlare] MRS (Marseille) on 2026-07-03 - 2 days ago
-- [CloudFlare] SYD (Sydney) on 2026-07-06 - 2 days ago
+- [RegisterSec] Pacemaker manufacturer Medtronic warns patients cybercrooks may have swiped health data - 2 days ago
+- [BleepingComputer] Microsoft fixes bug that removed Copilot buttons in Outlook - 2 days ago
+- [BleepingComputer] ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds - 2 days ago
+- [HackerNews] Identity Lifecycle Management Wasn't Built for AI Agents - 2 days ago
+- [SecurityWeek] FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks - 2 days ago
+- [HackerNews] ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API - 2 days ago
+- [SecurityWeek] How to Conduct a Successful Audit of AI-Driven Software Development - 2 days ago
 
 
 <!-- SecOps end -->
