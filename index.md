@@ -9,88 +9,127 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password - 28 minutes ago
-- [SecurityWeek] AI Data Centers Are Being Built Faster Than They Can Be Secured - 28 minutes ago
-- [HackerNews] New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands - 28 minutes ago
-- [SecurityWeek] Two Scattered Spider Hackers Sentenced to Jail in UK - 28 minutes ago
-- [HackerNews] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer - 28 minutes ago
-- [BleepingComputer] 23andMe to pay $18 million in new genetics data breach settlement - 28 minutes ago
-- [BleepingComputer] AI Agents Broke the Security Playbook. Here's What Replaces It. - 28 minutes ago
-- [CloudFlare] BCN (Barcelona) on 2026-07-14 - 1 hour ago
-- [CloudFlare] DFW (Dallas) on 2026-07-16 - 1 hour ago
-- [CloudFlare] KUL (Kuala Lumpur) on 2026-07-16 - 1 hour ago
-- [RegisterSoftware] How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher - 2 hours ago
-- [RegisterSec] Windows 10 refuses to die, and the security bill is coming due - 2 hours ago
-- [SecurityWeek] Oak Emerges From Stealth Mode With $60 Million in Funding - 2 hours ago
-- [RegisterSec] Brit Scattered Spider duo handed tickets to prison over Transport for London attack - 2 hours ago
-- [SecurityWeek] ‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing - 2 hours ago
-- [BleepingComputer] Windows 11 24H2 Home and Pro reach end of support in 90 days - 2 hours ago
-- [BleepingComputer] Scattered Spider members behind TfL hack get five years in prison - 2 hours ago
-- [HackerNews] Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor - 2 hours ago
-- [HackerNews] New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands - 2 hours ago
-- [HackerNews] 20+ Hijacked Government Websites Became an Attack Channel - 2 hours ago
-- [AWS] Service is operating normally: [RESOLVED] Increased 5xx Errors - 2 hours ago
-- [GCP] RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 2 hours ago
-- [CloudFlare] Increase in errors for Zone Settings API - 3 hours ago
-- [CloudFlare] AUS (Austin) on 2026-07-21 - 3 hours ago
-- [CloudFlare] MUC (Munich) on 2026-07-21 - 3 hours ago
-- [CloudFlare] BGW (Baghdad) on 2026-07-21 - 3 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-07-23 - 3 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-07-24 - 3 hours ago
-- [BleepingComputer] New Spirals ransomware encrypts victim network in under 24 hours - 4 hours ago
-- [HackerNews] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol - 4 hours ago
-- [BleepingComputer] Russian hackers trojanize WebEx, Zoom apps to push Starland malware - 4 hours ago
-- [HackerNews] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide - 4 hours ago
-- [BleepingComputer] CISA orders feds to patch actively exploited Oracle flaw by Saturday - 4 hours ago
-- [HackerNews] AI Can Find Bugs, But Human Knowledge Still Proves Them - 4 hours ago
-- [SecurityWeek] F5 Patches Multiple NGINX, BIG-IP Vulnerabilities - 4 hours ago
-- [GrahamCluley] Smashing Security podcast #476: Remote-control rickshaws and rogue book marketers - 4 hours ago
-- [SecurityWeek] Splunk, Zoom Patch Critical Vulnerabilities - 4 hours ago
-- [RegisterSec] Telegram shortlinks knocked offline over sanctioned VPN connection - 4 hours ago
-- [AWS] Service degradation: Increased 5xx Errors - 4 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-07-15 - 4 hours ago
-- [CloudFlare] Elevated errors in item PUT requests to AI Search - 4 hours ago
-- [CloudFlare] EWR (Newark) on 2026-07-16 - 4 hours ago
-- [CloudFlare] IST (Istanbul) on 2026-07-17 - 4 hours ago
-- [CloudFlare] TXL (Berlin) on 2026-07-20 - 4 hours ago
-- [CloudFlare] BCN (Barcelona) on 2026-07-27 - 4 hours ago
-- [RegisterSec] Law firm insisted on one password to rule them all - 6 hours ago
-- [SecurityWeek] Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day - 6 hours ago
-- [SecurityWeek] Old UEFI Shims Expose Systems to Secure Boot Bypass - 6 hours ago
-- [SecurityWeek] China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans - 6 hours ago
-- [HackerNews] Zoom Patches Critical Windows Flaw That Could Enable Account Takeover - 6 hours ago
-- [AWS] Service impact: Increased 5xx Errors - 6 hours ago
-- [CloudFlare] Magic WAN / Magic Transit tunnel health alert delivery - 6 hours ago
-- [CloudFlare] AUS (Austin) on 2026-07-17 - 6 hours ago
-- [CloudFlare] MUC (Munich) on 2026-07-17 - 6 hours ago
-- [SecurityWeek] Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities - 8 hours ago
-- [FullDisclosure] CVE-2026-56877 - Skillable SCORM userId authorisation bypass - 8 hours ago
-- [FullDisclosure] Subject: Advisory Submission: EZ Game Booster - Cleartext Storage of Sensitive Credentials (CWE-312) - 8 hours ago
-- [FullDisclosure] [NotCVE-2026-0001] Cloudflare Universal SSL CAA augmentation weakens RFC 8657 account binding — CVE-2026-14440 assigned 163 days after public no-CVE disclosure - 8 hours ago
-- [RegisterSec] Tech support scam caused massive data breach at Australian airline Qantas - 8 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 8 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 8 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 8 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 8 hours ago
-- [RegisterSec] Cyberattack threatens utterly critical infrastructure in Japan: KFC - 11 hours ago
-- [AWS] Service is operating normally: [RESOLVED] Elevated connectivity issues with a single Avalability zone - 11 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing temperature alerts in europe-west4-a. - 11 hours ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing temperature alerts in europe-west4-a. - 11 hours ago
-- [CloudFlare] Cloudflare R2 Issues - 11 hours ago
-- [AWS] Service impact: Elevated connectivity issues with a single Avalability zone - 15 hours ago
-- [CloudFlare] PDX (Portland) on 2026-07-16 - 16 hours ago
-- [BleepingComputer] Dutch police bust investment fraud ring stealing over €100 million - 16 hours ago
-- [BleepingComputer] Zoom warns of critical account takeover vulnerability - 18 hours ago
-- [CloudFlare] ACC (Accra) on 2026-07-13 - 19 hours ago
-- [HackerNews] TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development - 19 hours ago
-- [BleepingComputer] Google Gemini CLI abused as a hacking agent, malware botnet operator - 19 hours ago
-- [CloudFlare] PDX (Portland) on 2026-07-15 - 20 hours ago
-- [BleepingComputer] AsyncAPI npm packages infected with credential-stealing malware - 21 hours ago
-- [BleepingComputer] ​    ​AsyncAPI npm packages infected with credential-stealing malware - 22 hours ago
-- [HackerNews] OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps - 22 hours ago
-- [CloudFlare] YYZ (Toronto) on 2026-07-15 - 23 hours ago
-- [CloudFlare] Elevated errors in ENAM region - 23 hours ago
-- [CloudFlare] Cloudflare Storage Maintenance - 23 hours ago
+- [CloudFlare] Network Performance Issues for AWS ap-northeast-1 region - 6 minutes ago
+- [SecurityWeek] Fresh SharePoint Vulnerability Exploited Soon After Disclosure - 26 minutes ago
+- [SecurityWeek] Risk Ledger Raises $32 Million in Series B Funding - 26 minutes ago
+- [HackerNews] CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV - 26 minutes ago
+- [BleepingComputer] CISA urges immediate action on actively exploited Fortinet flaws - 26 minutes ago
+- [BleepingComputer] US charges two over laundering $43 million from investment fraud - 26 minutes ago
+- [CloudFlare] CNI 2.0 issues in London - 2 hours ago
+- [SecurityWeek] Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack - 2 hours ago
+- [RegisterSec] South Korea making its own security-centric AI model - 2 hours ago
+- [CloudFlare] PDX (Portland) on 2026-07-16 - 4 hours ago
+- [CloudFlare] Increased HTTP 500 Errors in Querétaro, Mexico - 4 hours ago
+- [CloudFlare] KUL (Kuala Lumpur) on 2026-07-17 - 4 hours ago
+- [GitHub] Degraded REST API Availability - 7 hours ago
+- [CloudFlare] LHR (London) on 2026-07-16 - 7 hours ago
+- [CloudFlare] Elevated Errors China Network - 7 hours ago
+- [CloudFlare] SEA (Seattle) on 2026-07-17 - 7 hours ago
+- [RegisterSec] OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake' - 8 hours ago
+- [GrahamCluley] Anubis ransomware: what you need to know - 10 hours ago
+- [BleepingComputer] New ClickLock macOS malware traps users into revealing login password - 10 hours ago
+- [GitHub] Claude Fable 5 experiencing degraded performance - 11 hours ago
+- [RegisterSec] Researcher poisons open-weight AI model for under $100 - 11 hours ago
+- [BleepingComputer] Coca-Cola says Fairlife ransomware attack halts US dairy production - 11 hours ago
+- [CloudFlare] Cloudflare Storage Maintenance - 12 hours ago
+- [BleepingComputer] New OkoBot framework deploys 20 payloads to steal data, crypto - 13 hours ago
+- [BleepingComputer] Claude Chrome extension flaw lets malicious extensions trigger AI actions - 13 hours ago
+- [CloudFlare] BKK (Bangkok) on 2026-07-16 - 13 hours ago
+- [CloudFlare] CNI 2.0 Experiencing Intermittent 5XX Errors - 13 hours ago
+- [HackerNews] Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack - 14 hours ago
+- [CloudFlare] CDG (Paris) on 2026-07-16 - 14 hours ago
+- [CloudFlare] EWR (Newark) on 2026-07-22 - 14 hours ago
+- [RegisterSoftware] EU forces Google to share its toys with the other AI and search kids - 15 hours ago
+- [CloudFlare] LHR (London) on 2026-07-15 - 15 hours ago
+- [CloudFlare] Durable Objects Increased Errors - 15 hours ago
+- [RegisterSoftware] Kick your mouse out of the house with this AI-assisted keyboard utility - 16 hours ago
+- [RegisterSoftware] AI vendors have found someone to pay their infrastructure bills: You - 16 hours ago
+- [HackerNews] ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories - 16 hours ago
+- [SecurityWeek] Legacy Systems, Real-World Impacts: The Reality of OT Security - 16 hours ago
+- [RegisterSec] C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest - 16 hours ago
+- [CloudFlare] MAD (Madrid) on 2026-07-16 - 17 hours ago
+- [HackerNews] New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password - 18 hours ago
+- [SecurityWeek] AI Data Centers Are Being Built Faster Than They Can Be Secured - 18 hours ago
+- [HackerNews] New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands - 18 hours ago
+- [SecurityWeek] Two Scattered Spider Hackers Sentenced to Jail in UK - 18 hours ago
+- [HackerNews] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer - 18 hours ago
+- [BleepingComputer] 23andMe to pay $18 million in new genetics data breach settlement - 18 hours ago
+- [BleepingComputer] AI Agents Broke the Security Playbook. Here's What Replaces It. - 18 hours ago
+- [CloudFlare] BCN (Barcelona) on 2026-07-14 - 18 hours ago
+- [CloudFlare] DFW (Dallas) on 2026-07-16 - 18 hours ago
+- [CloudFlare] KUL (Kuala Lumpur) on 2026-07-16 - 18 hours ago
+- [RegisterSoftware] How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher - 20 hours ago
+- [RegisterSec] Windows 10 refuses to die, and the security bill is coming due - 20 hours ago
+- [SecurityWeek] Oak Emerges From Stealth Mode With $60 Million in Funding - 20 hours ago
+- [RegisterSec] Brit Scattered Spider duo handed tickets to prison over Transport for London attack - 20 hours ago
+- [SecurityWeek] ‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing - 20 hours ago
+- [BleepingComputer] Windows 11 24H2 Home and Pro reach end of support in 90 days - 20 hours ago
+- [BleepingComputer] Scattered Spider members behind TfL hack get five years in prison - 20 hours ago
+- [HackerNews] Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor - 20 hours ago
+- [HackerNews] New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands - 20 hours ago
+- [HackerNews] 20+ Hijacked Government Websites Became an Attack Channel - 20 hours ago
+- [AWS] Service is operating normally: [RESOLVED] Increased 5xx Errors - 20 hours ago
+- [GCP] RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 20 hours ago
+- [CloudFlare] Increase in errors for Zone Settings API - 20 hours ago
+- [CloudFlare] AUS (Austin) on 2026-07-21 - 20 hours ago
+- [CloudFlare] MUC (Munich) on 2026-07-21 - 20 hours ago
+- [CloudFlare] BGW (Baghdad) on 2026-07-21 - 20 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2026-07-23 - 20 hours ago
+- [CloudFlare] AMS (Amsterdam) on 2026-07-24 - 20 hours ago
+- [BleepingComputer] New Spirals ransomware encrypts victim network in under 24 hours - 21 hours ago
+- [HackerNews] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol - 21 hours ago
+- [BleepingComputer] Russian hackers trojanize WebEx, Zoom apps to push Starland malware - 21 hours ago
+- [HackerNews] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide - 21 hours ago
+- [BleepingComputer] CISA orders feds to patch actively exploited Oracle flaw by Saturday - 21 hours ago
+- [HackerNews] AI Can Find Bugs, But Human Knowledge Still Proves Them - 21 hours ago
+- [SecurityWeek] F5 Patches Multiple NGINX, BIG-IP Vulnerabilities - 21 hours ago
+- [GrahamCluley] Smashing Security podcast #476: Remote-control rickshaws and rogue book marketers - 21 hours ago
+- [SecurityWeek] Splunk, Zoom Patch Critical Vulnerabilities - 21 hours ago
+- [RegisterSec] Telegram shortlinks knocked offline over sanctioned VPN connection - 21 hours ago
+- [AWS] Service degradation: Increased 5xx Errors - 21 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-07-15 - 22 hours ago
+- [CloudFlare] Elevated errors in item PUT requests to AI Search - 22 hours ago
+- [CloudFlare] EWR (Newark) on 2026-07-16 - 22 hours ago
+- [CloudFlare] IST (Istanbul) on 2026-07-17 - 22 hours ago
+- [CloudFlare] TXL (Berlin) on 2026-07-20 - 22 hours ago
+- [CloudFlare] BCN (Barcelona) on 2026-07-27 - 22 hours ago
+- [RegisterSec] Law firm insisted on one password to rule them all - 1 day ago
+- [SecurityWeek] Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day - 1 day ago
+- [SecurityWeek] Old UEFI Shims Expose Systems to Secure Boot Bypass - 1 day ago
+- [SecurityWeek] China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans - 1 day ago
+- [HackerNews] Zoom Patches Critical Windows Flaw That Could Enable Account Takeover - 1 day ago
+- [AWS] Service impact: Increased 5xx Errors - 1 day ago
+- [CloudFlare] Magic WAN / Magic Transit tunnel health alert delivery - 1 day ago
+- [CloudFlare] AUS (Austin) on 2026-07-17 - 1 day ago
+- [CloudFlare] MUC (Munich) on 2026-07-17 - 1 day ago
+- [SecurityWeek] Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities - 1 day ago
+- [FullDisclosure] CVE-2026-56877 - Skillable SCORM userId authorisation bypass - 1 day ago
+- [FullDisclosure] Subject: Advisory Submission: EZ Game Booster - Cleartext Storage of Sensitive Credentials (CWE-312) - 1 day ago
+- [FullDisclosure] [NotCVE-2026-0001] Cloudflare Universal SSL CAA augmentation weakens RFC 8657 account binding — CVE-2026-14440 assigned 163 days after public no-CVE disclosure - 1 day ago
+- [RegisterSec] Tech support scam caused massive data breach at Australian airline Qantas - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure. - 1 day ago
+- [RegisterSec] Cyberattack threatens utterly critical infrastructure in Japan: KFC - 1 day ago
+- [AWS] Service is operating normally: [RESOLVED] Elevated connectivity issues with a single Avalability zone - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing temperature alerts in europe-west4-a. - 1 day ago
+- [GCP] UPDATE: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing temperature alerts in europe-west4-a. - 1 day ago
+- [CloudFlare] Cloudflare R2 Issues - 1 day ago
+- [AWS] Service impact: Elevated connectivity issues with a single Avalability zone - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-07-16 - 1 day ago
+- [BleepingComputer] Dutch police bust investment fraud ring stealing over €100 million - 1 day ago
+- [BleepingComputer] Zoom warns of critical account takeover vulnerability - 1 day ago
+- [CloudFlare] ACC (Accra) on 2026-07-13 - 1 day ago
+- [HackerNews] TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development - 1 day ago
+- [BleepingComputer] Google Gemini CLI abused as a hacking agent, malware botnet operator - 1 day ago
+- [CloudFlare] PDX (Portland) on 2026-07-15 - 1 day ago
+- [BleepingComputer] AsyncAPI npm packages infected with credential-stealing malware - 1 day ago
+- [BleepingComputer] ​    ​AsyncAPI npm packages infected with credential-stealing malware - 1 day ago
+- [HackerNews] OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps - 1 day ago
+- [CloudFlare] YYZ (Toronto) on 2026-07-15 - 1 day ago
+- [CloudFlare] Elevated errors in ENAM region - 1 day ago
+- [CloudFlare] Cloudflare Storage Maintenance - 1 day ago
 - [BleepingComputer] We built a vulnerability vending machine: AI tokens in, zero-days out - 1 day ago
 - [RegisterSec] CISA sounds alarm over trio of exploited SharePoint flaws - 1 day ago
 - [HackerNews] Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws - 1 day ago
@@ -120,48 +159,9 @@ description: Latest Updates
 - [HackerNews] Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware - 1 day ago
 - [HIBP] Fluke - 821,100 breached accounts - 1 day ago
 - [CloudFlare] BOG (Bogotá) on 2026-07-20 - 1 day ago
-- [BleepingComputer] US charges alleged operators of Russian bulletproof hosting service - 1 day ago
-- [HackerNews] Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands - 1 day ago
-- [SecurityWeek] Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates - 1 day ago
-- [GCP] RESOLVED: Google Cloud VMware Engine (GCVE) Stretched Cluster customers are experiencing zonal outages impacting network connectivity across multiple regions. - 1 day ago
-- [HIBP] Goose Creek - 6,574,121 breached accounts - 1 day ago
-- [SecurityWeek] SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits - 1 day ago
-- [CloudFlare] MAD (Madrid) on 2026-07-16 - 1 day ago
-- [TroyHunt] Weekly Update 512: IoT Lockout Fail - 1 day ago
-- [BleepingComputer] SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now - 1 day ago
-- [RegisterSec] Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs - 1 day ago
-- [HackerNews] Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - 1 day ago
-- [BleepingComputer] Spanish Police take down €140 million cyber fraud ring, arrest four - 1 day ago
-- [GCP] UPDATE: Google Cloud VMware Engine (GCVE) Stretched Cluster customers are experiencing zonal outages impacting network connectivity across multiple regions. - 1 day ago
-- [HackerNews] Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads - 1 day ago
-- [HackerNews] SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data - 1 day ago
-- [SecurityWeek] Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days - 1 day ago
-- [BleepingComputer] Microsoft releases Windows 10 KB5099539 extended security update - 1 day ago
-- [BrianKrebs] Microsoft Patches a Record 570 Security Flaws - 1 day ago
-- [BleepingComputer] Nearly 300 GitHub repos pose as legit software to push malware - 1 day ago
-- [RegisterSec] Welsh Doxbin admin jailed for egging on swatters from behind a screen - 1 day ago
-- [BleepingComputer] Windows 11 KB5101650 & KB5099414 cumulative updates released - 1 day ago
-- [SecurityWeek] Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims - 1 day ago
-- [BleepingComputer] Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days - 1 day ago
-- [CloudFlare] Elevated number of 502 errors for CDN/Cache in SIN - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-07-16 - 1 day ago
-- [SecurityWeek] Adobe Patches Critical ColdFusion Vulnerabilities - 1 day ago
-- [HackerNews] LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts - 1 day ago
-- [BleepingComputer] LastPass, Bitwarden users targeted with fake security alerts - 1 day ago
-- [BleepingComputer] Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown - 1 day ago
-- [RegisterSoftware] RISC-V firmware project wants every board booting from the same hymn sheet - 1 day ago
-- [CloudFlare] Elevated R2 errors in WEUR region - 1 day ago
-- [CloudFlare] LHR (London) on 2026-07-15 - 1 day ago
-- [HackerNews] OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials - 2 days ago
-- [HackerNews] How Pentera Turns AI Security Workflows into Validation Engines - 2 days ago
-- [HackerNews] Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks - 2 days ago
-- [BleepingComputer] You Don't Have to Run an Exploit to Know If You're Vulnerable - 2 days ago
-- [HackerNews] 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot - 2 days ago
-- [HackerNews] RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata - 2 days ago
-- [SecurityWeek] Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar - 2 days ago
-- [SecurityWeek] 7 Severe Vulnerabilities Patched in VMware Avi Load Balancer - 2 days ago
-- [CloudFlare] BCN (Barcelona) on 2026-07-14 - 2 days ago
-- [CloudFlare] LHR (London) on 2026-07-14 - 2 days ago
+- [BleepingComputer] US charges alleged operators of Russian bulletproof hosting service - 2 days ago
+- [HackerNews] Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands - 2 days ago
+- [SecurityWeek] Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates - 2 days ago
 
 
 <!-- SecOps end -->
