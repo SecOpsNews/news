@@ -9,42 +9,29 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] Workers and Pages builds stuck intializing. - 13 hours ago
-- [BleepingComputer] Update now: 7-Zip fixes RCE flaw exploitable with malicious archives - 18 hours ago
-- [BleepingComputer] WordPress Core "wp2shell" RCE flaws get public exploits, patch now - 20 hours ago
-- [CloudFlare] Workers and Pages builds unable to start - 21 hours ago
-- [BleepingComputer] Microsoft warns of surge in ACR Stealer attacks on customers - 23 hours ago
+- [SecurityWeek] WP2Shell WordPress Vulnerabilities Exploited in the Wild - 1 hour ago
+- [RegisterSoftware] Comment in code read 'Dear future me, sorry I wrote this' - 1 hour ago
+- [HackerNews] SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines - 1 hour ago
+- [HackerNews] World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent - 1 hour ago
+- [CloudFlare] AMS (Amsterdam) on 2026-07-20 - 4 hours ago
+- [CloudFlare] LHR (London) on 2026-07-20 - 4 hours ago
+- [CloudFlare] NRT (Tokyo) on 2026-07-21 - 4 hours ago
+- [CloudFlare] LHR (London) on 2026-07-22 - 4 hours ago
+- [HIBP] Paidwork - 23,272,765 breached accounts - 4 hours ago
+- [GitHub] Incident with GitHub Actions - 10 hours ago
+- [HackerNews] Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution - 12 hours ago
+- [CloudFlare] LHR (London) on 2026-07-19 - 13 hours ago
+- [RegisterSec] Connecting AI agents to outside services explodes the risk radius - 17 hours ago
+- [HackerNews] SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access - 18 hours ago
+- [HackerNews] UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware - 18 hours ago
+- [BleepingComputer] Hackers abuse ViPNet software to target Russian govt agencies - 18 hours ago
+- [CloudFlare] Workers and Pages builds stuck intializing. - 1 day ago
+- [BleepingComputer] Update now: 7-Zip fixes RCE flaw exploitable with malicious archives - 1 day ago
+- [BleepingComputer] WordPress Core "wp2shell" RCE flaws get public exploits, patch now - 1 day ago
+- [CloudFlare] Workers and Pages builds unable to start - 1 day ago
+- [BleepingComputer] Microsoft warns of surge in ACR Stealer attacks on customers - 1 day ago
 - [AWS] Service is operating normally: [RESOLVED] Inaccurate Estimated Billing Data - 1 day ago
 - [BleepingComputer] The Future of Age Verification: Your Face Never Leaves Your Device - 1 day ago
-- [BleepingComputer] Abbott probes two cyber incidents amid extortion claims - 1 day ago
-- [GrahamCluley] Google’s Gemini lets strangers send messages from your locked Android phone - 1 day ago
-- [HackerNews] New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code - 1 day ago
-- [CloudFlare] CDG (Paris) on 2026-07-16 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-07-20 - 1 day ago
-- [HackerNews] OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests - 1 day ago
-- [BleepingComputer] Abbott Laboratories probes two cyber incidents amid extortion claims - 1 day ago
-- [CloudFlare] EWR (Newark) on 2026-07-22 - 1 day ago
-- [HackerNews] Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT - 1 day ago
-- [CloudFlare] Cache Reserve users may see increased write errors in the APAC region - 1 day ago
-- [CloudFlare] NRT (Tokyo) on 2026-07-17 - 1 day ago
-- [1Password] SaaS Manager Workflows are not running as expected - 1 day ago
-- [BleepingComputer] HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload - 1 day ago
-- [RegisterSoftware] Mozilla speeds Firefox release schedule to biweekly - 1 day ago
-- [RegisterSec] AI spam filters are getting suckered by old-school text salting - 1 day ago
-- [HackerNews] GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft - 1 day ago
-- [HackerNews] New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens - 1 day ago
-- [CloudFlare] Containers Logs Issues - 1 day ago
-- [HackerNews] Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images - 1 day ago
-- [CloudFlare] Cloudflare Workers API Issues - 1 day ago
-- [CloudFlare] POST requests not succeeding - 1 day ago
-- [CloudFlare] AUS (Austin) on 2026-07-21 - 1 day ago
-- [CloudFlare] MUC (Munich) on 2026-07-21 - 1 day ago
-- [BleepingComputer] Inside the Search for "Clean" Residential Proxies for Carding - 1 day ago
-- [BleepingComputer] Ernst & Young discloses data breach after support system hack - 1 day ago
-- [SecurityWeek] In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint - 1 day ago
-- [CloudFlare] BGW (Baghdad) on 2026-07-21 - 2 days ago
-- [CloudFlare] AMS (Amsterdam) on 2026-07-23 - 2 days ago
-- [CloudFlare] AMS (Amsterdam) on 2026-07-24 - 2 days ago
 
 
 <!-- SecOps end -->
