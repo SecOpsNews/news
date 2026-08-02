@@ -9,17 +9,17 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes - 14 hours ago
-- [CloudFlare] MIA (Miami) on 2026-07-31 - 17 hours ago
-- [BleepingComputer] Rails patches critical Active Storage flaw with RCE potential - 18 hours ago
-- [CloudFlare] RealtimeKit socket connection slowness and failed meeting joins - 18 hours ago
-- [SecurityWeek] Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments - 19 hours ago
-- [SecurityWeek] Ruby on Rails Patches Critical Vulnerability - 21 hours ago
-- [GitHub] Degraded availability GPT 5.6 Luna - 21 hours ago
-- [HackerNews] Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites - 22 hours ago
-- [HackerNews] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware - 23 hours ago
-- [HackerNews] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction - 23 hours ago
-- [CloudFlare] Network Performance Issues in Istanbul - 23 hours ago
+- [HackerNews] Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes - 20 hours ago
+- [CloudFlare] MIA (Miami) on 2026-07-31 - 22 hours ago
+- [BleepingComputer] Rails patches critical Active Storage flaw with RCE potential - 23 hours ago
+- [CloudFlare] RealtimeKit socket connection slowness and failed meeting joins - 23 hours ago
+- [SecurityWeek] Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments - 1 day ago
+- [SecurityWeek] Ruby on Rails Patches Critical Vulnerability - 1 day ago
+- [GitHub] Degraded availability GPT 5.6 Luna - 1 day ago
+- [HackerNews] Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites - 1 day ago
+- [HackerNews] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware - 1 day ago
+- [HackerNews] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction - 1 day ago
+- [CloudFlare] Network Performance Issues in Istanbul - 1 day ago
 - [HIBP] SplitVPN - 865,336 breached accounts - 1 day ago
 - [CloudFlare] Increased HTTP 5XX Errors in IAD - 1 day ago
 - [BleepingComputer] Arch Linux disables AUR package adoption to stop malware flood - 1 day ago
@@ -53,25 +53,16 @@ description: Latest Updates
 - [CloudFlare] Cloudflare API Availability Reduced Availability - 1 day ago
 - [CloudFlare] DNS Record Management Maintenance - 1 day ago
 - [CloudFlare] EWR (Newark) on 2026-09-02 - 1 day ago
-- [HackerNews] Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations - 1 day ago
-- [HackerNews] Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks - 1 day ago
-- [HackerNews] 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026 - 1 day ago
-- [SecurityWeek] EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels - 1 day ago
-- [SecurityWeek] Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace - 1 day ago
-- [GrahamCluley] The $5 million threat: AI Is supercharging phishing attacks - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-07-30 - 1 day ago
-- [CloudFlare] Cloudflare API Availability Reduced - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-08-04 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-08-05 - 1 day ago
-- [RegisterSoftware] Techie lured out of retirement to support software only he remembered - 1 day ago
-- [SecurityWeek] CareCloud Data Breach Impacts Over 350,000 - 1 day ago
-- [SecurityWeek] Critical Flaw Led to Azure Cosmos DB Pwnage - 1 day ago
-- [SecurityWeek] Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations - 1 day ago
-- [CloudFlare] DFW (Dallas) on 2026-07-31 - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-08-03 - 1 day ago
-- [SecurityWeek] Critical Code Execution Vulnerability Patched in TeamCity - 2 days ago
-- [CloudFlare] MIA (Miami) on 2026-08-03 - 2 days ago
-- [CloudFlare] EWR (Newark) on 2026-09-01 - 2 days ago
+- [HackerNews] Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations - 2 days ago
+- [HackerNews] Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks - 2 days ago
+- [HackerNews] 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026 - 2 days ago
+- [SecurityWeek] EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels - 2 days ago
+- [SecurityWeek] Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace - 2 days ago
+- [GrahamCluley] The $5 million threat: AI Is supercharging phishing attacks - 2 days ago
+- [CloudFlare] DFW (Dallas) on 2026-07-30 - 2 days ago
+- [CloudFlare] Cloudflare API Availability Reduced - 2 days ago
+- [CloudFlare] IAD (Ashburn) on 2026-08-04 - 2 days ago
+- [CloudFlare] IAD (Ashburn) on 2026-08-05 - 2 days ago
 
 
 <!-- SecOps end -->
