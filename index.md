@@ -9,39 +9,40 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [AWS] Service impact: Increased Packet loss - 3 hours ago
-- [BleepingComputer] How Anthropic plans to watermark Claude's AI-generated text - 7 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-08-14 - 10 hours ago
-- [CloudFlare] YUL (Montréal) on 2026-08-17 - 10 hours ago
-- [CloudFlare] DAC (Dhaka) on 2026-08-17 - 11 hours ago
-- [CloudFlare] Durable Objects and Cloudflare Workflows availability drop - 11 hours ago
-- [CloudFlare] Maintenance for core backend database systems (cfdb) - 11 hours ago
-- [BleepingComputer] Hackers arrested over €30M bank fraud exploiting service provider flaw - 12 hours ago
-- [CloudFlare] EWR (Newark) on 2026-09-01 - 12 hours ago
-- [RegisterSec] 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack - 13 hours ago
-- [CloudFlare] IST (İstanbul) on 2026-08-13 - 13 hours ago
-- [CloudFlare] Increased network congestion in the Eastern US - 14 hours ago
-- [BleepingComputer] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner - 15 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-08-18 - 15 hours ago
-- [BleepingComputer] Max severity SAP Commerce Cloud flaw now targeted in attacks - 16 hours ago
-- [BleepingComputer] The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI - 16 hours ago
-- [RegisterSec] French tax authority admits data heist after crook touts 2M records - 16 hours ago
-- [CloudFlare] SJC (San Jose) on 2026-08-17 - 16 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-08-18 - 16 hours ago
-- [RegisterSec] Autonomous AI attacks pose 'clear and present danger' to critical infrastructure - 17 hours ago
-- [SecurityWeek] Trivy, Not LiteLLM Behind the 2,500 Org Compromise - 19 hours ago
-- [SecurityWeek] In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities - 19 hours ago
-- [BleepingComputer] Shell investigates 'potential incident' after Clop data theft claims - 19 hours ago
-- [BrianKrebs] Who’s Tracking You? Use This New Service to Find Out - 19 hours ago
-- [BleepingComputer] RingCentral data breach exposed info of 1.6 million accounts - 19 hours ago
-- [SecurityWeek] Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal - 19 hours ago
-- [SecurityWeek] 1.6 Million Likely Impacted by RingCentral Data Breach - 20 hours ago
-- [RegisterSec] Scottish prosecutors cast eye over leaky supplier after staff data exposed - 20 hours ago
-- [RegisterSec] Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach - 20 hours ago
-- [SecurityWeek] Over 1,000 Charities Hit by Beacon CRM Data Breach - 21 hours ago
-- [BleepingComputer] Data analyst sent to prison for stealing data, extorting employer - 22 hours ago
-- [SecurityWeek] 14,000 Trezor Customers Impacted by Data Breach at ShipMonk - 22 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-08-18 - 22 hours ago
+- [RegisterSec] ChainDrop worm crawls into npm supply chain, evades standard defenses - 3 hours ago
+- [AWS] Service impact: Increased Packet loss - 10 hours ago
+- [BleepingComputer] How Anthropic plans to watermark Claude's AI-generated text - 14 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-08-14 - 16 hours ago
+- [CloudFlare] YUL (Montréal) on 2026-08-17 - 17 hours ago
+- [CloudFlare] DAC (Dhaka) on 2026-08-17 - 17 hours ago
+- [CloudFlare] Durable Objects and Cloudflare Workflows availability drop - 18 hours ago
+- [CloudFlare] Maintenance for core backend database systems (cfdb) - 18 hours ago
+- [BleepingComputer] Hackers arrested over €30M bank fraud exploiting service provider flaw - 19 hours ago
+- [CloudFlare] EWR (Newark) on 2026-09-01 - 19 hours ago
+- [RegisterSec] 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack - 20 hours ago
+- [CloudFlare] IST (İstanbul) on 2026-08-13 - 20 hours ago
+- [CloudFlare] Increased network congestion in the Eastern US - 21 hours ago
+- [BleepingComputer] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner - 22 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-08-18 - 22 hours ago
+- [BleepingComputer] Max severity SAP Commerce Cloud flaw now targeted in attacks - 23 hours ago
+- [BleepingComputer] The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI - 23 hours ago
+- [RegisterSec] French tax authority admits data heist after crook touts 2M records - 23 hours ago
+- [CloudFlare] SJC (San Jose) on 2026-08-17 - 23 hours ago
+- [CloudFlare] ATL (Atlanta) on 2026-08-18 - 23 hours ago
+- [RegisterSec] Autonomous AI attacks pose 'clear and present danger' to critical infrastructure - 1 day ago
+- [SecurityWeek] Trivy, Not LiteLLM Behind the 2,500 Org Compromise - 1 day ago
+- [SecurityWeek] In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities - 1 day ago
+- [BleepingComputer] Shell investigates 'potential incident' after Clop data theft claims - 1 day ago
+- [BrianKrebs] Who’s Tracking You? Use This New Service to Find Out - 1 day ago
+- [BleepingComputer] RingCentral data breach exposed info of 1.6 million accounts - 1 day ago
+- [SecurityWeek] Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal - 1 day ago
+- [SecurityWeek] 1.6 Million Likely Impacted by RingCentral Data Breach - 1 day ago
+- [RegisterSec] Scottish prosecutors cast eye over leaky supplier after staff data exposed - 1 day ago
+- [RegisterSec] Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach - 1 day ago
+- [SecurityWeek] Over 1,000 Charities Hit by Beacon CRM Data Breach - 1 day ago
+- [BleepingComputer] Data analyst sent to prison for stealing data, extorting employer - 1 day ago
+- [SecurityWeek] 14,000 Trezor Customers Impacted by Data Breach at ShipMonk - 1 day ago
+- [CloudFlare] AMS (Amsterdam) on 2026-08-18 - 1 day ago
 - [SecurityWeek] AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions - 1 day ago
 - [SecurityWeek] Hackers Exploiting Unpatched GeoServer Zero-Day - 1 day ago
 - [RegisterSoftware] Five years after quitting a job, developer’s former boss asked for rapid tech support - 1 day ago
@@ -85,21 +86,6 @@ description: Latest Updates
 - [BleepingComputer] White House taps security firms for offensive hack-back operations - 1 day ago
 - [BleepingComputer] Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion - 1 day ago
 - [HIBP] RingCentral - 1,596,490 breached accounts - 1 day ago
-- [SecurityWeek] WordPress 7.0.4 Patches Remote Code Execution Vulnerability - 1 day ago
-- [BleepingComputer] WhatsApp rolls out new feature that flags potential scam messages - 1 day ago
-- [SecurityWeek] Venture Firm Team8 Secures Additional $365 Million - 1 day ago
-- [RegisterSec] AWS key exposed in JavaScript may have lit way to Beacon's charity data - 1 day ago
-- [SecurityWeek] Fortinet Patches Authentication Flaws in FortiWeb and FortiManager - 1 day ago
-- [CloudFlare] YYZ (Toronto) on 2026-08-14 - 1 day ago
-- [SecurityWeek] Critical VMware vCenter Vulnerability in Attackers’ Crosshairs - 1 day ago
-- [SecurityWeek] White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs - 1 day ago
-- [RegisterSoftware] Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages - 1 day ago
-- [CloudFlare] TXL (Berlin) on 2026-08-17 - 1 day ago
-- [SecurityWeek] Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ - 1 day ago
-- [CloudFlare] CMH (Columbus) on 2026-08-13 - 1 day ago
-- [RegisterSec] Passwords stored in public Google Doc then showed up in search results - 1 day ago
-- [HackerNews] Attackers Exploit SharePoint Authentication Bypass After Public PoC Release - 1 day ago
-- [CloudFlare] ATL (Atlanta) on 2026-08-14 - 2 days ago
 
 
 <!-- SecOps end -->
