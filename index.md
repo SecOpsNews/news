@@ -9,58 +9,62 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] BNA (Nashville) on 2026-09-01 - 5 hours ago
-- [RegisterSec] Researcher shows how Claude Code can be tricked simply by asking it to summarize a website - 11 hours ago
-- [HackerNews] ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body - 11 hours ago
-- [HackerNews] Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers - 11 hours ago
-- [HackerNews] Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication - 11 hours ago
-- [HackerNews] Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable - 11 hours ago
-- [HackerNews] Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network - 11 hours ago
-- [RegisterSoftware] Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood - 11 hours ago
-- [BleepingComputer] GiveWP WordPress donation plugin flaw lets hackers execute server commands - 11 hours ago
-- [RegisterSoftware] Microsoft's virtual intern Teams Facilitator will be late for the meeting - 11 hours ago
-- [BleepingComputer] PaperCut releases second emergency patch for exploited flaws - 11 hours ago
-- [RegisterSoftware] Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it - 11 hours ago
-- [BleepingComputer] McKesson discloses breach after ShinyHunters claims patient data theft - 11 hours ago
-- [CloudFlare] MNL (Manila) on 2026-08-28 - 12 hours ago
-- [CloudFlare] Increased HTTP 5xx Errors in Singapore - 12 hours ago
-- [CloudFlare] HKG (Hong Kong) on 2026-09-01 - 12 hours ago
-- [SecurityWeek] PaperCut Releases Emergency Patch for Exploited Zero-Day - 19 hours ago
-- [SecurityWeek] Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says - 19 hours ago
-- [SecurityWeek] Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge - 19 hours ago
-- [SecurityWeek] OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems - 19 hours ago
-- [SecurityWeek] ATF Confirms Cyber Incident After Ransomware Group Claims Attack - 19 hours ago
-- [SecurityWeek] In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions - 19 hours ago
-- [HackerNews] APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations - 19 hours ago
-- [HackerNews] PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions - 19 hours ago
-- [HackerNews] Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server - 19 hours ago
-- [HackerNews] China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access - 19 hours ago
-- [HackerNews] Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL - 19 hours ago
-- [HackerNews] Key Reasons Why Identity Fabric Matters in 2026 - 19 hours ago
-- [NHSDigital] CC-4838 - PaperCut Releases Emergency Security Updates for Critical Vulnerabilities in PaperCut NG/MF - 19 hours ago
-- [HackerNews] Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth - 19 hours ago
-- [BleepingComputer] Windows 11 KB5120998 update released with 35 changes and fixes - 19 hours ago
-- [NHSDigital] CC-4839 - ServiceNow Releases Security Advisory for Critical Vulnerabilities in the ServiceNow Now and AI Platforms - 19 hours ago
-- [HackerNews] 19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code - 19 hours ago
-- [BleepingComputer] ServiceNow warns of three max severity security vulnerabilities - 19 hours ago
-- [BleepingComputer] Toy-making giant Hasbro disclose data breach affecting employees - 19 hours ago
-- [RegisterSec] Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood - 19 hours ago
-- [BleepingComputer] Over 8,300 Gitea servers vulnerable to code execution attacks - 19 hours ago
-- [BleepingComputer] AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up? - 19 hours ago
-- [RegisterSec] Industry that built the problem offers to sell you the solution - 19 hours ago
-- [BleepingComputer] 68-year-old imprisoned after making $1.3 million by pirating IPTV services - 19 hours ago
-- [RegisterSec] CISA: Most exploited vulnerabilities should have been eradicated decades ago - 19 hours ago
-- [RegisterSec] US government snitch-finder pleads guilty to leaking state secrets to foreign spies - 19 hours ago
-- [GrahamCluley] Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more - 19 hours ago
-- [CloudFlare] GRU (São Paulo) on 2026-08-28 - 20 hours ago
-- [CloudFlare] MLE (Male) on 2026-08-28 - 20 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-08-31 - 20 hours ago
-- [CloudFlare] HEL (Helsinki) on 2026-09-01 - 20 hours ago
-- [CloudFlare] ATL (Atlanta) on 2026-09-01 - 20 hours ago
-- [CloudFlare] SJC (San Jose) on 2026-09-01 - 20 hours ago
-- [CloudFlare] LAX (Los Angeles) on 2026-09-01 - 20 hours ago
-- [CloudFlare] SIN (Singapore) on 2026-09-01 - 20 hours ago
-- [CloudFlare] EWR (Newark) on 2026-09-02 - 20 hours ago
+- [BleepingComputer] Brave browser adds email aliases to help users evade tracking - 3 minutes ago
+- [HackerNews] Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - 3 minutes ago
+- [SecurityWeek] Hasbro Data Breach Exposed Employee Personal Information - 3 hours ago
+- [CloudFlare] SJC (San Jose) on 2026-08-31 - 4 hours ago
+- [CloudFlare] BNA (Nashville) on 2026-09-01 - 9 hours ago
+- [RegisterSec] Researcher shows how Claude Code can be tricked simply by asking it to summarize a website - 16 hours ago
+- [HackerNews] ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body - 16 hours ago
+- [HackerNews] Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers - 16 hours ago
+- [HackerNews] Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication - 16 hours ago
+- [HackerNews] Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable - 16 hours ago
+- [HackerNews] Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network - 16 hours ago
+- [RegisterSoftware] Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood - 16 hours ago
+- [BleepingComputer] GiveWP WordPress donation plugin flaw lets hackers execute server commands - 16 hours ago
+- [RegisterSoftware] Microsoft's virtual intern Teams Facilitator will be late for the meeting - 16 hours ago
+- [BleepingComputer] PaperCut releases second emergency patch for exploited flaws - 16 hours ago
+- [RegisterSoftware] Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it - 16 hours ago
+- [BleepingComputer] McKesson discloses breach after ShinyHunters claims patient data theft - 16 hours ago
+- [CloudFlare] MNL (Manila) on 2026-08-28 - 16 hours ago
+- [CloudFlare] Increased HTTP 5xx Errors in Singapore - 16 hours ago
+- [CloudFlare] HKG (Hong Kong) on 2026-09-01 - 16 hours ago
+- [SecurityWeek] PaperCut Releases Emergency Patch for Exploited Zero-Day - 23 hours ago
+- [SecurityWeek] Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says - 23 hours ago
+- [SecurityWeek] Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge - 23 hours ago
+- [SecurityWeek] OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems - 23 hours ago
+- [SecurityWeek] ATF Confirms Cyber Incident After Ransomware Group Claims Attack - 23 hours ago
+- [SecurityWeek] In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions - 23 hours ago
+- [HackerNews] APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations - 23 hours ago
+- [HackerNews] PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions - 23 hours ago
+- [HackerNews] Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server - 23 hours ago
+- [HackerNews] China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access - 23 hours ago
+- [HackerNews] Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL - 23 hours ago
+- [HackerNews] Key Reasons Why Identity Fabric Matters in 2026 - 23 hours ago
+- [NHSDigital] CC-4838 - PaperCut Releases Emergency Security Updates for Critical Vulnerabilities in PaperCut NG/MF - 23 hours ago
+- [HackerNews] Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth - 23 hours ago
+- [BleepingComputer] Windows 11 KB5120998 update released with 35 changes and fixes - 23 hours ago
+- [NHSDigital] CC-4839 - ServiceNow Releases Security Advisory for Critical Vulnerabilities in the ServiceNow Now and AI Platforms - 23 hours ago
+- [HackerNews] 19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code - 23 hours ago
+- [BleepingComputer] ServiceNow warns of three max severity security vulnerabilities - 23 hours ago
+- [BleepingComputer] Toy-making giant Hasbro disclose data breach affecting employees - 23 hours ago
+- [RegisterSec] Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood - 23 hours ago
+- [BleepingComputer] Over 8,300 Gitea servers vulnerable to code execution attacks - 23 hours ago
+- [BleepingComputer] AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up? - 23 hours ago
+- [RegisterSec] Industry that built the problem offers to sell you the solution - 23 hours ago
+- [BleepingComputer] 68-year-old imprisoned after making $1.3 million by pirating IPTV services - 23 hours ago
+- [RegisterSec] CISA: Most exploited vulnerabilities should have been eradicated decades ago - 23 hours ago
+- [RegisterSec] US government snitch-finder pleads guilty to leaking state secrets to foreign spies - 23 hours ago
+- [GrahamCluley] Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more - 23 hours ago
+- [CloudFlare] GRU (São Paulo) on 2026-08-28 - 1 day ago
+- [CloudFlare] MLE (Male) on 2026-08-28 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-08-31 - 1 day ago
+- [CloudFlare] HEL (Helsinki) on 2026-09-01 - 1 day ago
+- [CloudFlare] ATL (Atlanta) on 2026-09-01 - 1 day ago
+- [CloudFlare] SJC (San Jose) on 2026-09-01 - 1 day ago
+- [CloudFlare] LAX (Los Angeles) on 2026-09-01 - 1 day ago
+- [CloudFlare] SIN (Singapore) on 2026-09-01 - 1 day ago
+- [CloudFlare] EWR (Newark) on 2026-09-02 - 1 day ago
 - [BleepingComputer] Nearly 700 rogue AI agents coordinated in the Hugging Face attack - 1 day ago
 - [RegisterSec] CRPx0 hacking service for dummies claims victim count more than quintupled - 1 day ago
 - [RegisterSec] Australian cops cuff alleged TeamPCP masterminds - 1 day ago
