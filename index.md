@@ -9,42 +9,48 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - 2 hours ago
-- [GitHub] Degradation in repos contents API - 11 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-09-03 - 11 hours ago
-- [CloudFlare] Zero Trust Dashboard - Posture Check Visibility Issue - 13 hours ago
-- [CloudFlare] Elevated number of R2 503 errors in Eastern North America region - 13 hours ago
-- [CloudFlare] CBR (Canberra) on 2026-09-08 - 13 hours ago
-- [CloudFlare] FUK (Fukuoka) on 2026-09-08 - 13 hours ago
-- [GitHub] Disruption with Copilot Code Review - 13 hours ago
-- [RegisterSec] ASCII smuggling isn't just an AI security risk - 15 hours ago
-- [CloudFlare] BNA (Nashville) on 2026-09-02 - 16 hours ago
-- [RegisterSec] Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident - 17 hours ago
-- [SecurityWeek] OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders - 17 hours ago
-- [SecurityWeek] HPE Patches Critical RCE Vulnerabilities in AOS-CX - 17 hours ago
-- [SecurityWeek] In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation - 17 hours ago
-- [HackerNews] New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic - 17 hours ago
-- [HackerNews] PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution - 17 hours ago
-- [HackerNews] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters - 17 hours ago
-- [BleepingComputer] 39 New Methods That Compromise Passkey Authentication - 17 hours ago
-- [BleepingComputer] Microsoft says some users can’t open the Teams desktop client - 17 hours ago
-- [BleepingComputer] Critical Citrix NetScaler auth bypass now leveraged in attacks - 17 hours ago
-- [BleepingComputer] IDScan sued over alleged data breach affecting 153 million drivers - 17 hours ago
-- [CloudFlare] Cache Purging Errors - 18 hours ago
-- [SecurityWeek] Nvidia Is Buying AI Platform Hugging Face for $13 Billion - 21 hours ago
-- [SecurityWeek] Google Patches 6th Chrome Zero-Day of 2026 - 21 hours ago
-- [SecurityWeek] VMware Workstation and Fusion Updates Patch Critical Vulnerability - 21 hours ago
-- [BleepingComputer] Google warns of new Chrome zero-day flaw exploited in attacks - 21 hours ago
-- [SecurityWeek] Catch Raises $5 Million for AI Executive Assistant With Guardrails - 21 hours ago
-- [BleepingComputer] Exchange Online outage causes email delays, 'Server busy' errors - 21 hours ago
-- [SecurityWeek] 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover - 21 hours ago
-- [BleepingComputer] New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges - 21 hours ago
-- [SecurityWeek] Sangoma Switchvox Vulnerabilities Exploited in the Wild - 21 hours ago
-- [NHSDigital] CC-4844 - Google Releases Security Update for Chrome - 21 hours ago
-- [CloudFlare] SEA (Seattle) on 2026-09-04 - 22 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-06 - 22 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-07 - 22 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-08 - 22 hours ago
+- [SecurityWeek] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites - 1 hour ago
+- [BleepingComputer] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain - 1 hour ago
+- [DataBreaches] DaVita settles ransomware attack lawsuit for $15M - 4 hours ago
+- [DataBreaches] Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract - 4 hours ago
+- [BleepingComputer] OpenAI admits it didn't disclose rogue AI wiki hijacking incident - 4 hours ago
+- [HackerNews] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - 4 hours ago
+- [HackerNews] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - 7 hours ago
+- [GitHub] Degradation in repos contents API - 17 hours ago
+- [CloudFlare] ORD (Chicago) on 2026-09-03 - 17 hours ago
+- [CloudFlare] Zero Trust Dashboard - Posture Check Visibility Issue - 18 hours ago
+- [CloudFlare] Elevated number of R2 503 errors in Eastern North America region - 18 hours ago
+- [CloudFlare] CBR (Canberra) on 2026-09-08 - 18 hours ago
+- [CloudFlare] FUK (Fukuoka) on 2026-09-08 - 18 hours ago
+- [GitHub] Disruption with Copilot Code Review - 18 hours ago
+- [RegisterSec] ASCII smuggling isn't just an AI security risk - 20 hours ago
+- [CloudFlare] BNA (Nashville) on 2026-09-02 - 21 hours ago
+- [RegisterSec] Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident - 23 hours ago
+- [SecurityWeek] OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders - 23 hours ago
+- [SecurityWeek] HPE Patches Critical RCE Vulnerabilities in AOS-CX - 23 hours ago
+- [SecurityWeek] In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation - 23 hours ago
+- [HackerNews] New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic - 23 hours ago
+- [HackerNews] PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution - 23 hours ago
+- [HackerNews] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters - 23 hours ago
+- [BleepingComputer] 39 New Methods That Compromise Passkey Authentication - 23 hours ago
+- [BleepingComputer] Microsoft says some users can’t open the Teams desktop client - 23 hours ago
+- [BleepingComputer] Critical Citrix NetScaler auth bypass now leveraged in attacks - 23 hours ago
+- [BleepingComputer] IDScan sued over alleged data breach affecting 153 million drivers - 23 hours ago
+- [CloudFlare] Cache Purging Errors - 1 day ago
+- [SecurityWeek] Nvidia Is Buying AI Platform Hugging Face for $13 Billion - 1 day ago
+- [SecurityWeek] Google Patches 6th Chrome Zero-Day of 2026 - 1 day ago
+- [SecurityWeek] VMware Workstation and Fusion Updates Patch Critical Vulnerability - 1 day ago
+- [BleepingComputer] Google warns of new Chrome zero-day flaw exploited in attacks - 1 day ago
+- [SecurityWeek] Catch Raises $5 Million for AI Executive Assistant With Guardrails - 1 day ago
+- [BleepingComputer] Exchange Online outage causes email delays, 'Server busy' errors - 1 day ago
+- [SecurityWeek] 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover - 1 day ago
+- [BleepingComputer] New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges - 1 day ago
+- [SecurityWeek] Sangoma Switchvox Vulnerabilities Exploited in the Wild - 1 day ago
+- [NHSDigital] CC-4844 - Google Releases Security Update for Chrome - 1 day ago
+- [CloudFlare] SEA (Seattle) on 2026-09-04 - 1 day ago
+- [CloudFlare] AMS (Amsterdam) on 2026-09-06 - 1 day ago
+- [CloudFlare] AMS (Amsterdam) on 2026-09-07 - 1 day ago
+- [CloudFlare] AMS (Amsterdam) on 2026-09-08 - 1 day ago
 - [HackerNews] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - 1 day ago
 - [HackerNews] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day - 1 day ago
 - [HackerNews] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws - 1 day ago
@@ -108,32 +114,6 @@ description: Latest Updates
 - [SecurityWeek] Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal - 1 day ago
 - [CloudFlare] HTTP/3 issue affecting R2 custom domains - 1 day ago
 - [GitHub] Incident with Grok Copilot AI Model Provider - 1 day ago
-- [HackerNews] Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone - 1 day ago
-- [HackerNews] Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means - 1 day ago
-- [HackerNews] Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks - 1 day ago
-- [HackerNews] US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries - 1 day ago
-- [RegisterSec] Cybercrooks trawl Fishbrain to net password hashes - 1 day ago
-- [SecurityWeek] Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities - 1 day ago
-- [SecurityWeek] Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability - 1 day ago
-- [SecurityWeek] 153 Million Driver License Images Offered on Dark Web - 1 day ago
-- [SecurityWeek] AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million - 1 day ago
-- [SecurityWeek] HiddenLayer Raises $100 Million for AI Runtime Security - 1 day ago
-- [BleepingComputer] Plex warns users to patch security vulnerabilities immediately - 1 day ago
-- [BleepingComputer] Microsoft says KB5120998 Windows update resets desktop settings - 1 day ago
-- [NHSDigital] CC-4841 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware Workstation and VMware Fusion - 1 day ago
-- [BleepingComputer] Your Employee’s Password Appeared in an Infostealer Log. Now What? - 1 day ago
-- [NHSDigital] CC-4842 - Cisco Releases IOS XR Software Security Hardening Guidance - 1 day ago
-- [NHSDigital] CC-4843 - Cisco Releases Security Updates for Cisco NX-OS Software - 1 day ago
-- [CloudFlare] Increased HTTP 522 Errors  in Seattle (SEA) - 1 day ago
-- [CloudFlare] Increased HTTP 5xx Errors in Hong Kong. - 1 day ago
-- [CloudFlare] KHH (Kaohsiung City) on 2026-09-03 - 1 day ago
-- [RegisterSec] To keep the AI hacking genie bottled up, try one-way networks - 2 days ago
-- [RegisterSec] Terminated employee cost company hundreds of thousands of dollars because nobody revoked access - 2 days ago
-- [RegisterSec] UK's Online Safety Act has made 'absolutely no difference,' kids say - 2 days ago
-- [HackerNews] CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners - 2 days ago
-- [HackerNews] Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon - 2 days ago
-- [BleepingComputer] Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs - 2 days ago
-- [HIBP] Manchester Airports Group - 8,849,657 breached accounts - 2 days ago
 
 
 <!-- SecOps end -->
