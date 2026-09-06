@@ -9,22 +9,28 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [DataBreaches] French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft - 1 hour ago
-- [CloudFlare] IAD (Ashburn) on 2026-09-10 - 5 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-09-11 - 5 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-09-15 - 5 hours ago
-- [CloudFlare] IAD (Ashburn) on 2026-09-16 - 5 hours ago
-- [HackerNews] Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - 14 hours ago
-- [DataBreaches] FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor - 16 hours ago
-- [HackerNews] Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted - 18 hours ago
-- [HackerNews] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code - 18 hours ago
-- [HackerNews] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials - 18 hours ago
-- [SecurityWeek] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites - 20 hours ago
-- [BleepingComputer] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain - 20 hours ago
-- [DataBreaches] DaVita settles ransomware attack lawsuit for $15M - 23 hours ago
-- [DataBreaches] Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract - 23 hours ago
-- [BleepingComputer] OpenAI admits it didn't disclose rogue AI wiki hijacking incident - 23 hours ago
-- [HackerNews] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - 23 hours ago
+- [DataBreaches] US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure - 19 minutes ago
+- [DataBreaches] Natural Resources Wales confirms data breach due to human error - 19 minutes ago
+- [DataBreaches] NYS Comptroller DiNapoli releases more municipal cybersecurity audits - 19 minutes ago
+- [BleepingComputer] Attackers conceal phishing lures using invisible Unicode characters - 19 minutes ago
+- [HackerNews] Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner - 3 hours ago
+- [HackerNews] Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication - 3 hours ago
+- [DataBreaches] French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft - 6 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-10 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-11 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-15 - 10 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-16 - 10 hours ago
+- [HackerNews] Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - 19 hours ago
+- [DataBreaches] FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor - 21 hours ago
+- [HackerNews] Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted - 23 hours ago
+- [HackerNews] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code - 23 hours ago
+- [HackerNews] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials - 23 hours ago
+- [SecurityWeek] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites - 1 day ago
+- [BleepingComputer] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain - 1 day ago
+- [DataBreaches] DaVita settles ransomware attack lawsuit for $15M - 1 day ago
+- [DataBreaches] Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract - 1 day ago
+- [BleepingComputer] OpenAI admits it didn't disclose rogue AI wiki hijacking incident - 1 day ago
+- [HackerNews] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - 1 day ago
 - [HackerNews] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - 1 day ago
 - [GitHub] Degradation in repos contents API - 1 day ago
 - [CloudFlare] ORD (Chicago) on 2026-09-03 - 1 day ago
@@ -46,25 +52,17 @@ description: Latest Updates
 - [BleepingComputer] Microsoft says some users can’t open the Teams desktop client - 1 day ago
 - [BleepingComputer] Critical Citrix NetScaler auth bypass now leveraged in attacks - 1 day ago
 - [BleepingComputer] IDScan sued over alleged data breach affecting 153 million drivers - 1 day ago
-- [CloudFlare] Cache Purging Errors - 1 day ago
-- [SecurityWeek] Nvidia Is Buying AI Platform Hugging Face for $13 Billion - 1 day ago
-- [SecurityWeek] Google Patches 6th Chrome Zero-Day of 2026 - 1 day ago
-- [SecurityWeek] VMware Workstation and Fusion Updates Patch Critical Vulnerability - 1 day ago
-- [BleepingComputer] Google warns of new Chrome zero-day flaw exploited in attacks - 1 day ago
-- [SecurityWeek] Catch Raises $5 Million for AI Executive Assistant With Guardrails - 1 day ago
-- [BleepingComputer] Exchange Online outage causes email delays, 'Server busy' errors - 1 day ago
-- [SecurityWeek] 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover - 1 day ago
-- [BleepingComputer] New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges - 1 day ago
-- [SecurityWeek] Sangoma Switchvox Vulnerabilities Exploited in the Wild - 1 day ago
-- [NHSDigital] CC-4844 - Google Releases Security Update for Chrome - 1 day ago
-- [CloudFlare] SEA (Seattle) on 2026-09-04 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-06 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-07 - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-08 - 1 day ago
-- [HackerNews] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - 2 days ago
-- [HackerNews] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day - 2 days ago
-- [HackerNews] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws - 2 days ago
-- [HackerNews] Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws - 2 days ago
+- [CloudFlare] Cache Purging Errors - 2 days ago
+- [SecurityWeek] Nvidia Is Buying AI Platform Hugging Face for $13 Billion - 2 days ago
+- [SecurityWeek] Google Patches 6th Chrome Zero-Day of 2026 - 2 days ago
+- [SecurityWeek] VMware Workstation and Fusion Updates Patch Critical Vulnerability - 2 days ago
+- [BleepingComputer] Google warns of new Chrome zero-day flaw exploited in attacks - 2 days ago
+- [SecurityWeek] Catch Raises $5 Million for AI Executive Assistant With Guardrails - 2 days ago
+- [BleepingComputer] Exchange Online outage causes email delays, 'Server busy' errors - 2 days ago
+- [SecurityWeek] 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover - 2 days ago
+- [BleepingComputer] New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges - 2 days ago
+- [SecurityWeek] Sangoma Switchvox Vulnerabilities Exploited in the Wild - 2 days ago
+- [NHSDigital] CC-4844 - Google Releases Security Update for Chrome - 2 days ago
 
 
 <!-- SecOps end -->
