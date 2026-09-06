@@ -9,33 +9,43 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites - 1 hour ago
-- [BleepingComputer] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain - 1 hour ago
-- [DataBreaches] DaVita settles ransomware attack lawsuit for $15M - 4 hours ago
-- [DataBreaches] Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract - 4 hours ago
-- [BleepingComputer] OpenAI admits it didn't disclose rogue AI wiki hijacking incident - 4 hours ago
-- [HackerNews] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - 4 hours ago
-- [HackerNews] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - 7 hours ago
-- [GitHub] Degradation in repos contents API - 17 hours ago
-- [CloudFlare] ORD (Chicago) on 2026-09-03 - 17 hours ago
-- [CloudFlare] Zero Trust Dashboard - Posture Check Visibility Issue - 18 hours ago
-- [CloudFlare] Elevated number of R2 503 errors in Eastern North America region - 18 hours ago
-- [CloudFlare] CBR (Canberra) on 2026-09-08 - 18 hours ago
-- [CloudFlare] FUK (Fukuoka) on 2026-09-08 - 18 hours ago
-- [GitHub] Disruption with Copilot Code Review - 18 hours ago
-- [RegisterSec] ASCII smuggling isn't just an AI security risk - 20 hours ago
-- [CloudFlare] BNA (Nashville) on 2026-09-02 - 21 hours ago
-- [RegisterSec] Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident - 23 hours ago
-- [SecurityWeek] OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders - 23 hours ago
-- [SecurityWeek] HPE Patches Critical RCE Vulnerabilities in AOS-CX - 23 hours ago
-- [SecurityWeek] In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation - 23 hours ago
-- [HackerNews] New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic - 23 hours ago
-- [HackerNews] PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution - 23 hours ago
-- [HackerNews] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters - 23 hours ago
-- [BleepingComputer] 39 New Methods That Compromise Passkey Authentication - 23 hours ago
-- [BleepingComputer] Microsoft says some users can’t open the Teams desktop client - 23 hours ago
-- [BleepingComputer] Critical Citrix NetScaler auth bypass now leveraged in attacks - 23 hours ago
-- [BleepingComputer] IDScan sued over alleged data breach affecting 153 million drivers - 23 hours ago
+- [DataBreaches] French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft - 1 hour ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-10 - 5 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-11 - 5 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-15 - 5 hours ago
+- [CloudFlare] IAD (Ashburn) on 2026-09-16 - 5 hours ago
+- [HackerNews] Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - 14 hours ago
+- [DataBreaches] FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor - 16 hours ago
+- [HackerNews] Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted - 18 hours ago
+- [HackerNews] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code - 18 hours ago
+- [HackerNews] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials - 18 hours ago
+- [SecurityWeek] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites - 20 hours ago
+- [BleepingComputer] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain - 20 hours ago
+- [DataBreaches] DaVita settles ransomware attack lawsuit for $15M - 23 hours ago
+- [DataBreaches] Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract - 23 hours ago
+- [BleepingComputer] OpenAI admits it didn't disclose rogue AI wiki hijacking incident - 23 hours ago
+- [HackerNews] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - 23 hours ago
+- [HackerNews] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - 1 day ago
+- [GitHub] Degradation in repos contents API - 1 day ago
+- [CloudFlare] ORD (Chicago) on 2026-09-03 - 1 day ago
+- [CloudFlare] Zero Trust Dashboard - Posture Check Visibility Issue - 1 day ago
+- [CloudFlare] Elevated number of R2 503 errors in Eastern North America region - 1 day ago
+- [CloudFlare] CBR (Canberra) on 2026-09-08 - 1 day ago
+- [CloudFlare] FUK (Fukuoka) on 2026-09-08 - 1 day ago
+- [GitHub] Disruption with Copilot Code Review - 1 day ago
+- [RegisterSec] ASCII smuggling isn't just an AI security risk - 1 day ago
+- [CloudFlare] BNA (Nashville) on 2026-09-02 - 1 day ago
+- [RegisterSec] Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident - 1 day ago
+- [SecurityWeek] OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders - 1 day ago
+- [SecurityWeek] HPE Patches Critical RCE Vulnerabilities in AOS-CX - 1 day ago
+- [SecurityWeek] In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation - 1 day ago
+- [HackerNews] New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic - 1 day ago
+- [HackerNews] PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution - 1 day ago
+- [HackerNews] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters - 1 day ago
+- [BleepingComputer] 39 New Methods That Compromise Passkey Authentication - 1 day ago
+- [BleepingComputer] Microsoft says some users can’t open the Teams desktop client - 1 day ago
+- [BleepingComputer] Critical Citrix NetScaler auth bypass now leveraged in attacks - 1 day ago
+- [BleepingComputer] IDScan sued over alleged data breach affecting 153 million drivers - 1 day ago
 - [CloudFlare] Cache Purging Errors - 1 day ago
 - [SecurityWeek] Nvidia Is Buying AI Platform Hugging Face for $13 Billion - 1 day ago
 - [SecurityWeek] Google Patches 6th Chrome Zero-Day of 2026 - 1 day ago
@@ -51,69 +61,10 @@ description: Latest Updates
 - [CloudFlare] AMS (Amsterdam) on 2026-09-06 - 1 day ago
 - [CloudFlare] AMS (Amsterdam) on 2026-09-07 - 1 day ago
 - [CloudFlare] AMS (Amsterdam) on 2026-09-08 - 1 day ago
-- [HackerNews] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - 1 day ago
-- [HackerNews] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day - 1 day ago
-- [HackerNews] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws - 1 day ago
-- [HackerNews] Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws - 1 day ago
-- [CloudFlare] TPA (Tampa) on 2026-09-03 - 1 day ago
-- [CloudFlare] Elevated connectivity degradation in NRT - 1 day ago
-- [CloudFlare] AMS (Amsterdam) on 2026-09-09 - 1 day ago
-- [FullDisclosure] thttpd v2.26 Stack-Based Buffer Overflow in thttpd redirect	CGI Program - 1 day ago
-- [FullDisclosure] WireGuard-Linux Stack-Based Buffer Overflow in lsiio (Linux IIO Userspace Tool) Due to Unbounded fscanf - 1 day ago
-- [FullDisclosure] Payara 7.2026.1.RC1 Arbitrary EJB Method Invocation via Insecure Reflection in Payara Server - 1 day ago
-- [FullDisclosure] Payara 7.2026.1.RC1 Remote Code Execution via Server-Side Includes #exec Directive in Payara Server - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Stored Arbitrary Expression Injection in ExpressionsDirective Allows Arbitrary File Read - 1 day ago
-- [RegisterSoftware] The search company that plants trees just launched a Linux browser to help Europe battle big tech - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Server-Side Request Forgery via fetch() in Query API - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Path Traversal in Entry Copy Allows Arbitrary Directory Copy and File Disclosure - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 NULL access_token Authentication Bypass - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Stored Expression Injection Enables PHP Remote Code Execution - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Stored Filesystem Shortcode Allows Arbitrary File Read - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 Stored Fetch Shortcode Allows Server-Side Request Forgery - 1 day ago
-- [RegisterSec] Cisco searched for IOS XR bugs and found so many it rolled them into an update release - 1 day ago
-- [FullDisclosure] Flextype v1.0.0-alpha.3 CMS registerShortcodes() Remote Code Execution via Attacker-Controlled File Inclusion - 1 day ago
-- [FullDisclosure] O-CMS 1.0.0 Authenticated OS Command Injection via	ai_cli_script - 1 day ago
-- [FullDisclosure] Next.js 16.4.0-canary.13 Image Optimizer DNS Rebinding TOCTOU SSRF Still Exists - 1 day ago
-- [FullDisclosure] HP Easy Start for macOS: CVE-2026-12554 / CVE-2026-12555 /	CVE-2026-12556 - 1 day ago
-- [CloudFlare] KHH (Kaohsiung City) on 2026-09-02 - 1 day ago
-- [CloudFlare] PDX (Portland) on 2026-09-08 - 1 day ago
-- [CloudFlare] DUB (Dublin) on 2026-09-09 - 1 day ago
-- [FullDisclosure] Acunetix 25.11.x - Local Privilege Escalation Vulnerability via OpenSSL Configuration (CVE-2026-6958) - 1 day ago
-- [FullDisclosure] [0day-rubbish] Akana API Platform 8.4.29 Unauthenticated RCE via path-normalization filter/dispatcher discrepancy (9.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] Codoforum 5.4.1 Authenticated arbitrary file upload to PHP RCE (7.2) - 1 day ago
-- [FullDisclosure] [0day-rubbish] DrayTek Vigor 2960 v1.5.1.6 Authenticated command injection to root RCE in uploadlangs (8.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] GeoVision GV-TBL4700 V1.06 Authenticated command injection to root RCE via SNMPv3 user configuration (8.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] Lantronix EDS3000PR 3.2.0.0R2 two	vulnerabilities - 1 day ago
-- [FullDisclosure] [0day-rubbish] Minuteman UPS Network Management Card 1.60.3 Unauthenticated OS command injection to root RCE (9.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] NoMachine Terminal Server 10.0.57 two vulnerabilities - 1 day ago
-- [FullDisclosure] [0day-rubbish] Puppet Enterprise 2025.10.0 Authenticated command injection to root RCE (patch-bypass variant of CVE-2025-5459) (8.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] StreamSets DataCollector 6.4.1 (official Docker image) Default credentials plus unsandboxed Shell Executor to root RCE (9.8) - 1 day ago
-- [FullDisclosure] [0day-rubbish] ZesleCP 3.1.21 Authenticated arbitrary file write to root RCE via cron (8.8) - 1 day ago
-- [FullDisclosure] Paho v1.3.15 Arbitrary Code Execution via Shared Library	Search Path Hijacking - 1 day ago
-- [RegisterSec] OpenAI commits $1B in AI credits to frontline cyber defenders - 1 day ago
-- [AWS] Service is operating normally: [RESOLVED] Increased API Error Rates - 1 day ago
-- [CloudFlare] Workers Builds elevated queue times - 1 day ago
-- [CloudFlare] YUL (Montréal) on 2026-09-04 - 1 day ago
-- [BleepingComputer] French hospital fined €500,000 after breach exposes data of 727,000 - 1 day ago
-- [AWS] Service impact: Increased API Error Rates - 1 day ago
-- [CloudFlare] DUB (Dublin) on 2026-09-10 - 1 day ago
-- [HackerNews] ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories - 1 day ago
-- [RegisterSec] Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC - 1 day ago
-- [BleepingComputer] HPE patches critical ArubaOS-CX remote code execution flaw - 1 day ago
-- [BleepingComputer] Coder's registry infrastructure compromised to push malicious modules - 1 day ago
-- [CloudFlare] IAD (Ashburn) on 2026-09-07 - 1 day ago
-- [BleepingComputer] Critical Elementor Pro flaw exploited to take over WordPress sites - 1 day ago
-- [BleepingComputer] Anthropic confirms Claude is down, multiple models affected - 1 day ago
-- [BleepingComputer] OpenAI confirms ChatGPT is down ahead of 'Astra' model launch - 1 day ago
-- [BleepingComputer] Microsoft: KB5120998 mouse reset bug affects only non-English PCs - 1 day ago
-- [RegisterSec] Drowning in CVEs and thirsty for answers? Try CTEM - 1 day ago
-- [HackerNews] Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data - 1 day ago
-- [HackerNews] BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory - 1 day ago
-- [HackerNews] Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root - 1 day ago
-- [SecurityWeek] Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents - 1 day ago
-- [SecurityWeek] Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal - 1 day ago
-- [CloudFlare] HTTP/3 issue affecting R2 custom domains - 1 day ago
-- [GitHub] Incident with Grok Copilot AI Model Provider - 1 day ago
+- [HackerNews] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - 2 days ago
+- [HackerNews] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day - 2 days ago
+- [HackerNews] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws - 2 days ago
+- [HackerNews] Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws - 2 days ago
 
 
 <!-- SecOps end -->
