@@ -9,70 +9,100 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [GitHub] Incident across several services - 1 hour ago
-- [SecurityWeek] Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm - 4 hours ago
-- [SecurityWeek] A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk - 4 hours ago
-- [SecurityWeek] Chrome 154 Patches 108 Vulnerabilities - 4 hours ago
-- [SecurityWeek] AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft - 4 hours ago
-- [SecurityWeek] Adobe Patches Critical Flaws in Connect, AEM Forms - 4 hours ago
-- [SecurityWeek] Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare - 4 hours ago
-- [NHSDigital] CC-4857 - Critical RCE Vulnerability in F5 BIG-IP APM Under Exploitation - 4 hours ago
-- [HackerNews] Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape - 4 hours ago
-- [HackerNews] Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests - 4 hours ago
-- [HackerNews] 545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent - 4 hours ago
-- [BleepingComputer] Microsoft: September Windows updates break Always On VPN connections - 4 hours ago
-- [HackerNews] New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control - 4 hours ago
-- [BleepingComputer] Arista patches actively exploited VeloCloud Orchestrator zero-day - 4 hours ago
-- [RegisterSec] Ofcom takes a hard look at Pornhub's Apple-powered age checks - 4 hours ago
-- [GitHub] Incident with API Requests and Projects - 5 hours ago
-- [SecurityWeek] Check Point Patches Exploited Management Server Zero-Day - 9 hours ago
-- [SecurityWeek] ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report - 9 hours ago
-- [SecurityWeek] Critical F5 BIG-IP Vulnerability Exploited as Zero-Day - 9 hours ago
-- [SecurityWeek] Arista Urges Immediate Patching of Exploited VCO Zero-Day - 9 hours ago
-- [RegisterSec] Why security belongs in the network - 9 hours ago
-- [BleepingComputer] F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks - 9 hours ago
-- [HackerNews] ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants - 9 hours ago
-- [BleepingComputer] Ryuk ransomware member sentenced to 24 months in prison - 9 hours ago
-- [HackerNews] Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input - 9 hours ago
-- [HackerNews] Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware - 9 hours ago
-- [TroyHunt] Weekly Update 522: Live From Oslo with Scott Helme - 9 hours ago
-- [HackerNews] F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers - 9 hours ago
-- [BleepingComputer] Sweden fines Miljödata $183,000 over breach affecting 2.2 million - 18 hours ago
-- [BleepingComputer] Rogue external MFA providers can steal passwords during logins - 18 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-3 macOS Golden Gate 27 - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-4 macOS Tahoe 26.7 - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-5 macOS Sequoia 15.8 - 20 hours ago
-- [RegisterSec] Who signed off on that AI agent? Nobody? Thought so. - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-6 tvOS 27 - 20 hours ago
-- [RegisterSec] UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-7 watchOS 27 - 20 hours ago
-- [RegisterSec] Z.ai says sorry for slurping up your code, open sources ZCode - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-8 visionOS 27 - 20 hours ago
-- [RegisterSec] NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past - 20 hours ago
-- [BleepingComputer] ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-9 Safari 27 - 20 hours ago
-- [BleepingComputer] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data - 20 hours ago
-- [FullDisclosure] APPLE-SA-09-14-2026-10 Xcode 27 - 20 hours ago
-- [RegisterSec] ShinyHunters claims FBI hack: 'This is NOT financially motivated' - 20 hours ago
-- [FullDisclosure] [0day-rubbish] Teltonika RutOS 00.07.06.21 Authenticated ipsec.lua logread command injection with reflected output (8.8) - 20 hours ago
-- [RegisterSec] Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions - 20 hours ago
-- [FullDisclosure] [0day-rubbish] TigerGraph Community Edition 4.2.4 Default credentials plus GSQL TO_CSV arbitrary file write to SSH code execution (9.8) - 20 hours ago
-- [FullDisclosure] CVE-2026-44756: Pre-Auth RCE in SAP EPP Processing (ICM, Web Dispatcher, disp+work) - 20 hours ago
-- [FullDisclosure] CVE-2026-17613: Penpot cross-team file takeover via import-binfile (unpatched in 2.17.2) - 20 hours ago
-- [FullDisclosure] CFP No cON Name 2k26 - Palma, Mallorca - Spain - 20 hours ago
-- [FullDisclosure] HP Advance / Output Central: unauthenticated SYSTEM RCE and two additional vulnerabilities (CVE-2026-89082/89083/89084) - 20 hours ago
-- [HackerNews] Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - 20 hours ago
-- [FullDisclosure] Code Security Review tool - 20 hours ago
-- [HackerNews] WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - 20 hours ago
-- [HackerNews] Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - 20 hours ago
-- [BleepingComputer] EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts - 23 hours ago
-- [HackerNews] Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates - 23 hours ago
-- [BleepingComputer] Check Point warns of Management Server zero-day exploited in attacks - 23 hours ago
-- [BleepingComputer] Reducing shadow IT visibility gaps with Wazuh - 23 hours ago
-- [HackerNews] Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials - 23 hours ago
-- [SecurityWeek] BigCommerce Data Stolen via Ribon Apps Hack - 23 hours ago
-- [BleepingComputer] New ClosedQuorum Windows malware uses AI for attack decisions - 23 hours ago
-- [HackerNews] Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises - 23 hours ago
+- [RegisterSec] Government contractor exposed path to immigration records - 3 hours ago
+- [RegisterSoftware] Experts question whether Salesforce demo breaches SAP API policy - 3 hours ago
+- [BleepingComputer] Microsoft fixes bug that broke Windows File History backup feature - 3 hours ago
+- [SecurityWeek] IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder - 3 hours ago
+- [SecurityWeek] Critical WordPress Vulnerability Exploited Immediately After Disclosure - 3 hours ago
+- [SecurityWeek] US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks - 3 hours ago
+- [HackerNews] Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - 3 hours ago
+- [HackerNews] TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords - 3 hours ago
+- [HackerNews] OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files - 3 hours ago
+- [RegisterSec] OpenAI agents ‘infiltrated Australian government website’ - 8 hours ago
+- [GrahamCluley] Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras - 12 hours ago
+- [BleepingComputer] Placeholder domain used in dev docs now serves ClickFix attacks - 12 hours ago
+- [BleepingComputer] Hackers start exploiting critical WordPress flaw for code execution - 14 hours ago
+- [BleepingComputer] Check Point warns of hackers exploiting Security Gateway VPN RCE flaw - 14 hours ago
+- [BleepingComputer] New RemControl Android banking malware targets users in Europe and Canada - 14 hours ago
+- [SecurityWeek] IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin - 14 hours ago
+- [HackerNews] Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry - 14 hours ago
+- [HackerNews] Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI - 18 hours ago
+- [HackerNews] This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move - 18 hours ago
+- [HackerNews] MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key - 18 hours ago
+- [HackerNews] A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You - 18 hours ago
+- [RegisterSec] British regulator takes a hard look at Pornhub's Apple-powered age checks - 18 hours ago
+- [RegisterSec] Closing the observability gap for the AI-ready enterprise - 18 hours ago
+- [RegisterSec] Academic publisher Elsevier hit by LAPSUS$ redirect attack - 18 hours ago
+- [RegisterSec] Someone's attacking a critical 0-day RCE in F5 BIG-IP APM - 18 hours ago
+- [SecurityWeek] Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios - 18 hours ago
+- [BleepingComputer] How One Kubernetes YAML Can Hand Over a GCP Organization - 18 hours ago
+- [BleepingComputer] InfraTrust report warns network management systems under attack - 18 hours ago
+- [BleepingComputer] Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers - 18 hours ago
+- [IT Governance] The 4 CISM Domains Explained - 18 hours ago
+- [GitHub] Incident across several services - 19 hours ago
+- [SecurityWeek] Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm - 22 hours ago
+- [SecurityWeek] A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk - 22 hours ago
+- [SecurityWeek] Chrome 154 Patches 108 Vulnerabilities - 22 hours ago
+- [SecurityWeek] AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft - 22 hours ago
+- [SecurityWeek] Adobe Patches Critical Flaws in Connect, AEM Forms - 22 hours ago
+- [SecurityWeek] Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare - 22 hours ago
+- [NHSDigital] CC-4857 - Critical RCE Vulnerability in F5 BIG-IP APM Under Exploitation - 22 hours ago
+- [HackerNews] Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape - 22 hours ago
+- [HackerNews] Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests - 22 hours ago
+- [HackerNews] 545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent - 22 hours ago
+- [BleepingComputer] Microsoft: September Windows updates break Always On VPN connections - 22 hours ago
+- [HackerNews] New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control - 22 hours ago
+- [BleepingComputer] Arista patches actively exploited VeloCloud Orchestrator zero-day - 22 hours ago
+- [RegisterSec] Ofcom takes a hard look at Pornhub's Apple-powered age checks - 22 hours ago
+- [GitHub] Incident with API Requests and Projects - 1 day ago
+- [SecurityWeek] Check Point Patches Exploited Management Server Zero-Day - 1 day ago
+- [SecurityWeek] ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report - 1 day ago
+- [SecurityWeek] Critical F5 BIG-IP Vulnerability Exploited as Zero-Day - 1 day ago
+- [SecurityWeek] Arista Urges Immediate Patching of Exploited VCO Zero-Day - 1 day ago
+- [RegisterSec] Why security belongs in the network - 1 day ago
+- [BleepingComputer] F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks - 1 day ago
+- [HackerNews] ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants - 1 day ago
+- [BleepingComputer] Ryuk ransomware member sentenced to 24 months in prison - 1 day ago
+- [HackerNews] Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input - 1 day ago
+- [HackerNews] Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware - 1 day ago
+- [TroyHunt] Weekly Update 522: Live From Oslo with Scott Helme - 1 day ago
+- [HackerNews] F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers - 1 day ago
+- [BleepingComputer] Sweden fines Miljödata $183,000 over breach affecting 2.2 million - 1 day ago
+- [BleepingComputer] Rogue external MFA providers can steal passwords during logins - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-3 macOS Golden Gate 27 - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-4 macOS Tahoe 26.7 - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-5 macOS Sequoia 15.8 - 1 day ago
+- [RegisterSec] Who signed off on that AI agent? Nobody? Thought so. - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-6 tvOS 27 - 1 day ago
+- [RegisterSec] UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-7 watchOS 27 - 1 day ago
+- [RegisterSec] Z.ai says sorry for slurping up your code, open sources ZCode - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-8 visionOS 27 - 1 day ago
+- [RegisterSec] NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past - 1 day ago
+- [BleepingComputer] ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-9 Safari 27 - 1 day ago
+- [BleepingComputer] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data - 1 day ago
+- [FullDisclosure] APPLE-SA-09-14-2026-10 Xcode 27 - 1 day ago
+- [RegisterSec] ShinyHunters claims FBI hack: 'This is NOT financially motivated' - 1 day ago
+- [FullDisclosure] [0day-rubbish] Teltonika RutOS 00.07.06.21 Authenticated ipsec.lua logread command injection with reflected output (8.8) - 1 day ago
+- [RegisterSec] Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions - 1 day ago
+- [FullDisclosure] [0day-rubbish] TigerGraph Community Edition 4.2.4 Default credentials plus GSQL TO_CSV arbitrary file write to SSH code execution (9.8) - 1 day ago
+- [FullDisclosure] CVE-2026-44756: Pre-Auth RCE in SAP EPP Processing (ICM, Web Dispatcher, disp+work) - 1 day ago
+- [FullDisclosure] CVE-2026-17613: Penpot cross-team file takeover via import-binfile (unpatched in 2.17.2) - 1 day ago
+- [FullDisclosure] CFP No cON Name 2k26 - Palma, Mallorca - Spain - 1 day ago
+- [FullDisclosure] HP Advance / Output Central: unauthenticated SYSTEM RCE and two additional vulnerabilities (CVE-2026-89082/89083/89084) - 1 day ago
+- [HackerNews] Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - 1 day ago
+- [FullDisclosure] Code Security Review tool - 1 day ago
+- [HackerNews] WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - 1 day ago
+- [HackerNews] Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - 1 day ago
+- [BleepingComputer] EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts - 1 day ago
+- [HackerNews] Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates - 1 day ago
+- [BleepingComputer] Check Point warns of Management Server zero-day exploited in attacks - 1 day ago
+- [BleepingComputer] Reducing shadow IT visibility gaps with Wazuh - 1 day ago
+- [HackerNews] Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials - 1 day ago
+- [SecurityWeek] BigCommerce Data Stolen via Ribon Apps Hack - 1 day ago
+- [BleepingComputer] New ClosedQuorum Windows malware uses AI for attack decisions - 1 day ago
+- [HackerNews] Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises - 1 day ago
 - [HackerNews] Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal - 1 day ago
 - [HackerNews] SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE - 1 day ago
 - [HackerNews] New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory - 1 day ago
@@ -88,40 +118,16 @@ description: Latest Updates
 - [BleepingComputer] D-Link warns of max severity zero-day bug in DIR-822A routers - 1 day ago
 - [SecurityWeek] Cyera Raises $400 Million at $12+ Billion Valuation - 1 day ago
 - [BleepingComputer] Webinar tomorrow: Inside real-world Google Workspace breaches - 1 day ago
-- [HIBP] LimeLeads - 17,838,396 breached accounts - 1 day ago
-- [HackerNews] Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access - 1 day ago
-- [HackerNews] WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - 1 day ago
-- [HackerNews] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor - 1 day ago
-- [HackerNews] SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing - 1 day ago
-- [RegisterSoftware] Commodore's forgotten Amiga Unix gets a modern revival - 1 day ago
-- [RegisterSoftware] Longtime SUSE staff asked if they'd opt for 'voluntary separation' - 1 day ago
-- [BleepingComputer] CISA orders feds to patch Zyxel flaw exploited for data theft - 1 day ago
-- [BleepingComputer] New Windows Defender zero-day blocks Microsoft antivirus updates - 1 day ago
-- [SecurityWeek] Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme - 1 day ago
-- [SecurityWeek] US Proposes AI Incident Alert System in Talks With China, Bessent Says - 1 day ago
-- [RegisterSec] Anthropic-linked CVEs pile up, attackers mostly shrug - 1 day ago
-- [RegisterSec] Treasury chief says AI bosses, not their bots, will carry the can for criminal acts - 1 day ago
-- [RegisterSec] Meta Muse AI app flaw lets local malware redirect dictation traffic - 1 day ago
-- [BleepingComputer] WordPress Click2Shell flaw lets hackers execute PHP on the server - 1 day ago
-- [BleepingComputer] CISA alerts of active exploitation of three Linux kernel flaws - 1 day ago
-- [BleepingComputer] BigCommerce alerts merchants of data breach linked to Ribon apps - 1 day ago
-- [SecurityWeek] RatHat Android Trojan Uses AI for Automation - 1 day ago
-- [SecurityWeek] Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal - 1 day ago
-- [SecurityWeek] CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast - 1 day ago
-- [SecurityWeek] Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer - 1 day ago
-- [SecurityWeek] Google Hit With $463 Million Fine for EU Location Data Rule Breach - 1 day ago
-- [RegisterSec] Clop gets a taste of its own medicine after ShinyHunters hijack leak site - 1 day ago
-- [BleepingComputer] Microsoft reminds admins to migrate Entra ID users to passkeys - 1 day ago
-- [BleepingComputer] FBI's CJIS v6.1: What Security Teams Need to Know. - 1 day ago
-- [BleepingComputer] Microsoft fixes broken Excel copy and paste for all Office users - 1 day ago
-- [BleepingComputer] Google fined €403 million over location data privacy violations - 1 day ago
-- [BleepingComputer] Microsoft to retire Microsoft 365 Companion apps in December - 1 day ago
-- [HackerNews] TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data - 1 day ago
-- [HIBP] Burger King Russia - 3,155,792 breached accounts - 1 day ago
-- [HackerNews] ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks - 1 day ago
-- [HackerNews] Google Fined €403 Million Over GDPR Violations Tied to Location Data - 1 day ago
-- [HackerNews] Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto - 1 day ago
-- [HackerNews] Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR - 1 day ago
+- [HIBP] LimeLeads - 17,838,396 breached accounts - 2 days ago
+- [HackerNews] Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access - 2 days ago
+- [HackerNews] WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - 2 days ago
+- [HackerNews] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor - 2 days ago
+- [HackerNews] SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing - 2 days ago
+- [RegisterSoftware] Commodore's forgotten Amiga Unix gets a modern revival - 2 days ago
+- [RegisterSoftware] Longtime SUSE staff asked if they'd opt for 'voluntary separation' - 2 days ago
+- [BleepingComputer] CISA orders feds to patch Zyxel flaw exploited for data theft - 2 days ago
+- [BleepingComputer] New Windows Defender zero-day blocks Microsoft antivirus updates - 2 days ago
+- [SecurityWeek] Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme - 2 days ago
 
 
 <!-- SecOps end -->
