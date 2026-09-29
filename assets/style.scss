@@ -9,13 +9,13 @@ html {
 // 16px = 1em
 
 @font-face {
-    font-family: "TheChelsLight";
-    src: url("/assets/TheChelsLight.woff") format("woff");
+    font-family: "thechelsuk";
+    src: url("/assets/thechelsuk-Regular.woff2") format("woff2"), url("/assets/thechelsuk-Regular.woff") format("woff");
 }
 
 @font-face {
-    font-family: "TheChelsMedium";
-    src: url("/assets/TheChelsMedium.woff") format("woff");
+    font-family: "thechelsuk-bold";
+    src: url("/assets/thechelsuk-Bold.woff2") format("woff2"), url("/assets/thechelsuk-Bold.woff") format("woff");
     font-weight: bold;
 }
 
@@ -25,8 +25,8 @@ $secondary: #3c4b57;
 $links: #005ca3;
 $accent: #E86249;
 $code: #c0deff;
-$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
-$header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
+$font-stack: thechelsuk, -system-ui, "Gill Sans", sans-serif;
+$header-stack: thechelsuk-bold, -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 .primary {
