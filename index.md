@@ -9,52 +9,80 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [SecurityWeek] High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL - 4 hours ago
-- [HackerNews] Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution - 4 hours ago
-- [BleepingComputer] Microsoft is rolling out Linux container support to WSL - 10 hours ago
-- [SecurityWeek] Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development - 10 hours ago
-- [SecurityWeek] OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference - 13 hours ago
-- [RegisterSec] Add one more AI worry to the nightmare scenario: self-replicating prompt injections - 13 hours ago
-- [BleepingComputer] FBI tells ShinyHunters members to turn themselves in after recent arrest - 13 hours ago
-- [BleepingComputer] Custom ChatGPTs push ClickFix attacks to deploy RAT malware - 13 hours ago
-- [BleepingComputer] Signal adds encypted local backup support to iOS, desktop apps - 13 hours ago
-- [RegisterSec] AI models keep posting screenshots showing sensitive data from inside tech companies - 17 hours ago
-- [RegisterSec] Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services - 17 hours ago
-- [RegisterSec] FBI to ShinyHunters: 'We know how to find you' - 17 hours ago
-- [HackerNews] Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor - 17 hours ago
-- [HackerNews] New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses - 17 hours ago
-- [HackerNews] French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks - 17 hours ago
-- [BleepingComputer] Automated AI agent used to breach cybersecurity nonprofit DIVD - 17 hours ago
-- [BleepingComputer] New Spectre v2 attack variant leaks Linux root password hash in minutes - 17 hours ago
-- [BleepingComputer] Windows 11 2026 Update released, here's everything you need to know - 17 hours ago
-- [BleepingComputer] Former US Air Force members sent to prison over BEC attacks - 17 hours ago
-- [RegisterSoftware] Microsoft sends PDFs to strange new worlds instead of SharePoint - 17 hours ago
-- [BleepingComputer] Hackers exploit Citrix NetScaler zero-day to deploy web shells - 17 hours ago
-- [SecurityWeek] New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks - 17 hours ago
-- [SecurityWeek] DARPA Selects Xint to Use AI in Securing Military Messaging Apps - 17 hours ago
-- [RegisterSec] Former X-Force hackers chase the offensive cyber gold rush - 21 hours ago
-- [RegisterSec] OpenAI benches GPT-6.1 Astra for overstepping the mark - 21 hours ago
-- [RegisterSec] Apple patches CoreGraphics zero-day already exploited in targeted attacks - 21 hours ago
-- [HackerNews] Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation - 21 hours ago
-- [HackerNews] 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent - 21 hours ago
-- [HackerNews] Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown - 21 hours ago
-- [SecurityWeek] Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’ - 21 hours ago
-- [SecurityWeek] Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft - 21 hours ago
-- [SecurityWeek] Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation - 21 hours ago
-- [SecurityWeek] OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training - 21 hours ago
-- [SecurityWeek] Four Cyber Threats Harboring Big Plans for the Future - 21 hours ago
-- [IT Governance] Around the World in Privacy: Eight Regulatory Developments to Watch in 2026 - 21 hours ago
-- [IT Governance] Why GDPR Compliance Is Not Just a Legal Requirement but a Business Advantage - 21 hours ago
-- [SecurityWeek] Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks - 21 hours ago
-- [BleepingComputer] Kiteworks patches critical flaw, brings customer systems online - 21 hours ago
-- [SecurityWeek] Pentagon Personnel Agency Data Breach Impacts 3 Million People - 21 hours ago
-- [IT Governance] The Price of Admission: The Privacy Risks Behind the Festival Experience - 21 hours ago
-- [BleepingComputer] Vietnamese man charged in $16 million 'pig butchering' crypto scam - 21 hours ago
-- [SecurityWeek] Hackers Use ChatGPT Custom GPTs in ClickFix Attacks - 21 hours ago
-- [IT Governance] What Does It Mean to be a Joint Controller Under the GDPR? - 21 hours ago
-- [SecurityWeek] Reco Raises $55 Million for Agentic Security - 21 hours ago
-- [BleepingComputer] Catch threats before they escalate with real-time Identity Telemetry - 21 hours ago
-- [SecurityWeek] RemoteThreat Launches With $7 Million for Offensive Operations Platform - 21 hours ago
+- [IT Governance] How to control ChatGPT, Copilot and AI agents across your business - 3 hours ago
+- [RegisterSec] Spectre bug is back, this time to haunt JIT engines - 3 hours ago
+- [RegisterSec] UK rail cops' £320K face-scanning spree nets zero matches - 3 hours ago
+- [RegisterSec] More than half of UK businesses lack confidence in basic cyber skills - 3 hours ago
+- [RegisterSoftware] KDE turns 30 with Plasma 6.8, but the X11 session isn't invited - 3 hours ago
+- [RegisterSoftware] Firefox 157: Could bold new look be just what Mozilla needs?* - 3 hours ago
+- [NHSDigital] CC-4860 - Apple Releases Security Updates for macOS, iOS, and iPadOS - 3 hours ago
+- [SecurityWeek] ShinyHunters Defiant After FBI Calls on Members to Come Forward - 3 hours ago
+- [NHSDigital] CC-4861 - Critical Zero-Day Vulnerability in Cisco SD-WAN Manager - 3 hours ago
+- [SecurityWeek] Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks - 3 hours ago
+- [SecurityWeek] Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit - 3 hours ago
+- [HackerNews] OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted - 3 hours ago
+- [SecurityWeek] Chrome, Firefox Updates Patch Over 100 Vulnerabilities - 3 hours ago
+- [HackerNews] Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT - 3 hours ago
+- [SecurityWeek] Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks - 3 hours ago
+- [HackerNews] US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access - 3 hours ago
+- [GrahamCluley] Pentagon personnel database breach exposes personal data of millions - 3 hours ago
+- [SecurityWeek] WatchGuard Patches Critical Fireware OS Code Injection Vulnerability - 3 hours ago
+- [HackerNews] AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub - 3 hours ago
+- [SecurityWeek] Google: AI Is Changing the Pace and Profile of Vulnerability Discovery - 3 hours ago
+- [BleepingComputer] Bitget hacked via zero-day in third-party security products - 3 hours ago
+- [HackerNews] Know Your Enemy: Browser-Based Attack Techniques in 2026 - 3 hours ago
+- [BleepingComputer] TeamViewer urges users to patch severe flaws “as soon as possible” - 3 hours ago
+- [HackerNews] Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures - 3 hours ago
+- [BleepingComputer] Microsoft to block Entra ID script injection attacks starting October - 3 hours ago
+- [HackerNews] Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager - 3 hours ago
+- [BleepingComputer] AI's Third Wave: Coworkers Break the Security Model That Worked for Agents - 3 hours ago
+- [BleepingComputer] Cisco warns of new SD-WAN zero-day exploited in attacks - 3 hours ago
+- [SecurityWeek] High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL - 9 hours ago
+- [HackerNews] Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution - 9 hours ago
+- [BleepingComputer] Microsoft is rolling out Linux container support to WSL - 16 hours ago
+- [SecurityWeek] Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development - 16 hours ago
+- [SecurityWeek] OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference - 19 hours ago
+- [RegisterSec] Add one more AI worry to the nightmare scenario: self-replicating prompt injections - 19 hours ago
+- [BleepingComputer] FBI tells ShinyHunters members to turn themselves in after recent arrest - 19 hours ago
+- [BleepingComputer] Custom ChatGPTs push ClickFix attacks to deploy RAT malware - 19 hours ago
+- [BleepingComputer] Signal adds encypted local backup support to iOS, desktop apps - 19 hours ago
+- [RegisterSec] AI models keep posting screenshots showing sensitive data from inside tech companies - 22 hours ago
+- [RegisterSec] Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services - 22 hours ago
+- [RegisterSec] FBI to ShinyHunters: 'We know how to find you' - 22 hours ago
+- [HackerNews] Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor - 22 hours ago
+- [HackerNews] New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses - 22 hours ago
+- [HackerNews] French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks - 22 hours ago
+- [BleepingComputer] Automated AI agent used to breach cybersecurity nonprofit DIVD - 22 hours ago
+- [BleepingComputer] New Spectre v2 attack variant leaks Linux root password hash in minutes - 22 hours ago
+- [BleepingComputer] Windows 11 2026 Update released, here's everything you need to know - 22 hours ago
+- [BleepingComputer] Former US Air Force members sent to prison over BEC attacks - 22 hours ago
+- [RegisterSoftware] Microsoft sends PDFs to strange new worlds instead of SharePoint - 22 hours ago
+- [BleepingComputer] Hackers exploit Citrix NetScaler zero-day to deploy web shells - 22 hours ago
+- [SecurityWeek] New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks - 22 hours ago
+- [SecurityWeek] DARPA Selects Xint to Use AI in Securing Military Messaging Apps - 22 hours ago
+- [RegisterSec] Former X-Force hackers chase the offensive cyber gold rush - 1 day ago
+- [RegisterSec] OpenAI benches GPT-6.1 Astra for overstepping the mark - 1 day ago
+- [RegisterSec] Apple patches CoreGraphics zero-day already exploited in targeted attacks - 1 day ago
+- [HackerNews] Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation - 1 day ago
+- [HackerNews] 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent - 1 day ago
+- [HackerNews] Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown - 1 day ago
+- [SecurityWeek] Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’ - 1 day ago
+- [SecurityWeek] Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft - 1 day ago
+- [SecurityWeek] Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation - 1 day ago
+- [SecurityWeek] OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training - 1 day ago
+- [SecurityWeek] Four Cyber Threats Harboring Big Plans for the Future - 1 day ago
+- [IT Governance] Around the World in Privacy: Eight Regulatory Developments to Watch in 2026 - 1 day ago
+- [IT Governance] Why GDPR Compliance Is Not Just a Legal Requirement but a Business Advantage - 1 day ago
+- [SecurityWeek] Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks - 1 day ago
+- [BleepingComputer] Kiteworks patches critical flaw, brings customer systems online - 1 day ago
+- [SecurityWeek] Pentagon Personnel Agency Data Breach Impacts 3 Million People - 1 day ago
+- [IT Governance] The Price of Admission: The Privacy Risks Behind the Festival Experience - 1 day ago
+- [BleepingComputer] Vietnamese man charged in $16 million 'pig butchering' crypto scam - 1 day ago
+- [SecurityWeek] Hackers Use ChatGPT Custom GPTs in ClickFix Attacks - 1 day ago
+- [IT Governance] What Does It Mean to be a Joint Controller Under the GDPR? - 1 day ago
+- [SecurityWeek] Reco Raises $55 Million for Agentic Security - 1 day ago
+- [BleepingComputer] Catch threats before they escalate with real-time Identity Telemetry - 1 day ago
+- [SecurityWeek] RemoteThreat Launches With $7 Million for Offensive Operations Platform - 1 day ago
 - [HackerNews] OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot - 1 day ago
 - [HackerNews] OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions - 1 day ago
 - [HackerNews] Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials - 1 day ago
@@ -76,25 +104,25 @@ description: Latest Updates
 - [BleepingComputer] Dutch police confirm arrest in ShinyHunters hacking investigation - 1 day ago
 - [BleepingComputer] Times Car confirms data breach affecting 6.6 million user accounts - 1 day ago
 - [BleepingComputer] Japan's Keio confirms ransomware attack disrupted business systems - 1 day ago
-- [HackerNews] CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally - 1 day ago
-- [HackerNews] JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources - 1 day ago
-- [RegisterSec] Ex-soldier's telecom hacking spree earns him 70 months - 1 day ago
-- [BrianKrebs] Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation - 1 day ago
-- [HackerNews] Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent - 1 day ago
-- [BleepingComputer] Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist - 1 day ago
-- [HackerNews] Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI - 1 day ago
-- [BleepingComputer] 80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking - 1 day ago
-- [HackerNews] ⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats - 1 day ago
-- [BleepingComputer] JadePuffer agentic AI attacks target Azure, destroy cloud resources - 1 day ago
-- [SecurityWeek] Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability - 1 day ago
-- [NHSDigital] CC-4858 - Exploitation of Zero-Day Vulnerabilities affecting Citrix NetScaler - 1 day ago
-- [SecurityWeek] Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog - 1 day ago
-- [NHSDigital] CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660 - 1 day ago
-- [SecurityWeek] New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections - 1 day ago
-- [SecurityWeek] Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign - 1 day ago
-- [SecurityWeek] DC Health Agency Exposes 400,000 Beneficiary Records - 1 day ago
-- [SecurityWeek] Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon - 1 day ago
-- [SecurityWeek] Call for Presentations Open for 2026 CISO Forum Virtual Summit - 1 day ago
+- [HackerNews] CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally - 2 days ago
+- [HackerNews] JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources - 2 days ago
+- [RegisterSec] Ex-soldier's telecom hacking spree earns him 70 months - 2 days ago
+- [BrianKrebs] Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation - 2 days ago
+- [HackerNews] Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent - 2 days ago
+- [BleepingComputer] Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist - 2 days ago
+- [HackerNews] Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI - 2 days ago
+- [BleepingComputer] 80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking - 2 days ago
+- [HackerNews] ⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats - 2 days ago
+- [BleepingComputer] JadePuffer agentic AI attacks target Azure, destroy cloud resources - 2 days ago
+- [SecurityWeek] Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability - 2 days ago
+- [NHSDigital] CC-4858 - Exploitation of Zero-Day Vulnerabilities affecting Citrix NetScaler - 2 days ago
+- [SecurityWeek] Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog - 2 days ago
+- [NHSDigital] CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660 - 2 days ago
+- [SecurityWeek] New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections - 2 days ago
+- [SecurityWeek] Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign - 2 days ago
+- [SecurityWeek] DC Health Agency Exposes 400,000 Beneficiary Records - 2 days ago
+- [SecurityWeek] Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon - 2 days ago
+- [SecurityWeek] Call for Presentations Open for 2026 CISO Forum Virtual Summit - 2 days ago
 - [RegisterSec] OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought - 2 days ago
 - [RegisterSec] Certainties in life: Death, taxes, and critical Citrix vulns under attack - 2 days ago
 - [SecurityWeek] Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug - 2 days ago
@@ -102,7 +130,6 @@ description: Latest Updates
 - [BleepingComputer] CISA orders feds to patch exploited Citrix flaws by Wednesday - 2 days ago
 - [BleepingComputer] US soldier gets 70 months in prison for extorting 10 tech, telecom firms - 2 days ago
 - [TroyHunt] Weekly Update 523: Live From a Norwegian Fjord - 2 days ago
-- [BleepingComputer] OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email - 2 days ago
 
 
 <!-- SecOps end -->
