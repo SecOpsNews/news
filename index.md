@@ -9,66 +9,86 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [HackerNews] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave - 1 hour ago
-- [HackerNews] AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host - 1 hour ago
-- [ScottHelme] Passkeys Are Not a Trap - 1 hour ago
-- [RegisterSec] OpenAI engineer charged after boardroom bug found wrapped in toilet paper - 1 hour ago
-- [SecurityWeek] SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities - 1 hour ago
-- [SecurityWeek] Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day - 1 hour ago
-- [SecurityWeek] Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products - 1 hour ago
-- [SecurityWeek] Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise - 1 hour ago
-- [SecurityWeek] US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms - 1 hour ago
-- [HIBP] Crunchbase - 559,908 breached accounts - 1 hour ago
-- [BleepingComputer] Microsoft: Recent Windows updates may trigger Remote Desktop failures - 1 hour ago
-- [GCP] RESOLVED: Google Cloud Storage (GCS) customers experienced elevated latencies and error rates when performing upload or write operations. - 3 hours ago
-- [GCP] RESOLVED: Google Cloud Storage (GCS) customers experienced elevated latencies and error rates when performing upload or write operations. - 3 hours ago
-- [HackerNews] OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - 6 hours ago
-- [RegisterSec] Ransomware gets personal: 'We-know-where-you-are kind of stuff' - 6 hours ago
-- [HackerNews] Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug - 6 hours ago
-- [SecurityWeek] Adobe Patches 176 Vulnerabilities Across 11 Products - 6 hours ago
-- [Slack] Incident: Single Sign On errors - 7 hours ago
-- [BrianKrebs] Microsoft Patches More Than 1,400 Security Flaws - 11 hours ago
-- [SecurityWeek] Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say - 11 hours ago
-- [BleepingComputer] OpenAI engineer arrested for allegedly planting spy device in office - 11 hours ago
-- [CloudFlare] IAH (Houston) on 2026-10-22 - 12 hours ago
-- [GitHub] [Retroactive] Actions workflow run logs delayed - 12 hours ago
-- [BleepingComputer] Windows 11 KB5127648 & KB5126653 cumulative updates released - 14 hours ago
-- [BleepingComputer] UK Housing Ombudsman Service investigates 'security incident' - 14 hours ago
-- [BleepingComputer] Microsoft: Windows 11 24H2 Home and Pro reached end of support - 14 hours ago
-- [BleepingComputer] Microsoft releases Windows 10 KB5126657 extended security update - 14 hours ago
-- [BleepingComputer] Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - 14 hours ago
-- [BleepingComputer] Anthropic warns self-replicating AI could spread to your smart devices - 14 hours ago
-- [BleepingComputer] Ghostscript flaw lets hackers hijack servers via PDF uploads - 14 hours ago
-- [HackerNews] SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft - 14 hours ago
-- [RegisterSec] Claude submitted fake murder tip to Philly police during summertime testing - 14 hours ago
-- [HackerNews] Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far - 14 hours ago
-- [HackerNews] Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another - 14 hours ago
-- [HackerNews] Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets - 14 hours ago
-- [SecurityWeek] Adobe Patches 140 Vulnerabilities Across 10 Products - 14 hours ago
-- [SecurityWeek] Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN - 14 hours ago
-- [NHSDigital] CC-4866 - Ivanti Releases Security Updates for Connect Secure - 19 hours ago
-- [SecurityWeek] Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems - 19 hours ago
-- [SecurityWeek] $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant - 19 hours ago
-- [SecurityWeek] AI Turns Familiar Cyberattacks Into a Race Against Time - 19 hours ago
-- [HackerNews] Product Walkthrough: Bitdefender AI Visibility and Control - 19 hours ago
-- [SecurityWeek] XWorm RAT Evolves Into Surveillance Platform - 19 hours ago
-- [HackerNews] LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network - 19 hours ago
-- [TroyHunt] Weekly Update 525: AI Data Breach Hyperbole - 19 hours ago
-- [SecurityWeek] Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns - 19 hours ago
-- [HackerNews] [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls - 19 hours ago
-- [RegisterSec] Owner of fashion brands Hobbs and Whistles joins autumn pwned collection - 19 hours ago
-- [SecurityWeek] Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach - 19 hours ago
-- [HackerNews] Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation - 19 hours ago
-- [RegisterSec] '123456' password linked to Denmark data breach affecting 8.8M people - 19 hours ago
-- [SecurityWeek] Google Partially Reverses Chrome Bug Bounty Cuts - 19 hours ago
-- [HackerNews] GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking - 19 hours ago
-- [RegisterSec] Cyberattacks crank French supermarket refrigeration systems up to 50°C - 19 hours ago
-- [RegisterSec] Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse - 19 hours ago
-- [BleepingComputer] SAP warns of maximum severity OAuth2 SSRF security flaw - 19 hours ago
-- [BleepingComputer] The MFA Gaps Attackers are Still Exploiting - 19 hours ago
-- [BleepingComputer] Docker Hub flaw let attackers impersonate users, tamper with images - 19 hours ago
-- [BleepingComputer] Ivanti warns of Connect Secure zero-day exploited in attacks - 19 hours ago
-- [BleepingComputer] TFG London cyberattack disrupts systems at Hobbs and Whistles retailers - 19 hours ago
+- [SecurityWeek] Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages - 2 hours ago
+- [SecurityWeek] Virtual Event Today: Zero Trust Strategies Summit - 2 hours ago
+- [SecurityWeek] Harmonic Security Raises $50 Million for Workforce AI Protection - 2 hours ago
+- [SecurityWeek] ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw - 2 hours ago
+- [NHSDigital] CC-4867 - Microsoft Releases October 2026 Security Updates - 2 hours ago
+- [RegisterSoftware] US tech giants warn Europe that ditching US tech giants could cost €115B - 2 hours ago
+- [BrianKrebs] U.K. Sanctions Cryptomus for RU Money Laundering - 2 hours ago
+- [RegisterSoftware] Tiny11 puts Windows 11 on a diet without the PowerShell workout - 2 hours ago
+- [RegisterSoftware] Fire up that iPhone 1 emulation and party like it's 2007 - 2 hours ago
+- [HackerNews] An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part. - 2 hours ago
+- [BleepingComputer] Hirudo Android malware replaces banking apps to evade security checks - 2 hours ago
+- [HackerNews] Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks - 2 hours ago
+- [HackerNews] Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days - 2 hours ago
+- [BleepingComputer] CISA warns admins to immediately fix Ivanti flaw exploited as zero-day - 2 hours ago
+- [HackerNews] How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team - 2 hours ago
+- [HackerNews] curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution - 2 hours ago
+- [BleepingComputer] Global takedown hits network behind 1 billion phishing messages - 2 hours ago
+- [HackerNews] CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts - 2 hours ago
+- [BleepingComputer] The Blind Spots of Agentic Pentesting and How to Close Them - 2 hours ago
+- [BleepingComputer] Microsoft fixes VPN issues caused by September Windows updates - 2 hours ago
+- [HackerNews] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave - 7 hours ago
+- [HackerNews] AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host - 7 hours ago
+- [ScottHelme] Passkeys Are Not a Trap - 7 hours ago
+- [RegisterSec] OpenAI engineer charged after boardroom bug found wrapped in toilet paper - 7 hours ago
+- [SecurityWeek] SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities - 7 hours ago
+- [SecurityWeek] Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day - 7 hours ago
+- [SecurityWeek] Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products - 7 hours ago
+- [SecurityWeek] Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise - 7 hours ago
+- [SecurityWeek] US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms - 7 hours ago
+- [HIBP] Crunchbase - 559,908 breached accounts - 7 hours ago
+- [BleepingComputer] Microsoft: Recent Windows updates may trigger Remote Desktop failures - 7 hours ago
+- [GCP] RESOLVED: Google Cloud Storage (GCS) customers experienced elevated latencies and error rates when performing upload or write operations. - 9 hours ago
+- [GCP] RESOLVED: Google Cloud Storage (GCS) customers experienced elevated latencies and error rates when performing upload or write operations. - 9 hours ago
+- [HackerNews] OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - 12 hours ago
+- [RegisterSec] Ransomware gets personal: 'We-know-where-you-are kind of stuff' - 12 hours ago
+- [HackerNews] Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug - 12 hours ago
+- [SecurityWeek] Adobe Patches 176 Vulnerabilities Across 11 Products - 12 hours ago
+- [Slack] Incident: Single Sign On errors - 13 hours ago
+- [BrianKrebs] Microsoft Patches More Than 1,400 Security Flaws - 17 hours ago
+- [SecurityWeek] Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say - 17 hours ago
+- [BleepingComputer] OpenAI engineer arrested for allegedly planting spy device in office - 17 hours ago
+- [CloudFlare] IAH (Houston) on 2026-10-22 - 17 hours ago
+- [GitHub] [Retroactive] Actions workflow run logs delayed - 17 hours ago
+- [BleepingComputer] Windows 11 KB5127648 & KB5126653 cumulative updates released - 20 hours ago
+- [BleepingComputer] UK Housing Ombudsman Service investigates 'security incident' - 20 hours ago
+- [BleepingComputer] Microsoft: Windows 11 24H2 Home and Pro reached end of support - 20 hours ago
+- [BleepingComputer] Microsoft releases Windows 10 KB5126657 extended security update - 20 hours ago
+- [BleepingComputer] Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - 20 hours ago
+- [BleepingComputer] Anthropic warns self-replicating AI could spread to your smart devices - 20 hours ago
+- [BleepingComputer] Ghostscript flaw lets hackers hijack servers via PDF uploads - 20 hours ago
+- [HackerNews] SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft - 20 hours ago
+- [RegisterSec] Claude submitted fake murder tip to Philly police during summertime testing - 20 hours ago
+- [HackerNews] Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far - 20 hours ago
+- [HackerNews] Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another - 20 hours ago
+- [HackerNews] Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets - 20 hours ago
+- [SecurityWeek] Adobe Patches 140 Vulnerabilities Across 10 Products - 20 hours ago
+- [SecurityWeek] Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN - 20 hours ago
+- [NHSDigital] CC-4866 - Ivanti Releases Security Updates for Connect Secure - 1 day ago
+- [SecurityWeek] Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems - 1 day ago
+- [SecurityWeek] $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant - 1 day ago
+- [SecurityWeek] AI Turns Familiar Cyberattacks Into a Race Against Time - 1 day ago
+- [HackerNews] Product Walkthrough: Bitdefender AI Visibility and Control - 1 day ago
+- [SecurityWeek] XWorm RAT Evolves Into Surveillance Platform - 1 day ago
+- [HackerNews] LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network - 1 day ago
+- [TroyHunt] Weekly Update 525: AI Data Breach Hyperbole - 1 day ago
+- [SecurityWeek] Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns - 1 day ago
+- [HackerNews] [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls - 1 day ago
+- [RegisterSec] Owner of fashion brands Hobbs and Whistles joins autumn pwned collection - 1 day ago
+- [SecurityWeek] Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach - 1 day ago
+- [HackerNews] Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation - 1 day ago
+- [RegisterSec] '123456' password linked to Denmark data breach affecting 8.8M people - 1 day ago
+- [SecurityWeek] Google Partially Reverses Chrome Bug Bounty Cuts - 1 day ago
+- [HackerNews] GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking - 1 day ago
+- [RegisterSec] Cyberattacks crank French supermarket refrigeration systems up to 50°C - 1 day ago
+- [RegisterSec] Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse - 1 day ago
+- [BleepingComputer] SAP warns of maximum severity OAuth2 SSRF security flaw - 1 day ago
+- [BleepingComputer] The MFA Gaps Attackers are Still Exploiting - 1 day ago
+- [BleepingComputer] Docker Hub flaw let attackers impersonate users, tamper with images - 1 day ago
+- [BleepingComputer] Ivanti warns of Connect Secure zero-day exploited in attacks - 1 day ago
+- [BleepingComputer] TFG London cyberattack disrupts systems at Hobbs and Whistles retailers - 1 day ago
 - [SecurityWeek] Refrigeration Controller Hack Spoils Food Across European Supermarkets - 1 day ago
 - [SecurityWeek] Cyberattack Prompts Ahold Delhaize to Disconnect Systems - 1 day ago
 - [GrahamCluley] GTA 6 leaker threatens to release full playable version of game ahead of official launch - 1 day ago
