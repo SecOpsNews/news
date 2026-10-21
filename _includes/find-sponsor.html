@@ -1,0 +1,19 @@
+{%- comment -%}
+  Sets `sponsor` (and `sponsor_link`, with ?r=thechelsuk added) to the first
+  entry in _data/sponsors.yml whose start and end dates include include.date,
+  or nil if there isn't one. include.date defaults to the build time.
+{%- endcomment -%}
+{%- assign on_day = include.date | default: site.time | date: "%Y-%m-%d" %}
+{%- assign sponsor = nil %}
+{%- assign sponsor_link = nil %}
+{%- for s in site.data.sponsors %}
+{%- assign s_start = s.start | date: "%Y-%m-%d" %}
+{%- assign s_end = s.end | date: "%Y-%m-%d" %}
+{%- if s_start <= on_day and s_end >= on_day %}
+{%- assign sponsor = s %}
+{%- break %}
+{%- endif %}
+{%- endfor %}
+{%- if sponsor %}
+{%- if sponsor.url contains "?" %}{% assign sponsor_link = sponsor.url | append: "&r=thechelsuk" %}{% else %}{% assign sponsor_link = sponsor.url | append: "?r=thechelsuk" %}{% endif %}
+{%- endif %}

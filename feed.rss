@@ -1,22 +1,79 @@
 ---
+layout: null
+permalink: /feed.rss
 ---
-{% assign contents_of_page = site.pages | where: "name", "index.md" | first %}
-{% assign pub_date = site.time | date: "%Y-%m-%d" %}
-
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daily Rundown</title>
-     <link>https://github.com/SecOpsNews/News/issues</link>
-     <description>List of open issues for SecOpsNews/News</description>
+    <title>SecOpsNews rundown</title>
+    <link>{{ "/" | absolute_url }}</link>
+    <atom:link href="{{ "/feed.rss" | absolute_url }}" rel="self" type="application/rss+xml"/>
+    <description>Security news, advisories, breaches and cloud outages for engineering leaders and security professionals, twice a day.</description>
+    <language>en-gb</language>
+    <copyright>© {{ site.time | date: "%Y" }} thechelsuk. Headlines belong to their respective owners.</copyright>
+    <managingEditor>secops@thechels.uk (SecOpsNews)</managingEditor>
+    <webMaster>secops@thechels.uk (SecOpsNews)</webMaster>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>360</ttl>
+    {%- assign latest = site.data.rundowns | first %}
+    <lastBuildDate>{{ latest.generated | default: site.time | date_to_rfc822 }}</lastBuildDate>
+    <image>
+      <url>https://thechels.uk/.well-known/avatar.png</url>
+      <title>SecOpsNews rundown</title>
+      <link>{{ "/" | absolute_url }}</link>
+    </image>
+    {%- for r in site.data.rundowns %}
+    {%- include find-sponsor.html date=r.generated %}
     <item>
-      <title>Daily Rundown for {{ pub_date }}</title>
-      <link>https://github.com/SecOpsNews/News/issues</link>
-      <guid isPermaLink="false">Daily Rundown for {{ pub_date }}</guid>
-      <description>
-      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
-      </description>
-      <pubDate>{{ pub_date }}</pubDate>
+      <title>{{ r.title | xml_escape }}</title>
+      <link>{{ "/" | absolute_url }}</link>
+      <guid isPermaLink="false">{{ r.id }}</guid>
+      <pubDate>{{ r.generated | date_to_rfc822 }}</pubDate>
+      <description><![CDATA[
+<p><strong>{{ r.counts.last_24h }} items in the last 24 hours</strong>: {{ r.counts.critical }} critical, {{ r.counts.advisories }} advisories and breaches, {{ r.counts.status }} status notices. <a href="{{ "/" | absolute_url }}">Open the dashboard →</a></p>
+{%- assign sections = "critical:Critical:headlines,advisories:Advisories and breaches:advisories,headlines:Headlines:headlines,blogs:From the blogs:blogs" | split: "," %}
+{%- for s in sections %}
+{%- assign parts = s | split: ":" %}
+{%- assign key = parts[0] %}
+{%- assign sec = r[key] %}
+{%- if sec.items.size > 0 %}
+<h2>{{ parts[1] }}</h2>
+<ul>
+{%- for i in sec.items %}
+<li><a href="{{ i.url | escape }}">{{ i.title | escape }}</a> <small>({{ i.source | escape }})</small>{% if i.summary %}<br>{{ i.summary | escape }}{% endif %}</li>
+{%- endfor %}
+</ul>
+{%- if sec.total > sec.items.size %}
+<p><a href="{{ "/" | absolute_url }}#{{ parts[2] }}">{{ sec.total | minus: sec.items.size }} more on the dashboard →</a></p>
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- if r.providers.size > 0 %}
+<h2>Outages and maintenance</h2>
+<p>{% for p in r.providers %}{{ p.name | escape }}: {{ p.notices }} notice{% if p.notices > 1 %}s{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</p>
+{%- if r.outages.items.size > 0 %}
+<ul>
+{%- for i in r.outages.items %}
+<li><a href="{{ i.url | escape }}">{{ i.title | escape }}</a> <small>({{ i.source | escape }})</small></li>
+{%- endfor %}
+</ul>
+{%- endif %}
+{%- endif %}
+<hr>
+{%- if sponsor %}
+<table role="presentation" width="100%" cellpadding="12" cellspacing="0" border="0">
+<tr>
+<td width="64" valign="middle"><a href="{{ sponsor_link | escape }}"><img src="{{ sponsor.logo | absolute_url }}" width="56" height="56" alt="{{ sponsor.name | escape }}"></a></td>
+<td valign="middle"><small>Sponsored by</small><br><a href="{{ sponsor_link | escape }}"><strong>{{ sponsor.name | escape }}: {{ sponsor.title | escape }}</strong></a><br>{{ sponsor.description | escape }}</td>
+<td width="32" valign="middle" align="center"><a href="{{ sponsor_link | escape }}">→</a></td>
+</tr>
+</table>
+{%- else %}
+<p><small>Sponsor this site</small><br><a href="{{ "/sponsor/" | absolute_url }}"><strong>Reach engineering leaders and security professionals</strong></a><br>One sponsor a month, in every rundown and on the dashboard.</p>
+{%- endif %}
+<p><small>The SecOpsNews rundown, twice a day. <a href="{{ "/sponsor/" | absolute_url }}">Sponsor SecOpsNews</a> · <a href="mailto:secops@thechels.uk">secops@thechels.uk</a></small></p>
+]]></description>
     </item>
+    {%- endfor %}
   </channel>
 </rss>

@@ -1,0 +1,203 @@
+[
+ {
+  "id": "secopsnews-rundown-2026-10-21-pm",
+  "generated": "2026-10-21T17:31:38Z",
+  "title": "SecOps rundown, Wed 21 Oct afternoon: 17 critical, 12 advisories",
+  "counts": {
+   "last_24h": 77,
+   "critical": 17,
+   "advisories": 12,
+   "status": 29
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 25
+   },
+   {
+    "name": "Google Cloud",
+    "notices": 2
+   },
+   {
+    "name": "GitHub",
+    "notices": 2
+   }
+  ],
+  "critical": {
+   "total": 17,
+   "items": [
+    {
+     "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+     "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+     "source": "The Hacker News",
+     "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says."
+    },
+    {
+     "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+     "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+     "source": "BleepingComputer",
+     "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]"
+    },
+    {
+     "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+     "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution."
+    },
+    {
+     "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+     "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+     "source": "The Hacker News",
+     "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory."
+    },
+    {
+     "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+     "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…"
+    },
+    {
+     "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+     "source": "BleepingComputer",
+     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 12,
+   "items": [
+    {
+     "title": "[ROOTEDCON] Call for Papers 2027 · RootedCON2027 (Madrid)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/27",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the formWlanMP manufacturing-test handler, root command execution (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/28",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the setWAN WAN-configuration handler, root command execution (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/29",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Exasol Database 7.1.30 docker-db form: shipped default SYS credential to PYTHON3 UDF os.popen command execution as uid=500(exadefusr), output returned in-band (8.8)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/30",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Parasoft Continuous Testing Platform 10.7.5-SNAPSHOT anonymous deserialization in the database restore path to JSP command execution as uid=1000 (9.8)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/31",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] ProSoft Technology RLX-IFH24E v2.2.44 unsigned firmware upgrade package to root command execution and full account-database overwrite (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/32",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 95,
+   "items": [
+    {
+     "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+     "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+     "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+     "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "The Harness Is the Hard Part of Agentic Pentesting",
+     "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "EU wants Booking.com to check out of its scam problem",
+     "url": "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+     "source": "The Register"
+    },
+    {
+     "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+     "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Nvidia picks OpenShell to tame AI gents",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+     "source": "The Register"
+    },
+    {
+     "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
+     "url": "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+     "source": "The Register"
+    },
+    {
+     "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+     "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+     "source": "The Register"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 5,
+   "items": [
+    {
+     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+     "source": "Scott Helme"
+    },
+    {
+     "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "CapLoader 2.2 Released",
+     "url": "https://www.netresec.com/?page=Blog&month=2026-10&post=CapLoader-2-2-Released",
+     "source": "NETRESEC"
+    },
+    {
+     "title": "Weekly Update 526: Building HIBP AI/SI First",
+     "url": "https://www.troyhunt.com/weekly-update-526/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Delays for Pull Requests and Webhook deliveries",
+     "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+     "source": "GitHub"
+    },
+    {
+     "title": "RESOLVED: Multiple services are experiencing issues in the europe-west2 region.",
+     "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+     "source": "Google Cloud"
+    },
+    {
+     "title": "UPDATE: Multiple services are experiencing issues in the europe-west2 region.",
+     "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+     "source": "Google Cloud"
+    }
+   ]
+  }
+ }
+]

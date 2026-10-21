@@ -2,19 +2,8 @@
 Sponsor card. Shows the first sponsor in _data/sponsors.yml whose start and
 end dates include today, otherwise a "sponsor this site" placeholder.
 {%- endcomment -%}
-{%- assign today = site.time | date: "%Y-%m-%d" %}
-{%- assign sponsor = nil %}
-{%- for s in site.data.sponsors %}
-{%- assign s_start = s.start | date: "%Y-%m-%d" %}
-{%- assign s_end = s.end | date: "%Y-%m-%d" %}
-{%- if s_start <= today and s_end>= today %}
-    {%- assign sponsor = s %}
-    {%- break %}
-    {%- endif %}
-    {%- endfor %}
-    {%- if sponsor %}
-    {%- if sponsor.url contains "?" %}{% assign sponsor_link = sponsor.url | append: "&r=thechelsuk" %}{% else %}{%
-    assign sponsor_link = sponsor.url | append: "?r=thechelsuk" %}{% endif %}
+{%- include find-sponsor.html %}
+{%- if sponsor %}
     <a class="sponsor" href="{{ sponsor_link | escape }}" rel="sponsored noopener" target="_blank">
         <img class="sponsor-logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" width="48" height="48">
         <span class="sponsor-text">

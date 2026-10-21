@@ -258,6 +258,62 @@ def build_data(items, stars=None, now=None):
     }
 
 
+# RSS rundowns: one snapshot per morning/afternoon run, the last week kept.
+RUNDOWNS_KEPT = 14
+
+
+def _brief(item, summary=False):
+    entry = {"title": item["title"], "url": item["url"], "source": item["source"]}
+    if summary and item["summary"]:
+        entry["summary"] = item["summary"]
+    return entry
+
+
+def _section(items, limit, summary=False):
+    return {"total": len(items), "items": [_brief(i, summary) for i in items[:limit]]}
+
+
+def build_rundown(data):
+    """A snapshot of the dashboard for the RSS feed."""
+    generated = datetime.fromisoformat(data["generated"].replace("Z", "+00:00"))
+    half = "am" if generated.hour < 12 else "pm"
+    items = data["items"]
+    counts = data["counts"]
+    critical = [i for i in items if i["critical"]]
+    return {
+        "id": f"secopsnews-rundown-{generated:%Y-%m-%d}-{half}",
+        "generated": data["generated"],
+        "title": f"SecOps rundown, {generated:%a} {generated.day} {generated:%b} "
+                 f"{'morning' if half == 'am' else 'afternoon'}: "
+                 f"{counts['critical']} critical, {counts['advisories']} advisories",
+        "counts": counts,
+        "providers": [p for p in data["providers"] if p["notices"]],
+        "critical": _section(critical, 6, summary=True),
+        "advisories": _section([i for i in items if i["category"] in ("advisory", "breach")], 6),
+        "headlines": _section([i for i in items if i["category"] == "news" and not i["critical"]], 10),
+        "blogs": _section([i for i in items if i["category"] == "blog"], 4),
+        "outages": _section([i for i in items if i["category"] == "status" and i["source"] != "Cloudflare"], 3),
+    }
+
+
+def update_rundowns(path, rundown):
+    """Add this run's rundown (replacing one from the same half-day) and keep the last week."""
+    try:
+        with open(path) as f:
+            rundowns = json.load(f)
+    except (OSError, ValueError):
+        rundowns = []
+    rundowns = [r for r in rundowns if r.get("id") != rundown["id"]]
+    rundowns.insert(0, rundown)
+    rundowns.sort(key=lambda r: r["generated"], reverse=True)
+    rundowns = rundowns[:RUNDOWNS_KEPT]
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w") as f:
+        json.dump(rundowns, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+    return rundowns
+
+
 # Content generation and file handling
 def create_string(items):
     """Markdown list for index.md (also used by feed.rss)."""
@@ -302,13 +358,16 @@ def main():
     repo_name = os.environ.get("REPO_NAME", "News")
     output_file = os.environ.get("OUTPUT_FILE", "index.md")
     data_file = os.environ.get("DATA_FILE", "_data/news.json")
+    rundowns_file = os.environ.get("RUNDOWNS_FILE", "_data/rundowns.json")
 
     try:
         print(f"Fetching issues for {repo_owner}/{repo_name}...")
         issues = get_github_issues(repo_owner, repo_name, token)
         items = build_items(issues)
         stars = fetch_stars(repo_owner, repo_name, token, previous_stars(data_file))
-        write_data(data_file, build_data(items, stars))
+        data = build_data(items, stars)
+        write_data(data_file, data)
+        update_rundowns(rundowns_file, build_rundown(data))
         write_to_file(output_file, create_string(items))
         return 0
     except ValueError as e:
