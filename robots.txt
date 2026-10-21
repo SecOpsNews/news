@@ -1,0 +1,5 @@
+# robots.txt for secops.thechels.uk
+User-agent: *
+Allow: /
+
+Sitemap: https://secops.thechels.uk/sitemap.xml

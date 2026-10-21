@@ -1,0 +1,147 @@
+{%- assign news = site.data.news %}
+{%- assign is_home = false %}
+{%- if page.url == "/" %}{% assign is_home = true %}{% endif %}
+{%- assign page_url = page.url | absolute_url %}
+{%- assign site_desc = "Security news, advisories, breaches and cloud outages from trusted sources, on one dashboard updated twice a day. For engineering leaders and security professionals." %}
+{%- assign desc = page.description | default: site_desc %}
+{%- if is_home %}
+{%- assign full_title = "SecOpsNews: security news, advisories and outages dashboard" %}
+{%- else %}
+{%- if page.title contains "SecOpsNews" %}
+{%- assign full_title = page.title %}
+{%- else %}
+{%- assign full_title = page.title | append: " · SecOpsNews" %}
+{%- endif %}
+{%- endif %}
+<!DOCTYPE html>
+<html lang="en-GB">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ full_title }}</title>
+        <meta name="description" content="{{ desc | escape }}">
+        <link rel="canonical" href="{{ page_url }}">
+        <meta name="author" content="thechelsuk">
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+        <meta name="theme-color" content="#0f1724">
+        <meta name="color-scheme" content="dark">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="en_GB">
+        <meta property="og:site_name" content="SecOpsNews">
+        <meta property="og:url" content="{{ page_url }}">
+        <meta property="og:title" content="{% if is_home %}SecOpsNews: security news for engineering leaders{% else %}{{ full_title }}{% endif %}">
+        <meta property="og:description" content="{{ desc | escape }}">
+        <meta property="og:image" content="https://thechels.uk/.well-known/avatar.png">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="{% if is_home %}SecOpsNews: security news for engineering leaders{% else %}{{ full_title }}{% endif %}">
+        <meta name="twitter:description" content="{{ desc | escape }}">
+        <meta name="twitter:image" content="https://thechels.uk/.well-known/avatar.png">
+        <meta name="apple-mobile-web-app-title" content="SecOpsNews">
+        <link rel="icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/assets/Secops.png">
+        <link rel="alternate" type="application/rss+xml" title="SecOpsNews" href="/feed.rss">
+        <link rel="stylesheet" href="/assets/style.css">
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://thechels.uk/#org",
+              "name": "thechelsuk",
+              "url": "https://thechels.uk",
+              "logo": "https://thechels.uk/.well-known/avatar.png",
+              "email": "secops@thechels.uk",
+              "sameAs": ["https://links.thechels.uk/", "https://github.com/thechelsuk"]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "{{ '/' | absolute_url }}#website",
+              "url": "{{ '/' | absolute_url }}",
+              "name": "SecOpsNews",
+              "description": {{ site_desc | jsonify }},
+              "inLanguage": "en-GB",
+              "publisher": { "@id": "https://thechels.uk/#org" }
+            },
+            {%- if is_home %}
+            {
+              "@type": "CollectionPage",
+              "@id": "{{ page_url }}#page",
+              "url": "{{ page_url }}",
+              "name": "SecOpsNews dashboard",
+              "description": {{ desc | jsonify }},
+              "dateModified": "{{ news.generated }}",
+              "inLanguage": "en-GB",
+              "isPartOf": { "@id": "{{ '/' | absolute_url }}#website" },
+              "mainEntity": {
+                "@type": "ItemList",
+                "numberOfItems": {{ news.items.size }},
+                "itemListElement": [
+                  {%- for item in news.items limit: 30 %}
+                  { "@type": "ListItem", "position": {{ forloop.index }}, "url": {{ item.url | jsonify }}, "name": {{ item.title | jsonify }} }{% unless forloop.last %},{% endunless %}
+                  {%- endfor %}
+                ]
+              }
+            }
+            {%- else %}
+            {
+              "@type": "WebPage",
+              "@id": "{{ page_url }}#page",
+              "url": "{{ page_url }}",
+              "name": {{ page.title | jsonify }},
+              "description": {{ desc | jsonify }},
+              "inLanguage": "en-GB",
+              "isPartOf": { "@id": "{{ '/' | absolute_url }}#website" },
+              "publisher": { "@id": "https://thechels.uk/#org" }
+            }
+            {%- endif %}
+          ]
+        }
+        </script>
+    </head>
+
+    <body>
+        <a href="#main" class="skip-link">Skip to main content</a>
+        <div class="wrap">
+            <header class="site-header">
+                <a class="brand" href="/">
+                    <img src="/assets/Secops-alt.png" alt="" width="36" height="36">
+                    {%- if is_home %}
+                    <h1>SecOps<b>News</b> <span>· Ops view</span></h1>
+                    {%- else %}
+                    <span class="brand-name">SecOps<b>News</b></span>
+                    {%- endif %}
+                </a>
+                <nav class="header-meta" aria-label="Site">
+                    <span class="upd"><i aria-hidden="true"></i>Updated <time datetime="{{ news.generated }}">{{ news.generated | date: "%-d %b, %H:%M UTC" }}</time></span>
+                    {%- if news.stars %}
+                    <a class="chip" href="https://github.com/SecOpsNews/news" aria-label="{{ news.stars }} stars on GitHub"><span aria-hidden="true">★</span> {{ news.stars }} on GitHub</a>
+                    {%- endif %}
+                    <a class="chip" href="/feed.rss">RSS</a>
+                    <a class="chip" href="/sponsor/">Sponsor</a>
+                </nav>
+            </header>
+
+            {{ content }}
+
+            <footer class="site-footer">
+                <p>© {{ site.time | date: "%Y" }} <a href="https://thechels.uk">thechelsuk</a>. Headlines link to their original source; names, trademarks and articles belong to their respective owners.</p>
+                <p><a href="/feed.rss">RSS</a> · <a href="/llms.txt">llms.txt</a> · <a href="https://github.com/SecOpsNews/news">GitHub</a> · <a href="/sponsor/">Sponsor</a> · <a href="/sponsor/#terms">Sponsorship terms</a> · <a href="mailto:secops@thechels.uk">secops@thechels.uk</a></p>
+            </footer>
+        </div>
+
+        <script>
+            (function () {
+                var now = Date.now();
+                document.querySelectorAll("time[datetime]").forEach(function (el) {
+                    var m = Math.round((now - Date.parse(el.getAttribute("datetime"))) / 60000);
+                    if (isNaN(m) || m < 0) return;
+                    el.title = el.textContent;
+                    el.textContent = m < 1 ? "just now" : m < 60 ? m + "m ago" : m < 1440 ? Math.round(m / 60) + "h ago" : Math.round(m / 1440) + "d ago";
+                });
+            })();
+        </script>
+    </body>
+
+</html>

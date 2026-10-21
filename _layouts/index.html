@@ -1,65 +1,37 @@
-<!DOCTYPE html>
-<html lang="en-GB">
+---
+layout: base
+---
+{%- assign news = site.data.news %}
+{%- assign headlines = news.items | where: "category", "news" %}
+{%- assign advisories = news.items | where: "category", "advisory" %}
+{%- assign breaches = news.items | where: "category", "breach" %}
+{%- assign advisories = advisories | concat: breaches | sort: "published" | reverse %}
+{%- assign blogs = news.items | where: "category", "blog" %}
+{%- assign status = news.items | where: "category", "status" %}
+<main id="main">
+    <p class="intro">Security news, advisories, breaches and cloud outages for engineering leaders and security professionals, gathered from security news sites, government advisories, breach trackers and cloud status pages.</p>
 
-    <head>
-        <title>SecOps</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="SecOps news aggregator: the latest security news, vulnerabilities, cloud provider updates and app security releases in one page and feed.">
-        <link rel="canonical" href="{{ page.url | absolute_url }}">
-        <meta name="author" content="thechelsuk">
-        <meta property="og:type" content="website">
-        <meta property="og:locale" content="en_GB">
-        <meta property="og:site_name" content="SecOpsNews">
-        <meta property="og:url" content="{{ page.url | absolute_url }}">
-        <meta property="og:title" content="SecOpsNews: security news for engineering leaders">
-        <meta property="og:description" content="The latest security news, vulnerabilities, cloud provider updates and app security releases in one page and feed.">
-        <meta property="og:image" content="https://thechels.uk/.well-known/avatar.png">
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:title" content="SecOpsNews: security news for engineering leaders">
-        <meta name="twitter:description" content="The latest security news, vulnerabilities, cloud provider updates and app security releases in one page and feed.">
-        <meta name="twitter:image" content="https://thechels.uk/.well-known/avatar.png">
-        <meta name="keywords" content="Security News for the discerning engineering leader or security professional">
-        <meta name="robots" content="index, follow, max-image-preview:large">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="format-detection" content="address=no">
-        <meta name="HandheldFriendly" content="True">
-        <meta name="theme-color" content="#005CA3">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="apple-touch-fullscreen" content="yes">
-        <meta name="apple-mobile-web-app-title" content="SecOpsNews">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="default">
-        <link rel="stylesheet" href="/assets/style.css">
-        <link href="/assets/thechelsuk-Regular.woff2" rel="preload" crossorigin as="font" type="font/woff2">
-        <link href="/assets/thechelsuk-Bold.woff2" rel="preload" crossorigin as="font" type="font/woff2">
-        <link href="/assets/favicon.ico" rel="icon" type="image/x-icon" />
-        <link href="/assets/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-        <link href="/assets/favicon.ico" rel="apple-touch-icon" type="image/x-icon" />
-        <link href="/assets/favicon.ico" rel="apple-touch-icon-precomposed" type="image/x-icon" />
-    </head>
+    <section class="kpis" aria-label="At a glance">
+        <div class="kpi"><span>Items, last 24h</span><strong>{{ news.counts.last_24h }}</strong></div>
+        <div class="kpi red"><span>Critical</span><strong>{{ news.counts.critical }}</strong></div>
+        <div class="kpi"><span>Advisories &amp; breaches</span><strong>{{ news.counts.advisories }}</strong></div>
+        <div class="kpi amber"><span>Status notices</span><strong>{{ news.counts.status }}</strong></div>
+    </section>
 
-    <body>
-        <div id="outer-wrapper">
-            <div id="wrapper">
-                <header id="header">
-                    <ul class="skip-link-ul">
-                        <li>
-                            <a href="#main" class="skip-link">Skip to main content</a>
-                        </li>
-                    </ul>
-                    <div class="blog-title">
-                        SecOpsNews
-                    </div>
-                    <div class="blog-image"></div>
-                    <p class="blog-slogan">
-                        // For the discerning engineering leader or security professional
-                    </p>
-                </header>
-                <div id="main" class="content">
-                    <h1 class="post-title">Latest</h1>
-                    {{ content }}
-                </div>
-    </body>
+    <section class="status" aria-label="Provider status notices">
+        {%- for p in news.providers %}
+        <a class="pill{% if p.notices > 0 %} warn{% endif %}" href="#outages"><i aria-hidden="true"></i>{{ p.name }} · {% if p.notices > 0 %}{{ p.notices }} notice{% if p.notices > 1 %}s{% endif %}{% else %}quiet{% endif %}</a>
+        {%- endfor %}
+    </section>
 
-</html>
+    {% include sponsor.html %}
+
+    <div class="grid">
+        {% include panel.html title="Headlines" items=headlines id="headlines" show=15 %}
+        {% include panel.html title="Advisories &amp; breaches" items=advisories id="advisories" show=12 %}
+        <div class="stack">
+            {% include panel.html title="From the blogs" items=blogs id="blogs" show=6 %}
+            {% include panel.html title="Outages &amp; maintenance" items=status id="outages" show=6 %}
+        </div>
+    </div>
+</main>

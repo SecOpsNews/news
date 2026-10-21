@@ -1,0 +1,24 @@
+# Sponsors for the card on the dashboard.
+#
+# Add one entry per booking. The card shows the first entry whose dates
+# include today (start and end are both inclusive, YYYY-MM-DD). When no
+# entry is active, a "Sponsor this site" placeholder is shown instead.
+#
+# The site rebuilds when the feed updates (07:00 and 14:00 UTC), so a
+# sponsor goes live or comes down at the first build on or after its date.
+#
+#   - name: Acme Security                  # sponsor name, used as alt text
+#     title: Find exposed secrets in minutes
+#     description: Scan your repos and CI logs for leaked keys. Free for open source.
+#     url: https://example.com/?ref=secopsnews
+#     logo: /assets/sponsors/acme.png      # square image, 96×96 or larger
+#     start: 2026-11-01
+#     end: 2026-11-30
+
+- name: Cybaa
+  title: Domain, web and email security monitoring
+  description: Spot security problems, investigate DMARC and TLS-RPT reports and keep DNS backups. Plans from £9.99/month, with a 30-day trial.
+  url: https://cybaa.io/?utm_source=secopsnews&utm_medium=sponsor
+  logo: /assets/sponsors/cybaa.png
+  start: 2026-10-21
+  end: 2026-12-31

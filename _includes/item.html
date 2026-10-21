@@ -1,0 +1,5 @@
+<a class="item" href="{{ include.item.url | escape }}" rel="noopener" target="_blank">
+    {%- if include.item.critical %}<span class="sev">Critical</span>{% endif -%}
+    <span class="title">{{ include.item.title }}</span>
+    <small>{{ include.item.source }} · <time datetime="{{ include.item.published }}">{{ include.item.published | date: "%-d %b, %H:%M" }}</time></small>
+</a>

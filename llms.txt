@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# SecOpsNews
+
+> A dashboard of security news, government advisories, breach notices and cloud provider outages, gathered from RSS feeds and updated twice a day. Made for engineering leaders and security professionals by thechelsuk (https://thechels.uk).
+
+Last updated: {{ site.data.news.generated }}
+
+Key facts:
+
+- Sources include The Hacker News, BleepingComputer, SecurityWeek, The Register, CISA, NCSC, NHS Digital, Full Disclosure, Have I Been Pwned, Krebs on Security, Troy Hunt and the status pages of Cloudflare, Google Cloud, AWS, GitHub, Slack and 1Password
+- Every headline links to the original article; SecOpsNews doesn't republish content
+- Items in the last 24 hours: {{ site.data.news.counts.last_24h }}; flagged critical: {{ site.data.news.counts.critical }}
+
+## Links
+
+- [Dashboard]({{ "/" | absolute_url }}): headlines, advisories and breaches, blogs, and outages
+- [RSS feed]({{ "/feed.rss" | absolute_url }}): the daily rundown
+- [Source on GitHub](https://github.com/SecOpsNews/news): how the feeds are collected
+- [Sponsor SecOpsNews]({{ "/sponsor/" | absolute_url }}): open monthly slots, how to book and sponsorship terms
+- Contact: secops@thechels.uk
+{%- assign groups = "advisory:Latest advisories,breach:Latest breaches,news:Latest headlines" | split: "," %}
+{%- for g in groups %}
+{%- assign parts = g | split: ":" %}
+{%- assign items = site.data.news.items | where: "category", parts[0] %}
+{%- if items.size > 0 %}
+
+## {{ parts[1] }}
+{% for i in items limit: 15 %}
+- [{{ i.title }}]({{ i.url }}): {{ i.source }}, {{ i.published | date: "%-d %b %Y" }}{% endfor %}
+{%- endif %}
+{%- endfor %}
+
+## Optional
+
+- [More from thechelsuk](https://thechels.uk/projects): other projects by the same author

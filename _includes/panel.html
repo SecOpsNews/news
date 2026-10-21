@@ -1,0 +1,21 @@
+{%- comment -%}
+  A dashboard panel. Params: title, items, id, show (how many before "show more").
+{%- endcomment -%}
+{%- assign show = include.show | default: 12 %}
+<section class="panel" id="{{ include.id }}" aria-labelledby="{{ include.id }}-title">
+    <h2 id="{{ include.id }}-title">{{ include.title }}<span>{{ include.items.size }}</span></h2>
+    {%- if include.items.size == 0 %}
+    <p class="empty">Nothing in the last couple of days.</p>
+    {%- endif %}
+    {%- for item in include.items limit: show %}
+    {% include item.html item=item %}
+    {%- endfor %}
+    {%- if include.items.size > show %}
+    <details class="more">
+        <summary>Show {{ include.items.size | minus: show }} more</summary>
+        {%- for item in include.items offset: show %}
+        {% include item.html item=item %}
+        {%- endfor %}
+    </details>
+    {%- endif %}
+</section>

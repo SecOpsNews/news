@@ -9,148 +9,161 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
-- [CloudFlare] MNL (Manila) on 2026-10-22 - 1 hour ago
-- [CloudFlare] Cloudflare has scheduled maintenance for our storage systems - 1 hour ago
-- [SecurityWeek] Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities - 3 hours ago
-- [SecurityWeek] Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI - 3 hours ago
-- [SecurityWeek] PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws - 3 hours ago
-- [HackerNews] PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - 3 hours ago
-- [HackerNews] Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion - 3 hours ago
-- [HackerNews] CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws - 3 hours ago
-- [HackerNews] State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web - 3 hours ago
-- [BleepingComputer] CISA: SafePay ransomware hit over 600 critical infrastructure orgs - 3 hours ago
-- [CloudFlare] IST (İstanbul) on 2026-10-22 - 6 hours ago
-- [CloudFlare] DAC (Dhaka) on 2026-10-22 - 6 hours ago
-- [CloudFlare] DAC (Dhaka) on 2026-10-22 - 6 hours ago
-- [BleepingComputer] Mozilla, Google, Apple block compromised eMudhra CA certificates - 9 hours ago
-- [BleepingComputer] Stolen UpdraftCentral keys used to backdoor WordPress sites - 9 hours ago
-- [CloudFlare] KHI (Karachi) on 2026-10-22 - 11 hours ago
-- [CloudFlare] BOM (Mumbai) on 2026-10-22 - 11 hours ago
-- [CloudFlare] KHI (Karachi) on 2026-10-22 - 11 hours ago
-- [RegisterSec] Auto tech startup claims it traced hack attempt back to rival's IP address - 12 hours ago
-- [RegisterSec] Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’ - 12 hours ago
-- [CloudFlare] PAT (Patna) on 2026-10-22 - 14 hours ago
-- [CloudFlare] PAT (Patna) on 2026-10-22 - 14 hours ago
-- [FullDisclosure] [ROOTEDCON] Call for Papers 2027 · RootedCON2027 (Madrid) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the formWlanMP manufacturing-test handler, root command execution (7.2) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the setWAN WAN-configuration handler, root command execution (7.2) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] Exasol Database 7.1.30 docker-db form: shipped default SYS credential to PYTHON3 UDF os.popen command execution as uid=500(exadefusr), output returned in-band (8.8) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] Parasoft Continuous Testing Platform 10.7.5-SNAPSHOT anonymous deserialization in the database restore path to JSP command execution as uid=1000 (9.8) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] ProSoft Technology RLX-IFH24E v2.2.44 unsigned firmware upgrade package to root command execution and full account-database overwrite (7.2) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] Royal Render 9.1.26b: default-unauthenticated job submission on rrServer TCP 7773 reaches worker-side shell execution as the worker identity, measured root (8.1 High) - 15 hours ago
-- [FullDisclosure] [0day-rubbish] TRENDnet TV-IP302PI firmware 1.02.38 authenticated NTP server-address OS command injection to root command execution via a shell-form system() call (7.2 High, PR:H) - 15 hours ago
-- [HackerNews] Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software - 15 hours ago
-- [BleepingComputer] OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code - 15 hours ago
-- [BleepingComputer] Zeabur shutting down after second security breach in two months - 15 hours ago
-- [ScottHelme] Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds - 15 hours ago
-- [BleepingComputer] PHP warns admins of two critical flaws, emergency patches coming tomorrow - 15 hours ago
-- [CloudFlare] WAW (Warsaw) on 2026-10-23 - 17 hours ago
-- [CloudFlare] MNL (Manila) on 2026-10-23 - 17 hours ago
-- [CloudFlare] DEL (New Delhi) on 2026-10-27 - 17 hours ago
-- [SecurityWeek] Ahold Delhaize Restoring Services Disrupted by Cyberattack - 18 hours ago
-- [BleepingComputer] Hacker gets 8 years for stealing $3.3 million from taxpayers - 18 hours ago
-- [SecurityWeek] The Key to AI Software Security Isn’t Speed, It’s Maturity - 18 hours ago
-- [BleepingComputer] CJIS v6.1 Compliance: 5 Practical Priorities for Agencies - 18 hours ago
-- [SecurityWeek] AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign - 18 hours ago
-- [BleepingComputer] DHS bans DeepSeek products across US federal civilian agencies - 18 hours ago
-- [SecurityWeek] US Agencies Detail Incident Response Practices for Rogue AI Agents - 18 hours ago
-- [HackerNews] Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election - 18 hours ago
-- [HackerNews] Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites - 18 hours ago
-- [HackerNews] Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA - 18 hours ago
-- [HackerNews] Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution - 18 hours ago
-- [RegisterSec] 'Password1' and a forgotten test account land Welsh outfits in hot water - 18 hours ago
-- [RegisterSec] Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche' - 18 hours ago
-- [RegisterSec] Palo Alto's firewall OS has been under attack from multiple ransomware groups since June - 18 hours ago
-- [RegisterSoftware] Enterprises blow nearly a third of software budgets on upgrades they never asked for - 18 hours ago
-- [NHSDigital] CC-4874 - Active Exploitation of Vulnerability in Siemens Software Center (CVE-2026-110936) - 18 hours ago
-- [RegisterSoftware] openEuler brings China's enterprise Linux ambitions to the desktop - 18 hours ago
-- [GCP] RESOLVED: Multiple services are experiencing issues in the europe-west2 region. - 19 hours ago
-- [CloudFlare] DEL (New Delhi) on 2026-10-28 - 21 hours ago
-- [CloudFlare] DAC (Dhaka) on 2026-11-02 - 21 hours ago
-- [BleepingComputer] Revolut outage disrupts online banking operations worldwide - 23 hours ago
-- [BleepingComputer] Ahold Delhaize: Cyberattack affects services across US and Europe - 23 hours ago
-- [BleepingComputer] Windows Server 2025 gets support for quick machine recovery - 23 hours ago
-- [BleepingComputer] OVHcloud CLI releases backdoored on GitHub to steal developer secrets - 23 hours ago
-- [RegisterSec] Why cyber resilience is now a boardroom priority for UK public services - 23 hours ago
-- [RegisterSec] UK finance watchdog wants firms to report AI failures and close calls - 23 hours ago
-- [RegisterSec] Whitehall shuts the front door on digital ID but leaves the back open - 23 hours ago
-- [RegisterSec] Bullhorn sees red after cyberattack knocks recruitment platform offline - 23 hours ago
-- [SecurityWeek] 970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach - 23 hours ago
-- [SecurityWeek] Hackers Steal 1.8 Million Records From Nikkei - 23 hours ago
-- [SecurityWeek] Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring - 23 hours ago
-- [SecurityWeek] Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say - 23 hours ago
-- [SecurityWeek] AI Platform Cairn Abused to Hack Over 100 Organizations - 23 hours ago
-- [HackerNews] Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware - 23 hours ago
-- [HackerNews] ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident - 23 hours ago
-- [HackerNews] Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader - 23 hours ago
-- [GrahamCluley] Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death - 23 hours ago
-- [HackerNews] Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns - 23 hours ago
-- [HackerNews] What Security Teams Can Do To Tame Wild Code - 23 hours ago
-- [HackerNews] WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [GCP] UPDATE: Multiple services are experiencing issues in the europe-west2 region. - 23 hours ago
-- [CloudFlare] AMS (Amsterdam) on 2026-10-29 - 1 day ago
-- [CloudFlare] AMD (Ahmedabad) on 2026-11-02 - 1 day ago
-- [RegisterSec] ICANN testing tech to let law enforcement access non-public WHOIS info - 1 day ago
-- [HackerNews] Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware - 1 day ago
-- [HackerNews] Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge - 1 day ago
-- [HackerNews] ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan - 1 day ago
-- [HIBP] Assurance Retraite - 70,372 breached accounts - 1 day ago
-- [CloudFlare] KTM (Kathmandu) on 2026-11-02 - 1 day ago
-- [RegisterSec] DeepSeek deep-sixed at all US federal civilian agencies - 1 day ago
-- [CloudFlare] HNL (Honolulu) on 2026-10-23 - 1 day ago
-- [RegisterSec] Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline - 1 day ago
-- [BleepingComputer] WordPress SEO plugin Rank Math compromised to backdoor websites - 1 day ago
-- [BleepingComputer] Nikkei discloses third data breach in a month, 1.8M records exposed - 1 day ago
-- [CloudFlare] PHX (Phoenix) on 2026-10-22 - 1 day ago
-- [CloudFlare] TPE (Taipei) on 2026-10-23 - 1 day ago
-- [CloudFlare] CGK (Jakarta) on 2026-10-23 - 1 day ago
-- [CloudFlare] MAA (Chennai) on 2026-10-28 - 1 day ago
-- [CloudFlare] MAA (Chennai) on 2026-10-29 - 1 day ago
-- [SecurityWeek] Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - 1 day ago
-- [SecurityWeek] Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw - 1 day ago
-- [SecurityWeek] Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks - 1 day ago
-- [BleepingComputer] Microsoft fixes game, app crashes caused by recent Windows update - 1 day ago
-- [RegisterSec] Security patches need patches now that attackers have AI - 1 day ago
-- [BleepingComputer] OpenCode hack exposes API keys amid AI distillation attacks - 1 day ago
-- [BleepingComputer] Bullhorn takes staffing platform offline to contain cyberattack - 1 day ago
-- [BleepingComputer] Hackers hijack AOMEI update servers to secretly spread malware - 1 day ago
-- [HackerNews] ⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More - 1 day ago
-- [HackerNews] Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - 1 day ago
-- [HackerNews] Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor - 1 day ago
-- [CloudFlare] IAH (Houston) on 2026-10-27 - 1 day ago
-- [CloudFlare] DEN (Denver) on 2026-10-27 - 1 day ago
-- [CloudFlare] IAH (Houston) on 2026-10-28 - 1 day ago
-- [CloudFlare] DEL (New Delhi) on 2026-10-29 - 1 day ago
-- [GitHub] Degraded availability for GitHub Actions, GitHub Pages and Webhooks - 1 day ago
-- [SecurityWeek] Anthropic Acquires Confidential AI Startup Opaque Systems - 1 day ago
-- [SecurityWeek] MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks - 1 day ago
-- [SecurityWeek] Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack - 1 day ago
-- [SecurityWeek] One Compromised Login Exposed Millions of California Students’ Records - 1 day ago
-- [SecurityWeek] Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure - 1 day ago
-- [SecurityWeek] ConnectWise Suspends Cloud Services in Response to Cyberattack - 1 day ago
-- [NETRESEC] CapLoader 2.2 Released - 1 day ago
-- [TroyHunt] Weekly Update 526: Building HIBP AI/SI First - 1 day ago
-- [HackerNews] OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys - 1 day ago
-- [HackerNews] Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers - 1 day ago
-- [BleepingComputer] Microsoft: October Windows Server updates break Exchange sign-in, mail flow - 1 day ago
-- [HackerNews] Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic - 1 day ago
-- [BleepingComputer] Microsoft fixes classic Outlook bug that hid Copilot buttons - 1 day ago
-- [HackerNews] From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software - 1 day ago
-- [BleepingComputer] F5 releases out-of-band patches for critical NGINX vulnerabilities - 1 day ago
-- [RegisterSoftware] Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates - 1 day ago
-- [NHSDigital] CC-4872 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Plus and NGINX Open Source - 1 day ago
-- [HackerNews] GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories - 1 day ago
-- [BleepingComputer] Inside the Underground Market for Know Your Client Services - 1 day ago
-- [NHSDigital] CC-4873 - Multiple Critical Vulnerabilities in Next.js - 1 day ago
-- [BrianKrebs] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site - 1 day ago
-- [CloudFlare] SAT (San Antonio) on 2026-10-22 - 2 days ago
-- [RegisterSec] ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU - 2 days ago
-- [RegisterSoftware] Engineer was so sick of office pranks, he 'wiped' his antagonist's disk - 2 days ago
+- **GitHub**: [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
+- **The Hacker News**: [U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html)
+- **The Hacker News**: [Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites](https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html)
+- **The Hacker News**: [Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections](https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html)
+- **The Hacker News**: [The Harness Is the Hard Part of Agentic Pentesting](https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html)
+- **The Hacker News**: [PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
+- **The Register**: [EU wants Booking.com to check out of its scam problem](https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413)
+- **The Hacker News**: [Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports](https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html)
+- **The Register**: [Nvidia picks OpenShell to tame AI gents](https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319)
+- **The Register**: [The spec is the new code, so brush up on your prose, says Kaseya CTO](https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002)
+- **The Hacker News**: [China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors](https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html)
+- **The Register**: [AI cuts coding time, but it's also filling open source's inbox with crap](https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389)
+- **The Register**: [AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers](https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297)
+- **The Hacker News**: [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
+- **SecurityWeek**: [Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor](https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/)
+- **SecurityWeek**: [China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)
+- **SecurityWeek**: [Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)
+- **BleepingComputer**: [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
+- **SecurityWeek**: [OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor](https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/)
+- **BleepingComputer**: [Microsoft PowerToys adds CursorHide, Button Lock mouse tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/)
+- **SecurityWeek**: [Memory Bugs Account for Most of Chrome’s 353 New Security Fixes](https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/)
+- **BleepingComputer**: [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
+- **SecurityWeek**: [Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security](https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/)
+- **BleepingComputer**: [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
+- **Cloudflare**: [MNL (Manila) on 2026-10-22](https://www.cloudflarestatus.com/incidents/lp6htnvkchbr)
+- **Cloudflare**: [Cloudflare has scheduled maintenance for our storage systems](https://www.cloudflarestatus.com/incidents/96wwk8y2kww4)
+- **SecurityWeek**: [Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities](https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/)
+- **SecurityWeek**: [Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI](https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/)
+- **SecurityWeek**: [PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws](https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/)
+- **The Hacker News**: [PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
+- **The Hacker News**: [Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion](https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html)
+- **The Hacker News**: [CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws](https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html)
+- **The Hacker News**: [State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)
+- **BleepingComputer**: [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
+- **Cloudflare**: [IST (İstanbul) on 2026-10-22](https://www.cloudflarestatus.com/incidents/mg8ry8rn252t)
+- **Cloudflare**: [DAC (Dhaka) on 2026-10-22](https://www.cloudflarestatus.com/incidents/q33mr33n35jm)
+- **BleepingComputer**: [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
+- **BleepingComputer**: [Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)
+- **Cloudflare**: [KHI (Karachi) on 2026-10-22](https://www.cloudflarestatus.com/incidents/shlh00b2ntpr)
+- **Cloudflare**: [BOM (Mumbai) on 2026-10-22](https://www.cloudflarestatus.com/incidents/9w4f9krpp6xz)
+- **The Register**: [Auto tech startup claims it traced hack attempt back to rival's IP address](https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281)
+- **The Register**: [Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’](https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312)
+- **Cloudflare**: [PAT (Patna) on 2026-10-22](https://www.cloudflarestatus.com/incidents/p9d7hbgn8nfq)
+- **Full Disclosure**: [(ROOTEDCON) Call for Papers 2027 · RootedCON2027 (Madrid)](https://seclists.org/fulldisclosure/2026/Oct/27)
+- **Full Disclosure**: [(0day-rubbish) Edimax BR-6478AC firmware v2.20 authenticated command injection in the formWlanMP manufacturing-test handler, root command execution (7.2)](https://seclists.org/fulldisclosure/2026/Oct/28)
+- **Full Disclosure**: [(0day-rubbish) Edimax BR-6478AC firmware v2.20 authenticated command injection in the setWAN WAN-configuration handler, root command execution (7.2)](https://seclists.org/fulldisclosure/2026/Oct/29)
+- **Full Disclosure**: [(0day-rubbish) Exasol Database 7.1.30 docker-db form: shipped default SYS credential to PYTHON3 UDF os.popen command execution as uid=500(exadefusr), output returned in-band (8.8)](https://seclists.org/fulldisclosure/2026/Oct/30)
+- **Full Disclosure**: [(0day-rubbish) Parasoft Continuous Testing Platform 10.7.5-SNAPSHOT anonymous deserialization in the database restore path to JSP command execution as uid=1000 (9.8)](https://seclists.org/fulldisclosure/2026/Oct/31)
+- **Full Disclosure**: [(0day-rubbish) ProSoft Technology RLX-IFH24E v2.2.44 unsigned firmware upgrade package to root command execution and full account-database overwrite (7.2)](https://seclists.org/fulldisclosure/2026/Oct/32)
+- **Full Disclosure**: [(0day-rubbish) Royal Render 9.1.26b: default-unauthenticated job submission on rrServer TCP 7773 reaches worker-side shell execution as the worker identity, measured root (8.1 High)](https://seclists.org/fulldisclosure/2026/Oct/33)
+- **Full Disclosure**: [(0day-rubbish) TRENDnet TV-IP302PI firmware 1.02.38 authenticated NTP server-address OS command injection to root command execution via a shell-form system() call (7.2 High, PR:H)](https://seclists.org/fulldisclosure/2026/Oct/34)
+- **The Hacker News**: [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
+- **BleepingComputer**: [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+- **BleepingComputer**: [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
+- **Scott Helme**: [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- **BleepingComputer**: [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
+- **Cloudflare**: [WAW (Warsaw) on 2026-10-23](https://www.cloudflarestatus.com/incidents/fr9ftxn5jdnv)
+- **Cloudflare**: [MNL (Manila) on 2026-10-23](https://www.cloudflarestatus.com/incidents/y2cczhj2h3zb)
+- **Cloudflare**: [DEL (New Delhi) on 2026-10-27](https://www.cloudflarestatus.com/incidents/cqhsrbtzlbl8)
+- **SecurityWeek**: [Ahold Delhaize Restoring Services Disrupted by Cyberattack](https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/)
+- **BleepingComputer**: [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
+- **SecurityWeek**: [The Key to AI Software Security Isn’t Speed, It’s Maturity](https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/)
+- **BleepingComputer**: [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
+- **SecurityWeek**: [AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign](https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/)
+- **BleepingComputer**: [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
+- **SecurityWeek**: [US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)
+- **The Hacker News**: [Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
+- **The Hacker News**: [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
+- **The Hacker News**: [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
+- **The Hacker News**: [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
+- **The Register**: ['Password1' and a forgotten test account land Welsh outfits in hot water](https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139)
+- **The Register**: [Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'](https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198)
+- **The Register**: [Palo Alto's firewall OS has been under attack from multiple ransomware groups since June](https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226)
+- **The Register**: [Enterprises blow nearly a third of software budgets on upgrades they never asked for](https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181)
+- **NHS Digital**: [CC-4874 - Active Exploitation of Vulnerability in Siemens Software Center (CVE-2026-110936)](https://digital.nhs.uk/cyber-alerts/2026/cc-4874)
+- **The Register**: [openEuler brings China's enterprise Linux ambitions to the desktop](https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145)
+- **Google Cloud**: [RESOLVED: Multiple services are experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj)
+- **Cloudflare**: [DEL (New Delhi) on 2026-10-28](https://www.cloudflarestatus.com/incidents/c2y915przvp5)
+- **Cloudflare**: [DAC (Dhaka) on 2026-11-02](https://www.cloudflarestatus.com/incidents/9p3qj8h58hqz)
+- **BleepingComputer**: [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
+- **BleepingComputer**: [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
+- **BleepingComputer**: [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
+- **BleepingComputer**: [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
+- **The Register**: [Why cyber resilience is now a boardroom priority for UK public services](https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601)
+- **The Register**: [UK finance watchdog wants firms to report AI failures and close calls](https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078)
+- **The Register**: [Whitehall shuts the front door on digital ID but leaves the back open](https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100)
+- **The Register**: [Bullhorn sees red after cyberattack knocks recruitment platform offline](https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114)
+- **SecurityWeek**: [970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
+- **SecurityWeek**: [Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
+- **SecurityWeek**: [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
+- **SecurityWeek**: [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/)
+- **SecurityWeek**: [AI Platform Cairn Abused to Hack Over 100 Organizations](https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/)
+- **The Hacker News**: [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+- **The Hacker News**: [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
+- **The Hacker News**: [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
+- **Graham Cluley**: [Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death](https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death)
+- **The Hacker News**: [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
+- **The Hacker News**: [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
+- **The Hacker News**: [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
+- **Google Cloud**: [UPDATE: Multiple services are experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj)
+- **Cloudflare**: [AMS (Amsterdam) on 2026-10-29](https://www.cloudflarestatus.com/incidents/kpttnxc7m694)
+- **Cloudflare**: [AMD (Ahmedabad) on 2026-11-02](https://www.cloudflarestatus.com/incidents/dck4spryz6k6)
+- **The Register**: [ICANN testing tech to let law enforcement access non-public WHOIS info](https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036)
+- **The Hacker News**: [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
+- **The Hacker News**: [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
+- **The Hacker News**: [ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
+- **Have I Been Pwned**: [Assurance Retraite - 70,372 breached accounts](https://haveibeenpwned.com/Breach/AssuranceRetraite)
+- **Cloudflare**: [KTM (Kathmandu) on 2026-11-02](https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h)
+- **The Register**: [DeepSeek deep-sixed at all US federal civilian agencies](https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010)
+- **Cloudflare**: [HNL (Honolulu) on 2026-10-23](https://www.cloudflarestatus.com/incidents/b7084xrh4kll)
+- **The Register**: [Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline](https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970)
+- **BleepingComputer**: [WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)
+- **BleepingComputer**: [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
+- **Cloudflare**: [PHX (Phoenix) on 2026-10-22](https://www.cloudflarestatus.com/incidents/078rhr5nkpqt)
+- **Cloudflare**: [TPE (Taipei) on 2026-10-23](https://www.cloudflarestatus.com/incidents/swybmlrh43lj)
+- **Cloudflare**: [CGK (Jakarta) on 2026-10-23](https://www.cloudflarestatus.com/incidents/ygch1ydz3x4b)
+- **Cloudflare**: [MAA (Chennai) on 2026-10-28](https://www.cloudflarestatus.com/incidents/3kj3hl14mhrg)
+- **Cloudflare**: [MAA (Chennai) on 2026-10-29](https://www.cloudflarestatus.com/incidents/14xdxtl6twwf)
+- **SecurityWeek**: [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/)
+- **SecurityWeek**: [Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw](https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/)
+- **SecurityWeek**: [Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks](https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/)
+- **BleepingComputer**: [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
+- **The Register**: [Security patches need patches now that attackers have AI](https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927)
+- **BleepingComputer**: [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
+- **BleepingComputer**: [Bullhorn takes staffing platform offline to contain cyberattack](https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/)
+- **BleepingComputer**: [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
+- **The Hacker News**: [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+- **The Hacker News**: [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+- **The Hacker News**: [Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
+- **Cloudflare**: [IAH (Houston) on 2026-10-27](https://www.cloudflarestatus.com/incidents/5njwjxjn2gp3)
+- **Cloudflare**: [DEN (Denver) on 2026-10-27](https://www.cloudflarestatus.com/incidents/nhfqwlklvhxq)
+- **Cloudflare**: [IAH (Houston) on 2026-10-28](https://www.cloudflarestatus.com/incidents/xdqvw85z0kbf)
+- **Cloudflare**: [DEL (New Delhi) on 2026-10-29](https://www.cloudflarestatus.com/incidents/rztnzqcbkkkd)
+- **GitHub**: [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+- **SecurityWeek**: [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
+- **SecurityWeek**: [MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)
+- **SecurityWeek**: [Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack](https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/)
+- **SecurityWeek**: [One Compromised Login Exposed Millions of California Students’ Records](https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/)
+- **SecurityWeek**: [Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
+- **SecurityWeek**: [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
+- **NETRESEC**: [CapLoader 2.2 Released](https://www.netresec.com/?page=Blog&month=2026-10&post=CapLoader-2-2-Released)
+- **Troy Hunt**: [Weekly Update 526: Building HIBP AI/SI First](https://www.troyhunt.com/weekly-update-526/)
+- **The Hacker News**: [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
+- **The Hacker News**: [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
+- **BleepingComputer**: [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
+- **The Hacker News**: [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
+- **BleepingComputer**: [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
+- **The Hacker News**: [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
+- **BleepingComputer**: [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+- **The Register**: [Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates](https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724)
+- **NHS Digital**: [CC-4872 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Plus and NGINX Open Source](https://digital.nhs.uk/cyber-alerts/2026/cc-4872)
+- **The Hacker News**: [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+- **BleepingComputer**: [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
+- **NHS Digital**: [CC-4873 - Multiple Critical Vulnerabilities in Next.js](https://digital.nhs.uk/cyber-alerts/2026/cc-4873)
+- **Krebs on Security**: [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 
 <!-- SecOps end -->
