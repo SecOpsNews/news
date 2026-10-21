@@ -1,36 +1,44 @@
 {%- comment -%}
-  Sponsor card. Shows the first sponsor in _data/sponsors.yml whose start and
-  end dates include today, otherwise a "sponsor this site" placeholder.
+Sponsor card. Shows the first sponsor in _data/sponsors.yml whose start and
+end dates include today, otherwise a "sponsor this site" placeholder.
 {%- endcomment -%}
 {%- assign today = site.time | date: "%Y-%m-%d" %}
 {%- assign sponsor = nil %}
 {%- for s in site.data.sponsors %}
 {%- assign s_start = s.start | date: "%Y-%m-%d" %}
 {%- assign s_end = s.end | date: "%Y-%m-%d" %}
-{%- if s_start <= today and s_end >= today %}
-{%- assign sponsor = s %}
-{%- break %}
-{%- endif %}
-{%- endfor %}
-{%- if sponsor %}
-{%- if sponsor.url contains "?" %}{% assign sponsor_link = sponsor.url | append: "&r=thechelsuk" %}{% else %}{% assign sponsor_link = sponsor.url | append: "?r=thechelsuk" %}{% endif %}
-<a class="sponsor" href="{{ sponsor_link | escape }}" rel="sponsored noopener" target="_blank">
-    <img class="sponsor-logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" width="48" height="48">
-    <span class="sponsor-text">
-        <span class="sponsor-label">Sponsored by {{ sponsor.name }}</span>
-        <strong>{{ sponsor.title }}</strong>
-        <span class="sponsor-desc">{{ sponsor.description }}</span>
-    </span>
-    <svg class="sponsor-arrow" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-</a>
-{%- else %}
-<a class="sponsor sponsor-empty" href="/sponsor/">
-    <span class="sponsor-logo sponsor-logo-empty" aria-hidden="true">+</span>
-    <span class="sponsor-text">
-        <span class="sponsor-label">Sponsor this site</span>
-        <strong>Reach engineering leaders and security professionals</strong>
-        <span class="sponsor-desc">One sponsor a month, shown on every visit to the dashboard. See open slots and terms.</span>
-    </span>
-    <svg class="sponsor-arrow" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-</a>
-{%- endif %}
+{%- if s_start <= today and s_end>= today %}
+    {%- assign sponsor = s %}
+    {%- break %}
+    {%- endif %}
+    {%- endfor %}
+    {%- if sponsor %}
+    {%- if sponsor.url contains "?" %}{% assign sponsor_link = sponsor.url | append: "&r=thechelsuk" %}{% else %}{%
+    assign sponsor_link = sponsor.url | append: "?r=thechelsuk" %}{% endif %}
+    <a class="sponsor" href="{{ sponsor_link | escape }}" rel="sponsored noopener" target="_blank">
+        <img class="sponsor-logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" width="48" height="48">
+        <span class="sponsor-text">
+            <span class="sponsor-label">Sponsored by</span>
+            <strong>{{ sponsor.name }}: {{ sponsor.title }}</strong>
+            <span class="sponsor-desc">{{ sponsor.description }}</span>
+        </span>
+        <svg class="sponsor-arrow" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </svg>
+    </a>
+    {%- else %}
+    <a class="sponsor sponsor-empty" href="/sponsor/">
+        <span class="sponsor-logo sponsor-logo-empty" aria-hidden="true">+</span>
+        <span class="sponsor-text">
+            <span class="sponsor-label">Sponsor this site</span>
+            <strong>Reach engineering leaders and security professionals</strong>
+            <span class="sponsor-desc">One sponsor a month, shown on every visit to the dashboard. See open slots and
+                terms.</span>
+        </span>
+        <svg class="sponsor-arrow" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </svg>
+    </a>
+    {%- endif %}
