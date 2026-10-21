@@ -10,7 +10,7 @@
 #   - name: Acme Security                  # sponsor name, used as alt text
 #     title: Find exposed secrets in minutes
 #     description: Scan your repos and CI logs for leaked keys. Free for open source.
-#     url: https://example.com/?ref=secopsnews
+#     url: https://example.com/              # ?r=thechelsuk is added automatically
 #     logo: /assets/sponsors/acme.png      # square image, 96×96 or larger
 #     start: 2026-11-01
 #     end: 2026-11-30
@@ -18,7 +18,7 @@
 - name: Cybaa
   title: Domain, web and email security monitoring
   description: Spot security problems, investigate DMARC and TLS-RPT reports and keep DNS backups. Plans from £9.99/month, with a 30-day trial.
-  url: https://cybaa.io/?utm_source=secopsnews&utm_medium=sponsor
+  url: https://cybaa.io/
   logo: /assets/sponsors/cybaa.png
   start: 2026-10-21
   end: 2026-12-31

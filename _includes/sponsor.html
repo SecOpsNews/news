@@ -13,7 +13,8 @@
 {%- endif %}
 {%- endfor %}
 {%- if sponsor %}
-<a class="sponsor" href="{{ sponsor.url | escape }}" rel="sponsored noopener" target="_blank">
+{%- if sponsor.url contains "?" %}{% assign sponsor_link = sponsor.url | append: "&r=thechelsuk" %}{% else %}{% assign sponsor_link = sponsor.url | append: "?r=thechelsuk" %}{% endif %}
+<a class="sponsor" href="{{ sponsor_link | escape }}" rel="sponsored noopener" target="_blank">
     <img class="sponsor-logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" width="48" height="48">
     <span class="sponsor-text">
         <span class="sponsor-label">Sponsored by {{ sponsor.name }}</span>
