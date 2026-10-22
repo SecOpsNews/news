@@ -2,7 +2,8 @@ name: RSS Cloud Providers
 
 on:
     schedule:
-        - cron: "*/15 * * * *"
+        # Every 2 hours, staggered from the other RSS workflows.
+        - cron: "43 */2 * * *"
     workflow_dispatch:
 
 permissions:

@@ -3,7 +3,8 @@ name: RSS Security
 
 on:
     schedule:
-        - cron: "*/15 * * * *"
+        # Every 2 hours, staggered from the other RSS workflows.
+        - cron: "23 */2 * * *"
     workflow_dispatch:
 
 # Define permissions at workflow level that apply to all jobs

@@ -4,7 +4,7 @@
 # include today (start and end are both inclusive, YYYY-MM-DD). When no
 # entry is active, a "Sponsor this site" placeholder is shown instead.
 #
-# The site rebuilds when the feed updates (07:00 and 14:00 UTC), so a
+# The site rebuilds when the feed updates (07:17 and 14:17 UTC), so a
 # sponsor goes live or comes down at the first build on or after its date.
 #
 #   - name: Acme Security                  # sponsor name, used as alt text
