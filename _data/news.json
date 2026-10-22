@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-21T18:18:20Z",
+ "generated": "2026-10-22T12:01:31Z",
  "stars": 75,
  "counts": {
-  "last_24h": 59,
+  "last_24h": 67,
   "critical": 17,
-  "advisories": 12,
-  "status": 29
+  "advisories": 11,
+  "status": 21
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 25
+   "notices": 16
   },
   {
    "name": "Google Cloud",
-   "notices": 2
+   "notices": 4
   },
   {
    "name": "AWS",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 2
+   "notices": 1
   },
   {
    "name": "Slack",
@@ -38,6 +38,393 @@
   }
  ],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+   "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+   "published": "2026-10-22T10:24:51Z",
+   "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+   "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+   "published": "2026-10-22T10:24:51Z",
+   "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "PHP2Shell Exploitation Started Days Before Patches",
+   "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+   "published": "2026-10-22T10:24:50Z",
+   "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+   "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+   "published": "2026-10-22T10:24:50Z",
+   "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "What You Can Learn from Recent Retail Cyber Incidents",
+   "url": "https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/",
+   "published": "2026-10-22T10:24:38Z",
+   "summary": "The post [What You Can Learn from Recent Retail Cyber Incidents](https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA",
+   "url": "https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/",
+   "published": "2026-10-22T10:24:38Z",
+   "summary": "The post [Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA](https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/) appeared first on [GRC…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+   "published": "2026-10-22T10:24:37Z",
+   "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+   "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+   "published": "2026-10-22T10:24:36Z",
+   "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+   "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+   "published": "2026-10-22T10:24:36Z",
+   "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+   "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+   "published": "2026-10-22T10:24:35Z",
+   "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+   "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+   "published": "2026-10-22T10:24:35Z",
+   "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Certification authority eMudhra defends its laughably weak private keys",
+   "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
+   "published": "2026-10-22T10:24:34Z",
+   "summary": "Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
+   "url": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+   "published": "2026-10-22T10:24:33Z",
+   "summary": "Welcome back to PWNED, the column where we talk about companies and organizations that leave the doors wide open to attackers. This week’s sad story involves a major American pharmacy chain that couldn’t fill a…",
+   "critical": false
+  },
+  {
+   "source": "Google Cloud",
+   "category": "status",
+   "title": "UPDATE: Multiple services were experiencing issues in the europe-west2 region.",
+   "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+   "published": "2026-10-22T09:46:24Z",
+   "summary": "Incident began at 2026-10-19 23:00 and ended at 2026-10-20 05:10(all times are US/Pacific).",
+   "critical": false
+  },
+  {
+   "source": "Google Cloud",
+   "category": "status",
+   "title": "RESOLVED: Multiple services were experiencing issues in the europe-west2 region.",
+   "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+   "published": "2026-10-22T09:46:24Z",
+   "summary": "Incident began at 2026-10-19 23:00 and ended at 2026-10-20 05:10(all times are US/Pacific).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+   "published": "2026-10-22T05:22:38Z",
+   "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "GIG (Rio de Janeiro) on 2026-10-26",
+   "url": "https://www.cloudflarestatus.com/incidents/wg9hj6wrzk7j",
+   "published": "2026-10-22T01:24:45Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in GIG (Rio de Janeiro) datacenter on 2026-10-26 between 08:00 and 10:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+   "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+   "published": "2026-10-22T00:40:35Z",
+   "summary": "PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure. On Wednesday, just hours…",
+   "critical": false
+  },
+  {
+   "source": "Graham Cluley",
+   "category": "blog",
+   "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
+   "url": "https://grahamcluley.com/smashing-security-podcast-489/",
+   "published": "2026-10-22T00:40:31Z",
+   "summary": "Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+   "published": "2026-10-22T00:40:25Z",
+   "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+   "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+   "published": "2026-10-21T22:04:30Z",
+   "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+   "published": "2026-10-21T22:04:28Z",
+   "summary": "Why use your smartphone when AI can do it for you? We’ve reached a new level of AI inanity with the launch of Opposable, a tool that taps, swipes, and types on Android phones and controls iPhones through a companion…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+   "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+   "published": "2026-10-21T22:04:25Z",
+   "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+   "published": "2026-10-21T22:04:24Z",
+   "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DFW (Dallas) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/b1hr6d16sn9x",
+   "published": "2026-10-21T19:55:22Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-10-29 between 07:00 and 17:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "The UK and EU GDPR in 2026: Similar Does Not Mean Interchangeable",
+   "url": "https://grcsolutions.io/the-uk-and-eu-gdpr-similar-does-not-mean-interchangeable/",
+   "published": "2026-10-21T18:48:06Z",
+   "summary": "The post [The UK and EU GDPR in 2026: Similar Does Not Mean Interchangeable](https://grcsolutions.io/the-uk-and-eu-gdpr-similar-does-not-mean-interchangeable/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Smart Glasses Come into Focus: European Privacy Regulators Set Out Their Expectations",
+   "url": "https://grcsolutions.io/smart-glasses-come-into-focus/",
+   "published": "2026-10-21T18:48:05Z",
+   "summary": "The post [Smart Glasses Come into Focus: European Privacy Regulators Set Out Their Expectations](https://grcsolutions.io/smart-glasses-come-into-focus/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "From the ICO to Brussels: Shaping the Next Chapter of Privacy and AI",
+   "url": "https://grcsolutions.io/shaping-the-next-chapter-of-privacy-and-ai/",
+   "published": "2026-10-21T18:48:05Z",
+   "summary": "The post [From the ICO to Brussels: Shaping the Next Chapter of Privacy and AI](https://grcsolutions.io/shaping-the-next-chapter-of-privacy-and-ai/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Signal bug could keep your mic - and camera - on after hangup",
+   "url": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+   "published": "2026-10-21T18:48:04Z",
+   "summary": "Make sure you don’t say anything mean or secret after hanging up a call on Signal, as a bug in the encrypted messaging app’s calling library could prevent a call from ending properly, potentially leaving audio and…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+   "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+   "published": "2026-10-21T18:47:59Z",
+   "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+   "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+   "published": "2026-10-21T18:47:58Z",
+   "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+   "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+   "published": "2026-10-21T18:47:58Z",
+   "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+   "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+   "published": "2026-10-21T18:47:58Z",
+   "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+   "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+   "published": "2026-10-21T18:47:57Z",
+   "summary": "PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline. PHP 8.5.12,…",
+   "critical": true
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
+   "published": "2026-10-21T18:47:57Z",
+   "summary": "Severity: High",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+   "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+   "published": "2026-10-21T18:47:57Z",
+   "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold.",
+   "critical": false
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
+   "published": "2026-10-21T18:47:57Z",
+   "summary": "Severity: Medium",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+   "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+   "published": "2026-10-21T18:47:57Z",
+   "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+   "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+   "published": "2026-10-21T18:47:56Z",
+   "summary": "Unknown crims compromised LiteLLM's release process on Wednesday, distributing a malicious version (1.107.0) containing malware designed to steal cloud and AI credentials and a remote access trojan (RAT) capable of…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "OpenAI agents disabled safety monitoring, one lied about it",
+   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+   "published": "2026-10-21T18:47:56Z",
+   "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+   "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+   "published": "2026-10-21T18:47:56Z",
+   "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+   "published": "2026-10-21T18:47:55Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+   "critical": false
+  },
+  {
+   "source": "Krebs on Security",
+   "category": "blog",
+   "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+   "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+   "published": "2026-10-21T18:47:55Z",
+   "summary": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over…",
+   "critical": false
+  },
   {
    "source": "GitHub",
    "category": "status",
@@ -954,483 +1341,6 @@
    "url": "https://www.cloudflarestatus.com/incidents/dck4spryz6k6",
    "published": "2026-10-20T10:15:37Z",
    "summary": "Scheduled - We will be performing scheduled maintenance in AMD (Ahmedabad) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
-   "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
-   "published": "2026-10-20T07:31:20Z",
-   "summary": "ICANN has started testing authentication schemes that will allow law enforcement agencies to make urgent requests for non-public WHOIS information – when needed to address threats to life, critical infrastructure, or…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-   "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-   "published": "2026-10-20T07:31:18Z",
-   "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-   "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-   "published": "2026-10-20T07:31:17Z",
-   "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-   "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-   "published": "2026-10-20T07:31:16Z",
-   "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.",
-   "critical": false
-  },
-  {
-   "source": "Have I Been Pwned",
-   "category": "breach",
-   "title": "Assurance Retraite - 70,372 breached accounts",
-   "url": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
-   "published": "2026-10-20T07:31:14Z",
-   "summary": "In September 2024, the French national pension fund [Assurance Retraite suffered a data breach affecting approximately 370k assistance…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KTM (Kathmandu) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h",
-   "published": "2026-10-20T05:18:20Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KTM (Kathmandu) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "DeepSeek deep-sixed at all US federal civilian agencies",
-   "url": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-   "published": "2026-10-20T02:05:16Z",
-   "summary": "The US Department of Homeland Security on Monday issued an order directing federal civilian agencies not to use technology products from Chinese AI lab DeepSeek, and to remove any existing implementations. The order…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "HNL (Honolulu) on 2026-10-23",
-   "url": "https://www.cloudflarestatus.com/incidents/b7084xrh4kll",
-   "published": "2026-10-20T00:39:26Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-10-23 between 08:00 and 13:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
-   "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
-   "published": "2026-10-19T23:39:33Z",
-   "summary": "Dutch grocery giant Ahold Delhaize, which operates US supermarket chains Food Lion, Giant Food, and Stop & Shop, said it proactively took IT systems offline following a cyberattack, affecting most of its US and…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-   "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-   "published": "2026-10-19T23:39:30Z",
-   "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-   "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-   "published": "2026-10-19T23:39:30Z",
-   "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "PHX (Phoenix) on 2026-10-22",
-   "url": "https://www.cloudflarestatus.com/incidents/078rhr5nkpqt",
-   "published": "2026-10-19T21:31:07Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in PHX (Phoenix) datacenter on 2026-10-22 between 08:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "TPE (Taipei) on 2026-10-23",
-   "url": "https://www.cloudflarestatus.com/incidents/swybmlrh43lj",
-   "published": "2026-10-19T21:31:06Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in TPE (Taipei) datacenter on 2026-10-23 between 18:00 and 22:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "CGK (Jakarta) on 2026-10-23",
-   "url": "https://www.cloudflarestatus.com/incidents/ygch1ydz3x4b",
-   "published": "2026-10-19T21:31:06Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in CGK (Jakarta) datacenter on 2026-10-23 between 19:00 and 23:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MAA (Chennai) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/3kj3hl14mhrg",
-   "published": "2026-10-19T21:31:05Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-10-28 21:00 and 2026-10-29 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MAA (Chennai) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/14xdxtl6twwf",
-   "published": "2026-10-19T21:31:05Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
-   "url": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
-   "published": "2026-10-19T20:03:33Z",
-   "summary": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-   "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-   "published": "2026-10-19T20:03:32Z",
-   "summary": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
-   "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
-   "published": "2026-10-19T20:03:32Z",
-   "summary": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-   "published": "2026-10-19T20:03:28Z",
-   "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Security patches need patches now that attackers have AI",
-   "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-   "published": "2026-10-19T20:03:28Z",
-   "summary": "Updating your software only gets you so far. A scary scenario - security fixes themselves being bypassed - is becoming more common, according to AI penetration-testing startup Terra Security, which found a sharp rise…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-   "published": "2026-10-19T20:03:28Z",
-   "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-   "published": "2026-10-19T20:03:27Z",
-   "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-   "published": "2026-10-19T20:03:27Z",
-   "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-   "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-   "published": "2026-10-19T20:03:26Z",
-   "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-   "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-   "published": "2026-10-19T20:03:26Z",
-   "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-   "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-   "published": "2026-10-19T20:03:26Z",
-   "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IAH (Houston) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/5njwjxjn2gp3",
-   "published": "2026-10-19T17:10:55Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IAH (Houston) datacenter on 2026-10-27 between 07:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DEN (Denver) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/nhfqwlklvhxq",
-   "published": "2026-10-19T17:10:54Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DEN (Denver) datacenter on 2026-10-27 between 08:00 and 13:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IAH (Houston) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/xdqvw85z0kbf",
-   "published": "2026-10-19T17:10:54Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IAH (Houston) datacenter on 2026-10-28 between 07:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DEL (New Delhi) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/rztnzqcbkkkd",
-   "published": "2026-10-19T17:10:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-   "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-   "published": "2026-10-19T17:10:52Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-   "published": "2026-10-19T14:19:10Z",
-   "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-   "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-   "published": "2026-10-19T14:19:09Z",
-   "summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-   "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-   "published": "2026-10-19T14:19:09Z",
-   "summary": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "One Compromised Login Exposed Millions of California Students’ Records",
-   "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-   "published": "2026-10-19T14:19:08Z",
-   "summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-   "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-   "published": "2026-10-19T14:19:08Z",
-   "summary": "Threat actors have been observed delivering cryptocurrency miners and proxy software.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-   "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-   "published": "2026-10-19T14:19:07Z",
-   "summary": "The services remain unavailable as the company continues remediation and security validation.",
-   "critical": false
-  },
-  {
-   "source": "NETRESEC",
-   "category": "blog",
-   "title": "CapLoader 2.2 Released",
-   "url": "https://www.netresec.com/?page=Blog&month=2026-10&post=CapLoader-2-2-Released",
-   "published": "2026-10-19T14:19:02Z",
-   "summary": "![CapLoader 2.2](https://media.netresec.com/images/CL2-2770x770.webp)",
-   "critical": false
-  },
-  {
-   "source": "Troy Hunt",
-   "category": "blog",
-   "title": "Weekly Update 526: Building HIBP AI/SI First",
-   "url": "https://www.troyhunt.com/weekly-update-526/",
-   "published": "2026-10-19T14:18:59Z",
-   "summary": "[Presently sponsored by: After the Hugging Face incident, everyone asked the same thing. What did the agents actually do? Origin answers it: prompt to…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-   "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-   "published": "2026-10-19T14:18:56Z",
-   "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-   "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-   "published": "2026-10-19T14:18:55Z",
-   "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-   "published": "2026-10-19T14:18:55Z",
-   "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-   "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-   "published": "2026-10-19T14:18:55Z",
-   "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-   "published": "2026-10-19T14:18:55Z",
-   "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-   "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-   "published": "2026-10-19T14:18:54Z",
-   "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-   "published": "2026-10-19T14:18:54Z",
-   "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
-   "url": "https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724",
-   "published": "2026-10-19T14:18:54Z",
-   "summary": "Microsoft has acknowledged that the October 2026 Windows Server updates may be destabilizing Exchange Server. The problems are related to this list of Windows Server updates (see here) and Microsoft makes it clear…",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4872 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Plus and NGINX Open Source",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4872",
-   "published": "2026-10-19T14:18:54Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-   "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-   "published": "2026-10-19T14:18:54Z",
-   "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Inside the Underground Market for Know Your Client Services",
-   "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-   "published": "2026-10-19T14:18:53Z",
-   "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the…",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4873 - Multiple Critical Vulnerabilities in Next.js",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4873",
-   "published": "2026-10-19T14:18:53Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "Krebs on Security",
-   "category": "blog",
-   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-   "published": "2026-10-19T14:18:53Z",
-   "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained…",
    "critical": false
   }
  ]

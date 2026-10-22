@@ -1,5 +1,206 @@
 [
  {
+  "id": "secopsnews-rundown-2026-10-22-pm",
+  "generated": "2026-10-22T12:01:31Z",
+  "title": "SecOps rundown, Thu 22 Oct afternoon: 17 critical, 11 advisories",
+  "counts": {
+   "last_24h": 67,
+   "critical": 17,
+   "advisories": 11,
+   "status": 21
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 16
+   },
+   {
+    "name": "Google Cloud",
+    "notices": 4
+   },
+   {
+    "name": "GitHub",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 17,
+   "items": [
+    {
+     "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+     "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+     "source": "The Hacker News",
+     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014."
+    },
+    {
+     "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+     "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+     "source": "The Hacker News",
+     "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the…"
+    },
+    {
+     "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+     "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+     "source": "SecurityWeek",
+     "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents."
+    },
+    {
+     "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+     "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+     "source": "The Register",
+     "summary": "PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline. PHP 8.5.12,…"
+    },
+    {
+     "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
+     "source": "NHS Digital",
+     "summary": "Severity: High"
+    },
+    {
+     "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
+     "source": "NHS Digital",
+     "summary": "Severity: Medium"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 11,
+   "items": [
+    {
+     "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "[ROOTEDCON] Call for Papers 2027 · RootedCON2027 (Madrid)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/27",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the formWlanMP manufacturing-test handler, root command execution (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/28",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Edimax BR-6478AC firmware v2.20 authenticated command injection in the setWAN WAN-configuration handler, root command execution (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/29",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Exasol Database 7.1.30 docker-db form: shipped default SYS credential to PYTHON3 UDF os.popen command execution as uid=500(exadefusr), output returned in-band (8.8)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/30",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 95,
+   "items": [
+    {
+     "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+     "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+     "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "PHP2Shell Exploitation Started Days Before Patches",
+     "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+     "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "What You Can Learn from Recent Retail Cyber Incidents",
+     "url": "https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/",
+     "source": "IT Governance"
+    },
+    {
+     "title": "Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA",
+     "url": "https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/",
+     "source": "IT Governance"
+    },
+    {
+     "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+     "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+     "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+     "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+     "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+     "source": "The Hacker News"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
+     "url": "https://grahamcluley.com/smashing-security-podcast-489/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+     "source": "Scott Helme"
+    },
+    {
+     "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 5,
+   "items": [
+    {
+     "title": "UPDATE: Multiple services were experiencing issues in the europe-west2 region.",
+     "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+     "source": "Google Cloud"
+    },
+    {
+     "title": "RESOLVED: Multiple services were experiencing issues in the europe-west2 region.",
+     "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+     "source": "Google Cloud"
+    },
+    {
+     "title": "Delays for Pull Requests and Webhook deliveries",
+     "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-10-21-pm",
   "generated": "2026-10-21T18:18:20Z",
   "title": "SecOps rundown, Wed 21 Oct afternoon: 17 critical, 12 advisories",
