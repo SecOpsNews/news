@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-23T12:39:02Z",
+ "generated": "2026-10-23T18:23:34Z",
  "stars": 75,
  "counts": {
-  "last_24h": 61,
-  "critical": 15,
-  "advisories": 4,
-  "status": 36
+  "last_24h": 58,
+  "critical": 17,
+  "advisories": 7,
+  "status": 39
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 28
+   "notices": 31
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,240 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Cloudflare Access Availability Issues",
+   "url": "https://www.cloudflarestatus.com/incidents/t0p23w62n13j",
+   "published": "2026-10-23T13:46:11Z",
+   "summary": "Resolved - This incident has been resolved.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MNL (Manila) on 2026-10-23",
+   "url": "https://www.cloudflarestatus.com/incidents/y2cczhj2h3zb",
+   "published": "2026-10-23T13:46:11Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MNL (Manila) datacenter on 2026-10-23 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NBO (Nairobi) on 2026-10-23",
+   "url": "https://www.cloudflarestatus.com/incidents/7fxwn5qkz3b7",
+   "published": "2026-10-23T13:46:10Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NBO (Nairobi) datacenter between 2026-10-23 22:45 and 2026-10-26 23:45 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ICN (Seoul) on 2026-10-25",
+   "url": "https://www.cloudflarestatus.com/incidents/n9dlbsk05nz0",
+   "published": "2026-10-23T13:46:10Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ICN (Seoul) datacenter between 2026-10-25 22:00 and 2026-10-26 07:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DEL (New Delhi) on 2026-10-27",
+   "url": "https://www.cloudflarestatus.com/incidents/cqhsrbtzlbl8",
+   "published": "2026-10-23T13:46:09Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-27 21:00 and 2026-10-28 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Graham Cluley",
+   "category": "blog",
+   "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+   "published": "2026-10-23T13:33:56Z",
+   "summary": "The AfD has confirmed that hackers breached its hosting provider. A leak site now claims to offer 421,179 of the party’s internal emails, and shows AI-written summaries rather than the emails themselves.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+   "published": "2026-10-23T13:33:54Z",
+   "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+   "published": "2026-10-23T13:33:53Z",
+   "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+   "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+   "published": "2026-10-23T13:33:53Z",
+   "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+   "published": "2026-10-23T13:33:52Z",
+   "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+   "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+   "published": "2026-10-23T13:33:51Z",
+   "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.",
+   "critical": true
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
+   "published": "2026-10-23T13:33:51Z",
+   "summary": "Severity: Medium",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+   "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+   "published": "2026-10-23T13:33:51Z",
+   "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.",
+   "critical": false
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
+   "published": "2026-10-23T13:33:51Z",
+   "summary": "Severity: Medium",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "PHP – advice for impacted organisations and lessons for the future",
+   "url": "https://grcsolutions.io/critical-php-vulnerability-advice-for-organisations/",
+   "published": "2026-10-23T13:33:51Z",
+   "summary": "The post [PHP – advice for impacted organisations and lessons for the future](https://grcsolutions.io/critical-php-vulnerability-advice-for-organisations/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+   "published": "2026-10-23T13:33:50Z",
+   "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.",
+   "critical": true
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
+   "published": "2026-10-23T13:33:50Z",
+   "summary": "Severity: Medium",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "UK threatens subsea cable saboteurs with 14 years behind bars",
+   "url": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
+   "published": "2026-10-23T13:33:46Z",
+   "summary": "Britain is threatening subsea cable saboteurs with up to 14 years in prison and unlimited fines, having apparently decided that Victorian-era laws aren't quite up to the job of keeping Russian submarines away from…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+   "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+   "published": "2026-10-23T13:33:45Z",
+   "summary": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+   "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+   "published": "2026-10-23T13:33:45Z",
+   "summary": "Linus Torvalds is embracing AI to write Linux kernel code, and some people are having fits. He has a message for them. So do I. Roy Schestowitz, editor of Tux Machines, summed up his reaction to the news as \"Linus…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+   "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+   "published": "2026-10-23T13:33:45Z",
+   "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+   "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+   "published": "2026-10-23T13:33:44Z",
+   "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "11 Million Impacted by Capcom Data Breach",
+   "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+   "published": "2026-10-23T13:33:44Z",
+   "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+   "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+   "published": "2026-10-23T13:33:44Z",
+   "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+   "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+   "published": "2026-10-23T13:33:43Z",
+   "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+   "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+   "published": "2026-10-23T13:33:43Z",
+   "summary": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -1197,96 +1431,6 @@
    "url": "https://www.cloudflarestatus.com/incidents/96wwk8y2kww4",
    "published": "2026-10-21T11:05:28Z",
    "summary": "Scheduled - We will be undergoing scheduled maintenance during this time.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-   "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-   "published": "2026-10-21T08:46:42Z",
-   "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-   "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-   "published": "2026-10-21T08:46:41Z",
-   "summary": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-   "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-   "published": "2026-10-21T08:46:41Z",
-   "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-   "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-   "published": "2026-10-21T08:46:39Z",
-   "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-   "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-   "published": "2026-10-21T08:46:39Z",
-   "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-   "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-   "published": "2026-10-21T08:46:38Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-   "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-   "published": "2026-10-21T08:46:38Z",
-   "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-   "published": "2026-10-21T08:46:37Z",
-   "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IST (İstanbul) on 2026-10-22",
-   "url": "https://www.cloudflarestatus.com/incidents/mg8ry8rn252t",
-   "published": "2026-10-21T05:47:16Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IST (İstanbul) datacenter between 2026-10-22 18:00 and 2026-10-23 18:15 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DAC (Dhaka) on 2026-10-22",
-   "url": "https://www.cloudflarestatus.com/incidents/q33mr33n35jm",
-   "published": "2026-10-21T05:47:15Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DAC (Dhaka) datacenter between 2026-10-22 20:00 and 2026-10-23 00:00 UTC.",
    "critical": false
   }
  ]

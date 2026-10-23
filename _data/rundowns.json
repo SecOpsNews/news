@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-23-pm",
-  "generated": "2026-10-23T12:39:02Z",
-  "title": "SecOps rundown, Fri 23 Oct afternoon: 15 critical, 4 advisories",
+  "generated": "2026-10-23T18:23:34Z",
+  "title": "SecOps rundown, Fri 23 Oct afternoon: 17 critical, 7 advisories",
   "counts": {
-   "last_24h": 61,
-   "critical": 15,
-   "advisories": 4,
-   "status": 36
+   "last_24h": 58,
+   "critical": 17,
+   "advisories": 7,
+   "status": 39
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 28
+    "notices": 31
    },
    {
     "name": "Google Cloud",
@@ -28,49 +28,64 @@
    }
   ],
   "critical": {
-   "total": 15,
+   "total": 17,
    "items": [
     {
-     "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-     "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-     "source": "The Hacker News",
-     "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel."
-    },
-    {
-     "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+     "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+     "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
      "source": "BleepingComputer",
-     "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]"
+     "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]"
     },
     {
-     "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-     "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+     "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+     "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
      "source": "The Hacker News",
-     "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22."
+     "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22."
     },
     {
-     "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-     "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+     "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+     "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
      "source": "The Hacker News",
-     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014."
+     "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated."
     },
     {
-     "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-     "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+     "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+     "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
      "source": "The Hacker News",
-     "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the…"
+     "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open."
     },
     {
-     "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-     "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+     "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+     "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+     "source": "The Hacker News",
+     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws."
+    },
+    {
+     "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+     "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
      "source": "SecurityWeek",
-     "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents."
+     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges."
     }
    ]
   },
   "advisories": {
-   "total": 4,
+   "total": 7,
    "items": [
+    {
+     "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
+     "source": "NHS Digital"
+    },
     {
      "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
      "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
@@ -85,72 +100,72 @@
      "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
      "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
      "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
-     "source": "NHS Digital"
     }
    ]
   },
   "headlines": {
-   "total": 84,
+   "total": 91,
    "items": [
     {
-     "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-     "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+     "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+     "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+     "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "PHP – advice for impacted organisations and lessons for the future",
+     "url": "https://grcsolutions.io/critical-php-vulnerability-advice-for-organisations/",
+     "source": "IT Governance"
+    },
+    {
+     "title": "UK threatens subsea cable saboteurs with 14 years behind bars",
+     "url": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
+     "source": "The Register"
+    },
+    {
+     "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+     "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
      "source": "SecurityWeek"
     },
     {
-     "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
-     "url": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
+     "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+     "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
      "source": "The Register"
     },
     {
-     "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
-     "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
-     "source": "The Register"
+     "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+     "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+     "source": "SecurityWeek"
     },
     {
-     "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-     "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-     "source": "The Hacker News"
+     "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+     "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+     "source": "SecurityWeek"
     },
     {
-     "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-     "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-     "source": "BleepingComputer"
+     "title": "11 Million Impacted by Capcom Data Breach",
+     "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+     "source": "SecurityWeek"
     },
     {
-     "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-     "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Capcom confirms data breach affecting 11.7 million accounts",
-     "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Railway warns devs to rotate secrets after potential breach",
-     "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-     "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-     "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-     "source": "The Hacker News"
+     "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+     "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+     "source": "SecurityWeek"
     }
    ]
   },
   "blogs": {
-   "total": 2,
+   "total": 3,
    "items": [
+    {
+     "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+     "source": "Graham Cluley"
+    },
     {
      "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
      "url": "https://grahamcluley.com/smashing-security-podcast-489/",
