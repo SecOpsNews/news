@@ -1,5 +1,190 @@
 [
  {
+  "id": "secopsnews-rundown-2026-10-24-pm",
+  "generated": "2026-10-24T12:01:32Z",
+  "title": "SecOps rundown, Sat 24 Oct afternoon: 18 critical, 5 advisories",
+  "counts": {
+   "last_24h": 68,
+   "critical": 18,
+   "advisories": 5,
+   "status": 47
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 38
+   },
+   {
+    "name": "Google Cloud",
+    "notices": 2
+   },
+   {
+    "name": "GitHub",
+    "notices": 6
+   },
+   {
+    "name": "Slack",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 18,
+   "items": [
+    {
+     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited…"
+    },
+    {
+     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+     "source": "The Hacker News",
+     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli."
+    },
+    {
+     "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code…"
+    },
+    {
+     "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
+     "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+     "source": "SecurityWeek",
+     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges."
+    },
+    {
+     "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+     "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+     "source": "SecurityWeek",
+     "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe."
+    },
+    {
+     "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+     "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+     "source": "The Hacker News",
+     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 5,
+   "items": [
+    {
+     "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4878 - Cisco Releases Security Hardening Guidance for Multiple Cisco Products",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4878",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 66,
+   "items": [
+    {
+     "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+     "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+     "source": "The Register"
+    },
+    {
+     "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
+     "url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
+     "source": "The Register"
+    },
+    {
+     "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+     "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
+     "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+     "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Arc browser on its way out as makers suggest an alternative",
+     "url": "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
+     "source": "The Register"
+    },
+    {
+     "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+     "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "You gave your AI agent access, but who is giving it orders?",
+     "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 9,
+   "items": [
+    {
+     "title": "Grok 4.6 and Grok 4.7 Service Issues",
+     "url": "https://www.githubstatus.com/incidents/khv5nj9qy2kk",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with Dependabot Alerts",
+     "url": "https://www.githubstatus.com/incidents/71y513kjvbzh",
+     "source": "GitHub"
+    },
+    {
+     "title": "Delayed Actions status check results",
+     "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-10-23-pm",
   "generated": "2026-10-23T18:23:34Z",
   "title": "SecOps rundown, Fri 23 Oct afternoon: 17 critical, 7 advisories",
