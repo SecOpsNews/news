@@ -1,22 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-24-pm",
-  "generated": "2026-10-24T12:01:32Z",
+  "generated": "2026-10-24T17:28:33Z",
   "title": "SecOps rundown, Sat 24 Oct afternoon: 18 critical, 5 advisories",
   "counts": {
-   "last_24h": 68,
+   "last_24h": 48,
    "critical": 18,
    "advisories": 5,
-   "status": 47
+   "status": 46
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 38
-   },
-   {
-    "name": "Google Cloud",
-    "notices": 2
+    "notices": 39
    },
    {
     "name": "GitHub",
@@ -99,8 +95,28 @@
    ]
   },
   "headlines": {
-   "total": 66,
+   "total": 56,
    "items": [
+    {
+     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+     "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+     "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+     "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+     "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+     "source": "The Register"
+    },
     {
      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
@@ -130,26 +146,6 @@
      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
      "source": "SecurityWeek"
-    },
-    {
-     "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-     "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Arc browser on its way out as makers suggest an alternative",
-     "url": "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
-     "source": "The Register"
-    },
-    {
-     "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-     "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "You gave your AI agent access, but who is giving it orders?",
-     "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-     "source": "BleepingComputer"
     }
    ]
   },
@@ -164,7 +160,7 @@
    ]
   },
   "outages": {
-   "total": 9,
+   "total": 7,
    "items": [
     {
      "title": "Grok 4.6 and Grok 4.7 Service Issues",

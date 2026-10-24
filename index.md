@@ -9,6 +9,12 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
+- **Cloudflare**: [Increased error rate in Workflow Operations](https://www.cloudflarestatus.com/incidents/pij2josz3rvz)
+- **Cloudflare**: [KTM (Kathmandu) on 2026-11-02](https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h)
+- **The Hacker News**: [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
+- **BleepingComputer**: [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
+- **The Hacker News**: [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
+- **The Register**: [Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds](https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215)
 - **Cloudflare**: [CGK (Jakarta) on 2026-10-23](https://www.cloudflarestatus.com/incidents/ygch1ydz3x4b)
 - **Cloudflare**: [MAA (Chennai) on 2026-10-28](https://www.cloudflarestatus.com/incidents/3kj3hl14mhrg)
 - **Cloudflare**: [MAA (Chennai) on 2026-10-29](https://www.cloudflarestatus.com/incidents/14xdxtl6twwf)
@@ -84,7 +90,6 @@ description: Latest Updates
 - **Cloudflare**: [DAC (Dhaka) on 2026-11-02](https://www.cloudflarestatus.com/incidents/9p3qj8h58hqz)
 - **GitHub**: [Delayed Actions status check results](https://www.githubstatus.com/incidents/ntrfd2jqldn6)
 - **Cloudflare**: [AMD (Ahmedabad) on 2026-11-02](https://www.cloudflarestatus.com/incidents/dck4spryz6k6)
-- **Cloudflare**: [KTM (Kathmandu) on 2026-11-02](https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h)
 - **SecurityWeek**: [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
 - **GitHub**: [Project updates delayed](https://www.githubstatus.com/incidents/wq8305lppdc2)
 - **Cloudflare**: [Elevated error rates for Durable Objects in Western Europe](https://www.cloudflarestatus.com/incidents/v967mz6rrcxw)
@@ -130,22 +135,6 @@ description: Latest Updates
 - **BleepingComputer**: [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
 - **BleepingComputer**: [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
 - **BleepingComputer**: [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
-- **SecurityWeek**: [Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook](https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/)
-- **SecurityWeek**: [Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU](https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/)
-- **SecurityWeek**: [PHP2Shell Exploitation Started Days Before Patches](https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/)
-- **SecurityWeek**: [Cisco Patches 34 Vulnerabilities Across Multiple Products](https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/)
-- **IT Governance**: [What You Can Learn from Recent Retail Cyber Incidents](https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/)
-- **IT Governance**: [Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA](https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/)
-- **BleepingComputer**: [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
-- **The Hacker News**: [Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed](https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html)
-- **The Hacker News**: [New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
-- **The Hacker News**: [Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
-- **The Hacker News**: [LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)
-- **The Register**: [Certification authority eMudhra defends its laughably weak private keys](https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647)
-- **The Register**: [IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall](https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592)
-- **Google Cloud**: [UPDATE: Multiple services were experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj)
-- **Google Cloud**: [RESOLVED: Multiple services were experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj)
-- **The Hacker News**: [China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack](https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html)
 
 
 <!-- SecOps end -->

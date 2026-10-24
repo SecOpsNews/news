@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-24T12:01:32Z",
+ "generated": "2026-10-24T17:28:33Z",
  "stars": 75,
  "counts": {
-  "last_24h": 68,
+  "last_24h": 48,
   "critical": 18,
   "advisories": 5,
-  "status": 47
+  "status": 46
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 38
+   "notices": 39
   },
   {
    "name": "Google Cloud",
-   "notices": 2
+   "notices": 0
   },
   {
    "name": "AWS",
@@ -38,6 +38,60 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Increased error rate in Workflow Operations",
+   "url": "https://www.cloudflarestatus.com/incidents/pij2josz3rvz",
+   "published": "2026-10-24T16:12:18Z",
+   "summary": "Resolved - This incident has been resolved.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KTM (Kathmandu) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h",
+   "published": "2026-10-24T16:12:17Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KTM (Kathmandu) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+   "published": "2026-10-24T16:03:25Z",
+   "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "published": "2026-10-24T16:03:25Z",
+   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+   "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+   "published": "2026-10-24T16:03:25Z",
+   "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+   "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+   "published": "2026-10-24T16:03:21Z",
+   "summary": "Threat actors built an AI agent designed to hijack exposed AI models to run autonomous attacks, with instructions allowing it to carry out up to 100,000 steps without human approval. The Symantec Threat Hunter Team…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -714,15 +768,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KTM (Kathmandu) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h",
-   "published": "2026-10-23T07:53:38Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KTM (Kathmandu) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
-   "critical": false
-  },
-  {
    "source": "SecurityWeek",
    "category": "news",
    "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
@@ -1125,150 +1170,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
    "published": "2026-10-22T17:18:00Z",
    "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-   "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-   "published": "2026-10-22T10:24:51Z",
-   "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-   "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-   "published": "2026-10-22T10:24:51Z",
-   "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "PHP2Shell Exploitation Started Days Before Patches",
-   "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-   "published": "2026-10-22T10:24:50Z",
-   "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-   "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-   "published": "2026-10-22T10:24:50Z",
-   "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.",
-   "critical": false
-  },
-  {
-   "source": "IT Governance",
-   "category": "news",
-   "title": "What You Can Learn from Recent Retail Cyber Incidents",
-   "url": "https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/",
-   "published": "2026-10-22T10:24:38Z",
-   "summary": "The post [What You Can Learn from Recent Retail Cyber Incidents](https://grcsolutions.io/what-you-can-learn-from-recent-retail-cyber-incidents/) appeared first on [GRC Solutions](https://grcsolutions.io).",
-   "critical": false
-  },
-  {
-   "source": "IT Governance",
-   "category": "news",
-   "title": "Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA",
-   "url": "https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/",
-   "published": "2026-10-22T10:24:38Z",
-   "summary": "The post [Privacy and Cyber Security During Emergency Situations – The Applicability of HIPAA](https://grcsolutions.io/privacy-and-cyber-security-during-emergency-situations/) appeared first on [GRC…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "published": "2026-10-22T10:24:37Z",
-   "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-   "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-   "published": "2026-10-22T10:24:36Z",
-   "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-   "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-   "published": "2026-10-22T10:24:36Z",
-   "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-   "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-   "published": "2026-10-22T10:24:35Z",
-   "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-   "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-   "published": "2026-10-22T10:24:35Z",
-   "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Certification authority eMudhra defends its laughably weak private keys",
-   "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
-   "published": "2026-10-22T10:24:34Z",
-   "summary": "Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
-   "url": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
-   "published": "2026-10-22T10:24:33Z",
-   "summary": "Welcome back to PWNED, the column where we talk about companies and organizations that leave the doors wide open to attackers. This week’s sad story involves a major American pharmacy chain that couldn’t fill a…",
-   "critical": false
-  },
-  {
-   "source": "Google Cloud",
-   "category": "status",
-   "title": "UPDATE: Multiple services were experiencing issues in the europe-west2 region.",
-   "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
-   "published": "2026-10-22T09:46:24Z",
-   "summary": "Incident began at 2026-10-19 23:00 and ended at 2026-10-20 05:10(all times are US/Pacific).",
-   "critical": false
-  },
-  {
-   "source": "Google Cloud",
-   "category": "status",
-   "title": "RESOLVED: Multiple services were experiencing issues in the europe-west2 region.",
-   "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
-   "published": "2026-10-22T09:46:24Z",
-   "summary": "Incident began at 2026-10-19 23:00 and ended at 2026-10-20 05:10(all times are US/Pacific).",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-   "published": "2026-10-22T05:22:38Z",
-   "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.",
    "critical": false
   }
  ]
