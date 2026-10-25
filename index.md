@@ -9,6 +9,9 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
+- **Cloudflare**: [BNA (Nashville) on 2026-10-27](https://www.cloudflarestatus.com/incidents/1xj24jkzzp5f)
+- **Cloudflare**: [Cloudflare has scheduled maintenance for our storage systems](https://www.cloudflarestatus.com/incidents/96wwk8y2kww4)
+- **BleepingComputer**: [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
 - **Cloudflare**: [DEL (New Delhi) on 2026-10-27](https://www.cloudflarestatus.com/incidents/cqhsrbtzlbl8)
 - **Cloudflare**: [EZE (Buenos Aires) on 2026-10-28](https://www.cloudflarestatus.com/incidents/n32bkmtr2fq6)
 - **Cloudflare**: [OKC (Oklahoma City) on 2026-10-28](https://www.cloudflarestatus.com/incidents/cybp1n01w60c)
@@ -54,9 +57,7 @@ description: Latest Updates
 - **Cloudflare**: [Network connectivity issues affecting services in North America](https://www.cloudflarestatus.com/incidents/sufgcbe8rrwt)
 - **Cloudflare**: [LHR (London) on 2026-10-27](https://www.cloudflarestatus.com/incidents/cv5j76hgz6xl)
 - **Cloudflare**: [EWR (Newark) on 2026-10-27](https://www.cloudflarestatus.com/incidents/fjfw20p41wty)
-- **Cloudflare**: [BNA (Nashville) on 2026-10-27](https://www.cloudflarestatus.com/incidents/1xj24jkzzp5f)
 - **GitHub**: [Disruption with Dependabot Alerts](https://www.githubstatus.com/incidents/71y513kjvbzh)
-- **Cloudflare**: [Cloudflare has scheduled maintenance for our storage systems](https://www.cloudflarestatus.com/incidents/96wwk8y2kww4)
 - **SecurityWeek**: [Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
 - **SecurityWeek**: [Attackers Exploit Third Arista VCO Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
 - **SecurityWeek**: [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
@@ -95,9 +96,6 @@ description: Latest Updates
 - **SecurityWeek**: [Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
 - **SecurityWeek**: [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
 - **SecurityWeek**: [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
-- **Cloudflare**: [Support Helpdesk Availability Issues](https://www.cloudflarestatus.com/incidents/8m9a1fjjwxp5)
-- **GitHub**: [Delayed Actions status check results](https://www.githubstatus.com/incidents/ntrfd2jqldn6)
-- **SecurityWeek**: [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
 
 
 <!-- SecOps end -->

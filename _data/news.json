@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-25T12:35:49Z",
+ "generated": "2026-10-25T17:40:09Z",
  "stars": 75,
  "counts": {
-  "last_24h": 19,
+  "last_24h": 16,
   "critical": 15,
   "advisories": 3,
-  "status": 40
+  "status": 38
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 37
+   "notices": 36
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 3
+   "notices": 2
   },
   {
    "name": "Slack",
@@ -38,6 +38,33 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "BNA (Nashville) on 2026-10-27",
+   "url": "https://www.cloudflarestatus.com/incidents/1xj24jkzzp5f",
+   "published": "2026-10-25T16:45:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in BNA (Nashville) datacenter on 2026-10-27 between 06:00 and 12:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Cloudflare has scheduled maintenance for our storage systems",
+   "url": "https://www.cloudflarestatus.com/incidents/96wwk8y2kww4",
+   "published": "2026-10-25T16:45:32Z",
+   "summary": "Scheduled - We will be undergoing scheduled maintenance during this time.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+   "published": "2026-10-25T16:32:18Z",
+   "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -444,30 +471,12 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BNA (Nashville) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/1xj24jkzzp5f",
-   "published": "2026-10-23T18:40:33Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BNA (Nashville) datacenter on 2026-10-27 between 06:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
    "source": "GitHub",
    "category": "status",
    "title": "Disruption with Dependabot Alerts",
    "url": "https://www.githubstatus.com/incidents/71y513kjvbzh",
    "published": "2026-10-23T18:40:33Z",
    "summary": "Monitoring - The degradation has been mitigated. We are monitoring to ensure stability.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "Cloudflare has scheduled maintenance for our storage systems",
-   "url": "https://www.cloudflarestatus.com/incidents/96wwk8y2kww4",
-   "published": "2026-10-23T18:40:33Z",
-   "summary": "Scheduled - We will be undergoing scheduled maintenance during this time.",
    "critical": false
   },
   {
@@ -810,33 +819,6 @@
    "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
    "published": "2026-10-23T13:33:43Z",
    "summary": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "Support Helpdesk Availability Issues",
-   "url": "https://www.cloudflarestatus.com/incidents/8m9a1fjjwxp5",
-   "published": "2026-10-23T07:53:40Z",
-   "summary": "Monitoring - A fix has been implemented and we are monitoring the results.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Delayed Actions status check results",
-   "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
-   "published": "2026-10-23T07:53:38Z",
-   "summary": "Update - We are seeing delays in results from Actions workflows being reported within GitHub starting from 07:07 UTC.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-   "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-   "published": "2026-10-23T07:40:01Z",
-   "summary": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016.",
    "critical": false
   }
  ]

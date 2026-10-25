@@ -1,22 +1,22 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-25-pm",
-  "generated": "2026-10-25T12:35:49Z",
+  "generated": "2026-10-25T17:40:09Z",
   "title": "SecOps rundown, Sun 25 Oct afternoon: 15 critical, 3 advisories",
   "counts": {
-   "last_24h": 19,
+   "last_24h": 16,
    "critical": 15,
    "advisories": 3,
-   "status": 40
+   "status": 38
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 37
+    "notices": 36
    },
    {
     "name": "GitHub",
-    "notices": 3
+    "notices": 2
    }
   ],
   "critical": {
@@ -84,6 +84,11 @@
    "total": 30,
    "items": [
     {
+     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+     "source": "BleepingComputer"
+    },
+    {
      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
      "source": "The Hacker News"
@@ -127,11 +132,6 @@
      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
      "source": "The Register"
-    },
-    {
-     "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
-     "url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
-     "source": "The Register"
     }
    ]
   },
@@ -146,7 +146,7 @@
    ]
   },
   "outages": {
-   "total": 3,
+   "total": 2,
    "items": [
     {
      "title": "Grok 4.6 and Grok 4.7 Service Issues",
@@ -156,11 +156,6 @@
     {
      "title": "Disruption with Dependabot Alerts",
      "url": "https://www.githubstatus.com/incidents/71y513kjvbzh",
-     "source": "GitHub"
-    },
-    {
-     "title": "Delayed Actions status check results",
-     "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
      "source": "GitHub"
     }
    ]
