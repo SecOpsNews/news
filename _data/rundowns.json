@@ -1,5 +1,93 @@
 [
  {
+  "id": "secopsnews-rundown-2026-10-26-pm",
+  "generated": "2026-10-26T14:18:25Z",
+  "title": "SecOps rundown, Mon 26 Oct afternoon: 0 critical, 0 advisories",
+  "counts": {
+   "last_24h": 10,
+   "critical": 0,
+   "advisories": 0,
+   "status": 21
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 21
+   }
+  ],
+  "critical": {
+   "total": 0,
+   "items": []
+  },
+  "advisories": {
+   "total": 0,
+   "items": []
+  },
+  "headlines": {
+   "total": 12,
+   "items": [
+    {
+     "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+     "url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+     "source": "The Register"
+    },
+    {
+     "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+     "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+     "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+     "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+     "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+     "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+     "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+     "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+     "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 0,
+   "items": []
+  },
+  "outages": {
+   "total": 0,
+   "items": []
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-10-25-pm",
   "generated": "2026-10-25T17:40:09Z",
   "title": "SecOps rundown, Sun 25 Oct afternoon: 15 critical, 3 advisories",
