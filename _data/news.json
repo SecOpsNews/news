@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-27T13:14:37Z",
+ "generated": "2026-10-27T19:27:14Z",
  "stars": 75,
  "counts": {
-  "last_24h": 74,
-  "critical": 7,
-  "advisories": 8,
-  "status": 31
+  "last_24h": 79,
+  "critical": 11,
+  "advisories": 14,
+  "status": 30
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 30
+   "notices": 29
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,285 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "QRO (Queretaro) on 2026-10-28",
+   "url": "https://www.cloudflarestatus.com/incidents/97030h82f7q3",
+   "published": "2026-10-27T14:52:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in QRO (Queretaro) datacenter on 2026-10-28 between 08:00 and 12:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DEL (New Delhi) on 2026-10-28",
+   "url": "https://www.cloudflarestatus.com/incidents/c2y915przvp5",
+   "published": "2026-10-27T14:52:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-28 21:00 and 2026-10-29 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AMS (Amsterdam) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/kpttnxc7m694",
+   "published": "2026-10-27T14:52:27Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AMS (Amsterdam) datacenter on 2026-10-29 between 02:00 and 06:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MSP (Minneapolis) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/soam4n381f5b",
+   "published": "2026-10-27T14:52:27Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MSP (Minneapolis) datacenter on 2026-10-30 between 07:30 and 09:30 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Have I Been Pwned",
+   "category": "breach",
+   "title": "AfD - 345,439 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/AfD",
+   "published": "2026-10-27T14:37:45Z",
+   "summary": "In September 2026, the German political party [Alternative für Deutschland (AfD) suffered a data breach](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) which exposed 345k…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+   "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+   "published": "2026-10-27T14:37:43Z",
+   "summary": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+   "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+   "published": "2026-10-27T14:37:43Z",
+   "summary": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+   "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+   "published": "2026-10-27T14:37:42Z",
+   "summary": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "published": "2026-10-27T14:37:42Z",
+   "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+   "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+   "published": "2026-10-27T14:37:42Z",
+   "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones.",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+   "published": "2026-10-27T14:37:42Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by…",
+   "critical": true
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/43",
+   "published": "2026-10-27T14:37:42Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Oct 27",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+   "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+   "url": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Energy giant ENGIE discloses data breach affecting customers",
+   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-10-26-2026-7 tvOS 27.2",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/44",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Oct 27",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+   "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass.",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+   "published": "2026-10-27T14:37:41Z",
+   "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+   "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+   "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information.",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-10-26-2026-8 watchOS 27.2",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/45",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Oct 27",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+   "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+   "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-10-26-2026-9 visionOS 27.2",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/46",
+   "published": "2026-10-27T14:37:40Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Oct 27",
+   "critical": false
+  },
+  {
+   "source": "Troy Hunt",
+   "category": "blog",
+   "title": "Weekly Update 527: Cybergeddon News v. Reality",
+   "url": "https://www.troyhunt.com/weekly-update-527/",
+   "published": "2026-10-27T14:37:39Z",
+   "summary": "[Presently sponsored by: Report URI: Guarding you from rogue JavaScript! Don’t get pwned; get real-time alerts & prevent breaches SecureYourSite](https://report-uri.com/?src=troyhunt.com)",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "published": "2026-10-27T14:37:39Z",
+   "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Attack on email hosting provider for German far right party AfD exposed 345k accounts",
+   "url": "https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660",
+   "published": "2026-10-27T14:37:39Z",
+   "summary": "The cyberattack on Alternative for Germany (AfD), the country’s most prominent far-right political party, exposed hundreds of thousands of confidential emails and attachments, as well as more than 345,000 unique…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-10-26-2026-10 Safari 27.2",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/47",
+   "published": "2026-10-27T14:37:39Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Oct 27",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Microsoft releases out-of-band Windows fixes with certificate updates",
+   "url": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
+   "published": "2026-10-27T14:37:39Z",
+   "summary": "Microsoft has released another out-of-band update for Windows, but this one isn't an emergency fix for the latest breakages. This time, it's all about certificates. The non-security out-of-band release applies to…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -792,69 +1071,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
    "published": "2026-10-25T16:32:18Z",
    "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DEL (New Delhi) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/cqhsrbtzlbl8",
-   "published": "2026-10-25T11:56:51Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-27 21:00 and 2026-10-28 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EZE (Buenos Aires) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/n32bkmtr2fq6",
-   "published": "2026-10-25T11:56:50Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EZE (Buenos Aires) datacenter on 2026-10-28 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "OKC (Oklahoma City) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/cybp1n01w60c",
-   "published": "2026-10-25T11:56:50Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in OKC (Oklahoma City) datacenter on 2026-10-28 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LIM (Lima) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/mrwytz3sn2ct",
-   "published": "2026-10-25T11:56:49Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LIM (Lima) datacenter on 2026-10-28 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "QRO (Queretaro) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/97030h82f7q3",
-   "published": "2026-10-25T11:56:49Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in QRO (Queretaro) datacenter on 2026-10-28 between 08:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-   "published": "2026-10-25T11:43:43Z",
-   "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-   "published": "2026-10-25T11:43:38Z",
-   "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.",
    "critical": false
   }
  ]

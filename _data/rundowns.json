@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-27-pm",
-  "generated": "2026-10-27T13:14:37Z",
-  "title": "SecOps rundown, Tue 27 Oct afternoon: 7 critical, 8 advisories",
+  "generated": "2026-10-27T19:27:14Z",
+  "title": "SecOps rundown, Tue 27 Oct afternoon: 11 critical, 14 advisories",
   "counts": {
-   "last_24h": 74,
-   "critical": 7,
-   "advisories": 8,
-   "status": 31
+   "last_24h": 79,
+   "critical": 11,
+   "advisories": 14,
+   "status": 30
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 30
+    "notices": 29
    },
    {
     "name": "GitHub",
@@ -20,8 +20,32 @@
    }
   ],
   "critical": {
-   "total": 7,
+   "total": 11,
    "items": [
+    {
+     "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+     "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+     "source": "SecurityWeek",
+     "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones."
+    },
+    {
+     "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by…"
+    },
+    {
+     "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+     "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+     "source": "SecurityWeek",
+     "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass."
+    },
+    {
+     "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+     "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+     "source": "BleepingComputer",
+     "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]"
+    },
     {
      "title": "CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
      "url": "https://seclists.org/fulldisclosure/2026/Oct/38",
@@ -33,126 +57,108 @@
      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
      "source": "The Hacker News",
      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to…"
-    },
-    {
-     "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-     "source": "BleepingComputer",
-     "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]"
-    },
-    {
-     "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-     "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-     "source": "BleepingComputer",
-     "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]"
-    },
-    {
-     "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-     "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-     "source": "The Hacker News",
-     "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say."
-    },
-    {
-     "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-     "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-     "source": "The Hacker News",
-     "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are…"
     }
    ]
   },
   "advisories": {
-   "total": 8,
+   "total": 14,
    "items": [
     {
-     "title": "SCHUTZWERK-SA-2025-002: Privilege escalation in Lobster_pro through request replaying",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/35",
+     "title": "AfD - 345,439 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/AfD",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "APPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/43",
      "source": "Full Disclosure"
     },
     {
-     "title": "APPLE-SA-10-26-2026-5 macOS Tahoe 26.7.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/36",
+     "title": "APPLE-SA-10-26-2026-7 tvOS 27.2",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/44",
      "source": "Full Disclosure"
     },
     {
-     "title": "SEC Consult SA-20261023-0 :: Multiple Cross-Site Scripting Vulnerabilities in VertiGIS WebOrderSystem",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/37",
+     "title": "APPLE-SA-10-26-2026-8 watchOS 27.2",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/45",
      "source": "Full Disclosure"
     },
     {
-     "title": "CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/38",
+     "title": "APPLE-SA-10-26-2026-9 visionOS 27.2",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/46",
      "source": "Full Disclosure"
     },
     {
-     "title": "APPLE-SA-10-26-2026-1 iOS 27.2 and iPadOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/39",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-2 iOS 26.7.2 and iPadOS 26.7.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/40",
+     "title": "APPLE-SA-10-26-2026-10 Safari 27.2",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/47",
      "source": "Full Disclosure"
     }
    ]
   },
   "headlines": {
-   "total": 46,
+   "total": 60,
    "items": [
     {
-     "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-     "url": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+     "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+     "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
      "source": "SecurityWeek"
     },
     {
-     "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-     "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+     "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+     "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
      "source": "SecurityWeek"
     },
     {
-     "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-     "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+     "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+     "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+     "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
      "source": "The Hacker News"
     },
     {
-     "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-     "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+     "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+     "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
      "source": "The Hacker News"
     },
     {
-     "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-     "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+     "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+     "url": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Energy giant ENGIE discloses data breach affecting customers",
+     "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
      "source": "BleepingComputer"
     },
     {
-     "title": "University of Copenhagen data breach exposes data of 525,000 people",
-     "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Alibaba's Qwen AI caught trying to contact server in China",
-     "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-     "source": "The Register"
-    },
-    {
-     "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
-     "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
-     "source": "The Register"
-    },
-    {
-     "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-     "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-     "source": "The Register"
-    },
-    {
-     "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-     "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+     "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
      "source": "The Hacker News"
+    },
+    {
+     "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+     "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+     "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+     "source": "SecurityWeek"
     }
    ]
   },
   "blogs": {
-   "total": 0,
-   "items": []
+   "total": 1,
+   "items": [
+    {
+     "title": "Weekly Update 527: Cybergeddon News v. Reality",
+     "url": "https://www.troyhunt.com/weekly-update-527/",
+     "source": "Troy Hunt"
+    }
+   ]
   },
   "outages": {
    "total": 1,
