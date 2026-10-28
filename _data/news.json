@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-27T19:27:14Z",
+ "generated": "2026-10-28T14:03:09Z",
  "stars": 75,
  "counts": {
-  "last_24h": 79,
-  "critical": 11,
+  "last_24h": 67,
+  "critical": 15,
   "advisories": 14,
-  "status": 30
+  "status": 38
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 29
+   "notices": 36
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 1
+   "notices": 2
   },
   {
    "name": "Slack",
@@ -38,6 +38,330 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DFW (Dallas) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/b1hr6d16sn9x",
+   "published": "2026-10-28T08:56:12Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-10-29 between 07:00 and 17:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+   "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+   "published": "2026-10-28T08:41:46Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+   "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+   "published": "2026-10-28T08:41:45Z",
+   "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+   "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+   "published": "2026-10-28T08:41:45Z",
+   "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+   "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+   "published": "2026-10-28T08:41:45Z",
+   "summary": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+   "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+   "published": "2026-10-28T08:41:44Z",
+   "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+   "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+   "published": "2026-10-28T08:41:44Z",
+   "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+   "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+   "published": "2026-10-28T08:41:44Z",
+   "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KIX (Osaka) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/xj2h2znyz614",
+   "published": "2026-10-28T01:37:55Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-10-29 between 17:00 and 21:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AMS (Amsterdam) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/vnez3mqcb8k5",
+   "published": "2026-10-28T01:37:54Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AMS (Amsterdam) datacenter on 2026-10-30 between 01:00 and 03:45 UTC.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Hackers hijack Convertr analytics script to steal payment card data",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+   "published": "2026-10-28T01:27:27Z",
+   "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "published": "2026-10-28T01:27:26Z",
+   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+   "published": "2026-10-28T01:27:26Z",
+   "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+   "published": "2026-10-28T01:27:25Z",
+   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "LHR (London) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/cv5j76hgz6xl",
+   "published": "2026-10-27T20:54:54Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in LHR (London) datacenter on 2026-10-29 between 02:00 and 05:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "QRO (Queretaro) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/rmd24b40ndoe",
+   "published": "2026-10-27T20:54:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in QRO (Queretaro) datacenter between 2026-10-29 08:00 and 2026-10-30 18:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Elevated 404s for GitHub App s2s tokens in git/API",
+   "url": "https://www.githubstatus.com/incidents/dnslv7xdl4fj",
+   "published": "2026-10-27T20:54:53Z",
+   "summary": "Resolved - Between 0655 and 0801 UTC on 10/27, customers experienced increased failure rates for API and git requests authenticated with server-to-server tokens for GitHub Apps (excluding Actions tokens). During this…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HYD (Hyderabad) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/ud7j0b67olnd",
+   "published": "2026-10-27T20:54:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HYD (Hyderabad) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DEL (New Delhi) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/etl29f7b7upo",
+   "published": "2026-10-27T20:54:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "CNN (Kannur) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/9t47sqser70b",
+   "published": "2026-10-27T20:54:52Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in CNN (Kannur) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MAA (Chennai) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/jy1559revlyu",
+   "published": "2026-10-27T20:54:52Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HYD (Hyderabad) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/43m42n9e89qp",
+   "published": "2026-10-27T20:54:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HYD (Hyderabad) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KHI (Karachi) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/y2718ilp9m3u",
+   "published": "2026-10-27T20:54:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KHI (Karachi) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ISB (Islamabad) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/rfador8cu189",
+   "published": "2026-10-27T20:54:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ISB (Islamabad) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KHI (Karachi) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/k1umgupdrq5d",
+   "published": "2026-10-27T20:54:50Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KHI (Karachi) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KNU (Kanpur) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/jl50ckq3eewc",
+   "published": "2026-10-27T20:54:50Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KNU (Kanpur) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "published": "2026-10-27T20:46:00Z",
+   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+   "published": "2026-10-27T20:45:59Z",
+   "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+   "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+   "published": "2026-10-27T20:45:56Z",
+   "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+   "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+   "published": "2026-10-27T20:45:56Z",
+   "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials Scheme Updates: What Has Changed and What It Means for Your Organisation",
+   "url": "https://grcsolutions.io/cyber-essentials-changes/",
+   "published": "2026-10-27T20:45:56Z",
+   "summary": "The post [Cyber Essentials Scheme Updates: What Has Changed and What It Means for Your Organisation](https://grcsolutions.io/cyber-essentials-changes/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+   "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+   "published": "2026-10-27T20:45:56Z",
+   "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+   "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+   "published": "2026-10-27T20:45:55Z",
+   "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+   "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
+   "published": "2026-10-27T20:45:54Z",
+   "summary": "The US government's cybersecurity watchdog has confirmed attackers are exploiting both critical PHP2Shell vulnerabilities, giving federal agencies three days to patch the bugs that have wreaked havoc across the web…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
+   "url": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
+   "published": "2026-10-27T20:45:54Z",
+   "summary": "The University of New Mexico is canceling classes across the medicine, nursing, and pharmacy faculties for a second day amid continued efforts to recover from a \"cybersecurity event.\" The attack targeted the Health…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+   "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+   "published": "2026-10-27T20:45:53Z",
+   "summary": "An autonomous AI agent discovered four vulnerabilities in the decades-old, widely used EPICS (Experimental Physics and Industrial Control System) open source software toolkit, including a critical flaw that could…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -597,33 +921,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DFW (Dallas) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/b1hr6d16sn9x",
-   "published": "2026-10-26T21:10:06Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-10-29 between 07:00 and 17:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KIX (Osaka) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/xj2h2znyz614",
-   "published": "2026-10-26T21:10:06Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-10-29 between 17:00 and 21:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AMS (Amsterdam) on 2026-10-30",
-   "url": "https://www.cloudflarestatus.com/incidents/vnez3mqcb8k5",
-   "published": "2026-10-26T21:10:05Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AMS (Amsterdam) datacenter on 2026-10-30 between 01:00 and 03:45 UTC.",
-   "critical": false
-  },
-  {
    "source": "The Hacker News",
    "category": "news",
    "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
@@ -1008,69 +1305,6 @@
    "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
    "published": "2026-10-26T07:53:38Z",
    "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ARN (Stockholm) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/1p6chrn5p10h",
-   "published": "2026-10-26T00:39:26Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ARN (Stockholm) datacenter on 2026-10-28 between 00:00 and 06:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/fjfw20p41wty",
-   "published": "2026-10-25T21:10:42Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-10-27 between 06:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-   "published": "2026-10-25T20:57:39Z",
-   "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-   "published": "2026-10-25T20:57:38Z",
-   "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BNA (Nashville) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/1xj24jkzzp5f",
-   "published": "2026-10-25T16:45:33Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BNA (Nashville) datacenter on 2026-10-27 between 06:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "Cloudflare has scheduled maintenance for our storage systems",
-   "url": "https://www.cloudflarestatus.com/incidents/96wwk8y2kww4",
-   "published": "2026-10-25T16:45:32Z",
-   "summary": "Scheduled - We will be undergoing scheduled maintenance during this time.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-   "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-   "published": "2026-10-25T16:32:18Z",
-   "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
    "critical": false
   }
  ]
