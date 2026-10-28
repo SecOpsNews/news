@@ -380,11 +380,18 @@ summary:focus-visible {
     margin-top: 20px;
 }
 
+// Panel fills the container like the dashboard panels; only running text is
+// capped so lines stay readable.
 .prose {
-    max-width: 820px;
     padding: 24px 28px;
     font-size: 16px;
     line-height: 1.6;
+}
+
+.prose p,
+.prose ul,
+.prose ol {
+    max-width: 75ch;
 }
 
 .prose h1 {

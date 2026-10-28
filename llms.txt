@@ -20,7 +20,8 @@ Key facts:
 - [RSS feed]({{ "/feed.rss" | absolute_url }}): the daily rundown
 - [Source on GitHub](https://github.com/SecOpsNews/news): how the feeds are collected
 - [Sponsor SecOpsNews]({{ "/sponsor/" | absolute_url }}): open monthly slots, how to book and sponsorship terms
-- Contact: secops@thechels.uk
+- [Contact]({{ "/contact/" | absolute_url }}): contact form, email (secops@thechels.uk), GitHub issues and security reporting
+- [Privacy notice]({{ "/privacy/" | absolute_url }}): cookieless analytics, no cookies or tracking of individuals
 {%- assign groups = "advisory:Latest advisories,breach:Latest breaches,news:Latest headlines" | split: "," %}
 {%- for g in groups %}
 {%- assign parts = g | split: ":" %}
