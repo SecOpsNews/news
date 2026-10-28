@@ -5,3 +5,19 @@ sass:
   style: compressed
 permalink: ./:title
 url: https://secops.thechels.uk
+
+# Jekyll skips dot-folders by default; publish .well-known (security.txt).
+include:
+  - .well-known
+
+# Repo-only files. GitHub Pages' optional-front-matter plugin would otherwise
+# publish any Markdown file without front matter (e.g. SECURITY.md -> /SECURITY).
+exclude:
+  - README.md
+  - LICENSE.md
+  - SECURITY.md
+  - requirements.txt
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

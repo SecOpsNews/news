@@ -24,7 +24,7 @@ updated twice a day. For engineering leaders and security professionals." %}
     <meta name="description" content="{{ desc | escape }}">
     <link rel="canonical" href="{{ page_url }}">
     <meta name="author" content="thechelsuk">
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+    <meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large, max-snippet:-1' }}">
     <meta name="theme-color" content="#0f1724">
     <meta name="color-scheme" content="dark">
     <meta property="og:type" content="website">

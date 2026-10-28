@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /.well-known/security.txt
+sitemap: false
+---
+# Security contact for {{ site.url }} (RFC 9116)
+# Expires is set ~6 months ahead on every build, so it stays current.
+Contact: mailto:secops@thechels.uk
+Expires: {{ site.time | date: "%s" | plus: 15552000 | date: "%Y-%m-%dT%H:%M:%S%:z" }}
+Preferred-Languages: en
+Canonical: {{ "/.well-known/security.txt" | absolute_url }}
+Policy: https://github.com/SecOpsNews/news/security/policy

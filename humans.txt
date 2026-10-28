@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /humans.txt
+sitemap: false
+---
+/* TEAM */
+Author: thechelsuk
+Site: https://thechels.uk
+Contact: secops@thechels.uk
+GitHub: https://github.com/thechelsuk
+
+/* SITE */
+Last update: {{ site.data.news.generated | default: site.time | date: "%Y/%m/%d" }}
+Language: English (en-GB)
+Standards: HTML5, CSS3, RSS 2.0
+Software: Jekyll, GitHub Pages, GitHub Actions, Python
+Source: https://github.com/SecOpsNews/news

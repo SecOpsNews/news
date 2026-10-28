@@ -1,17 +1,21 @@
 ---
 layout: null
 permalink: /sitemap.xml
+sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment %} Only public HTML pages. Opt a page out with `sitemap: false` or a noindex `robots` value. {% endcomment %}
   {%- for page in site.html_pages %}
-  {%- if page.sitemap != false %}
+  {%- if page.sitemap != false and page.url != "/404.html" %}
+  {%- unless page.robots contains "noindex" %}
   <url>
     <loc>{{ page.url | absolute_url }}</loc>
     {%- if page.url == "/" %}
     <lastmod>{{ site.data.news.generated | default: site.time | date: "%Y-%m-%d" }}</lastmod>
     {%- endif %}
   </url>
+  {%- endunless %}
   {%- endif %}
   {%- endfor %}
 </urlset>

@@ -1,5 +1,10 @@
-# robots.txt for secops.thechels.uk
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
+# robots.txt for {{ site.url }}
 User-agent: *
 Allow: /
 
-Sitemap: https://secops.thechels.uk/sitemap.xml
+Sitemap: {{ "/sitemap.xml" | absolute_url }}
