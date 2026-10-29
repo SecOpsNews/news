@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-28T19:36:06Z",
+ "generated": "2026-10-29T14:23:29Z",
  "stars": 75,
  "counts": {
-  "last_24h": 65,
-  "critical": 25,
-  "advisories": 14,
-  "status": 41
+  "last_24h": 87,
+  "critical": 30,
+  "advisories": 24,
+  "status": 42
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 38
+   "notices": 39
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,528 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "FUK (Fukuoka) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/wavezu8w16vw",
+   "published": "2026-10-29T13:38:55Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in FUK (Fukuoka) datacenter on 2026-10-30 between 17:00 and 21:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "OKA (Naha) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/kjz3gqfkxpil",
+   "published": "2026-10-29T13:38:54Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in OKA (Naha) datacenter on 2026-10-30 between 17:00 and 21:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "CLE (Cleveland) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/fosmz9avmx8u",
+   "published": "2026-10-29T13:38:54Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in CLE (Cleveland) datacenter on 2026-11-02 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "BOG (Bogotá) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/3nzaqh4zpwuh",
+   "published": "2026-10-29T13:38:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in BOG (Bogotá) datacenter on 2026-11-02 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AUS (Austin) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/ryrpi9auu1il",
+   "published": "2026-10-29T13:38:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AUS (Austin) datacenter on 2026-11-02 between 08:00 and 12:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HNL (Honolulu) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/l38esvmi3uk2",
+   "published": "2026-10-29T13:38:53Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-11-02 between 12:00 and 16:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DAC (Dhaka) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/9p3qj8h58hqz",
+   "published": "2026-10-29T13:38:52Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DAC (Dhaka) datacenter between 2026-11-02 20:00 and 2026-11-03 00:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AMD (Ahmedabad) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/dck4spryz6k6",
+   "published": "2026-10-29T13:38:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AMD (Ahmedabad) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KTM (Kathmandu) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h",
+   "published": "2026-10-29T13:38:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KTM (Kathmandu) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Disruption with Copilot Cloud services",
+   "url": "https://www.githubstatus.com/incidents/rn76zdy367m2",
+   "published": "2026-10-29T13:38:51Z",
+   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Matrix takes sovereign messaging into the realm of the tech giants",
+   "url": "https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915",
+   "published": "2026-10-29T13:16:23Z",
+   "summary": "Decentralized messaging platform Matrix is no longer the upstart it once was. The organization is now a serious challenger to the status quo as concerns about sovereignty and independence reach new heights. At the…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+   "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+   "published": "2026-10-29T13:16:20Z",
+   "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+   "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+   "published": "2026-10-29T13:16:20Z",
+   "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+   "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+   "published": "2026-10-29T13:16:20Z",
+   "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload.",
+   "critical": true
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
+   "published": "2026-10-29T13:16:19Z",
+   "summary": "Severity: Medium",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+   "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+   "published": "2026-10-29T13:16:19Z",
+   "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "published": "2026-10-29T13:16:19Z",
+   "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+   "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+   "published": "2026-10-29T13:16:19Z",
+   "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Over 41,000 DHS Employee Records Leaked Online",
+   "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+   "published": "2026-10-29T13:16:18Z",
+   "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+   "published": "2026-10-29T13:16:18Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+   "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+   "published": "2026-10-29T13:16:18Z",
+   "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+   "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+   "published": "2026-10-29T13:16:17Z",
+   "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+   "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+   "published": "2026-10-29T13:16:17Z",
+   "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+   "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+   "published": "2026-10-29T13:16:16Z",
+   "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+   "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+   "published": "2026-10-29T13:16:15Z",
+   "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+   "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+   "published": "2026-10-29T13:16:15Z",
+   "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
+   "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
+   "published": "2026-10-29T13:16:15Z",
+   "summary": "Welcome back to PWNED, in which The Reg offers cautionary tales from folks who’ve left their doors wide open to attackers and lived to tell the tale. This week’s misadventure involves unpatched older machines and a…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
+   "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
+   "published": "2026-10-29T13:16:14Z",
+   "summary": "EXCLUSIVE Researchers identified at least 83 attacks against 61 public GitHub repositories, including popular open source projects such as Google LangExtract, Trivy, Brave browser, and MLflow, in what they suspect is…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+   "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+   "published": "2026-10-29T13:16:14Z",
+   "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
+   "url": "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
+   "published": "2026-10-29T13:16:14Z",
+   "summary": "The UK’s comms watchdog has put forward four methods of checking netizens aren't kids – dubbed highly effective age assurance (HEAA) – as it prepares for the proposed under-16 social media ban. The regulator says…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+   "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+   "published": "2026-10-29T13:16:14Z",
+   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+   "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+   "published": "2026-10-29T13:16:13Z",
+   "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+   "published": "2026-10-29T13:16:12Z",
+   "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DEL (New Delhi) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/rztnzqcbkkkd",
+   "published": "2026-10-29T06:22:51Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MAA (Chennai) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/14xdxtl6twwf",
+   "published": "2026-10-29T06:22:50Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "IAD (Ashburn) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/5q9xpxh705w7",
+   "published": "2026-10-29T06:22:50Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-10-30 between 06:00 and 10:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "Continued Apache Struts2 JSON Plugin Insecure Deserialisation",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/49",
+   "published": "2026-10-29T05:57:30Z",
+   "summary": "Posted by Daniel Owens via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "Maximised JSON Array Attacks -- \"Let the Commas Hit the Floor\" Proof of Concept",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/50",
+   "published": "2026-10-29T05:57:29Z",
+   "summary": "Posted by Daniel Owens via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/51",
+   "published": "2026-10-29T05:57:29Z",
+   "summary": "Posted by fulldisclosure on Oct 28",
+   "critical": true
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 command injection in the Executer program activation path (7.2)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/52",
+   "published": "2026-10-29T05:57:28Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 IPsec tunnel address command injection through the route-management shell commands (7.2)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/53",
+   "published": "2026-10-29T05:57:28Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 scenario ping condition command injection through the auto-executing ping thread (7.2)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/55",
+   "published": "2026-10-29T05:57:27Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] NUUO Crystal Server 3.19.0.85 unauthenticated upload.php PHP web-root write with fastcgi execution into server-side code execution as the web service account (9.8 Critical)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/56",
+   "published": "2026-10-29T05:57:27Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": true
+  },
+  {
+   "source": "Graham Cluley",
+   "category": "blog",
+   "title": "Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice",
+   "url": "https://grahamcluley.com/smashing-security-podcast-490/",
+   "published": "2026-10-29T05:57:27Z",
+   "summary": "Dutch spies, Russian hackers and Jared Kushner’s iPhone. It sounds like the ingredients for a thriller, but according to claims in a new book the US President's son-in-law may have been hacked twice. Is any of it…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] Raritan PX3 PDU G4 firmware 4.3.14 command injection in the ping and traceroute diagnostics through an inverted hostname-validation return check (8.8)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/54",
+   "published": "2026-10-29T05:57:27Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[0day-rubbish] NETGEAR RAX120 V1.2.5.18 authenticated SOAP InstallApp OS command injection to root-configured web-stack execution (6.8 Medium; conditionally 7.2 High with management exposure)",
+   "url": "https://seclists.org/fulldisclosure/2026/Oct/57",
+   "published": "2026-10-29T05:57:26Z",
+   "summary": "Posted by disclosure via Fulldisclosure on Oct 28",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HNL (Honolulu) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/mynv96pq5t47",
+   "published": "2026-10-28T22:48:34Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-10-30 between 08:00 and 13:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "FRA (Frankfurt) on 2026-10-30",
+   "url": "https://www.cloudflarestatus.com/incidents/rn85w7aaynqd",
+   "published": "2026-10-28T22:48:34Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in FRA (Frankfurt) datacenter on 2026-10-30 between 09:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
+   "published": "2026-10-28T22:48:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-04 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
+   "published": "2026-10-28T22:48:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-05 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-06",
+   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
+   "published": "2026-10-28T22:48:32Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-06 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
+   "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
+   "published": "2026-10-28T22:41:05Z",
+   "summary": "Attackers are probing a critical Oracle E-Business Suite vulnerability that can lead to remote code execution (RCE), despite Oracle issuing a patch earlier this month. Meanwhile, new analysis indicates that an Oracle…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+   "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+   "published": "2026-10-28T22:41:05Z",
+   "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+   "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+   "published": "2026-10-28T22:41:05Z",
+   "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+   "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+   "published": "2026-10-28T22:41:05Z",
+   "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+   "published": "2026-10-28T22:41:03Z",
+   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Discord to let search engines index public server messages",
+   "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+   "published": "2026-10-28T22:41:02Z",
+   "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+   "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+   "published": "2026-10-28T22:41:02Z",
+   "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+   "critical": false
+  },
   {
    "source": "GitHub",
    "category": "status",
@@ -921,33 +1443,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DAC (Dhaka) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/9p3qj8h58hqz",
-   "published": "2026-10-27T08:19:49Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DAC (Dhaka) datacenter between 2026-11-02 20:00 and 2026-11-03 00:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AMD (Ahmedabad) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/dck4spryz6k6",
-   "published": "2026-10-27T08:19:48Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AMD (Ahmedabad) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KTM (Kathmandu) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/q4txfc4yyl9h",
-   "published": "2026-10-27T08:19:48Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KTM (Kathmandu) datacenter between 2026-11-02 21:00 and 2026-11-03 01:00 UTC.",
-   "critical": false
-  },
-  {
    "source": "SecurityWeek",
    "category": "news",
    "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
@@ -1053,492 +1548,6 @@
    "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
    "published": "2026-10-27T07:59:09Z",
    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IAH (Houston) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/xdqvw85z0kbf",
-   "published": "2026-10-27T01:36:09Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IAH (Houston) datacenter on 2026-10-28 between 07:00 and 13:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AUS (Austin) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/u970d4aecgba",
-   "published": "2026-10-27T01:36:08Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AUS (Austin) datacenter on 2026-10-28 between 15:00 and 19:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DEL (New Delhi) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/rztnzqcbkkkd",
-   "published": "2026-10-27T01:36:08Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MAA (Chennai) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/14xdxtl6twwf",
-   "published": "2026-10-27T01:36:07Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-10-29 21:00 and 2026-10-30 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "HNL (Honolulu) on 2026-10-30",
-   "url": "https://www.cloudflarestatus.com/incidents/mynv96pq5t47",
-   "published": "2026-10-27T01:36:07Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-10-30 between 08:00 and 13:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-   "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-   "published": "2026-10-27T01:31:20Z",
-   "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "University of Copenhagen data breach exposes data of 525,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-   "published": "2026-10-27T01:31:20Z",
-   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Alibaba's Qwen AI caught trying to contact server in China",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-   "published": "2026-10-27T01:31:12Z",
-   "summary": "Open-weight models from China have become very popular, but they've also raised some security suspicions. Cohere, a Canada-based biz that offers AI models to enterprises, says that when it was testing Alibaba's…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
-   "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
-   "published": "2026-10-27T01:31:12Z",
-   "summary": "A new Miasma-family npm worm, originally believed to be just a test with no victims, secretly armed 42 real GitHub repositories from 11 owners, hijacking accounts as early as July and using a stealthy payload built…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-   "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-   "published": "2026-10-27T01:31:11Z",
-   "summary": "Japanese ISP GMO Internet has warned customers the cloudy desktop service it offers as an ideal foreign exchange trading environment was compromised by an attacker, and that it had been slow to improve the service's…",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Incident with Actions, Issues, API Requests and Pull Requests",
-   "url": "https://www.githubstatus.com/incidents/f1vvv30224wd",
-   "published": "2026-10-26T21:10:09Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATH (Athens) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/gv1qwrngrrtk",
-   "published": "2026-10-26T21:10:08Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATH (Athens) datacenter on 2026-10-28 between 01:00 and 03:45 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AMS (Amsterdam) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/dpad8hxn3j59",
-   "published": "2026-10-26T21:10:08Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AMS (Amsterdam) datacenter on 2026-10-28 between 01:00 and 03:45 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LHR (London) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/cv5j76hgz6xl",
-   "published": "2026-10-26T21:10:07Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LHR (London) datacenter on 2026-10-28 between 02:00 and 05:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-   "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-   "published": "2026-10-26T21:04:28Z",
-   "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-   "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-   "published": "2026-10-26T21:04:27Z",
-   "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-   "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-   "published": "2026-10-26T21:04:27Z",
-   "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
-   "url": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
-   "published": "2026-10-26T21:04:26Z",
-   "summary": "Reddit's r/opensource community has declared war on AI-generated software by introducing a sweeping set of new rules that also manage to shut out solo developers, newcomers, and anyone who doesn't speak English. The…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "PHP2Shell: No login, no app code, no warning. What next?",
-   "url": "https://www.theregister.com/security/2026/10/26/partner-content-no-login-no-app-code-no-warning-what-next/5305336",
-   "published": "2026-10-26T21:04:26Z",
-   "summary": "If you run PHP anywhere in your environment, patch to PHP 8.5.12, 8.4.27, 8.3.36 or 8.2.35 now. Two critical flaws disclosed last week, CVE-2026-109618 and CVE-2026-109619 (nicknamed \"PHP2Shell\"), let an…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
-   "published": "2026-10-26T21:04:25Z",
-   "summary": "Anthropic has filed for an IPO that could rank among Wall Street's biggest ever, revealing an $80.7 billion half-year loss, a startlingly complex governance structure, and warnings that its AI models could blackmail…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
-   "url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
-   "published": "2026-10-26T21:04:25Z",
-   "summary": "A UK-based developer and pentester has claimed a $2,000 Bitcoin prize for demonstrating the exploitability of the PHP2Shell vulnerabilities that melted the internet last week. Jaydip Modhwadia, 26, otherwise known as…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
-   "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
-   "published": "2026-10-26T21:04:24Z",
-   "summary": "To address a vulnerability in Google's Brotli compression technology that could allow attackers to corrupt process memory, Microsoft is urging .NET users to update \"as soon as possible\" after releasing an out-of-band…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "LiteLLM supply chain attack started with an exposed master key",
-   "url": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
-   "published": "2026-10-26T21:04:24Z",
-   "summary": "LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May. The cloud and AI model secret-stealing part of the incident began when someone…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-   "published": "2026-10-26T21:04:20Z",
-   "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-   "published": "2026-10-26T21:04:19Z",
-   "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "DreamHost forces password resets in ongoing \"incident\"",
-   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-   "published": "2026-10-26T21:04:19Z",
-   "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-   "published": "2026-10-26T21:04:18Z",
-   "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-   "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-   "published": "2026-10-26T21:04:15Z",
-   "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "TPE (Taipei) on 2026-10-27",
-   "url": "https://www.cloudflarestatus.com/incidents/8p2gzh24r4zv",
-   "published": "2026-10-26T15:25:55Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in TPE (Taipei) datacenter between 2026-10-27 17:00 and 2026-10-28 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/c02kttdyd9cc",
-   "published": "2026-10-26T15:25:54Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-10-28 between 06:00 and 10:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DFW (Dallas) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/8s5jh9y6pwzt",
-   "published": "2026-10-26T15:25:54Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-10-28 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SEA (Seattle) on 2026-10-28",
-   "url": "https://www.cloudflarestatus.com/incidents/r8s5sgk5xb08",
-   "published": "2026-10-26T15:25:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SEA (Seattle) datacenter on 2026-10-28 between 08:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SEA (Seattle) on 2026-10-29",
-   "url": "https://www.cloudflarestatus.com/incidents/lbtkzl0wmpps",
-   "published": "2026-10-26T15:25:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SEA (Seattle) datacenter on 2026-10-29 between 08:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-   "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-   "published": "2026-10-26T15:16:51Z",
-   "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-   "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-   "published": "2026-10-26T15:16:50Z",
-   "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-   "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-   "published": "2026-10-26T15:16:49Z",
-   "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-   "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-   "published": "2026-10-26T15:16:49Z",
-   "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-   "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-   "published": "2026-10-26T15:16:48Z",
-   "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-   "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-   "published": "2026-10-26T15:16:48Z",
-   "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are…",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Britain bets big on AI to defend against the threats AI is helping create",
-   "url": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
-   "published": "2026-10-26T15:16:37Z",
-   "summary": "The UK government is throwing £130 million at AI-powered cyber defenses, including plans to deploy autonomous AI agents across critical infrastructure to hunt down security flaws before attackers get there first. The…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
-   "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
-   "published": "2026-10-26T15:16:36Z",
-   "summary": "UK Biobank (UKB) says its platform is now \"secure\" and that academics will soon regain access, months after a major data leak of volunteer health data. The charity, which runs the eponymous research project and…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-   "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-   "published": "2026-10-26T15:16:36Z",
-   "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
-   "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
-   "published": "2026-10-26T15:16:35Z",
-   "summary": "We've spent the past several decades using duct tape, string, and chewing gum to chain the world's computers together into this thing we call the internet, so there's really no good reason to be surprised that most…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-   "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-   "published": "2026-10-26T15:16:35Z",
-   "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-   "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-   "published": "2026-10-26T15:16:35Z",
-   "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-   "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-   "published": "2026-10-26T15:16:34Z",
-   "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-   "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-   "published": "2026-10-26T15:16:34Z",
-   "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
-   "url": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
-   "published": "2026-10-26T15:16:33Z",
-   "summary": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-   "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-   "published": "2026-10-26T15:16:33Z",
-   "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Genesys Hack Exposes Customer Data From Internal Systems",
-   "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
-   "published": "2026-10-26T15:16:33Z",
-   "summary": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-   "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-   "published": "2026-10-26T15:16:32Z",
-   "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
-   "url": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
-   "published": "2026-10-26T15:16:32Z",
-   "summary": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-   "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-   "published": "2026-10-26T15:16:32Z",
-   "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-   "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-   "published": "2026-10-26T15:16:31Z",
-   "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
    "critical": false
   }
  ]

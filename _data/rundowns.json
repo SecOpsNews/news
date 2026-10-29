@@ -1,5 +1,197 @@
 [
  {
+  "id": "secopsnews-rundown-2026-10-29-pm",
+  "generated": "2026-10-29T14:23:29Z",
+  "title": "SecOps rundown, Thu 29 Oct afternoon: 30 critical, 24 advisories",
+  "counts": {
+   "last_24h": 87,
+   "critical": 30,
+   "advisories": 24,
+   "status": 42
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 39
+   },
+   {
+    "name": "GitHub",
+    "notices": 3
+   }
+  ],
+  "critical": {
+   "total": 30,
+   "items": [
+    {
+     "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+     "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+     "source": "SecurityWeek",
+     "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged."
+    },
+    {
+     "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+     "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+     "source": "SecurityWeek",
+     "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload."
+    },
+    {
+     "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+     "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+     "source": "SecurityWeek",
+     "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed."
+    },
+    {
+     "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+     "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that…"
+    },
+    {
+     "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+     "source": "The Hacker News",
+     "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network."
+    },
+    {
+     "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+     "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+     "source": "The Hacker News",
+     "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 24,
+   "items": [
+    {
+     "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "Continued Apache Struts2 JSON Plugin Insecure Deserialisation",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/49",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Maximised JSON Array Attacks -- \"Let the Commas Hit the Floor\" Proof of Concept",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/50",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/51",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 command injection in the Executer program activation path (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/52",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 IPsec tunnel address command injection through the route-management shell commands (7.2)",
+     "url": "https://seclists.org/fulldisclosure/2026/Oct/53",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 73,
+   "items": [
+    {
+     "title": "Matrix takes sovereign messaging into the realm of the tech giants",
+     "url": "https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915",
+     "source": "The Register"
+    },
+    {
+     "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+     "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+     "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Over 41,000 DHS Employee Records Leaked Online",
+     "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+     "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+     "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+     "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
+     "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
+     "source": "The Register"
+    },
+    {
+     "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
+     "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
+     "source": "The Register"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice",
+     "url": "https://grahamcluley.com/smashing-security-podcast-490/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Weekly Update 527: Cybergeddon News v. Reality",
+     "url": "https://www.troyhunt.com/weekly-update-527/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Disruption with Copilot Cloud services",
+     "url": "https://www.githubstatus.com/incidents/rn76zdy367m2",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with some Copilot services",
+     "url": "https://www.githubstatus.com/incidents/l7ycmglmykgg",
+     "source": "GitHub"
+    },
+    {
+     "title": "Elevated 404s for GitHub App s2s tokens in git/API",
+     "url": "https://www.githubstatus.com/incidents/dnslv7xdl4fj",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-10-28-pm",
   "generated": "2026-10-28T19:36:06Z",
   "title": "SecOps rundown, Wed 28 Oct afternoon: 25 critical, 14 advisories",
