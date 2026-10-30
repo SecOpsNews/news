@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-30-pm",
-  "generated": "2026-10-30T14:12:17Z",
-  "title": "SecOps rundown, Fri 30 Oct afternoon: 30 critical, 12 advisories",
+  "generated": "2026-10-30T19:25:04Z",
+  "title": "SecOps rundown, Fri 30 Oct afternoon: 29 critical, 12 advisories",
   "counts": {
    "last_24h": 61,
-   "critical": 30,
+   "critical": 29,
    "advisories": 12,
-   "status": 35
+   "status": 34
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 32
+    "notices": 31
    },
    {
     "name": "AWS",
@@ -24,7 +24,7 @@
    }
   ],
   "critical": {
-   "total": 30,
+   "total": 29,
    "items": [
     {
      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
@@ -100,7 +100,7 @@
    ]
   },
   "headlines": {
-   "total": 78,
+   "total": 72,
    "items": [
     {
      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
