@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-10-31-pm",
-  "generated": "2026-10-31T13:40:24Z",
-  "title": "SecOps rundown, Sat 31 Oct afternoon: 18 critical, 3 advisories",
+  "generated": "2026-10-31T18:35:25Z",
+  "title": "SecOps rundown, Sat 31 Oct afternoon: 10 critical, 2 advisories",
   "counts": {
    "last_24h": 35,
-   "critical": 18,
-   "advisories": 3,
-   "status": 35
+   "critical": 10,
+   "advisories": 2,
+   "status": 30
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 30
+    "notices": 26
    },
    {
     "name": "AWS",
@@ -20,11 +20,11 @@
    },
    {
     "name": "GitHub",
-    "notices": 4
+    "notices": 3
    }
   ],
   "critical": {
-   "total": 18,
+   "total": 10,
    "items": [
     {
      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -65,7 +65,7 @@
    ]
   },
   "advisories": {
-   "total": 3,
+   "total": 2,
    "items": [
     {
      "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
@@ -76,16 +76,11 @@
      "title": "CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD",
      "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4883",
      "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
-     "source": "NHS Digital"
     }
    ]
   },
   "headlines": {
-   "total": 68,
+   "total": 54,
    "items": [
     {
      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
@@ -155,7 +150,7 @@
    ]
   },
   "outages": {
-   "total": 5,
+   "total": 4,
    "items": [
     {
      "title": "Incident with Dependabot",

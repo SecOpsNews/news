@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-31T13:40:24Z",
+ "generated": "2026-10-31T18:35:25Z",
  "stars": 75,
  "counts": {
   "last_24h": 35,
-  "critical": 18,
-  "advisories": 3,
-  "status": 35
+  "critical": 10,
+  "advisories": 2,
+  "status": 30
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 30
+   "notices": 26
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 4
+   "notices": 3
   },
   {
    "name": "Slack",
@@ -914,262 +914,10 @@
   {
    "source": "Cloudflare",
    "category": "status",
-   "title": "OKA (Naha) on 2026-10-30",
-   "url": "https://www.cloudflarestatus.com/incidents/kjz3gqfkxpil",
-   "published": "2026-10-29T13:38:54Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in OKA (Naha) datacenter on 2026-10-30 between 17:00 and 21:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
    "title": "CLE (Cleveland) on 2026-11-02",
    "url": "https://www.cloudflarestatus.com/incidents/fosmz9avmx8u",
    "published": "2026-10-29T13:38:54Z",
    "summary": "Scheduled - We will be performing scheduled maintenance in CLE (Cleveland) datacenter on 2026-11-02 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BOG (Bogotá) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/3nzaqh4zpwuh",
-   "published": "2026-10-29T13:38:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BOG (Bogotá) datacenter on 2026-11-02 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AUS (Austin) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/ryrpi9auu1il",
-   "published": "2026-10-29T13:38:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AUS (Austin) datacenter on 2026-11-02 between 08:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "HNL (Honolulu) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/l38esvmi3uk2",
-   "published": "2026-10-29T13:38:53Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-11-02 between 12:00 and 16:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Disruption with Copilot Cloud services",
-   "url": "https://www.githubstatus.com/incidents/rn76zdy367m2",
-   "published": "2026-10-29T13:38:51Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Matrix takes sovereign messaging into the realm of the tech giants",
-   "url": "https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915",
-   "published": "2026-10-29T13:16:23Z",
-   "summary": "Decentralized messaging platform Matrix is no longer the upstart it once was. The organization is now a serious challenger to the status quo as concerns about sovereignty and independence reach new heights. At the…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
-   "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
-   "published": "2026-10-29T13:16:20Z",
-   "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-   "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-   "published": "2026-10-29T13:16:20Z",
-   "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-   "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-   "published": "2026-10-29T13:16:20Z",
-   "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload.",
-   "critical": true
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
-   "published": "2026-10-29T13:16:19Z",
-   "summary": "Severity: Medium",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-   "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-   "published": "2026-10-29T13:16:19Z",
-   "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-   "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-   "published": "2026-10-29T13:16:19Z",
-   "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
-   "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-   "published": "2026-10-29T13:16:19Z",
-   "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Over 41,000 DHS Employee Records Leaked Online",
-   "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-   "published": "2026-10-29T13:16:18Z",
-   "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-   "published": "2026-10-29T13:16:18Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-   "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-   "published": "2026-10-29T13:16:18Z",
-   "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-   "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-   "published": "2026-10-29T13:16:17Z",
-   "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-   "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-   "published": "2026-10-29T13:16:17Z",
-   "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-   "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-   "published": "2026-10-29T13:16:16Z",
-   "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-   "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-   "published": "2026-10-29T13:16:15Z",
-   "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-   "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-   "published": "2026-10-29T13:16:15Z",
-   "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
-   "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
-   "published": "2026-10-29T13:16:15Z",
-   "summary": "Welcome back to PWNED, in which The Reg offers cautionary tales from folks who’ve left their doors wide open to attackers and lived to tell the tale. This week’s misadventure involves unpatched older machines and a…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
-   "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
-   "published": "2026-10-29T13:16:14Z",
-   "summary": "EXCLUSIVE Researchers identified at least 83 attacks against 61 public GitHub repositories, including popular open source projects such as Google LangExtract, Trivy, Brave browser, and MLflow, in what they suspect is…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-   "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "published": "2026-10-29T13:16:14Z",
-   "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
-   "url": "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
-   "published": "2026-10-29T13:16:14Z",
-   "summary": "The UK’s comms watchdog has put forward four methods of checking netizens aren't kids – dubbed highly effective age assurance (HEAA) – as it prepares for the proposed under-16 social media ban. The regulator says…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-   "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-   "published": "2026-10-29T13:16:14Z",
-   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-   "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-   "published": "2026-10-29T13:16:13Z",
-   "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall…",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-   "published": "2026-10-29T13:16:12Z",
-   "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
    "critical": false
   }
  ]
