@@ -1,5 +1,181 @@
 [
  {
+  "id": "secopsnews-rundown-2026-10-31-pm",
+  "generated": "2026-10-31T13:40:24Z",
+  "title": "SecOps rundown, Sat 31 Oct afternoon: 18 critical, 3 advisories",
+  "counts": {
+   "last_24h": 35,
+   "critical": 18,
+   "advisories": 3,
+   "status": 35
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 30
+   },
+   {
+    "name": "AWS",
+    "notices": 1
+   },
+   {
+    "name": "GitHub",
+    "notices": 4
+   }
+  ],
+  "critical": {
+   "total": 18,
+   "items": [
+    {
+     "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+     "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+     "source": "BleepingComputer",
+     "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP…"
+    },
+    {
+     "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+     "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+     "source": "The Hacker News",
+     "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released."
+    },
+    {
+     "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+     "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server."
+    },
+    {
+     "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+     "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
+     "source": "SecurityWeek",
+     "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders."
+    },
+    {
+     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
+    },
+    {
+     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+     "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 3,
+   "items": [
+    {
+     "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4884",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4883",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 68,
+   "items": [
+    {
+     "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+     "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+     "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+     "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+     "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+     "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Feed source request: Joho no Todai (Japanese security RSS; excerpt/link only)",
+     "url": "https://github.com/SecOpsNews/news/issues/75911",
+     "source": "Other"
+    },
+    {
+     "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+     "url": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+     "source": "The Register"
+    },
+    {
+     "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+     "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+     "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
+     "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+     "source": "The Register"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center",
+     "url": "https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 5,
+   "items": [
+    {
+     "title": "Incident with Dependabot",
+     "url": "https://www.githubstatus.com/incidents/lyyfm7j4pkgl",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with GitHub services",
+     "url": "https://www.githubstatus.com/incidents/nxy2l0ssxm10",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Actions, Pages, and Webhooks",
+     "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-10-30-pm",
   "generated": "2026-10-30T19:25:04Z",
   "title": "SecOps rundown, Fri 30 Oct afternoon: 29 critical, 12 advisories",
