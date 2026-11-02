@@ -1,5 +1,167 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-02-pm",
+  "generated": "2026-11-02T17:06:55Z",
+  "title": "SecOps rundown, Mon 2 Nov afternoon: 6 critical, 8 advisories",
+  "counts": {
+   "last_24h": 42,
+   "critical": 6,
+   "advisories": 8,
+   "status": 4
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 4
+   }
+  ],
+  "critical": {
+   "total": 6,
+   "items": [
+    {
+     "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+     "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+     "source": "SecurityWeek",
+     "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks."
+    },
+    {
+     "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+     "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]"
+    },
+    {
+     "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]"
+    },
+    {
+     "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+     "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+     "source": "The Hacker News",
+     "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week."
+    },
+    {
+     "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+     "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+     "source": "BleepingComputer",
+     "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…"
+    },
+    {
+     "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+     "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+     "source": "The Hacker News",
+     "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 8,
+   "items": [
+    {
+     "title": "Apache Struts2 Core Integer Overflow",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/4",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Spring Plugin Uses a Previously Closed Resource",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/5",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Core TokenHelper Token Cryptographic Timing Side-Channel",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/6",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Core Arbitrary Code Execution via OGNL Sandbox\tEscape",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/7",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 JSON Plugin Insecure Deserialisation -- Object Deserialisation Element-Count Limit Bypass",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/0",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 REST Plugin Untrimmed `Accept` Header Tokens Break Content Negation Fallback",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/1",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 37,
+   "items": [
+    {
+     "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
+     "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
+     "url": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+     "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+     "url": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+     "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Microsoft fixes Smart App Control broken by October Windows update",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Revolve Data Breach Impacts at Least 180,000 People",
+     "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+     "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "EU AI Act Transparency Obligations: What Your Organisation Needs to Do Now",
+     "url": "https://grcsolutions.io/eu-ai-act-transparency-obligations/",
+     "source": "IT Governance"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+     "url": "https://www.troyhunt.com/weekly-update-528/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 0,
+   "items": []
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-01-pm",
   "generated": "2026-11-01T14:17:44Z",
   "title": "SecOps rundown, Sun 1 Nov afternoon: 9 critical, 1 advisories",
