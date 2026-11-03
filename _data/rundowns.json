@@ -1,5 +1,182 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-03-pm",
+  "generated": "2026-11-03T15:11:25Z",
+  "title": "SecOps rundown, Tue 3 Nov afternoon: 9 critical, 9 advisories",
+  "counts": {
+   "last_24h": 74,
+   "critical": 9,
+   "advisories": 9,
+   "status": 30
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 29
+   },
+   {
+    "name": "GitHub",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 9,
+   "items": [
+    {
+     "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+     "source": "The Hacker News",
+     "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed."
+    },
+    {
+     "title": "Max-severity bug in widely used OT programming tool exploited to deliver Linux malware",
+     "url": "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
+     "source": "The Register",
+     "summary": "Unknown criminals are exploiting a maximum-severity vulnerability in Node-RED, a flow-based programming tool that is widely used in critical infrastructure, to deploy a flow that downloads and runs a Linux bot.…"
+    },
+    {
+     "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+     "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+     "source": "The Hacker News",
+     "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause…"
+    },
+    {
+     "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+     "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+     "source": "SecurityWeek",
+     "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks."
+    },
+    {
+     "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+     "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]"
+    },
+    {
+     "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+     "source": "BleepingComputer",
+     "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 9,
+   "items": [
+    {
+     "title": "Artificial intelligence and cyber intrusion",
+     "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+     "source": "NCSC threat reports"
+    },
+    {
+     "title": "Apache Struts2 Core Integer Overflow",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/4",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Spring Plugin Uses a Previously Closed Resource",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/5",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Core TokenHelper Token Cryptographic Timing Side-Channel",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/6",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Core Arbitrary Code Execution via OGNL Sandbox\tEscape",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/7",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 JSON Plugin Insecure Deserialisation -- Object Deserialisation Element-Count Limit Bypass",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/0",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 40,
+   "items": [
+    {
+     "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+     "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Revolve Data Breach Impacts at Least 200,000 People",
+     "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
+     "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+     "source": "The Register"
+    },
+    {
+     "title": "Cops bust botnet of 1.3M infected Android TV boxes",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
+     "source": "The Register"
+    },
+    {
+     "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+     "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+     "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+     "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+     "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
+     "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+     "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+     "url": "https://www.troyhunt.com/weekly-update-528/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Elevated errors on GPT-5.4 Nano",
+     "url": "https://www.githubstatus.com/incidents/db4x8hh362t8",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-02-pm",
   "generated": "2026-11-02T17:06:55Z",
   "title": "SecOps rundown, Mon 2 Nov afternoon: 6 critical, 8 advisories",

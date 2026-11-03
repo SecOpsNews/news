@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-02T17:06:55Z",
+ "generated": "2026-11-03T15:11:25Z",
  "stars": 75,
  "counts": {
-  "last_24h": 42,
-  "critical": 6,
-  "advisories": 8,
-  "status": 4
+  "last_24h": 74,
+  "critical": 9,
+  "advisories": 9,
+  "status": 30
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 4
+   "notices": 29
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 0
+   "notices": 1
   },
   {
    "name": "Slack",
@@ -38,6 +38,384 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AMS (Amsterdam) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/nqql13xfap8m",
+   "published": "2026-11-03T12:16:27Z",
+   "summary": "Completed - The scheduled maintenance has been completed.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "WAW (Warsaw) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/gwjohx8mojyu",
+   "published": "2026-11-03T12:16:26Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in WAW (Warsaw) datacenter between 2026-11-03 23:00 and 2026-11-04 07:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AMS (Amsterdam) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/9nw1o0b2kylt",
+   "published": "2026-11-03T12:16:26Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AMS (Amsterdam) datacenter between 2026-11-04 23:00 and 2026-11-05 07:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DEN (Denver) on 2026-11-06",
+   "url": "https://www.cloudflarestatus.com/incidents/d7oe2r82qdtq",
+   "published": "2026-11-03T12:16:25Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DEN (Denver) datacenter on 2026-11-06 between 08:00 and 15:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Krebs on Security",
+   "category": "blog",
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "published": "2026-11-03T06:57:25Z",
+   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+   "published": "2026-11-03T06:57:18Z",
+   "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+   "published": "2026-11-03T06:57:18Z",
+   "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.",
+   "critical": true
+  },
+  {
+   "source": "NCSC threat reports",
+   "category": "advisory",
+   "title": "Artificial intelligence and cyber intrusion",
+   "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+   "published": "2026-11-03T06:57:18Z",
+   "summary": "An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Revolve Data Breach Impacts at Least 200,000 People",
+   "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+   "published": "2026-11-03T06:57:17Z",
+   "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SEA (Seattle) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/cnx4sn1ldxad",
+   "published": "2026-11-03T02:37:20Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SEA (Seattle) datacenter on 2026-11-03 between 08:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NRT (Tokyo) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/4ds7im9pnsr6",
+   "published": "2026-11-03T02:37:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter on 2026-11-03 between 17:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KHI (Karachi) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/y2718ilp9m3u",
+   "published": "2026-11-03T02:37:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KHI (Karachi) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "CNN (Kannur) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/9t47sqser70b",
+   "published": "2026-11-03T02:37:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in CNN (Kannur) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MAA (Chennai) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/jy1559revlyu",
+   "published": "2026-11-03T02:37:18Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MAA (Chennai) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HYD (Hyderabad) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/43m42n9e89qp",
+   "published": "2026-11-03T02:37:18Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HYD (Hyderabad) datacenter between 2026-11-03 21:00 and 2026-11-04 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MXP (Milan) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/vw08x55ow1eu",
+   "published": "2026-11-03T02:37:18Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MXP (Milan) datacenter on 2026-11-04 between 00:00 and 04:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KNU (Kanpur) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/jl50ckq3eewc",
+   "published": "2026-11-03T02:37:17Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KNU (Kanpur) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KHI (Karachi) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/k1umgupdrq5d",
+   "published": "2026-11-03T02:37:17Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KHI (Karachi) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KIX (Osaka) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/zlh6pej7erne",
+   "published": "2026-11-03T02:37:16Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-05 between 04:00 and 05:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NRT (Tokyo) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/vrhqvfvwbphv",
+   "published": "2026-11-03T02:37:16Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter between 2026-11-05 16:00 and 2026-11-06 00:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "LHR (London) on 2026-11-06",
+   "url": "https://www.cloudflarestatus.com/incidents/9m70u6jcq3wn",
+   "published": "2026-11-03T02:37:16Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in LHR (London) datacenter on 2026-11-06 between 02:00 and 05:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NRT (Tokyo) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/r2slpvg6yway",
+   "published": "2026-11-03T02:37:15Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter between 2026-11-12 16:00 and 2026-11-13 00:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
+   "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+   "published": "2026-11-02T23:37:42Z",
+   "summary": "If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday. Trigger offered little…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Cops bust botnet of 1.3M infected Android TV boxes",
+   "url": "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
+   "published": "2026-11-02T23:37:42Z",
+   "summary": "A coalition of private-sector security firms working with Japan’s National Police Agency has disrupted XCPE, a backdoor used to build a massive botnet comprising more than 1.3 million Android devices across more than…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Max-severity bug in widely used OT programming tool exploited to deliver Linux malware",
+   "url": "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
+   "published": "2026-11-02T23:37:41Z",
+   "summary": "Unknown criminals are exploiting a maximum-severity vulnerability in Node-RED, a flow-based programming tool that is widely used in critical infrastructure, to deploy a flow that downloads and runs a Linux bot.…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "published": "2026-11-02T23:37:37Z",
+   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+   "published": "2026-11-02T23:37:36Z",
+   "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+   "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+   "published": "2026-11-02T23:37:36Z",
+   "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+   "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+   "published": "2026-11-02T23:37:35Z",
+   "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "published": "2026-11-02T23:37:35Z",
+   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KHI (Karachi) on 2026-11-02",
+   "url": "https://www.cloudflarestatus.com/incidents/bpaclo8uw3nq",
+   "published": "2026-11-02T20:29:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KHI (Karachi) datacenter between 2026-11-02 23:00 and 2026-11-05 00:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DUR (Durban) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/9t2zf8s5hjjb",
+   "published": "2026-11-02T20:29:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DUR (Durban) datacenter on 2026-11-03 between 02:00 and 06:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "IAH (Houston) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/3sw2zu10xae9",
+   "published": "2026-11-02T20:29:17Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in IAH (Houston) datacenter on 2026-11-03 between 06:00 and 07:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SJC (San Jose) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/6d891w874d5s",
+   "published": "2026-11-02T20:29:17Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-11-03 between 09:00 and 13:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SLC (Salt Lake City) on 2026-11-03",
+   "url": "https://www.cloudflarestatus.com/incidents/73z6fxcwvytd",
+   "published": "2026-11-02T20:29:16Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SLC (Salt Lake City) datacenter on 2026-11-03 between 09:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ISB (Islamabad) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/rfador8cu189",
+   "published": "2026-11-02T20:29:16Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ISB (Islamabad) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ZAG (Zagreb) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/oaiw56z55wna",
+   "published": "2026-11-02T20:29:15Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ZAG (Zagreb) datacenter on 2026-11-05 between 02:00 and 04:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ATL (Atlanta) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/81ljfyzbgttg",
+   "published": "2026-11-02T20:29:15Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-11-05 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-09",
+   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
+   "published": "2026-11-02T20:29:14Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-09 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-10",
+   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
+   "published": "2026-11-02T20:29:14Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-10 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-11",
+   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
+   "published": "2026-11-02T20:29:13Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-11 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Elevated errors on GPT-5.4 Nano",
+   "url": "https://www.githubstatus.com/incidents/db4x8hh362t8",
+   "published": "2026-11-02T20:29:13Z",
+   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+   "critical": false
+  },
   {
    "source": "Full Disclosure",
    "category": "advisory",
@@ -468,78 +846,6 @@
    "url": "https://www.troyhunt.com/weekly-update-528/",
    "published": "2026-11-01T13:37:42Z",
    "summary": "[Presently sponsored by: Report URI: Guarding you from rogue JavaScript! Don’t get pwned; get real-time alerts & prevent breaches SecureYourSite](https://report-uri.com/?src=troyhunt.com)",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BOG (Bogotá) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/3nzaqh4zpwuh",
-   "published": "2026-10-31T18:42:33Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BOG (Bogotá) datacenter on 2026-11-02 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AUS (Austin) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/ryrpi9auu1il",
-   "published": "2026-10-31T18:42:32Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AUS (Austin) datacenter on 2026-11-02 between 08:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "HNL (Honolulu) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/l38esvmi3uk2",
-   "published": "2026-10-31T18:42:32Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2026-11-02 between 12:00 and 16:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "published": "2026-10-31T18:38:04Z",
-   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-   "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-   "published": "2026-10-31T18:38:03Z",
-   "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Reddit to lock content behind logins to fight scrapers",
-   "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-   "published": "2026-10-31T18:38:03Z",
-   "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-   "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-   "published": "2026-10-31T18:38:02Z",
-   "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Northflank security breach leads to abuse of customers' AI API keys",
-   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-   "published": "2026-10-31T18:38:02Z",
-   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
    "critical": false
   }
  ]
