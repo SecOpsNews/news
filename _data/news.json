@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T15:11:25Z",
+ "generated": "2026-11-04T15:27:33Z",
  "stars": 75,
  "counts": {
-  "last_24h": 74,
-  "critical": 9,
-  "advisories": 9,
-  "status": 30
+  "last_24h": 72,
+  "critical": 18,
+  "advisories": 6,
+  "status": 43
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 29
+   "notices": 39
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 1
+   "notices": 4
   },
   {
    "name": "Slack",
@@ -38,6 +38,654 @@
   }
  ],
  "items": [
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+   "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+   "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+   "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+   "published": "2026-11-04T12:15:48Z",
+   "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+   "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+   "published": "2026-11-04T12:15:47Z",
+   "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+   "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+   "published": "2026-11-04T12:15:47Z",
+   "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+   "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+   "published": "2026-11-04T12:15:47Z",
+   "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+   "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+   "published": "2026-11-04T12:15:47Z",
+   "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+   "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+   "published": "2026-11-04T12:15:46Z",
+   "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+   "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+   "published": "2026-11-04T12:15:46Z",
+   "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Cyberattack on French plasma stores is enough to make your blood boil",
+   "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
+   "published": "2026-11-04T12:15:46Z",
+   "summary": "Attackers tampered with cold-storage settings used by France's civilian blood service after compromising a refrigeration supplier, the organization said. The French Blood Establishment (EFS) confirmed the incident on…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+   "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+   "published": "2026-11-04T12:15:46Z",
+   "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+   "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+   "published": "2026-11-04T12:15:45Z",
+   "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Cloudflare Pages Upload Issue",
+   "url": "https://www.cloudflarestatus.com/incidents/me060q7dbayp",
+   "published": "2026-11-04T09:46:16Z",
+   "summary": "Resolved - Between 2026/10/26 - 2026/11/4, some customers trying to upload static Pages assets from the Cloudflare Dashboard may have experienced issues creating a Pages project.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MEX (Mexico City) on 2026-10-29",
+   "url": "https://www.cloudflarestatus.com/incidents/iuochm491cl6",
+   "published": "2026-11-04T09:46:15Z",
+   "summary": "Completed - The scheduled maintenance has been completed.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ISB (Islamabad) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/rfador8cu189",
+   "published": "2026-11-04T09:46:11Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ISB (Islamabad) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ZAG (Zagreb) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/oaiw56z55wna",
+   "published": "2026-11-04T09:46:11Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ZAG (Zagreb) datacenter on 2026-11-05 between 02:00 and 04:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "YUL (Montréal) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/go7ise3xb61t",
+   "published": "2026-11-04T09:46:10Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in YUL (Montréal) datacenter on 2026-11-05 between 08:00 and 13:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MSP (Minneapolis) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/y9kqvb49i4ml",
+   "published": "2026-11-04T09:46:09Z",
+   "summary": "Scheduled - Maintenance will begin soon as scheduled.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MRS (Marseille) on 2026-11-06",
+   "url": "https://www.cloudflarestatus.com/incidents/42eocnb1k677",
+   "published": "2026-11-04T09:46:09Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MRS (Marseille) datacenter on 2026-11-06 between 00:00 and 06:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Increased task-related errors for Copilot Mission Control",
+   "url": "https://www.githubstatus.com/incidents/tc28c0wzrnpz",
+   "published": "2026-11-04T09:46:08Z",
+   "summary": "Update - We've identified the issue with a specific client version and are deploying a mitigation. We are already seeing partial recovery.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "published": "2026-11-04T02:25:25Z",
+   "summary": "North Korean cryptocurrency thieves tricked a Binance software engineer into downloading malware onto their work-issued computer during a fake job interview process before last week's record-breaking $6.3 billion…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+   "published": "2026-11-04T02:25:20Z",
+   "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "KIX (Osaka) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/zlh6pej7erne",
+   "published": "2026-11-04T00:50:48Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-04 between 17:30 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ATL (Atlanta) on 2026-11-05",
+   "url": "https://www.cloudflarestatus.com/incidents/81ljfyzbgttg",
+   "published": "2026-11-04T00:50:47Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-11-05 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-09",
+   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
+   "published": "2026-11-04T00:50:47Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-09 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-10",
+   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
+   "published": "2026-11-04T00:50:47Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-10 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-11",
+   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
+   "published": "2026-11-04T00:50:46Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-11 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Incident with Git Operations",
+   "url": "https://www.githubstatus.com/incidents/13b6lyl8d7bz",
+   "published": "2026-11-04T00:50:44Z",
+   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+   "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+   "published": "2026-11-03T21:50:27Z",
+   "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+   "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+   "published": "2026-11-03T21:50:27Z",
+   "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+   "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+   "published": "2026-11-03T21:50:26Z",
+   "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+   "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+   "published": "2026-11-03T21:50:25Z",
+   "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
+   "url": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
+   "published": "2026-11-03T21:50:24Z",
+   "summary": "The Center for a New American Security posits that the next big threat from our future AI overlords involves \"sovereign agents\" acting on their own and regularly improving themselves. These are AI agents that operate…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+   "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+   "published": "2026-11-03T21:50:24Z",
+   "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "published": "2026-11-03T21:50:23Z",
+   "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing",
+   "url": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382",
+   "published": "2026-11-03T21:50:23Z",
+   "summary": "With RAM getting more expensive, Microsoft is putting more effort into making Windows 11 run better on systems with just 8 GB of memory. Microsoft said on Tuesday that it was \"raising the bar for 8 GB Windows 11…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+   "published": "2026-11-03T21:50:23Z",
+   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Cloudflare Workers and Pages build errors",
+   "url": "https://www.cloudflarestatus.com/incidents/nbyxn84kvb6o",
+   "published": "2026-11-03T19:45:20Z",
+   "summary": "Resolved - This incident has been resolved.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "BNA (Nashville) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/qhr0nq0g21uu",
+   "published": "2026-11-03T19:45:20Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in BNA (Nashville) datacenter on 2026-11-04 between 08:00 and 13:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "LAS (Las Vegas) on 2026-11-04",
+   "url": "https://www.cloudflarestatus.com/incidents/86wzib0r03wk",
+   "published": "2026-11-03T19:45:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in LAS (Las Vegas) datacenter on 2026-11-04 between 10:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "ATH (Athens) on 2026-11-06",
+   "url": "https://www.cloudflarestatus.com/incidents/a9rm7rvkotit",
+   "published": "2026-11-03T19:45:19Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in ATH (Athens) datacenter on 2026-11-06 between 01:00 and 07:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Incident with API, Git, and Copilot requests",
+   "url": "https://www.githubstatus.com/incidents/rxlj89wpk7px",
+   "published": "2026-11-03T19:45:19Z",
+   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer",
+   "url": "https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228",
+   "published": "2026-11-03T16:19:35Z",
+   "summary": "GhostBSD, the easiest-to-install flavor of FreeBSD for the daemon-curious desktop dabbler, is back with a fresh update. GhostBSD 26.2-R15.1p6, to give it its slightly unwieldy full version number, is based on FreeBSD…",
+   "critical": false
+  },
+  {
+   "source": "Have I Been Pwned",
+   "category": "breach",
+   "title": "Harvard - 850,537 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/Harvard",
+   "published": "2026-11-03T16:19:33Z",
+   "summary": "In November 2025, [Harvard University suffered a data breach later linked to a ShinyHunters \"pay or leak\" extortion…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+   "url": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+   "published": "2026-11-03T16:19:30Z",
+   "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+   "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+   "published": "2026-11-03T16:19:30Z",
+   "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+   "url": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+   "published": "2026-11-03T16:19:30Z",
+   "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+   "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+   "published": "2026-11-03T16:19:30Z",
+   "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+   "url": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+   "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "The UK's National Cyber Security Centre (NCSC) says AI-powered malware is \"highly likely\" to be a part of a future ransomware attack on Britain's critical national infrastructure between now and 2028. The warning…",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+   "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+   "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Password manager mSecure tells users to change passwords, won't say why",
+   "url": "https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296",
+   "published": "2026-11-03T16:19:29Z",
+   "summary": "Password manager mSecure has warned customers to change their passwords, reset two-factor authentication, and potentially remove their passkeys after detecting suspicious activity, but it has not explained what…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Harvard University data breach exposed info of 851,000 accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Critical Node-RED Flaw Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+   "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit,…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+   "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
+   "url": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Police seizes over 100 servers in investment scam crackdown",
+   "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+   "published": "2026-11-03T16:19:28Z",
+   "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases…",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+   "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+   "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+   "url": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students.",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Global Data Breaches and Cyber Attacks in October 2026 – At Least 67.6 Million Breached Records",
+   "url": "https://grcsolutions.io/global-data-breaches-and-cyber-attacks-in-october-2026-at-least-67-6-million-breached-records/",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "The post [Global Data Breaches and Cyber Attacks in October 2026 – At Least 67.6 Million Breached…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+   "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+   "published": "2026-11-03T16:19:27Z",
+   "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "published": "2026-11-03T16:19:26Z",
+   "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Barracuda warns of critical flaws allowing root access to devices",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+   "published": "2026-11-03T16:19:26Z",
+   "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+   "critical": true
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -354,60 +1002,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ISB (Islamabad) on 2026-11-04",
-   "url": "https://www.cloudflarestatus.com/incidents/rfador8cu189",
-   "published": "2026-11-02T20:29:16Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ISB (Islamabad) datacenter between 2026-11-04 21:00 and 2026-11-05 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ZAG (Zagreb) on 2026-11-05",
-   "url": "https://www.cloudflarestatus.com/incidents/oaiw56z55wna",
-   "published": "2026-11-02T20:29:15Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ZAG (Zagreb) datacenter on 2026-11-05 between 02:00 and 04:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-11-05",
-   "url": "https://www.cloudflarestatus.com/incidents/81ljfyzbgttg",
-   "published": "2026-11-02T20:29:15Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-11-05 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-09",
-   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
-   "published": "2026-11-02T20:29:14Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-09 between 06:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-10",
-   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
-   "published": "2026-11-02T20:29:14Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-10 between 06:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-11",
-   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
-   "published": "2026-11-02T20:29:13Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-11 between 06:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
    "source": "GitHub",
    "category": "status",
    "title": "Elevated errors on GPT-5.4 Nano",
@@ -711,141 +1305,6 @@
    "url": "https://www.cloudflarestatus.com/incidents/gl9s0hzamje0",
    "published": "2026-11-02T09:53:48Z",
    "summary": "Scheduled - We will be performing scheduled maintenance in PRG (Prague) datacenter on 2026-11-03 between 01:00 and 05:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
-   "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-   "published": "2026-11-02T06:22:23Z",
-   "summary": "As debate and legal argument continue over the extent to which developers of large language models are entitled to feed the world’s data into their systems without paying for it, India’s government has come up with…",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Apache Struts2 JSON Plugin Insecure Deserialisation -- Object Deserialisation Element-Count Limit Bypass",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/0",
-   "published": "2026-11-02T06:22:14Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 01",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Apache Struts2 REST Plugin Untrimmed `Accept` Header Tokens Break Content Negation Fallback",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/1",
-   "published": "2026-11-02T06:22:14Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 01",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Apache Struts2 REST Plugin Fails to Properly Parse Chunked\tRequests",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/2",
-   "published": "2026-11-02T06:22:13Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 01",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Apache Struts2 Core Cross-Origin Protection Exemption Miskeyed to a Deployment-Wide Path",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/3",
-   "published": "2026-11-02T06:22:13Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 01",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-   "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-   "published": "2026-11-02T06:22:11Z",
-   "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-   "published": "2026-11-01T23:40:53Z",
-   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-   "published": "2026-11-01T18:58:52Z",
-   "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-   "published": "2026-11-01T18:58:51Z",
-   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-   "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-   "published": "2026-11-01T13:37:48Z",
-   "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "published": "2026-11-01T13:37:48Z",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet,…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-   "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-   "published": "2026-11-01T13:37:47Z",
-   "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-   "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-   "published": "2026-11-01T13:37:47Z",
-   "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-   "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-   "published": "2026-11-01T13:37:47Z",
-   "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have…",
-   "critical": true
-  },
-  {
-   "source": "Troy Hunt",
-   "category": "blog",
-   "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
-   "url": "https://www.troyhunt.com/weekly-update-528/",
-   "published": "2026-11-01T13:37:42Z",
-   "summary": "[Presently sponsored by: Report URI: Guarding you from rogue JavaScript! Don’t get pwned; get real-time alerts & prevent breaches SecureYourSite](https://report-uri.com/?src=troyhunt.com)",
    "critical": false
   }
  ]
