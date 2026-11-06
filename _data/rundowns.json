@@ -1,5 +1,192 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-06-pm",
+  "generated": "2026-11-06T15:05:43Z",
+  "title": "SecOps rundown, Fri 6 Nov afternoon: 9 critical, 6 advisories",
+  "counts": {
+   "last_24h": 62,
+   "critical": 9,
+   "advisories": 6,
+   "status": 46
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 42
+   },
+   {
+    "name": "GitHub",
+    "notices": 4
+   }
+  ],
+  "critical": {
+   "total": 9,
+   "items": [
+    {
+     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+     "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests."
+    },
+    {
+     "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+     "source": "The Register",
+     "summary": "New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. The disruption has downed QPL's website, on-site computers,…"
+    },
+    {
+     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+     "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+     "source": "The Hacker News",
+     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…"
+    },
+    {
+     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+     "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+     "source": "The Hacker News",
+     "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found."
+    },
+    {
+     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+     "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+     "source": "BleepingComputer",
+     "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]"
+    },
+    {
+     "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 6,
+   "items": [
+    {
+     "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Multiple Races",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 71,
+   "items": [
+    {
+     "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+     "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+     "url": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+     "source": "The Register"
+    },
+    {
+     "title": "AI agents are a ‘bane’ for some website operators, says Cloudflare",
+     "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+     "source": "The Register"
+    },
+    {
+     "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
+     "url": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
+     "source": "The Register"
+    },
+    {
+     "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+     "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Get root on a musl Linux system by slamming it with an overly long password",
+     "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+     "source": "The Register"
+    },
+    {
+     "title": "The White House is apparently a popular residential proxy exit spot",
+     "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+     "source": "The Register"
+    },
+    {
+     "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+     "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+     "source": "The Register"
+    },
+    {
+     "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+     "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+     "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Want to Rent an Internet Address at the White House?",
+     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Smashing Security podcast #491: How AI agents are spooking the banks",
+     "url": "https://grahamcluley.com/smashing-security-podcast-491/",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Degraded performance for multiple GitHub services",
+     "url": "https://www.githubstatus.com/incidents/pfbmpxxfq1cy",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Pull Requests, Git Operations and Issues",
+     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Actions and Pages",
+     "url": "https://www.githubstatus.com/incidents/xr3myzj7ms51",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-05-pm",
   "generated": "2026-11-05T15:29:45Z",
   "title": "SecOps rundown, Thu 5 Nov afternoon: 13 critical, 6 advisories",
@@ -2223,206 +2410,6 @@
      "title": "Delayed Actions status check results",
      "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
      "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-23-pm",
-  "generated": "2026-10-23T18:23:34Z",
-  "title": "SecOps rundown, Fri 23 Oct afternoon: 17 critical, 7 advisories",
-  "counts": {
-   "last_24h": 58,
-   "critical": 17,
-   "advisories": 7,
-   "status": 39
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 31
-   },
-   {
-    "name": "Google Cloud",
-    "notices": 2
-   },
-   {
-    "name": "GitHub",
-    "notices": 5
-   },
-   {
-    "name": "Slack",
-    "notices": 1
-   }
-  ],
-  "critical": {
-   "total": 17,
-   "items": [
-    {
-     "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-     "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-     "source": "BleepingComputer",
-     "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]"
-    },
-    {
-     "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-     "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-     "source": "The Hacker News",
-     "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22."
-    },
-    {
-     "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-     "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-     "source": "The Hacker News",
-     "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated."
-    },
-    {
-     "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-     "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-     "source": "The Hacker News",
-     "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open."
-    },
-    {
-     "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
-     "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-     "source": "The Hacker News",
-     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws."
-    },
-    {
-     "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
-     "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-     "source": "SecurityWeek",
-     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 7,
-   "items": [
-    {
-     "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4878 - Cisco Releases Security Hardening Guidance for Multiple Cisco Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4878",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 91,
-   "items": [
-    {
-     "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-     "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-     "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "PHP – advice for impacted organisations and lessons for the future",
-     "url": "https://grcsolutions.io/critical-php-vulnerability-advice-for-organisations/",
-     "source": "IT Governance"
-    },
-    {
-     "title": "UK threatens subsea cable saboteurs with 14 years behind bars",
-     "url": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
-     "source": "The Register"
-    },
-    {
-     "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-     "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-     "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-     "source": "The Register"
-    },
-    {
-     "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-     "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
-     "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "11 Million Impacted by Capcom Data Breach",
-     "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-     "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 3,
-   "items": [
-    {
-     "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
-     "url": "https://grahamcluley.com/smashing-security-podcast-489/",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-     "source": "Krebs on Security"
-    }
-   ]
-  },
-  "outages": {
-   "total": 8,
-   "items": [
-    {
-     "title": "Delayed Actions status check results",
-     "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
-     "source": "GitHub"
-    },
-    {
-     "title": "Project updates delayed",
-     "url": "https://www.githubstatus.com/incidents/wq8305lppdc2",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident: Slack Real-Time Connection Disruption",
-     "url": "https://slack-status.com/2026-10/58a30c7fc8aa3e80",
-     "source": "Slack"
     }
    ]
   }
