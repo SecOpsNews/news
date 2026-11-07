@@ -1,5 +1,196 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-07-pm",
+  "generated": "2026-11-07T14:04:29Z",
+  "title": "SecOps rundown, Sat 7 Nov afternoon: 7 critical, 6 advisories",
+  "counts": {
+   "last_24h": 61,
+   "critical": 7,
+   "advisories": 6,
+   "status": 45
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 42
+   },
+   {
+    "name": "AWS",
+    "notices": 2
+   },
+   {
+    "name": "GitHub",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 7,
+   "items": [
+    {
+     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]"
+    },
+    {
+     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+     "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+     "source": "The Hacker News",
+     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it."
+    },
+    {
+     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+     "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+     "source": "The Hacker News",
+     "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates."
+    },
+    {
+     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+     "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests."
+    },
+    {
+     "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+     "source": "The Register",
+     "summary": "New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. The disruption has downed QPL's website, on-site computers,…"
+    },
+    {
+     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+     "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+     "source": "The Hacker News",
+     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 6,
+   "items": [
+    {
+     "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Multiple Races",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 72,
+   "items": [
+    {
+     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+     "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+     "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Agents reveal secrets when offered to team up with each other",
+     "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+     "source": "The Register"
+    },
+    {
+     "title": "Mac lookalikes multiply as Linux raids Apple's wardrobe",
+     "url": "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
+     "source": "The Register"
+    },
+    {
+     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+     "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+     "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Fake security tools on GitHub push backdoors and infostealers",
+     "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+     "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+     "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+     "source": "SecurityWeek"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 2,
+   "items": [
+    {
+     "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
+     "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+     "source": "Scott Helme"
+    },
+    {
+     "title": "Want to Rent an Internet Address at the White House?",
+     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+     "source": "Krebs on Security"
+    }
+   ]
+  },
+  "outages": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Service is operating normally: [RESOLVED] Elevated Launch Failures",
+     "url": "https://status.aws.amazon.com/",
+     "source": "AWS"
+    },
+    {
+     "title": "Service impact: Elevated Launch Failures",
+     "url": "https://status.aws.amazon.com/",
+     "source": "AWS"
+    },
+    {
+     "title": "Degraded performance for multiple GitHub services",
+     "url": "https://www.githubstatus.com/incidents/pfbmpxxfq1cy",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-06-pm",
   "generated": "2026-11-06T15:05:43Z",
   "title": "SecOps rundown, Fri 6 Nov afternoon: 9 critical, 6 advisories",
@@ -2228,187 +2419,6 @@
     {
      "title": "Disruption with Dependabot Alerts",
      "url": "https://www.githubstatus.com/incidents/71y513kjvbzh",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-24-pm",
-  "generated": "2026-10-24T17:28:33Z",
-  "title": "SecOps rundown, Sat 24 Oct afternoon: 18 critical, 5 advisories",
-  "counts": {
-   "last_24h": 48,
-   "critical": 18,
-   "advisories": 5,
-   "status": 46
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 39
-   },
-   {
-    "name": "GitHub",
-    "notices": 6
-   },
-   {
-    "name": "Slack",
-    "notices": 1
-   }
-  ],
-  "critical": {
-   "total": 18,
-   "items": [
-    {
-     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-     "source": "The Hacker News",
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited…"
-    },
-    {
-     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-     "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-     "source": "The Hacker News",
-     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli."
-    },
-    {
-     "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-     "source": "BleepingComputer",
-     "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code…"
-    },
-    {
-     "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-     "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-     "source": "SecurityWeek",
-     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges."
-    },
-    {
-     "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-     "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-     "source": "SecurityWeek",
-     "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe."
-    },
-    {
-     "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-     "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-     "source": "The Hacker News",
-     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 5,
-   "items": [
-    {
-     "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4878 - Cisco Releases Security Hardening Guidance for Multiple Cisco Products",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4878",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 56,
-   "items": [
-    {
-     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-     "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-     "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-     "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-     "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-     "source": "The Register"
-    },
-    {
-     "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-     "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-     "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-     "source": "The Register"
-    },
-    {
-     "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
-     "url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
-     "source": "The Register"
-    },
-    {
-     "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-     "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-     "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 7,
-   "items": [
-    {
-     "title": "Grok 4.6 and Grok 4.7 Service Issues",
-     "url": "https://www.githubstatus.com/incidents/khv5nj9qy2kk",
-     "source": "GitHub"
-    },
-    {
-     "title": "Disruption with Dependabot Alerts",
-     "url": "https://www.githubstatus.com/incidents/71y513kjvbzh",
-     "source": "GitHub"
-    },
-    {
-     "title": "Delayed Actions status check results",
-     "url": "https://www.githubstatus.com/incidents/ntrfd2jqldn6",
      "source": "GitHub"
     }
    ]
