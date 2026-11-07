@@ -9,6 +9,10 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
+- **BleepingComputer**: [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
+- **BleepingComputer**: [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
+- **SecurityWeek**: [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
+- **The Register**: [NHS breach helpline left staff carrying a 'significant emotional burden'](https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201)
 - **Cloudflare**: [Network Performance Issues in Chicago](https://www.cloudflarestatus.com/incidents/x9orajjmvvwa)
 - **Cloudflare**: [MEX (Mexico City) on 2026-11-04](https://www.cloudflarestatus.com/incidents/wn0i3fsd1sfc)
 - **Cloudflare**: [KIX (Osaka) on 2026-11-10](https://www.cloudflarestatus.com/incidents/0fcfu5h58we6)
@@ -124,23 +128,6 @@ description: Latest Updates
 - **Cloudflare**: [Network disruption across multiple colocations in India](https://www.cloudflarestatus.com/incidents/1i6fnludjh1m)
 - **Cloudflare**: [ATH (Athens) on 2026-11-06](https://www.cloudflarestatus.com/incidents/a9rm7rvkotit)
 - **Cloudflare**: [PDX (Portland) on 2026-11-08](https://www.cloudflarestatus.com/incidents/t9oi8dss6a66)
-- **The Register**: [Microsoft admits certifications can be a drag, launches creds that recognize skills](https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725)
-- **Full Disclosure**: [unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads](https://seclists.org/fulldisclosure/2026/Nov/8)
-- **Full Disclosure**: [unixODBC <=2.3.14 Multiple Races](https://seclists.org/fulldisclosure/2026/Nov/9)
-- **Full Disclosure**: [unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`](https://seclists.org/fulldisclosure/2026/Nov/10)
-- **Full Disclosure**: [Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities](https://seclists.org/fulldisclosure/2026/Nov/11)
-- **The Hacker News**: [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
-- **Full Disclosure**: [SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication](https://seclists.org/fulldisclosure/2026/Nov/12)
-- **The Hacker News**: [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
-- **The Hacker News**: [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
-- **The Hacker News**: [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
-- **The Hacker News**: [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
-- **Krebs on Security**: [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
-- **BleepingComputer**: [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
-- **Cloudflare**: [KHI (Karachi) on 2026-11-02](https://www.cloudflarestatus.com/incidents/bpaclo8uw3nq)
-- **Cloudflare**: [DFW (Dallas) on 2026-11-05](https://www.cloudflarestatus.com/incidents/43b1mq8gxv1p)
-- **Cloudflare**: [EWR (Newark) on 2026-11-05](https://www.cloudflarestatus.com/incidents/redpr7c1cp8j)
-- **Cloudflare**: [AMS (Amsterdam) on 2026-11-04](https://www.cloudflarestatus.com/incidents/9nw1o0b2kylt)
 
 
 <!-- SecOps end -->

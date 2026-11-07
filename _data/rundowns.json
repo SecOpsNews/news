@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-11-07-pm",
-  "generated": "2026-11-07T14:04:29Z",
-  "title": "SecOps rundown, Sat 7 Nov afternoon: 7 critical, 6 advisories",
+  "generated": "2026-11-07T18:48:59Z",
+  "title": "SecOps rundown, Sat 7 Nov afternoon: 7 critical, 1 advisories",
   "counts": {
-   "last_24h": 61,
+   "last_24h": 32,
    "critical": 7,
-   "advisories": 6,
-   "status": 45
+   "advisories": 1,
+   "status": 41
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 42
+    "notices": 38
    },
    {
     "name": "AWS",
@@ -26,6 +26,12 @@
   "critical": {
    "total": 7,
    "items": [
+    {
+     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+     "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+     "source": "SecurityWeek",
+     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA."
+    },
     {
      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -55,53 +61,37 @@
      "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
      "source": "The Register",
      "summary": "New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. The disruption has downed QPL's website, on-site computers,…"
-    },
-    {
-     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-     "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-     "source": "The Hacker News",
-     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…"
     }
    ]
   },
   "advisories": {
-   "total": 6,
+   "total": 1,
    "items": [
     {
      "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
      "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
      "source": "NHS Digital"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Multiple Races",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
-     "source": "Full Disclosure"
     }
    ]
   },
   "headlines": {
-   "total": 72,
+   "total": 69,
    "items": [
+    {
+     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+     "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Hackers pull off $133 million French bank heist via service provider",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+     "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+     "source": "The Register"
+    },
     {
      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
@@ -136,36 +126,16 @@
      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
      "source": "BleepingComputer"
-    },
-    {
-     "title": "Fake security tools on GitHub push backdoors and infostealers",
-     "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-     "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-     "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-     "source": "SecurityWeek"
     }
    ]
   },
   "blogs": {
-   "total": 2,
+   "total": 1,
    "items": [
     {
      "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
      "source": "Scott Helme"
-    },
-    {
-     "title": "Want to Rent an Internet Address at the White House?",
-     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "source": "Krebs on Security"
     }
    ]
   },

@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-07T14:04:29Z",
+ "generated": "2026-11-07T18:48:59Z",
  "stars": 75,
  "counts": {
-  "last_24h": 61,
+  "last_24h": 32,
   "critical": 7,
-  "advisories": 6,
-  "status": 45
+  "advisories": 1,
+  "status": 41
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 42
+   "notices": 38
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,42 @@
   }
  ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+   "published": "2026-11-07T16:30:21Z",
+   "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Hackers pull off $133 million French bank heist via service provider",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "published": "2026-11-07T16:30:21Z",
+   "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+   "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+   "published": "2026-11-07T16:30:16Z",
+   "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+   "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+   "published": "2026-11-07T16:30:15Z",
+   "summary": "NHS staff drafted into a helpline after colleagues' health data was exposed online faced distressed callers, safeguarding concerns, and a \"serious emotional impact,\" a review has found. The report [PDF] comes almost…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -1071,159 +1107,6 @@
    "url": "https://www.cloudflarestatus.com/incidents/t9oi8dss6a66",
    "published": "2026-11-05T16:44:33Z",
    "summary": "Scheduled - We will be performing scheduled maintenance in PDX (Portland) datacenter on 2026-11-08 between 09:30 and 14:30 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
-   "url": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
-   "published": "2026-11-05T09:36:50Z",
-   "summary": "When The Register writes about professional certifications offered by vendors, we often receive comments arguing that such credentials are nowhere near as valuable as real-world experience. Now, Microsoft has…",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
-   "published": "2026-11-05T09:36:45Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 04",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "unixODBC <=2.3.14 Multiple Races",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
-   "published": "2026-11-05T09:36:45Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 04",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
-   "published": "2026-11-05T09:36:44Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 04",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
-   "published": "2026-11-05T09:36:44Z",
-   "summary": "Posted by Daniel Owens via Fulldisclosure on Nov 04",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "published": "2026-11-05T09:36:44Z",
-   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API…",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
-   "published": "2026-11-05T09:36:44Z",
-   "summary": "Posted by SEC Consult Vulnerability Lab via Fulldisclosure on Nov 04",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "published": "2026-11-05T09:36:43Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog,…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-   "published": "2026-11-05T09:36:43Z",
-   "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-   "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-   "published": "2026-11-05T09:36:42Z",
-   "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-   "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-   "published": "2026-11-05T09:36:42Z",
-   "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.",
-   "critical": false
-  },
-  {
-   "source": "Krebs on Security",
-   "category": "blog",
-   "title": "Want to Rent an Internet Address at the White House?",
-   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-   "published": "2026-11-05T09:36:41Z",
-   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-   "published": "2026-11-05T09:36:41Z",
-   "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KHI (Karachi) on 2026-11-02",
-   "url": "https://www.cloudflarestatus.com/incidents/bpaclo8uw3nq",
-   "published": "2026-11-05T07:18:29Z",
-   "summary": "Completed - The scheduled maintenance has been completed.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DFW (Dallas) on 2026-11-05",
-   "url": "https://www.cloudflarestatus.com/incidents/43b1mq8gxv1p",
-   "published": "2026-11-05T07:18:28Z",
-   "summary": "In Progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-05",
-   "url": "https://www.cloudflarestatus.com/incidents/redpr7c1cp8j",
-   "published": "2026-11-05T07:18:28Z",
-   "summary": "In Progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AMS (Amsterdam) on 2026-11-04",
-   "url": "https://www.cloudflarestatus.com/incidents/9nw1o0b2kylt",
-   "published": "2026-11-05T07:18:27Z",
-   "summary": "Completed - The scheduled maintenance has been completed.",
    "critical": false
   }
  ]
