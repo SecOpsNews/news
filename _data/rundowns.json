@@ -1,5 +1,120 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-09-pm",
+  "generated": "2026-11-09T17:31:45Z",
+  "title": "SecOps rundown, Mon 9 Nov afternoon: 1 critical, 0 advisories",
+  "counts": {
+   "last_24h": 19,
+   "critical": 1,
+   "advisories": 0,
+   "status": 14
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 11
+   },
+   {
+    "name": "GitHub",
+    "notices": 3
+   }
+  ],
+  "critical": {
+   "total": 1,
+   "items": [
+    {
+     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+     "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+     "source": "SecurityWeek",
+     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 0,
+   "items": []
+  },
+  "headlines": {
+   "total": 13,
+   "items": [
+    {
+     "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
+     "url": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+     "source": "The Register"
+    },
+    {
+     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+     "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+     "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+     "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+     "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Huawei says it’s made a 100 percent Chinese PC",
+     "url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+     "source": "The Register"
+    },
+    {
+     "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+     "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+     "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+     "source": "The Register"
+    },
+    {
+     "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+     "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+     "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+     "source": "SecurityWeek"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 0,
+   "items": []
+  },
+  "outages": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Increased timeouts due to surge in anonymous users",
+     "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Webhooks and Actions",
+     "url": "https://www.githubstatus.com/incidents/xxb3l2bm76dr",
+     "source": "GitHub"
+    },
+    {
+     "title": "Increase in timeouts for some unauthenticated users",
+     "url": "https://www.githubstatus.com/incidents/pyynvrm1vskw",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-08-pm",
   "generated": "2026-11-08T14:19:23Z",
   "title": "SecOps rundown, Sun 8 Nov afternoon: 4 critical, 0 advisories",
@@ -2276,94 +2391,6 @@
      "source": "GitHub"
     }
    ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-26-pm",
-  "generated": "2026-10-26T14:18:25Z",
-  "title": "SecOps rundown, Mon 26 Oct afternoon: 0 critical, 0 advisories",
-  "counts": {
-   "last_24h": 10,
-   "critical": 0,
-   "advisories": 0,
-   "status": 21
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 21
-   }
-  ],
-  "critical": {
-   "total": 0,
-   "items": []
-  },
-  "advisories": {
-   "total": 0,
-   "items": []
-  },
-  "headlines": {
-   "total": 12,
-   "items": [
-    {
-     "title": "Work to protect DNS from quantum decryption attacks is speeding up",
-     "url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
-     "source": "The Register"
-    },
-    {
-     "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-     "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-     "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-     "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-     "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-     "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-     "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-     "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-     "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 0,
-   "items": []
-  },
-  "outages": {
-   "total": 0,
-   "items": []
   }
  }
 ]
