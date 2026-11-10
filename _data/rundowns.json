@@ -1,5 +1,162 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-10-pm",
+  "generated": "2026-11-10T15:36:53Z",
+  "title": "SecOps rundown, Tue 10 Nov afternoon: 10 critical, 1 advisories",
+  "counts": {
+   "last_24h": 80,
+   "critical": 10,
+   "advisories": 1,
+   "status": 37
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 32
+   },
+   {
+    "name": "GitHub",
+    "notices": 5
+   }
+  ],
+  "critical": {
+   "total": 10,
+   "items": [
+    {
+     "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+     "source": "The Hacker News",
+     "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild."
+    },
+    {
+     "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+     "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+     "source": "SecurityWeek",
+     "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks."
+    },
+    {
+     "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+     "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+     "source": "The Hacker News",
+     "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score."
+    },
+    {
+     "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+     "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days."
+    },
+    {
+     "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+     "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+     "source": "BleepingComputer",
+     "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]"
+    },
+    {
+     "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+     "source": "BleepingComputer",
+     "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 1,
+   "items": [
+    {
+     "title": "CC-4486 - SonicWall Releases Security Advisory for SonicOS Platforms",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4886",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 55,
+   "items": [
+    {
+     "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+     "source": "The Register"
+    },
+    {
+     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+     "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+     "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+     "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+     "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+     "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+     "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Fireworks AI discloses new breach after cloud provider hack",
+     "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+     "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+     "source": "SecurityWeek"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
+     "url": "https://www.troyhunt.com/weekly-update-529/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 5,
+   "items": [
+    {
+     "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+     "url": "https://www.githubstatus.com/incidents/6jm5k16vyhfg",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Actions and Checks API",
+     "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
+     "source": "GitHub"
+    },
+    {
+     "title": "Increased timeouts due to surge in anonymous users",
+     "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-09-pm",
   "generated": "2026-11-09T17:31:45Z",
   "title": "SecOps rundown, Mon 9 Nov afternoon: 1 critical, 0 advisories",
@@ -2213,178 +2370,6 @@
      "url": "https://www.githubstatus.com/incidents/dnslv7xdl4fj",
      "source": "GitHub"
     },
-    {
-     "title": "Incident with Actions, Issues, API Requests and Pull Requests",
-     "url": "https://www.githubstatus.com/incidents/f1vvv30224wd",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-27-pm",
-  "generated": "2026-10-27T19:27:14Z",
-  "title": "SecOps rundown, Tue 27 Oct afternoon: 11 critical, 14 advisories",
-  "counts": {
-   "last_24h": 79,
-   "critical": 11,
-   "advisories": 14,
-   "status": 30
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 29
-   },
-   {
-    "name": "GitHub",
-    "notices": 1
-   }
-  ],
-  "critical": {
-   "total": 11,
-   "items": [
-    {
-     "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-     "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-     "source": "SecurityWeek",
-     "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones."
-    },
-    {
-     "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by…"
-    },
-    {
-     "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-     "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-     "source": "SecurityWeek",
-     "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass."
-    },
-    {
-     "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-     "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-     "source": "BleepingComputer",
-     "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]"
-    },
-    {
-     "title": "CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/38",
-     "source": "Full Disclosure",
-     "summary": "Posted by jose on Oct 27"
-    },
-    {
-     "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-     "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-     "source": "The Hacker News",
-     "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to…"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 14,
-   "items": [
-    {
-     "title": "AfD - 345,439 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/AfD",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/43",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-7 tvOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/44",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-8 watchOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/45",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-9 visionOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/46",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-10 Safari 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/47",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 60,
-   "items": [
-    {
-     "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
-     "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-     "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-     "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-     "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-     "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-     "url": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Energy giant ENGIE discloses data breach affecting customers",
-     "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-     "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-     "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "Weekly Update 527: Cybergeddon News v. Reality",
-     "url": "https://www.troyhunt.com/weekly-update-527/",
-     "source": "Troy Hunt"
-    }
-   ]
-  },
-  "outages": {
-   "total": 1,
-   "items": [
     {
      "title": "Incident with Actions, Issues, API Requests and Pull Requests",
      "url": "https://www.githubstatus.com/incidents/f1vvv30224wd",
