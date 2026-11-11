@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-10T15:36:53Z",
+ "generated": "2026-11-11T15:15:25Z",
  "stars": 75,
  "counts": {
-  "last_24h": 80,
-  "critical": 10,
-  "advisories": 1,
-  "status": 37
+  "last_24h": 83,
+  "critical": 23,
+  "advisories": 4,
+  "status": 48
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 32
+   "notices": 43
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,753 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SSL Certificate Provisioning Issue",
+   "url": "https://www.cloudflarestatus.com/incidents/21vwp89eiyjx",
+   "published": "2026-11-11T09:48:03Z",
+   "summary": "Monitoring - A fix has been implemented and we are monitoring the results.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/s2lyb1fr1kdx",
+   "published": "2026-11-11T09:48:03Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-12 between 07:00 and 13:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "HKG (Hong Kong) on 2026-11-17",
+   "url": "https://www.cloudflarestatus.com/incidents/zsngrdgugz49",
+   "published": "2026-11-11T09:48:03Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in HKG (Hong Kong) datacenter on 2026-11-17 between 16:00 and 20:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NRT (Tokyo) on 2026-11-18",
+   "url": "https://www.cloudflarestatus.com/incidents/3s9fkmwosqjo",
+   "published": "2026-11-11T09:48:02Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter on 2026-11-18 between 17:00 and 23:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "published": "2026-11-11T09:33:46Z",
+   "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+   "published": "2026-11-11T09:33:45Z",
+   "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+   "published": "2026-11-11T09:33:45Z",
+   "summary": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+   "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+   "published": "2026-11-11T09:33:44Z",
+   "summary": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "OpenAI builds a kill switch for its research models",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+   "published": "2026-11-11T09:33:44Z",
+   "summary": "In 2019, OpenAI decided not to publicly release a new model because its research uncovered “concerns about malicious applications of the technology.” And on Tuesday, the company announced it has built a kill switch…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "published": "2026-11-11T09:33:36Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV)…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+   "published": "2026-11-11T09:33:36Z",
+   "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "published": "2026-11-11T09:33:36Z",
+   "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.",
+   "critical": false
+  },
+  {
+   "source": "Have I Been Pwned",
+   "category": "breach",
+   "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/SberSpasibo",
+   "published": "2026-11-11T09:33:36Z",
+   "summary": "In March 2023, [data allegedly taken from СберСпасибо (SberSpasibo), the loyalty program of Russian bank Сбербанк (Sberbank), was published online](https://habr.com/ru/articles/721368/). The data contained records…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+   "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+   "published": "2026-11-11T09:33:36Z",
+   "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised…",
+   "critical": false
+  },
+  {
+   "source": "Have I Been Pwned",
+   "category": "breach",
+   "title": "YouHack - 7,160,849 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/YouHack",
+   "published": "2026-11-11T09:33:35Z",
+   "summary": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach [that was later redistributed as part of a larger corpus of…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "published": "2026-11-11T09:33:35Z",
+   "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SYD (Sydney) on 2026-11-10",
+   "url": "https://www.cloudflarestatus.com/incidents/faf2msjknd9n",
+   "published": "2026-11-11T02:11:35Z",
+   "summary": "Completed - The scheduled maintenance has been completed.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Network Performance Issues in St. Louis, USA",
+   "url": "https://www.cloudflarestatus.com/incidents/1h9c85fz6bm3",
+   "published": "2026-11-11T02:11:35Z",
+   "summary": "Resolved - This incident has been resolved.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "MEL (Melbourne) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/j88vp5s0obor",
+   "published": "2026-11-11T02:11:34Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in MEL (Melbourne) datacenter on 2026-11-12 between 14:00 and 18:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "NRT (Tokyo) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/r2slpvg6yway",
+   "published": "2026-11-11T02:11:34Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter between 2026-11-12 16:00 and 2026-11-13 00:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-16",
+   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
+   "published": "2026-11-11T02:11:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-16 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-17",
+   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
+   "published": "2026-11-11T02:11:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-17 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "EWR (Newark) on 2026-11-18",
+   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
+   "published": "2026-11-11T02:11:33Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-18 between 06:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Anthropic tiptoes into MS Office territory",
+   "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+   "published": "2026-11-11T01:58:44Z",
+   "summary": "Anthropic has introduced three new types of artifacts that show the company tiptoeing into the office productivity market long dominated by Microsoft and Google. On Tuesday, the Claudefather announced Claude Sheets,…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Ring robots ready to patrol paranoids’ pads",
+   "url": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+   "published": "2026-11-11T01:58:37Z",
+   "summary": "If you didn't have any privacy concerns about slapping a Ring doorbell on your front door or putting Ring cameras inside, you'll love Amazon's newest offerings, which move around homes and businesses to capture views…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+   "url": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+   "published": "2026-11-11T01:58:37Z",
+   "summary": "It’s another doozy of a Patch Tuesday, with Microsoft fixing 1,094 bugs in its products, including one that attackers exploited before Redmond released a patch. Jake Knott, head of threat intelligence at exposure…",
+   "critical": true
+  },
+  {
+   "source": "Krebs on Security",
+   "category": "blog",
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "published": "2026-11-11T01:58:37Z",
+   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "published": "2026-11-11T01:58:36Z",
+   "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "published": "2026-11-11T01:58:35Z",
+   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "Prediction issue on OpenAI models via Replicate",
+   "url": "https://www.cloudflarestatus.com/incidents/3en9cdyjn2sq",
+   "published": "2026-11-10T20:58:28Z",
+   "summary": "Resolved - This incident has been resolved.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SJC (San Jose) on 2026-11-11",
+   "url": "https://www.cloudflarestatus.com/incidents/y0ihewizsiht",
+   "published": "2026-11-10T20:58:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-11-11 between 09:00 and 15:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "GitHub",
+   "category": "status",
+   "title": "Incident with Git Operations and Pull Requests",
+   "url": "https://www.githubstatus.com/incidents/hnf21m9jkl3c",
+   "published": "2026-11-10T20:58:28Z",
+   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "IAH (Houston) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/rox2grcuypch",
+   "published": "2026-11-10T20:58:27Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in IAH (Houston) datacenter on 2026-11-12 between 07:30 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "FRA (Frankfurt) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/v5jlzr2q263p",
+   "published": "2026-11-10T20:58:27Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in FRA (Frankfurt) datacenter on 2026-11-12 between 08:00 and 17:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-12",
+   "url": "https://www.cloudflarestatus.com/incidents/6twn3yjbo394",
+   "published": "2026-11-10T20:58:26Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-12 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DUS (Düsseldorf) on 2026-11-13",
+   "url": "https://www.cloudflarestatus.com/incidents/8zwfch34f44a",
+   "published": "2026-11-10T20:58:26Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DUS (Düsseldorf) datacenter on 2026-11-13 between 02:00 and 06:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-13",
+   "url": "https://www.cloudflarestatus.com/incidents/ejm4px8vm5hh",
+   "published": "2026-11-10T20:58:25Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-13 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-16",
+   "url": "https://www.cloudflarestatus.com/incidents/rh9n3vhuf8s8",
+   "published": "2026-11-10T20:58:25Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-16 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-17",
+   "url": "https://www.cloudflarestatus.com/incidents/t7rp8jaev5vm",
+   "published": "2026-11-10T20:58:24Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-17 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-18",
+   "url": "https://www.cloudflarestatus.com/incidents/tamb2j0a2q9a",
+   "published": "2026-11-10T20:58:24Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-18 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-19",
+   "url": "https://www.cloudflarestatus.com/incidents/9fr7t7k1pu7m",
+   "published": "2026-11-10T20:58:23Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-19 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-20",
+   "url": "https://www.cloudflarestatus.com/incidents/hi4ovq0hygex",
+   "published": "2026-11-10T20:58:23Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-20 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SIN (Singapore) on 2026-11-23",
+   "url": "https://www.cloudflarestatus.com/incidents/f7xp1ilx7re2",
+   "published": "2026-11-10T20:58:23Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-23 between 18:00 and 22:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Graham Cluley",
+   "category": "blog",
+   "title": "Iranian hackers turned up the heat on French supermarket freezers, says France",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france",
+   "published": "2026-11-10T20:53:19Z",
+   "summary": "Iran has been officially accused by France of being responsible for cyber attacks last month that meddled with supermarket freezers, causing some to catch fire.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+   "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+   "published": "2026-11-10T20:53:18Z",
+   "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets,…",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "DPOaaS Case Study",
+   "url": "https://grcsolutions.io/dpoaas-case-study/",
+   "published": "2026-11-10T20:53:18Z",
+   "summary": "The post [DPOaaS Case Study](https://grcsolutions.io/dpoaas-case-study/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+   "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+   "published": "2026-11-10T20:53:18Z",
+   "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that…",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials: Malware Protection",
+   "url": "https://grcsolutions.io/malware-protection/",
+   "published": "2026-11-10T20:53:18Z",
+   "summary": "The post [Cyber Essentials: Malware Protection](https://grcsolutions.io/malware-protection/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+   "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+   "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research…",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials: Secure Configuration",
+   "url": "https://grcsolutions.io/secure-configuration/",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "The post [Cyber Essentials: Secure Configuration](https://grcsolutions.io/secure-configuration/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.",
+   "critical": true
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials: Security Update Management",
+   "url": "https://grcsolutions.io/patch-management/",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "The post [Cyber Essentials: Security Update Management](https://grcsolutions.io/patch-management/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+   "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+   "published": "2026-11-10T20:53:17Z",
+   "summary": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.",
+   "critical": true
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "The Cyber Essentials SAQ (Self-Assessment Questionnaire)",
+   "url": "https://grcsolutions.io/cyber-essentials-self-assessment-questionnaire/",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "The post [The Cyber Essentials SAQ (Self-Assessment Questionnaire)](https://grcsolutions.io/cyber-essentials-self-assessment-questionnaire/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "WhiteMatter Raises $20 Million in Series A Funding",
+   "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+   "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for…",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials: Firewalls",
+   "url": "https://grcsolutions.io/boundary-firewalls-and-internet-gateways/",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "The post [Cyber Essentials: Firewalls](https://grcsolutions.io/boundary-firewalls-and-internet-gateways/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
+   "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+   "published": "2026-11-10T20:53:16Z",
+   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+   "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+   "published": "2026-11-10T20:53:15Z",
+   "summary": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees.",
+   "critical": false
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "Cyber Essentials: User Access Control",
+   "url": "https://grcsolutions.io/access-control-and-administrative-privilege/",
+   "published": "2026-11-10T20:53:15Z",
+   "summary": "The post [Cyber Essentials: User Access Control](https://grcsolutions.io/access-control-and-administrative-privilege/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+   "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Ransomware recovery is now a client retention metric",
+   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create…",
+   "critical": true
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "What is Cyber Essentials?",
+   "url": "https://grcsolutions.io/cyber-essentials-scheme/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "The post [What is Cyber Essentials?](https://grcsolutions.io/cyber-essentials-scheme/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+   "url": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "Classes at Vanderbilt University are proceeding as scheduled today, although access to most university systems remains restricted following a cyberattack claimed by ransomware group BYOD. Vanderbilt announced on…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+   "url": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+   "published": "2026-11-10T20:53:14Z",
+   "summary": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+   "url": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "Google has patched its eighth actively exploited Chrome zero-day of 2026, matching its total for the whole of last year with nearly two months still left on the calendar. The latest flaw, tracked as CVE-2026-125350,…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Mozilla Thunderbird email service edges closer to launch with early access",
+   "url": "https://www.theregister.com/software/2026/11/10/mozilla-thunderbird-email-service-edges-closer-to-launch-with-early-access/5308826",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "The Mozilla-backed Thunderbird project is getting closer to a wider launch of a hosted email service designed to complement its desktop mail app. Now known as Thundermail (what else?), the service was originally…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Fireworks AI gets burned twice as customer data exposure widens",
+   "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "Fireworks AI has disclosed another cyberattack in October and a wider customer data exposure involving billing records, datasets, and incomplete model weights. The company, which lets customers train and run AI…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "14-year-old creates tool for AI agents to band together like a team",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "Built by a 14-year-old developer, a new tool called Autark treats AI agents as a virtual team that can work without constant prompting. Users put tasks in an inbox, where a manager agent delegates them to other…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Trump taps Palantir security chief to run battered US cyber defense agency",
+   "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "President Donald Trump has nominated Palantir security chief Michael LoSapio to lead CISA, putting an executive from the controversial government supplier in line to run America's civilian cyber defense agency. The…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+   "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+   "published": "2026-11-10T20:53:13Z",
+   "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation.",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "published": "2026-11-10T20:53:12Z",
+   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+   "critical": false
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4887 - Google Releases Security Update for Chrome",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4887",
+   "published": "2026-11-10T20:53:12Z",
+   "summary": "Severity: Medium",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Barracuda’s email security gateways bitten by make-me-root vulns",
+   "url": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
+   "published": "2026-11-10T20:53:12Z",
+   "summary": "Security company Barracuda warns that attackers are exploiting a pre-authentication authorization bypass bug and a command-injection vulnerability in its popular Email Security Gateway (ESG) products that, when…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "published": "2026-11-10T20:53:12Z",
+   "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+   "critical": false
+  },
+  {
+   "source": "Troy Hunt",
+   "category": "blog",
+   "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
+   "published": "2026-11-10T20:53:11Z",
+   "summary": "[Presently sponsored by: Not every rogue agent is an attack. In a live webinar on Nov 17, Researcher Tyler Holmwood walks through cases of agents going off…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -318,15 +1065,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "NRT (Tokyo) on 2026-11-18",
-   "url": "https://www.cloudflarestatus.com/incidents/3s9fkmwosqjo",
-   "published": "2026-11-10T04:17:27Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter on 2026-11-18 between 17:00 and 23:00 UTC.",
-   "critical": false
-  },
-  {
    "source": "The Register",
    "category": "news",
    "title": "France blames Iran for supermarket hack meltdowns",
@@ -455,15 +1193,6 @@
   {
    "source": "Cloudflare",
    "category": "status",
-   "title": "SYD (Sydney) on 2026-11-10",
-   "url": "https://www.cloudflarestatus.com/incidents/faf2msjknd9n",
-   "published": "2026-11-09T21:01:34Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SYD (Sydney) datacenter on 2026-11-10 between 14:00 and 20:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
    "title": "IAH (Houston) on 2026-11-11",
    "url": "https://www.cloudflarestatus.com/incidents/rox2grcuypch",
    "published": "2026-11-09T21:01:33Z",
@@ -477,24 +1206,6 @@
    "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
    "published": "2026-11-09T21:01:33Z",
    "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MEL (Melbourne) on 2026-11-12",
-   "url": "https://www.cloudflarestatus.com/incidents/j88vp5s0obor",
-   "published": "2026-11-09T21:01:33Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MEL (Melbourne) datacenter on 2026-11-12 between 14:00 and 18:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-16",
-   "url": "https://www.cloudflarestatus.com/incidents/lb1srn86p444",
-   "published": "2026-11-09T21:01:32Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-16 between 06:00 and 14:00 UTC.",
    "critical": false
   },
   {
@@ -770,28 +1481,10 @@
   {
    "source": "Cloudflare",
    "category": "status",
-   "title": "EWR (Newark) on 2026-11-17",
-   "url": "https://www.cloudflarestatus.com/incidents/ot8x3722m2em",
-   "published": "2026-11-09T10:13:57Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-17 between 06:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
    "title": "KIX (Osaka) on 2026-11-17",
    "url": "https://www.cloudflarestatus.com/incidents/0fcfu5h58we6",
    "published": "2026-11-09T10:13:57Z",
    "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-17 between 15:30 and 23:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-11-18",
-   "url": "https://www.cloudflarestatus.com/incidents/eg60wd5v5fn7",
-   "published": "2026-11-09T10:13:57Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-11-18 between 06:00 and 14:00 UTC.",
    "critical": false
   },
   {
@@ -882,96 +1575,6 @@
    "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
    "published": "2026-11-09T09:54:59Z",
    "summary": "The worst of the patchpocalypse may be behind us, according to Linus Torvalds. Writing in his weekly kernel update post, the Linux kernel dev leader delivered Linux 7.4 rc2 – the second rough cut of the next kernel –…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LHR (London) on 2026-11-10",
-   "url": "https://www.cloudflarestatus.com/incidents/9m70u6jcq3wn",
-   "published": "2026-11-09T01:55:31Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LHR (London) datacenter on 2026-11-10 between 02:00 and 05:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "NRT (Tokyo) on 2026-11-12",
-   "url": "https://www.cloudflarestatus.com/incidents/r2slpvg6yway",
-   "published": "2026-11-09T01:55:30Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in NRT (Tokyo) datacenter between 2026-11-12 16:00 and 2026-11-13 00:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KIX (Osaka) on 2026-11-16",
-   "url": "https://www.cloudflarestatus.com/incidents/0fcfu5h58we6",
-   "published": "2026-11-09T01:55:30Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-16 between 15:30 and 23:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SJC (San Jose) on 2026-11-10",
-   "url": "https://www.cloudflarestatus.com/incidents/idp0jokllum4",
-   "published": "2026-11-08T22:25:10Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-11-10 between 09:00 and 15:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SJC (San Jose) on 2026-11-11",
-   "url": "https://www.cloudflarestatus.com/incidents/y0ihewizsiht",
-   "published": "2026-11-08T22:25:09Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-11-11 between 09:00 and 15:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Increase in timeouts for some unauthenticated users",
-   "url": "https://www.githubstatus.com/incidents/pyynvrm1vskw",
-   "published": "2026-11-08T16:46:15Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DME (Moscow) on 2026-11-08",
-   "url": "https://www.cloudflarestatus.com/incidents/crclhdoc7m8r",
-   "published": "2026-11-08T16:46:14Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DME (Moscow) datacenter between 2026-11-08 23:00 and 2026-11-09 05:30 UTC.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "published": "2026-11-08T16:43:37Z",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-   "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-   "published": "2026-11-08T16:43:34Z",
-   "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KIX (Osaka) on 2026-11-09",
-   "url": "https://www.cloudflarestatus.com/incidents/0fcfu5h58we6",
-   "published": "2026-11-08T09:25:21Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-09 between 15:30 and 23:00 UTC.",
    "critical": false
   }
  ]

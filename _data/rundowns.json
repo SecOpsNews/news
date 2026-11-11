@@ -1,5 +1,192 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-11-pm",
+  "generated": "2026-11-11T15:15:25Z",
+  "title": "SecOps rundown, Wed 11 Nov afternoon: 23 critical, 4 advisories",
+  "counts": {
+   "last_24h": 83,
+   "critical": 23,
+   "advisories": 4,
+   "status": 48
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 43
+   },
+   {
+    "name": "GitHub",
+    "notices": 5
+   }
+  ],
+  "critical": {
+   "total": 23,
+   "items": [
+    {
+     "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+     "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices."
+    },
+    {
+     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+     "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV)…"
+    },
+    {
+     "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+     "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+     "source": "The Hacker News",
+     "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws."
+    },
+    {
+     "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+     "url": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+     "source": "The Register",
+     "summary": "It’s another doozy of a Patch Tuesday, with Microsoft fixing 1,094 bugs in its products, including one that attackers exploited before Redmond released a patch. Jake Knott, head of threat intelligence at exposure…"
+    },
+    {
+     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+     "source": "The Hacker News",
+     "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild."
+    },
+    {
+     "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+     "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+     "source": "SecurityWeek",
+     "summary": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 4,
+   "items": [
+    {
+     "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/SberSpasibo",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "YouHack - 7,160,849 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/YouHack",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "CC-4887 - Google Releases Security Update for Chrome",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4887",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4486 - SonicWall Releases Security Advisory for SonicOS Platforms",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4886",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 92,
+   "items": [
+    {
+     "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+     "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+     "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+     "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "OpenAI builds a kill switch for its research models",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+     "source": "The Register"
+    },
+    {
+     "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+     "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+     "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Anthropic tiptoes into MS Office territory",
+     "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+     "source": "The Register"
+    },
+    {
+     "title": "Ring robots ready to patrol paranoids’ pads",
+     "url": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+     "source": "The Register"
+    },
+    {
+     "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+     "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+     "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Iranian hackers turned up the heat on French supermarket freezers, says France",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+     "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
+     "source": "Troy Hunt"
+    },
+    {
+     "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
+     "url": "https://www.troyhunt.com/weekly-update-529/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 5,
+   "items": [
+    {
+     "title": "Incident with Git Operations and Pull Requests",
+     "url": "https://www.githubstatus.com/incidents/hnf21m9jkl3c",
+     "source": "GitHub"
+    },
+    {
+     "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+     "url": "https://www.githubstatus.com/incidents/6jm5k16vyhfg",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Actions and Checks API",
+     "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-10-pm",
   "generated": "2026-11-10T15:36:53Z",
   "title": "SecOps rundown, Tue 10 Nov afternoon: 10 critical, 1 advisories",
@@ -2186,193 +2373,6 @@
     {
      "title": "Elevated 404s for GitHub App s2s tokens in git/API",
      "url": "https://www.githubstatus.com/incidents/dnslv7xdl4fj",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-28-pm",
-  "generated": "2026-10-28T19:36:06Z",
-  "title": "SecOps rundown, Wed 28 Oct afternoon: 25 critical, 14 advisories",
-  "counts": {
-   "last_24h": 65,
-   "critical": 25,
-   "advisories": 14,
-   "status": 41
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 38
-   },
-   {
-    "name": "GitHub",
-    "notices": 3
-   }
-  ],
-  "critical": {
-   "total": 25,
-   "items": [
-    {
-     "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
-     "source": "Graham Cluley",
-     "summary": "A Ukrainian man who carried out ransomware attacks for both the Nefilim and Hive gangs, including attacks on law firms and a healthcare provider during the COVID-19 pandemic, has been sentenced to 70 months in a US…"
-    },
-    {
-     "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-     "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-     "source": "BleepingComputer",
-     "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]"
-    },
-    {
-     "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-     "source": "BleepingComputer",
-     "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]"
-    },
-    {
-     "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-     "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-     "source": "BleepingComputer",
-     "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and…"
-    },
-    {
-     "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-     "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-     "source": "BleepingComputer",
-     "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]"
-    },
-    {
-     "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-     "source": "The Hacker News",
-     "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 14,
-   "items": [
-    {
-     "title": "AfD - 345,439 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/AfD",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/43",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-7 tvOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/44",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-8 watchOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/45",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-9 visionOS 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/46",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-10-26-2026-10 Safari 27.2",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/47",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 87,
-   "items": [
-    {
-     "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-     "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
-     "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
-     "url": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
-     "url": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
-     "url": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-     "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-     "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
-     "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 2,
-   "items": [
-    {
-     "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Weekly Update 527: Cybergeddon News v. Reality",
-     "url": "https://www.troyhunt.com/weekly-update-527/",
-     "source": "Troy Hunt"
-    }
-   ]
-  },
-  "outages": {
-   "total": 3,
-   "items": [
-    {
-     "title": "Disruption with some Copilot services",
-     "url": "https://www.githubstatus.com/incidents/l7ycmglmykgg",
-     "source": "GitHub"
-    },
-    {
-     "title": "Elevated 404s for GitHub App s2s tokens in git/API",
-     "url": "https://www.githubstatus.com/incidents/dnslv7xdl4fj",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions, Issues, API Requests and Pull Requests",
-     "url": "https://www.githubstatus.com/incidents/f1vvv30224wd",
      "source": "GitHub"
     }
    ]
