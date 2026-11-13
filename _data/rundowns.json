@@ -1,5 +1,210 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-13-pm",
+  "generated": "2026-11-13T15:25:12Z",
+  "title": "SecOps rundown, Fri 13 Nov afternoon: 29 critical, 24 advisories",
+  "counts": {
+   "last_24h": 87,
+   "critical": 29,
+   "advisories": 24,
+   "status": 37
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 30
+   },
+   {
+    "name": "AWS",
+    "notices": 2
+   },
+   {
+    "name": "GitHub",
+    "notices": 4
+   },
+   {
+    "name": "Slack",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 29,
+   "items": [
+    {
+     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+     "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+     "source": "SecurityWeek",
+     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges."
+    },
+    {
+     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+     "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+     "source": "SecurityWeek",
+     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root."
+    },
+    {
+     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+     "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+     "source": "SecurityWeek",
+     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process."
+    },
+    {
+     "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+     "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+     "source": "SecurityWeek",
+     "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions."
+    },
+    {
+     "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+     "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+     "source": "BleepingComputer",
+     "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]"
+    },
+    {
+     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+     "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+     "source": "BleepingComputer",
+     "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 24,
+   "items": [
+    {
+     "title": "CastleRAT - 179,745 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/CastleRAT",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "AI Source Code Analysis Detection Evasion Techniques",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/18",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[REVIVE-SA-2026-004] Revive Adserver Vulnerabilities",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/23",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-1 iOS 27.2.1 and iPadOS 27.2.1",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/24",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/25",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/26",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 76,
+   "items": [
+    {
+     "title": "C++26 stumbles at finish line over Contracts dispute",
+     "url": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+     "source": "The Register"
+    },
+    {
+     "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+     "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+     "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Developer cleverly shrank 2,600 lines of C into a six-line script but still ending up losing sleep",
+     "url": "https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264",
+     "source": "The Register"
+    },
+    {
+     "title": "Microsoft confirms Windows activation failures after November updates",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+     "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Palantir’s Karp takes a sharp left turn, says he and the company’s products are actually ‘progressive’",
+     "url": "https://www.theregister.com/software/2026/11/12/palantirs-karp-takes-a-sharp-left-turn-says-he-and-the-companys-products-are-actually-progressive/5309441",
+     "source": "The Register"
+    },
+    {
+     "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 4,
+   "items": [
+    {
+     "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Smashing Security podcast #492: How hackers turned Russian cars into pumpkins",
+     "url": "https://grahamcluley.com/smashing-security-podcast-492/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Who Runs the Ransomware Group Qilin?",
+     "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+     "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+     "source": "Krebs on Security"
+    }
+   ]
+  },
+  "outages": {
+   "total": 7,
+   "items": [
+    {
+     "title": "Incident with Webhooks API",
+     "url": "https://www.githubstatus.com/incidents/gl7yhd7jx00v",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with Email Delivery",
+     "url": "https://www.githubstatus.com/incidents/nwbjzl7nfrc2",
+     "source": "GitHub"
+    },
+    {
+     "title": "Service is operating normally: [RESOLVED] Elevated API issues and Launch Failures",
+     "url": "https://status.aws.amazon.com/",
+     "source": "AWS"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-12-pm",
   "generated": "2026-11-12T15:59:27Z",
   "title": "SecOps rundown, Thu 12 Nov afternoon: 31 critical, 7 advisories",
@@ -2185,207 +2390,6 @@
     {
      "title": "Incident with Actions, Pages, and Webhooks",
      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-10-30-pm",
-  "generated": "2026-10-30T19:25:04Z",
-  "title": "SecOps rundown, Fri 30 Oct afternoon: 29 critical, 12 advisories",
-  "counts": {
-   "last_24h": 61,
-   "critical": 29,
-   "advisories": 12,
-   "status": 34
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 31
-   },
-   {
-    "name": "AWS",
-    "notices": 1
-   },
-   {
-    "name": "GitHub",
-    "notices": 2
-   }
-  ],
-  "critical": {
-   "total": 29,
-   "items": [
-    {
-     "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-     "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-     "source": "SecurityWeek",
-     "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server."
-    },
-    {
-     "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-     "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-     "source": "SecurityWeek",
-     "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders."
-    },
-    {
-     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
-    },
-    {
-     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-     "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-     "source": "The Hacker News",
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active…"
-    },
-    {
-     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-     "source": "The Hacker News",
-     "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component."
-    },
-    {
-     "title": "CISA says max severity GitLab flaw now exploited in the wild",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 12,
-   "items": [
-    {
-     "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4884",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4883",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "Continued Apache Struts2 JSON Plugin Insecure Deserialisation",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/49",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Maximised JSON Array Attacks -- \"Let the Commas Hit the Floor\" Proof of Concept",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/50",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
-     "url": "https://seclists.org/fulldisclosure/2026/Oct/51",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 72,
-   "items": [
-    {
-     "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-     "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-     "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-     "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-     "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-     "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Microsoft finally fixes VPN issues caused by September updates",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-     "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-     "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
-     "url": "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-     "source": "The Register"
-    },
-    {
-     "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-     "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-     "source": "The Hacker News"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 4,
-   "items": [
-    {
-     "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center",
-     "url": "https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice",
-     "url": "https://grahamcluley.com/smashing-security-podcast-490/",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 3,
-   "items": [
-    {
-     "title": "Service impact: Increased invoke error rates",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
-    },
-    {
-     "title": "Disruption with Copilot Cloud services",
-     "url": "https://www.githubstatus.com/incidents/rn76zdy367m2",
-     "source": "GitHub"
-    },
-    {
-     "title": "Disruption with some Copilot services",
-     "url": "https://www.githubstatus.com/incidents/l7ycmglmykgg",
      "source": "GitHub"
     }
    ]
