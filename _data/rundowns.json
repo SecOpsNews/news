@@ -1,18 +1,18 @@
 [
  {
   "id": "secopsnews-rundown-2026-11-14-pm",
-  "generated": "2026-11-14T14:10:44Z",
-  "title": "SecOps rundown, Sat 14 Nov afternoon: 19 critical, 18 advisories",
+  "generated": "2026-11-14T19:11:17Z",
+  "title": "SecOps rundown, Sat 14 Nov afternoon: 16 critical, 18 advisories",
   "counts": {
-   "last_24h": 29,
-   "critical": 19,
+   "last_24h": 10,
+   "critical": 16,
    "advisories": 18,
-   "status": 28
+   "status": 24
   },
   "providers": [
    {
     "name": "Cloudflare",
-    "notices": 24
+    "notices": 20
    },
    {
     "name": "GitHub",
@@ -20,7 +20,7 @@
    }
   ],
   "critical": {
-   "total": 19,
+   "total": 16,
    "items": [
     {
      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -96,8 +96,33 @@
    ]
   },
   "headlines": {
-   "total": 66,
+   "total": 63,
    "items": [
+    {
+     "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+     "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+     "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+     "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Is AI Making Us Worse at Cybersecurity?",
+     "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+     "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+     "source": "The Register"
+    },
     {
      "title": "This year’s bug count just passed 100K",
      "url": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
@@ -122,31 +147,6 @@
      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
      "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
      "source": "SecurityWeek"
-    },
-    {
-     "title": "Apify Confirms Customer Data Accessed in Cyberattack",
-     "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
-     "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-     "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-     "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-     "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-     "source": "The Hacker News"
     }
    ]
   },

@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-14T14:10:44Z",
+ "generated": "2026-11-14T19:11:17Z",
  "stars": 75,
  "counts": {
-  "last_24h": 29,
-  "critical": 19,
+  "last_24h": 10,
+  "critical": 16,
   "advisories": 18,
-  "status": 28
+  "status": 24
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 24
+   "notices": 20
   },
   {
    "name": "Google Cloud",
@@ -38,6 +38,51 @@
   }
  ],
  "items": [
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "published": "2026-11-14T15:10:45Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "published": "2026-11-14T15:10:38Z",
+   "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+   "published": "2026-11-14T15:10:37Z",
+   "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Is AI Making Us Worse at Cybersecurity?",
+   "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+   "published": "2026-11-14T15:10:37Z",
+   "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+   "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+   "published": "2026-11-14T15:10:37Z",
+   "summary": "Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect,…",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -1080,141 +1125,6 @@
    "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
    "published": "2026-11-12T18:23:40Z",
    "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "HKG (Hong Kong) on 2026-11-16",
-   "url": "https://www.cloudflarestatus.com/incidents/wd2csnb4qtjl",
-   "published": "2026-11-12T10:12:30Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in HKG (Hong Kong) datacenter on 2026-11-16 between 18:00 and 22:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SIN (Singapore) on 2026-11-20",
-   "url": "https://www.cloudflarestatus.com/incidents/hi4ovq0hygex",
-   "published": "2026-11-12T10:12:30Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-20 between 18:00 and 22:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SIN (Singapore) on 2026-11-23",
-   "url": "https://www.cloudflarestatus.com/incidents/f7xp1ilx7re2",
-   "published": "2026-11-12T10:12:29Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2026-11-23 between 18:00 and 22:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "KIX (Osaka) on 2026-11-24",
-   "url": "https://www.cloudflarestatus.com/incidents/ldxcr7obp4jz",
-   "published": "2026-11-12T10:12:29Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2026-11-24 between 17:00 and 22:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-   "published": "2026-11-12T09:56:37Z",
-   "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-   "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-   "published": "2026-11-12T09:56:37Z",
-   "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, modhttp2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71,…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-   "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-   "published": "2026-11-12T09:56:36Z",
-   "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-   "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-   "published": "2026-11-12T09:56:36Z",
-   "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-   "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-   "published": "2026-11-12T09:56:35Z",
-   "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main…",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates",
-   "url": "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244",
-   "published": "2026-11-12T09:56:30Z",
-   "summary": "Former certification authority eMudhra has claimed a buggy Python script is the main reason it issued laughably insecure digital certificates. The company posted its account of the matter on Bugzilla where a user…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-   "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-   "published": "2026-11-12T09:56:29Z",
-   "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "London hotel put admin login for booking website on whiteboard behind the front desk",
-   "url": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
-   "published": "2026-11-12T09:56:29Z",
-   "summary": "Welcome, once again, to PWNED, where all the victims are self-owned. This week, we welcome you to a London hotel where you could check out its admin credentials for a booking website just by walking past the front…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Hackers plant GSocket on Linux servers for persistent access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-   "published": "2026-11-12T09:56:29Z",
-   "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-   "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-   "published": "2026-11-12T09:56:29Z",
-   "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-   "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-   "published": "2026-11-12T09:56:28Z",
-   "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones.",
    "critical": false
   }
  ]

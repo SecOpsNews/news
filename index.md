@@ -9,6 +9,11 @@ description: Latest Updates
 
 <!-- SecOps start -->
 
+- **The Hacker News**: [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+- **SecurityWeek**: [No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update](https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/)
+- **SecurityWeek**: [Apple Reveals How Secure Exclaves Shield Camera and Microphone Data](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)
+- **SecurityWeek**: [Is AI Making Us Worse at Cybersecurity?](https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/)
+- **The Register**: [Big Tech takes a beating as online safety experts accuse companies of doing bare minimum](https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302)
 - **Cloudflare**: [BOS (Boston) on 2026-11-17](https://www.cloudflarestatus.com/incidents/asldhbcwfepo)
 - **GitHub**: [Copilot experiencing degraded model availability for some GPT models](https://www.githubstatus.com/incidents/51drrqvsv66g)
 - **The Register**: [This year’s bug count just passed 100K](https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882)
@@ -125,21 +130,6 @@ description: Latest Updates
 - **The Register**: [Rockstar workers vote on union recognition as GTA VI launch looms](https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319)
 - **The Hacker News**: [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
 - **The Hacker News**: [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
-- **Cloudflare**: [HKG (Hong Kong) on 2026-11-16](https://www.cloudflarestatus.com/incidents/wd2csnb4qtjl)
-- **Cloudflare**: [SIN (Singapore) on 2026-11-20](https://www.cloudflarestatus.com/incidents/hi4ovq0hygex)
-- **Cloudflare**: [SIN (Singapore) on 2026-11-23](https://www.cloudflarestatus.com/incidents/f7xp1ilx7re2)
-- **Cloudflare**: [KIX (Osaka) on 2026-11-24](https://www.cloudflarestatus.com/incidents/ldxcr7obp4jz)
-- **The Hacker News**: [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
-- **The Hacker News**: [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
-- **The Hacker News**: [Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html)
-- **The Hacker News**: [Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data](https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html)
-- **The Hacker News**: [Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover](https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html)
-- **The Register**: [Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates](https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244)
-- **SecurityWeek**: [Maersk Confirms Data Theft Amid $5 Million Extortion Attempt](https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/)
-- **The Register**: [London hotel put admin login for booking website on whiteboard behind the front desk](https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889)
-- **BleepingComputer**: [Hackers plant GSocket on Linux servers for persistent access](https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/)
-- **SecurityWeek**: [Critical Red Hat Quay Vulnerability Could Expose Private Container Images](https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/)
-- **SecurityWeek**: [Hackers Target N-central Zero-Days as N-able Rushes Patches](https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/)
 
 
 <!-- SecOps end -->
