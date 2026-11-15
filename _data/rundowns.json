@@ -1,5 +1,176 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-15-pm",
+  "generated": "2026-11-15T14:47:05Z",
+  "title": "SecOps rundown, Sun 15 Nov afternoon: 7 critical, 16 advisories",
+  "counts": {
+   "last_24h": 8,
+   "critical": 7,
+   "advisories": 16,
+   "status": 7
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 5
+   },
+   {
+    "name": "GitHub",
+    "notices": 2
+   }
+  ],
+  "critical": {
+   "total": 7,
+   "items": [
+    {
+     "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+     "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+     "source": "The Hacker News",
+     "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also…"
+    },
+    {
+     "title": "Check Point warns of zero-day flaw exploited for root access",
+     "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+     "source": "BleepingComputer",
+     "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]"
+    },
+    {
+     "title": "How one AI agent exposed five critical enterprise security gaps",
+     "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+     "source": "BleepingComputer",
+     "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical…"
+    },
+    {
+     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+     "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+     "source": "SecurityWeek",
+     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges."
+    },
+    {
+     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+     "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+     "source": "SecurityWeek",
+     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root."
+    },
+    {
+     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+     "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+     "source": "SecurityWeek",
+     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 16,
+   "items": [
+    {
+     "title": "CastleRAT - 179,745 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/CastleRAT",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "AI Source Code Analysis Detection Evasion Techniques",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/18",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "[REVIVE-SA-2026-004] Revive Adserver Vulnerabilities",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/23",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-1 iOS 27.2.1 and iPadOS 27.2.1",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/24",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/25",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/26",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 37,
+   "items": [
+    {
+     "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+     "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+     "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Cursor confirms security breach led to malicious Claude Code extension",
+     "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+     "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+     "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+     "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Is AI Making Us Worse at Cybersecurity?",
+     "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+     "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+     "source": "The Register"
+    },
+    {
+     "title": "This year’s bug count just passed 100K",
+     "url": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
+     "source": "The Register"
+    },
+    {
+     "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+     "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+     "source": "SecurityWeek"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 0,
+   "items": []
+  },
+  "outages": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Copilot experiencing degraded model availability for some GPT models",
+     "url": "https://www.githubstatus.com/incidents/51drrqvsv66g",
+     "source": "GitHub"
+    },
+    {
+     "title": "Incident with Pull Requests",
+     "url": "https://www.githubstatus.com/incidents/1xzmt89vv61l",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-14-pm",
   "generated": "2026-11-14T19:11:17Z",
   "title": "SecOps rundown, Sat 14 Nov afternoon: 16 critical, 18 advisories",
@@ -2238,172 +2409,6 @@
   "outages": {
    "total": 0,
    "items": []
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-01-pm",
-  "generated": "2026-11-01T14:17:44Z",
-  "title": "SecOps rundown, Sun 1 Nov afternoon: 9 critical, 1 advisories",
-  "counts": {
-   "last_24h": 14,
-   "critical": 9,
-   "advisories": 1,
-   "status": 19
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 15
-   },
-   {
-    "name": "AWS",
-    "notices": 1
-   },
-   {
-    "name": "GitHub",
-    "notices": 3
-   }
-  ],
-  "critical": {
-   "total": 9,
-   "items": [
-    {
-     "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-     "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-     "source": "The Hacker News",
-     "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have…"
-    },
-    {
-     "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-     "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-     "source": "BleepingComputer",
-     "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP…"
-    },
-    {
-     "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-     "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-     "source": "The Hacker News",
-     "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released."
-    },
-    {
-     "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-     "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-     "source": "SecurityWeek",
-     "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server."
-    },
-    {
-     "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-     "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-     "source": "SecurityWeek",
-     "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders."
-    },
-    {
-     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 1,
-   "items": [
-    {
-     "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4884",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 40,
-   "items": [
-    {
-     "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-     "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-     "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-     "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-     "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-     "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Reddit to lock content behind logins to fight scrapers",
-     "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-     "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Northflank security breach leads to abuse of customers' AI API keys",
-     "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-     "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 2,
-   "items": [
-    {
-     "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
-     "url": "https://www.troyhunt.com/weekly-update-528/",
-     "source": "Troy Hunt"
-    },
-    {
-     "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 4,
-   "items": [
-    {
-     "title": "Incident with Dependabot",
-     "url": "https://www.githubstatus.com/incidents/lyyfm7j4pkgl",
-     "source": "GitHub"
-    },
-    {
-     "title": "Disruption with GitHub services",
-     "url": "https://www.githubstatus.com/incidents/nxy2l0ssxm10",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions, Pages, and Webhooks",
-     "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-     "source": "GitHub"
-    }
-   ]
   }
  }
 ]
