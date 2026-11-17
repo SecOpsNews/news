@@ -1,0 +1,12 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: thechelsuk/workflows/.github/workflows/release.yml@main
