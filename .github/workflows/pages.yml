@@ -1,0 +1,23 @@
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  # The feed generator pushes with GITHUB_TOKEN, which does not trigger a push run, so rebuild after it.
+  workflow_run:
+    workflows: ["Generate Index Feed"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  pages:
+    uses: thechelsuk/workflows/.github/workflows/pages.yml@main
+    with:
+      build: jekyll
