@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-17T16:54:14Z",
+ "generated": "2026-11-18T16:28:28Z",
  "stars": 75,
  "counts": {
-  "last_24h": 101,
-  "critical": 4,
-  "advisories": 1,
-  "status": 36
+  "last_24h": 40,
+  "critical": 9,
+  "advisories": 6,
+  "status": 39
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 33
+   "notices": 38
   },
   {
    "name": "Google Cloud",
@@ -18,7 +18,7 @@
   },
   {
    "name": "AWS",
-   "notices": 2
+   "notices": 0
   },
   {
    "name": "Azure",
@@ -38,6 +38,366 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "LAX (Los Angeles) on 2026-11-25",
+   "url": "https://www.cloudflarestatus.com/incidents/7r3k5uwuk4jv",
+   "published": "2026-11-18T07:53:29Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2026-11-25 between 10:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "AKL (Auckland) on 2026-11-25",
+   "url": "https://www.cloudflarestatus.com/incidents/2f3zy7smmcl1",
+   "published": "2026-11-18T07:53:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in AKL (Auckland) datacenter on 2026-11-25 between 13:00 and 17:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "LAX (Los Angeles) on 2026-11-26",
+   "url": "https://www.cloudflarestatus.com/incidents/xw312g5bhku7",
+   "published": "2026-11-18T07:53:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2026-11-26 between 10:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "SJC (San Jose) on 2026-11-27",
+   "url": "https://www.cloudflarestatus.com/incidents/3co4mbdtkc7p",
+   "published": "2026-11-18T07:53:27Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-11-27 between 10:00 and 14:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Krebs on Security",
+   "category": "blog",
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "published": "2026-11-18T07:40:35Z",
+   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+   "url": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+   "published": "2026-11-18T07:40:35Z",
+   "summary": "Another day, another disruptive network outage (or two) as government officials and company execs scramble to assure an anxious populace that these are not coordinated cyberattacks – and security experts call this…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "published": "2026-11-18T07:40:35Z",
+   "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "published": "2026-11-18T07:40:35Z",
+   "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+   "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+   "published": "2026-11-18T07:40:34Z",
+   "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "published": "2026-11-18T07:40:34Z",
+   "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps",
+   "url": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+   "published": "2026-11-18T07:40:34Z",
+   "summary": "The United States Cybersecurity and Infrastructure Security Agency (CISA) has urged Java users to immediately patch a high-severity flaw in the software, which attackers can use to crash the Java virtual machine or…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "published": "2026-11-18T07:40:34Z",
+   "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins,…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "IAD (Ashburn) on 2026-11-25",
+   "url": "https://www.cloudflarestatus.com/incidents/ltmlyts8yq71",
+   "published": "2026-11-17T22:36:29Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-11-25 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "IAD (Ashburn) on 2026-11-26",
+   "url": "https://www.cloudflarestatus.com/incidents/fzsu073alg1g",
+   "published": "2026-11-17T22:36:29Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-11-26 between 07:00 and 11:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare",
+   "category": "status",
+   "title": "DFW (Dallas) on 2026-11-27",
+   "url": "https://www.cloudflarestatus.com/incidents/ed097x4bktu7",
+   "published": "2026-11-17T22:36:28Z",
+   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-11-27 between 08:00 and 12:00 UTC.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Windows 11 previews remote padlock only IT can open",
+   "url": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
+   "published": "2026-11-17T22:28:22Z",
+   "summary": "A new experimental Windows 11 build previews security features including an Intune-controlled Remote Lock, while a beta build clears away another relic from the halcyon days of Windows Phone. The security changes…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "APPLE-SA-11-13-2026-1 tvOS 27.2.1",
+   "url": "https://seclists.org/fulldisclosure/2026/Nov/35",
+   "published": "2026-11-17T22:28:22Z",
+   "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 17",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
+   "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
+   "published": "2026-11-17T22:28:22Z",
+   "summary": "Uber has confirmed that nearly 150,000 people had their personal information compromised after hackers broke into one of its AI suppliers. A filing with Oregon's attorney general puts the number of victims at…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "SAPBleed: Pre-Auth Memory Disclosure and RCE in SAP NetWeaver, Web Dispatcher and HANA XS (CVE-2026-76964, CVE-2026-89126)",
+   "url": "https://seclists.org/fulldisclosure/2026/Nov/36",
+   "published": "2026-11-17T22:28:21Z",
+   "summary": "Posted by Raschin Tavakoli via Fulldisclosure on Nov 17",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+   "url": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+   "published": "2026-11-17T22:28:21Z",
+   "summary": "After being instructed to \"NEVER stop, NEVER give up\" on a difficult task, Google’s Gemini AI agents tried to hack a an organization, impersonating its staff and attempting a SQL injection attack. The good news? It…",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "Nightscout < 15.0.8: Stored XSS via WebSocket Treatment Writes (GHSA-5mrq-gpqw-q5v5)",
+   "url": "https://seclists.org/fulldisclosure/2026/Nov/37",
+   "published": "2026-11-17T22:28:21Z",
+   "summary": "Posted by Ruben Sutton via Fulldisclosure on Nov 17",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "Dropbear: the restriction names an address — permitopen/permitlisten not enforced for unix-socket forwarding, docker.sock reachable (HEAD 99baf182, live-proven)",
+   "url": "https://seclists.org/fulldisclosure/2026/Nov/38",
+   "published": "2026-11-17T22:28:20Z",
+   "summary": "Posted by theknell--- via Fulldisclosure on Nov 17",
+   "critical": false
+  },
+  {
+   "source": "Full Disclosure",
+   "category": "advisory",
+   "title": "[Tool] starshield-forensics v0.3.7: Offline Chromium LevelDB .log carver (Python stdlib, MIT)",
+   "url": "https://seclists.org/fulldisclosure/2026/Nov/39",
+   "published": "2026-11-17T22:28:20Z",
+   "summary": "Posted by Ziqi Xiao on Nov 17",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+   "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+   "published": "2026-11-17T22:28:16Z",
+   "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "SAP's cloud migration chief is migrating to Ionos as CEO",
+   "url": "https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530",
+   "published": "2026-11-17T22:28:16Z",
+   "summary": "SAP chief customer officer Thomas Saueressig is leaving the German software giant to become CEO of hosting and cloud provider Ionos. The ERP and biz application vendor confirmed his departure on Tuesday, saying he…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+   "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+   "published": "2026-11-17T22:28:16Z",
+   "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+   "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+   "url": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "The Ubuntu Summit isn't all about Ubuntu, or even Linux. The second day opened with a talk from CrossPoint Reader project lead Justin Mitchell, with both good and bad news for all kinds of FOSS. The talk, EPUBs,…",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Tor releases emergency update amid ongoing DDoS attack",
+   "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+   "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+   "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+   "published": "2026-11-17T22:28:15Z",
+   "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a…",
+   "critical": true
+  },
+  {
+   "source": "IT Governance",
+   "category": "news",
+   "title": "How to Check if a Company Has Cyber Essentials",
+   "url": "https://grcsolutions.io/check-cyber-essentials-certification/",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "The post [How to Check if a Company Has Cyber Essentials](https://grcsolutions.io/check-cyber-essentials-certification/) appeared first on [GRC Solutions](https://grcsolutions.io).",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+   "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "published": "2026-11-17T22:28:14Z",
+   "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+   "critical": false
+  },
   {
    "source": "Cloudflare",
    "category": "status",
@@ -945,96 +1305,6 @@
    "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
    "published": "2026-11-16T18:39:21Z",
    "summary": "Microsoft has released an out-of-band update to fix licensing and activation errors introduced by November's Windows security update. The fix is available from the Microsoft Update Catalog for Windows Server 2025,…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BLR (Bangalore) on 2026-11-17",
-   "url": "https://www.cloudflarestatus.com/incidents/7t40ccqxpos3",
-   "published": "2026-11-16T07:11:18Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BLR (Bangalore) datacenter between 2026-11-17 19:00 and 2026-11-18 03:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DEL (New Delhi) on 2026-11-18",
-   "url": "https://www.cloudflarestatus.com/incidents/uc4pndz1l4u8",
-   "published": "2026-11-16T07:11:17Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DEL (New Delhi) datacenter between 2026-11-18 19:00 and 2026-11-19 03:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-   "published": "2026-11-15T22:56:32Z",
-   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…",
-   "critical": false
-  },
-  {
-   "source": "AWS",
-   "category": "status",
-   "title": "Service impact: Increased Connectivity issues in US-EAST-1",
-   "url": "https://status.aws.amazon.com/",
-   "published": "2026-11-15T17:23:16Z",
-   "summary": "We are investigating reports of Connectivity issues in the US-EAST-1 Region. IAM Identity center sign-in requests and AWS SignUp are also impacted at this time.",
-   "critical": false
-  },
-  {
-   "source": "AWS",
-   "category": "status",
-   "title": "Service is operating normally: [RESOLVED] Increased Connectivity issues in US-EAST-1",
-   "url": "https://status.aws.amazon.com/",
-   "published": "2026-11-15T17:23:14Z",
-   "summary": "Between 3:05 AM and 6:10 AM PST we experienced signup errors, authentication issues, and connectivity issues in the US-EAST-1 Region. Customers using IAM Identity Center for authentication into the AWS Console, or…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-   "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-   "published": "2026-11-15T17:15:58Z",
-   "summary": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-   "published": "2026-11-15T17:15:58Z",
-   "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-   "published": "2026-11-15T17:15:58Z",
-   "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "published": "2026-11-15T17:15:57Z",
-   "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "TSMC employee data breach linked to cloud provider",
-   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "published": "2026-11-15T17:15:51Z",
-   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
    "critical": false
   }
  ]
