@@ -1,5 +1,187 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-19-pm",
+  "generated": "2026-11-19T16:35:47Z",
+  "title": "SecOps rundown, Thu 19 Nov afternoon: 24 critical, 8 advisories",
+  "counts": {
+   "last_24h": 74,
+   "critical": 24,
+   "advisories": 8,
+   "status": 40
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 39
+   },
+   {
+    "name": "GitHub",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 24,
+   "items": [
+    {
+     "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+     "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+     "source": "SecurityWeek",
+     "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed."
+    },
+    {
+     "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+     "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+     "source": "The Hacker News",
+     "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws."
+    },
+    {
+     "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research…"
+    },
+    {
+     "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+     "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+     "source": "The Hacker News",
+     "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code…"
+    },
+    {
+     "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+     "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+     "source": "The Hacker News",
+     "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input…"
+    },
+    {
+     "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+     "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+     "source": "BleepingComputer",
+     "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 8,
+   "items": [
+    {
+     "title": "Fastly Next-Gen WAF (Signal Sciences) agent fails open before rules load in Kubernetes sidecar deployments (vendor disputes; CVE pending)",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/40",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "CC-4895 - Critical Vulnerability 'Java4Shell' affecting Java OpenJDK and Java SE (CVE-2026-114938)",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4895",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4896 - Oracle Releases November 2026 Critical Patch Update Advisory",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4896",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "APPLE-SA-11-13-2026-1 tvOS 27.2.1",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/35",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "SAPBleed: Pre-Auth Memory Disclosure and RCE in SAP NetWeaver, Web Dispatcher and HANA XS (CVE-2026-76964, CVE-2026-89126)",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/36",
+     "source": "Full Disclosure"
+    },
+    {
+     "title": "Nightscout < 15.0.8: Stored XSS via WebSocket Treatment Writes (GHSA-5mrq-gpqw-q5v5)",
+     "url": "https://seclists.org/fulldisclosure/2026/Nov/37",
+     "source": "Full Disclosure"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 77,
+   "items": [
+    {
+     "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
+     "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+     "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+     "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Sticky note on monitor provided keys to the company’s kingdom",
+     "url": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
+     "source": "The Register"
+    },
+    {
+     "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+     "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+     "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+     "source": "The Register"
+    },
+    {
+     "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+     "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "California tells Waymo to take the next exit after freeway mishaps",
+     "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
+     "source": "The Register"
+    },
+    {
+     "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+     "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+     "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+     "source": "The Hacker News"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Smashing Security podcast #493: Why your AI model could be a sleeper agent",
+     "url": "https://grahamcluley.com/smashing-security-podcast-493/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+     "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "Reflecting on the Optimizely Incident and Why We Keep Failing",
+     "url": "https://scotthelme.co.uk/reflecting-on-the-optimizely-incident-and-why-we-keep-failing/",
+     "source": "Scott Helme"
+    }
+   ]
+  },
+  "outages": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Degraded Availability for MAI Code 2 Flash in Copilot",
+     "url": "https://www.githubstatus.com/incidents/891rm8181xdf",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-18-pm",
   "generated": "2026-11-18T16:28:28Z",
   "title": "SecOps rundown, Wed 18 Nov afternoon: 9 critical, 6 advisories",
@@ -2137,193 +2319,6 @@
     {
      "title": "Incident with Actions and Pages",
      "url": "https://www.githubstatus.com/incidents/xr3myzj7ms51",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-05-pm",
-  "generated": "2026-11-05T15:29:45Z",
-  "title": "SecOps rundown, Thu 5 Nov afternoon: 13 critical, 6 advisories",
-  "counts": {
-   "last_24h": 54,
-   "critical": 13,
-   "advisories": 6,
-   "status": 41
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 36
-   },
-   {
-    "name": "GitHub",
-    "notices": 5
-   }
-  ],
-  "critical": {
-   "total": 13,
-   "items": [
-    {
-     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-     "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-     "source": "The Hacker News",
-     "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found."
-    },
-    {
-     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-     "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-     "source": "BleepingComputer",
-     "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]"
-    },
-    {
-     "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]"
-    },
-    {
-     "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-     "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-     "source": "The Hacker News",
-     "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin."
-    },
-    {
-     "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
-     "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-     "source": "SecurityWeek",
-     "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues."
-    },
-    {
-     "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-     "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-     "source": "The Hacker News",
-     "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project…"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 6,
-   "items": [
-    {
-     "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Multiple Races",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Harvard - 850,537 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/Harvard",
-     "source": "Have I Been Pwned"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 66,
-   "items": [
-    {
-     "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
-     "url": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
-     "source": "The Register"
-    },
-    {
-     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-     "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-     "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-     "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-     "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-     "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-     "source": "The Register"
-    },
-    {
-     "title": "Vercel rolls out new protection against stolen session cookie attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
-     "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "US charges two Canadians accused of hacking US universities",
-     "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 2,
-   "items": [
-    {
-     "title": "Want to Rent an Internet Address at the White House?",
-     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "source": "Krebs on Security"
-    },
-    {
-     "title": "Smashing Security podcast #491: How AI agents are spooking the banks",
-     "url": "https://grahamcluley.com/smashing-security-podcast-491/",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 5,
-   "items": [
-    {
-     "title": "Incident with Pull Requests, Git Operations and Issues",
-     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions and Pages",
-     "url": "https://www.githubstatus.com/incidents/xr3myzj7ms51",
-     "source": "GitHub"
-    },
-    {
-     "title": "Increased task-related errors for Copilot Mission Control",
-     "url": "https://www.githubstatus.com/incidents/tc28c0wzrnpz",
      "source": "GitHub"
     }
    ]
