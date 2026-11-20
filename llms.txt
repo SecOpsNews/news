@@ -18,6 +18,7 @@ Key facts:
 
 - [Dashboard]({{ "/" | absolute_url }}): headlines, advisories and breaches, critical CVEs, blogs, and outages
 - [RSS feed]({{ "/feed.rss" | absolute_url }}): the daily rundown
+- [Get SecOpsNews]({{ "/subscribe/" | absolute_url }}): the rundown in Slack, Microsoft Teams, a feed reader or GitHub
 - [All feeds as OPML]({{ "/feeds.opml" | absolute_url }}): every source feed, grouped by category, to import into a feed reader
 - [Source on GitHub](https://github.com/SecOpsNews/news): how the feeds are collected
 - [Sponsor SecOpsNews]({{ "/sponsor/" | absolute_url }}): open monthly slots, how to book and sponsorship terms

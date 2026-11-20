@@ -21,6 +21,13 @@ SourceName:
         labels: "SourceName, [App, DevOps]"
 ```
 
+## Get it in Slack or Teams
+
+- **Slack:** add Slack's RSS app, then send `/feed subscribe https://secops.thechels.uk/feed.rss` in a channel.
+- **Microsoft Teams:** in a channel, open Workflows, choose the template that posts to a channel when an RSS feed is published, and use `https://secops.thechels.uk/feed.rss`.
+
+More ways to follow, including feed readers and OPML, are on [secops.thechels.uk/subscribe](https://secops.thechels.uk/subscribe/).
+
 ## All feeds as OPML
 
 Every feed in the `rss_*.yml` workflows is listed in [feeds.opml](https://secops.thechels.uk/feeds.opml), grouped by category, to import into a feed reader. The generator workflow rebuilds it from the workflows, so a new feed is added to it automatically. Run `python _python/opml.py` to rebuild it locally, and `pytest tests` to test it.
