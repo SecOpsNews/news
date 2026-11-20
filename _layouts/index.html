@@ -8,8 +8,9 @@ layout: base
 {%- assign advisories = advisories | concat: breaches | sort: "published" | reverse %}
 {%- assign blogs = news.items | where: "category", "blog" %}
 {%- assign status = news.items | where: "category", "status" %}
+{%- assign cves = news.items | where: "category", "cve" %}
 <main id="main">
-    <p class="intro">Security news, advisories, breaches and cloud outages for engineering leaders and security professionals, gathered from security news sites, government advisories, breach trackers and cloud status pages.</p>
+    <p class="intro">Security news, advisories, critical CVEs, breaches and cloud outages for engineering leaders and security professionals, gathered from security news sites, government advisories, Cloudflare Radar's CVE feed, breach trackers and cloud status pages.</p>
 
     <section class="kpis" aria-label="At a glance">
         <div class="kpi"><span>Items, last 24h</span><strong>{{ news.counts.last_24h }}</strong></div>
@@ -30,6 +31,7 @@ layout: base
         {% include panel.html title="Headlines" items=headlines id="headlines" show=15 %}
         {% include panel.html title="Advisories &amp; breaches" items=advisories id="advisories" show=12 %}
         <div class="stack">
+            {% include panel.html title="Critical CVEs" items=cves id="cves" show=6 %}
             {% include panel.html title="From the blogs" items=blogs id="blogs" show=6 %}
             {% include panel.html title="Outages &amp; maintenance" items=status id="outages" show=6 %}
         </div>

@@ -23,6 +23,7 @@ SOURCES = {
     "Bugtraq": ("Bugtraq", "advisory"),
     "MicrosoftSecurityResponseCenter": ("Microsoft MSRC", "advisory"),
     "MicrosoftSecurity": ("Microsoft Security", "advisory"),
+    "CloudflareCVE": ("Cloudflare Radar", "cve"),
     "HIBP": ("Have I Been Pwned", "breach"),
     "DataBreaches": ("DataBreaches.net", "breach"),
     "BrianKrebs": ("Krebs on Security", "blog"),
@@ -215,7 +216,7 @@ def parse_issue(issue):
         "url": url,
         "published": issue["created_at"],
         "summary": summary,
-        "critical": bool(CRITICAL.search(title)),
+        "critical": category == "cve" or bool(CRITICAL.search(title)),
     }
 
 
@@ -249,7 +250,7 @@ def build_data(items, stars=None, now=None):
         "stars": stars,
         "counts": {
             "last_24h": len(recent),
-            "critical": sum(1 for i in items if i["critical"]),
+            "critical": sum(1 for i in items if i["critical"] and i["category"] != "cve"),
             "advisories": sum(1 for i in items if i["category"] in ("advisory", "breach")),
             "status": sum(status_counts.values()),
         },
@@ -279,7 +280,7 @@ def build_rundown(data):
     half = "am" if generated.hour < 12 else "pm"
     items = data["items"]
     counts = data["counts"]
-    critical = [i for i in items if i["critical"]]
+    critical = [i for i in items if i["critical"] and i["category"] != "cve"]
     return {
         "id": f"secopsnews-rundown-{generated:%Y-%m-%d}-{half}",
         "generated": data["generated"],

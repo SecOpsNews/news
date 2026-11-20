@@ -286,6 +286,19 @@ jobs:
                   lastTime: "24h"
                   labels: "CloudFlare"
 
+    CloudflareCVE:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{secrets.GITHUB_TOKEN}}
+                  feed: "https://radar.cloudflare.com/zero-wire/cves/feed?format=atom&severity=critical"
+                  prefix: "[CloudflareCVE]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "CloudflareCVE"
+
     PoliticCyber:
         runs-on: ubuntu-latest
         steps:

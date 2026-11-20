@@ -10,13 +10,13 @@ Last updated: {{ site.data.news.generated }}
 
 Key facts:
 
-- Sources include The Hacker News, BleepingComputer, SecurityWeek, The Register, CISA, NCSC, NHS Digital, Full Disclosure, Have I Been Pwned, Krebs on Security, Troy Hunt and the status pages of Cloudflare, Google Cloud, AWS, GitHub, Slack and 1Password
+- Sources include The Hacker News, BleepingComputer, SecurityWeek, The Register, CISA, NCSC, NHS Digital, Full Disclosure, Cloudflare Radar's critical CVE feed, Have I Been Pwned, Krebs on Security, Troy Hunt and the status pages of Cloudflare, Google Cloud, AWS, GitHub, Slack and 1Password
 - Every headline links to the original article; SecOpsNews doesn't republish content
 - Items in the last 24 hours: {{ site.data.news.counts.last_24h }}; flagged critical: {{ site.data.news.counts.critical }}
 
 ## Links
 
-- [Dashboard]({{ "/" | absolute_url }}): headlines, advisories and breaches, blogs, and outages
+- [Dashboard]({{ "/" | absolute_url }}): headlines, advisories and breaches, critical CVEs, blogs, and outages
 - [RSS feed]({{ "/feed.rss" | absolute_url }}): the daily rundown
 - [Source on GitHub](https://github.com/SecOpsNews/news): how the feeds are collected
 - [Sponsor SecOpsNews]({{ "/sponsor/" | absolute_url }}): open monthly slots, how to book and sponsorship terms
