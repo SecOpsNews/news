@@ -1,5 +1,197 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-20-pm",
+  "generated": "2026-11-20T16:10:30Z",
+  "title": "SecOps rundown, Fri 20 Nov afternoon: 48 critical, 14 advisories",
+  "counts": {
+   "last_24h": 88,
+   "critical": 48,
+   "advisories": 14,
+   "status": 50
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 47
+   },
+   {
+    "name": "GitHub",
+    "notices": 3
+   }
+  ],
+  "critical": {
+   "total": 48,
+   "items": [
+    {
+     "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+     "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+     "source": "The Hacker News",
+     "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today."
+    },
+    {
+     "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+     "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+     "source": "The Hacker News",
+     "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not…"
+    },
+    {
+     "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+     "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+     "source": "The Hacker News",
+     "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026."
+    },
+    {
+     "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+     "source": "The Hacker News",
+     "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit."
+    },
+    {
+     "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+     "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+     "source": "The Hacker News",
+     "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks."
+    },
+    {
+     "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+     "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE)."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 14,
+   "items": [
+    {
+     "title": "CC-4901 - Ruby Releases Security Advisories Addressing Critical Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4901",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "Careers360 - 3,609,421 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/Careers360",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "CC-4897 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Open Source and NGINX Plus",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4897",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4898 - F5 Releases Out-of-band Security Notification for Critical Vulnerabilities in BIG-IP",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4898",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4899 - Critical Zero-Day Vulnerability in VMware vCenter",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4899",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4900 - PHP Releases Updates for Multiple Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4900",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 86,
+   "items": [
+    {
+     "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+     "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Windows 11 passkey bug cries failure after successful sign-in",
+     "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+     "source": "The Register"
+    },
+    {
+     "title": "The Path to AI Autonomy in the SOC",
+     "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
+     "url": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
+     "source": "The Register"
+    },
+    {
+     "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+     "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+     "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "N-able Blames Service Disruption on Cyberattack",
+     "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+     "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+     "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+     "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+     "source": "SecurityWeek"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Cold Relic: What you need to know",
+     "url": "https://www.fortra.com/blog/cold-relic-what-you-need-know",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Smashing Security podcast #493: Why your AI model could be a sleeper agent",
+     "url": "https://grahamcluley.com/smashing-security-podcast-493/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+     "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+     "source": "Krebs on Security"
+    }
+   ]
+  },
+  "outages": {
+   "total": 3,
+   "items": [
+    {
+     "title": "Degraded availability for GPT-6 Luna in Copilot",
+     "url": "https://www.githubstatus.com/incidents/gp7nhc88bwv9",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with some GitHub services",
+     "url": "https://www.githubstatus.com/incidents/m310qbkfm3ww",
+     "source": "GitHub"
+    },
+    {
+     "title": "Degraded Availability for MAI Code 2 Flash in Copilot",
+     "url": "https://www.githubstatus.com/incidents/891rm8181xdf",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-19-pm",
   "generated": "2026-11-19T16:35:47Z",
   "title": "SecOps rundown, Thu 19 Nov afternoon: 24 critical, 8 advisories",
@@ -2132,193 +2324,6 @@
     {
      "title": "Degraded performance for multiple GitHub services",
      "url": "https://www.githubstatus.com/incidents/pfbmpxxfq1cy",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-06-pm",
-  "generated": "2026-11-06T15:05:43Z",
-  "title": "SecOps rundown, Fri 6 Nov afternoon: 9 critical, 6 advisories",
-  "counts": {
-   "last_24h": 62,
-   "critical": 9,
-   "advisories": 6,
-   "status": 46
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 42
-   },
-   {
-    "name": "GitHub",
-    "notices": 4
-   }
-  ],
-  "critical": {
-   "total": 9,
-   "items": [
-    {
-     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-     "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-     "source": "SecurityWeek",
-     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests."
-    },
-    {
-     "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
-     "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
-     "source": "The Register",
-     "summary": "New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. The disruption has downed QPL's website, on-site computers,…"
-    },
-    {
-     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-     "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-     "source": "The Hacker News",
-     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…"
-    },
-    {
-     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-     "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-     "source": "The Hacker News",
-     "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found."
-    },
-    {
-     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-     "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-     "source": "BleepingComputer",
-     "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]"
-    },
-    {
-     "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 6,
-   "items": [
-    {
-     "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/8",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Multiple Races",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/9",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes Out-of-Bounds `memcpy`",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/10",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "Apache Struts2 Tiles Plugin <=7.4.0 and >=6.3.0 Preparer Cache Vulnerabilities",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/11",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "SEC Consult SA-20261104-0 :: Improper device certificate validation enables AiTM attacks in Siemens SICAM Toolbox II device communication",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/12",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 71,
-   "items": [
-    {
-     "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-     "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
-     "url": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-     "source": "The Register"
-    },
-    {
-     "title": "AI agents are a ‘bane’ for some website operators, says Cloudflare",
-     "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
-     "source": "The Register"
-    },
-    {
-     "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
-     "url": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
-     "source": "The Register"
-    },
-    {
-     "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-     "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Get root on a musl Linux system by slamming it with an overly long password",
-     "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-     "source": "The Register"
-    },
-    {
-     "title": "The White House is apparently a popular residential proxy exit spot",
-     "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
-     "source": "The Register"
-    },
-    {
-     "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
-     "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
-     "source": "The Register"
-    },
-    {
-     "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-     "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-     "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 2,
-   "items": [
-    {
-     "title": "Want to Rent an Internet Address at the White House?",
-     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "source": "Krebs on Security"
-    },
-    {
-     "title": "Smashing Security podcast #491: How AI agents are spooking the banks",
-     "url": "https://grahamcluley.com/smashing-security-podcast-491/",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 4,
-   "items": [
-    {
-     "title": "Degraded performance for multiple GitHub services",
-     "url": "https://www.githubstatus.com/incidents/pfbmpxxfq1cy",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Pull Requests, Git Operations and Issues",
-     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions and Pages",
-     "url": "https://www.githubstatus.com/incidents/xr3myzj7ms51",
      "source": "GitHub"
     }
    ]
