@@ -31,13 +31,13 @@ SOURCES = {
     "ScottHelme": ("Scott Helme", "blog"),
     "GrahamCluley": ("Graham Cluley", "blog"),
     "NETRESEC": ("NETRESEC", "blog"),
+    "CloudflareBlog": ("Cloudflare blog", "blog"),
     "HackerNews": ("The Hacker News", "news"),
     "SecurityWeek": ("SecurityWeek", "news"),
     "BleepingComputer": ("BleepingComputer", "news"),
     "RegisterSec": ("The Register", "news"),
     "RegisterSoftware": ("The Register", "news"),
     "DarkReading": ("Dark Reading", "news"),
-    "PoliticCyber": ("Politico", "news"),
     "ITGovernance": ("IT Governance", "news"),
 }
 

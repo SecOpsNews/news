@@ -20,3 +20,7 @@ SourceName:
         lastTime: "24h"
         labels: "SourceName, [App, DevOps]"
 ```
+
+## All feeds as OPML
+
+Every feed in the `rss_*.yml` workflows is listed in [feeds.opml](https://secops.thechels.uk/feeds.opml), grouped by category, to import into a feed reader. The generator workflow rebuilds it from the workflows, so a new feed is added to it automatically. Run `python _python/opml.py` to rebuild it locally, and `pytest tests` to test it.

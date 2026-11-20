@@ -273,18 +273,18 @@ jobs:
                   lastTime: "24h"
                   labels: "ScottHelme"
 
-    CloudFlare:
+    CloudflareBlog:
         runs-on: ubuntu-latest
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
               with:
                   repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "https://blog.cloudflare.com/"
-                  prefix: "[CloudFlare]"
+                  feed: "https://blog.cloudflare.com/rss/"
+                  prefix: "[CloudflareBlog]"
                   dry-run: "false"
                   lastTime: "24h"
-                  labels: "CloudFlare"
+                  labels: "CloudflareBlog"
 
     CloudflareCVE:
         runs-on: ubuntu-latest
@@ -298,19 +298,6 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "CloudflareCVE"
-
-    PoliticCyber:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "https://wwww.politico.com/rss/morningcybersecruity.xml"
-                  prefix: "[PoliticCyber]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "PoliticCyber"
 
     ITGovernance:
         runs-on: ubuntu-latest

@@ -1,3 +1,4 @@
 requests
 feedgenerator
 pytz
+pyyaml
