@@ -7,7 +7,7 @@
   </head>
   <body>
     <outline text="Headlines" title="Headlines">
-      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml"/>
+      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml"/>
       <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
       <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="https://feeds.feedburner.com/securityweek"/>
       <outline type="rss" text="The Register" title="The Register" xmlUrl="https://www.theregister.com/security/headlines.atom"/>
@@ -18,11 +18,10 @@
     <outline text="Advisories" title="Advisories">
       <outline type="rss" text="CISA" title="CISA" xmlUrl="https://www.cisa.gov/uscert/ncas/alerts.xml"/>
       <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss"/>
-      <outline type="rss" text="Microsoft MSRC" title="Microsoft MSRC" xmlUrl="http://blogs.technet.com/msrc/rss.xml"/>
-      <outline type="rss" text="NCSC guidance" title="NCSC guidance" xmlUrl="https://www.ncsc.gov.uk/feeds/guidance.xml"/>
+      <outline type="rss" text="Microsoft MSRC" title="Microsoft MSRC" xmlUrl="https://api.msrc.microsoft.com/update-guide/rss"/>
+      <outline type="rss" text="NCSC guidance" title="NCSC guidance" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml"/>
       <outline type="rss" text="NCSC threat reports" title="NCSC threat reports" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"/>
-      <outline type="rss" text="Microsoft Security" title="Microsoft Security" xmlUrl="http://blogs.technet.com/mmpc/rss.xml"/>
-      <outline type="rss" text="Bugtraq" title="Bugtraq" xmlUrl="http://seclists.org/rss/bugtraq.rss"/>
+      <outline type="rss" text="Microsoft Security" title="Microsoft Security" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/"/>
       <outline type="rss" text="NHS Digital" title="NHS Digital" xmlUrl="https://digital.nhs.uk/feed/cyber-alerts-feed.xml"/>
     </outline>
     <outline text="Critical CVEs" title="Critical CVEs">
@@ -45,7 +44,7 @@
       <outline type="rss" text="GitHub" title="GitHub" xmlUrl="https://www.githubstatus.com/history.rss"/>
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://www.cloudflarestatus.com/history.atom"/>
       <outline type="rss" text="Slack" title="Slack" xmlUrl="https://status.slack.com/feed/rss"/>
-      <outline type="rss" text="Azure" title="Azure" xmlUrl="https://azurestatusfeed.azurewebsites.net/"/>
+      <outline type="rss" text="Azure" title="Azure" xmlUrl="https://rssfeed.azure.status.microsoft/en-us/status/feed/"/>
       <outline type="rss" text="Google Cloud" title="Google Cloud" xmlUrl="https://status.cloud.google.com/en/feed.atom"/>
       <outline type="rss" text="AWS" title="AWS" xmlUrl="https://status.aws.amazon.com/rss/all.rss"/>
     </outline>

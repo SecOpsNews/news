@@ -1,0 +1,21 @@
+---
+name: Feed health
+
+on:
+    schedule:
+        - cron: "37 6 * * 1"
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v7
+            - uses: actions/setup-python@v7
+              with:
+                  python-version: "3.13"
+            - name: Check every feed in feeds.opml
+              run: python _python/feed_health.py feeds.opml

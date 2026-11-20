@@ -31,3 +31,7 @@ More ways to follow, including feed readers and OPML, are on [secops.thechels.uk
 ## All feeds as OPML
 
 Every feed in the `rss_*.yml` workflows is listed in [feeds.opml](https://secops.thechels.uk/feeds.opml), grouped by category, to import into a feed reader. The generator workflow rebuilds it from the workflows, so a new feed is added to it automatically. Run `python _python/opml.py` to rebuild it locally, and `pytest tests` to test it.
+
+## Feed health
+
+The **Feed health** workflow checks every feed in `feeds.opml` each Monday and fails if any is broken (an HTTP error, an HTML page or anything else that isn't a feed). Its run summary lists every feed and its result. Run `python _python/feed_health.py` to check them locally.

@@ -8,3 +8,17 @@ updates:
       - thechelsuk
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "pip"
+    directory: "/"
+    assignees:
+      - thechelsuk
+    schedule:
+      interval: "weekly"
+
+  - package-ecosystem: "bundler"
+    directory: "/"
+    assignees:
+      - thechelsuk
+    schedule:
+      interval: "weekly"

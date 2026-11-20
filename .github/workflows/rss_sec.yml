@@ -46,7 +46,7 @@ jobs:
               continue-on-error: true
               with:
                   repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "http://www.darkreading.com/rss/all.xml"
+                  feed: "https://www.darkreading.com/rss.xml"
                   prefix: "[DarkReading]"
                   dry-run: "false"
                   lastTime: "24h"
@@ -72,7 +72,7 @@ jobs:
               continue-on-error: true
               with:
                   repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "http://blogs.technet.com/msrc/rss.xml"
+                  feed: "https://api.msrc.microsoft.com/update-guide/rss"
                   prefix: "[MicrosoftSecurityResponseCenter]"
                   dry-run: "false"
                   lastTime: "24h"
@@ -85,7 +85,7 @@ jobs:
               continue-on-error: true
               with:
                   repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "https://www.ncsc.gov.uk/feeds/guidance.xml"
+                  feed: "https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml"
                   prefix: "[NCSCGuidanceFeed]"
                   dry-run: "false"
                   lastTime: "24h"
@@ -111,24 +111,11 @@ jobs:
               continue-on-error: true
               with:
                   repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "http://blogs.technet.com/mmpc/rss.xml"
+                  feed: "https://www.microsoft.com/en-us/security/blog/feed/"
                   prefix: "[MicrosoftSecurity]"
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "MicrosoftSecurity"
-
-    Bugtraq:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{secrets.GITHUB_TOKEN}}
-                  feed: "http://seclists.org/rss/bugtraq.rss"
-                  prefix: "[Bugtraq]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "Bugtraq"
 
     HIBP:
         runs-on: ubuntu-latest

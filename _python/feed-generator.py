@@ -20,7 +20,6 @@ SOURCES = {
     "NCSCthreats": ("NCSC threat reports", "advisory"),
     "NHSDigital": ("NHS Digital", "advisory"),
     "FullDisclosure": ("Full Disclosure", "advisory"),
-    "Bugtraq": ("Bugtraq", "advisory"),
     "MicrosoftSecurityResponseCenter": ("Microsoft MSRC", "advisory"),
     "MicrosoftSecurity": ("Microsoft Security", "advisory"),
     "CloudflareCVE": ("Cloudflare Radar", "cve"),
