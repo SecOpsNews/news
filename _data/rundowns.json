@@ -1,5 +1,197 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-21-pm",
+  "generated": "2026-11-21T15:24:09Z",
+  "title": "SecOps rundown, Sat 21 Nov afternoon: 40 critical, 11 advisories",
+  "counts": {
+   "last_24h": 71,
+   "critical": 40,
+   "advisories": 11,
+   "status": 32
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 30
+   },
+   {
+    "name": "GitHub",
+    "notices": 2
+   }
+  ],
+  "critical": {
+   "total": 40,
+   "items": [
+    {
+     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…"
+    },
+    {
+     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+     "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+     "source": "The Hacker News",
+     "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat…"
+    },
+    {
+     "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+     "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+     "source": "The Hacker News",
+     "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG."
+    },
+    {
+     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+     "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+     "source": "SecurityWeek",
+     "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability."
+    },
+    {
+     "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+     "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+     "source": "Cloudflare blog",
+     "summary": "On November 19, 2026, the security research company depthfirst disclosed [phpAfterShell (CVE-2026-126714)](https://depthfirst.com/research/phpaftershell), a vulnerability in PHP's default file-based session handler…"
+    },
+    {
+     "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+     "source": "Dark Reading",
+     "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 11,
+   "items": [
+    {
+     "title": "Chromium: CVE-2023-1531 Use after free in ANGLE",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1531",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "Chromium: CVE-2024-7533 Use after free in Sharing",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-7532",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+     "source": "Microsoft Security"
+    },
+    {
+     "title": "Too Lost - 724,323 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/TooLost",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "CC-4901 - Ruby Releases Security Advisories Addressing Critical Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4901",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "Careers360 - 3,609,421 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/Careers360",
+     "source": "Have I Been Pwned"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 52,
+   "items": [
+    {
+     "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+     "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+     "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+     "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+     "source": "Dark Reading"
+    },
+    {
+     "title": "In Security, Words Matter as Much as Tools, Maybe More",
+     "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+     "source": "Dark Reading"
+    },
+    {
+     "title": "PHP 8.6: Things are gonna get a lot more strict around here",
+     "url": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+     "source": "The Register"
+    },
+    {
+     "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+     "source": "The Register"
+    },
+    {
+     "title": "N-able says recent security breach led to major service outage",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+     "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+     "url": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+     "source": "The Register"
+    },
+    {
+     "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+     "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 6,
+   "items": [
+    {
+     "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+     "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+     "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "source": "Krebs on Security"
+    },
+    {
+     "title": "n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Degraded availability for GPT-6 Luna in Copilot",
+     "url": "https://www.githubstatus.com/incidents/gp7nhc88bwv9",
+     "source": "GitHub"
+    },
+    {
+     "title": "Disruption with some GitHub services",
+     "url": "https://www.githubstatus.com/incidents/m310qbkfm3ww",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-20-pm",
   "generated": "2026-11-20T21:57:17Z",
   "title": "SecOps rundown, Fri 20 Nov afternoon: 45 critical, 10 advisories",
@@ -2164,167 +2356,6 @@
      "title": "Service impact: Elevated Launch Failures",
      "url": "https://status.aws.amazon.com/",
      "source": "AWS"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-07-pm",
-  "generated": "2026-11-07T18:48:59Z",
-  "title": "SecOps rundown, Sat 7 Nov afternoon: 7 critical, 1 advisories",
-  "counts": {
-   "last_24h": 32,
-   "critical": 7,
-   "advisories": 1,
-   "status": 41
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 38
-   },
-   {
-    "name": "AWS",
-    "notices": 2
-   },
-   {
-    "name": "GitHub",
-    "notices": 1
-   }
-  ],
-  "critical": {
-   "total": 7,
-   "items": [
-    {
-     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-     "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-     "source": "SecurityWeek",
-     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA."
-    },
-    {
-     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]"
-    },
-    {
-     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-     "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-     "source": "The Hacker News",
-     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it."
-    },
-    {
-     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-     "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-     "source": "The Hacker News",
-     "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates."
-    },
-    {
-     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-     "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-     "source": "SecurityWeek",
-     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests."
-    },
-    {
-     "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
-     "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
-     "source": "The Register",
-     "summary": "New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. The disruption has downed QPL's website, on-site computers,…"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 1,
-   "items": [
-    {
-     "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 69,
-   "items": [
-    {
-     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-     "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Hackers pull off $133 million French bank heist via service provider",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
-     "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
-     "source": "The Register"
-    },
-    {
-     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-     "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-     "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Agents reveal secrets when offered to team up with each other",
-     "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
-     "source": "The Register"
-    },
-    {
-     "title": "Mac lookalikes multiply as Linux raids Apple's wardrobe",
-     "url": "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
-     "source": "The Register"
-    },
-    {
-     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-     "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
-     "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-     "source": "Scott Helme"
-    }
-   ]
-  },
-  "outages": {
-   "total": 3,
-   "items": [
-    {
-     "title": "Service is operating normally: [RESOLVED] Elevated Launch Failures",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
-    },
-    {
-     "title": "Service impact: Elevated Launch Failures",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
-    },
-    {
-     "title": "Degraded performance for multiple GitHub services",
-     "url": "https://www.githubstatus.com/incidents/pfbmpxxfq1cy",
-     "source": "GitHub"
     }
    ]
   }

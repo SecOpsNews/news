@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-20T21:57:17Z",
+ "generated": "2026-11-21T15:24:09Z",
  "stars": 75,
  "counts": {
-  "last_24h": 91,
-  "critical": 45,
-  "advisories": 10,
-  "status": 43
+  "last_24h": 71,
+  "critical": 40,
+  "advisories": 11,
+  "status": 32
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 40
+   "notices": 30
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 3
+   "notices": 2
   },
   {
    "name": "Slack",
@@ -38,6 +38,276 @@
   }
  ],
  "items": [
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-101340: Query ID predictable from a short sequence of observations",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-101340",
+   "published": "2026-11-21T12:47:04Z",
+   "summary": "Net::DNS uses a 16-bit query ID to match responses to the corresponding requests. In versions up to and including 1.57, the ID is obtained from Perl's built-in rand() function. An attacker that can observe the…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-129073: WordPress miniorange otp verification plugin <= 5.6.1 - Broken Authentication vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129073",
+   "published": "2026-11-21T12:47:04Z",
+   "summary": "Authentication Bypass Using an Alternate Path or Channel vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Authentication Abuse.This issue affects miniorange otp verification:…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-129039: WordPress Newsletters plugin <= 4.18.2 - PHP Object Injection vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129039",
+   "published": "2026-11-21T12:47:04Z",
+   "summary": "Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters newsletters-lite allows Object Injection.This issue affects Newsletters: from n/a through 4.18.2.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-129043: WordPress Newsletters plugin <= 4.18.2 - SQL Injection vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129043",
+   "published": "2026-11-21T12:47:03Z",
+   "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tribulant Software Newsletters newsletters-lite allows SQL Injection.This issue affects Newsletters: from n/a…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-14914: RCE in TEGSOFT Management's Tegsoft Contact Center",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-14914",
+   "published": "2026-11-21T12:47:03Z",
+   "summary": "Unrestricted upload of file with dangerous type vulnerability in Tegsoft Yönetim ve Bilişim Hizmetleri Tic. Ltd. Şti. Tegsoft Contact Center allows Upload a Web Shell to a Web Server. This issue affects Tegsoft…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-120539: Restrictions for BuddyPress <= 1.5.4 - Unauthenticated Remote Code Execution via Request URI String Interpolation in eval()",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-120539",
+   "published": "2026-11-21T12:47:02Z",
+   "summary": "The Restrictions for BuddyPress plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.5.4 This is due to the plugin splicing the attacker-controlled request URI into a…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "published": "2026-11-21T12:47:00Z",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "published": "2026-11-21T12:47:00Z",
+   "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "published": "2026-11-21T12:47:00Z",
+   "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "published": "2026-11-21T12:46:59Z",
+   "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "published": "2026-11-21T12:46:59Z",
+   "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "published": "2026-11-21T12:46:57Z",
+   "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare blog",
+   "category": "blog",
+   "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+   "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+   "published": "2026-11-21T03:15:48Z",
+   "summary": "On November 19, 2026, the security research company depthfirst disclosed [phpAfterShell (CVE-2026-126714)](https://depthfirst.com/research/phpaftershell), a vulnerability in PHP's default file-based session handler…",
+   "critical": true
+  },
+  {
+   "source": "Microsoft MSRC",
+   "category": "advisory",
+   "title": "Chromium: CVE-2023-1531 Use after free in ANGLE",
+   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1531",
+   "published": "2026-11-21T03:15:48Z",
+   "summary": "Information published.",
+   "critical": false
+  },
+  {
+   "source": "Microsoft MSRC",
+   "category": "advisory",
+   "title": "Chromium: CVE-2024-7533 Use after free in Sharing",
+   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-7532",
+   "published": "2026-11-21T03:15:48Z",
+   "summary": "Information published.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare blog",
+   "category": "blog",
+   "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+   "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+   "published": "2026-11-21T03:15:48Z",
+   "summary": "On November 19, 2026, the Ruby team disclosed ruby2shell ( [CVE-2026-132825](https://github.com/ruby/ruby/security/advisories/GHSA-34m4-m9fh-gqp5)), a heap buffer overflow in the way Ruby changes the case of strings.…",
+   "critical": false
+  },
+  {
+   "source": "Dark Reading",
+   "category": "news",
+   "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "published": "2026-11-21T03:15:43Z",
+   "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-80188: BuddyBoss Addons <= 1.2.1 - Unauthenticated Account Takeover via Unverified Social Login Identity Tokens",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-80188",
+   "published": "2026-11-21T03:15:43Z",
+   "summary": "The BuddyBoss Addons plugin for WordPress is vulnerable to Authentication Bypass leading to Account Takeover in versions up to, and including, 1.2.1. This is due to the Social Login REST endpoint trusting unverified…",
+   "critical": true
+  },
+  {
+   "source": "Dark Reading",
+   "category": "news",
+   "title": "In Security, Words Matter as Much as Tools, Maybe More",
+   "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "published": "2026-11-21T03:15:43Z",
+   "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-126054: Path Traversal in Dataform, BigQuery Studio and Colab Enterprise allows Cross-Tenant File Read and Write",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-126054",
+   "published": "2026-11-21T03:15:43Z",
+   "summary": "A Path Traversal vulnerability in workspace directory handling and Git integration in Google Cloud Dataform, BigQuery Studio and Colab Enterprise on Google Cloud Platform allows an authenticated remote attacker to…",
+   "critical": true
+  },
+  {
+   "source": "Microsoft Security",
+   "category": "advisory",
+   "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+   "published": "2026-11-21T03:15:42Z",
+   "summary": "We’re honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).",
+   "critical": false
+  },
+  {
+   "source": "Dark Reading",
+   "category": "news",
+   "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+   "published": "2026-11-21T03:15:42Z",
+   "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-127027: Remote Code Execution in Poste.io",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-127027",
+   "published": "2026-11-21T03:15:42Z",
+   "summary": "Poste.io is vulnerable to remote code execution in DMARC report processing. Email sent to dmarc-reports@<domain is saved without sender verification. Script that runs as root unpacks the attachments using unsafe…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-132658",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132658",
+   "published": "2026-11-21T03:15:42Z",
+   "summary": "In Postgres Enterprise Manager (PEM), the pemagent role, which every PEM agent login inherits, is a member of the PostgreSQL pgreadserverfiles and pgwriteserverfiles roles on the PEM backend database. An attacker who…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-132659",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132659",
+   "published": "2026-11-21T03:15:41Z",
+   "summary": "In Postgres Enterprise Manager (PEM), the row-level security policies on pem.job and pem.jobstep that apply to PEM agents do not limit an agent to its own jobs. An attacker who controls one monitored host, and so its…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-132660",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132660",
+   "published": "2026-11-21T03:15:41Z",
+   "summary": "In Postgres Enterprise Manager (PEM), several SECURITY DEFINER functions in the pem schema of the PEM backend database are owned by a superuser but do not set a safe searchpath. Any PEM user who can connect to the…",
+   "critical": true
+  },
+  {
+   "source": "Krebs on Security",
+   "category": "blog",
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "published": "2026-11-21T03:15:41Z",
+   "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-115407",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-115407",
+   "published": "2026-11-21T03:15:41Z",
+   "summary": "In github.com/eclipse-keypont/crypto11/v2 versions <= 2.0.0-rc8 (and the deprecated v1 module paths github.com/eclipse-keypont/crypto11 <= 1.6.8, github.com/ThalesGroup/crypto11 <= 1.7.0-rc1 and…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133872: LessPass Backend before Commit 9469b0c Missing Rate Limiting on JWT Login",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133872",
+   "published": "2026-11-21T03:15:40Z",
+   "summary": "LessPass self-hosted sync server backend before commit 9469b0c lacks rate limiting on the JWT login endpoints /tokens/auth/ and /auth/jwt/create/, allowing unlimited authentication attempts. Unauthenticated remote…",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "PHP 8.6: Things are gonna get a lot more strict around here",
+   "url": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+   "published": "2026-11-21T03:15:39Z",
+   "summary": "On Thursday, PHP version 8.6 was released on its usual yearly schedule, popping up as if the web scripting language hadn’t been under intense scrutiny this past month. For those who missed it: a swarm of unearthed…",
+   "critical": false
+  },
   {
    "source": "Cloudflare Radar",
    "category": "cve",
@@ -345,15 +615,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-101340: Query ID predictable from a short sequence of observations",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-101340",
-   "published": "2026-11-20T21:24:56Z",
-   "summary": "Net::DNS uses a 16-bit query ID to match responses to the corresponding requests. In versions up to and including 1.57, the ID is obtained from Perl's built-in rand() function. An attacker that can observe the…",
-   "critical": true
-  },
-  {
    "source": "The Register",
    "category": "news",
    "title": "Signal slams door on prying AI agents to protect privacy",
@@ -361,15 +622,6 @@
    "published": "2026-11-20T21:24:55Z",
    "summary": "Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns. Citing the…",
    "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-129073: WordPress miniorange otp verification plugin <= 5.6.1 - Broken Authentication vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129073",
-   "published": "2026-11-20T21:24:55Z",
-   "summary": "Authentication Bypass Using an Alternate Path or Channel vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Authentication Abuse.This issue affects miniorange otp verification:…",
-   "critical": true
   },
   {
    "source": "Have I Been Pwned",
@@ -381,24 +633,6 @@
    "critical": false
   },
   {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-129039: WordPress Newsletters plugin <= 4.18.2 - PHP Object Injection vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129039",
-   "published": "2026-11-20T21:24:55Z",
-   "summary": "Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters newsletters-lite allows Object Injection.This issue affects Newsletters: from n/a through 4.18.2.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-129043: WordPress Newsletters plugin <= 4.18.2 - SQL Injection vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129043",
-   "published": "2026-11-20T21:24:54Z",
-   "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tribulant Software Newsletters newsletters-lite allows SQL Injection.This issue affects Newsletters: from n/a…",
-   "critical": true
-  },
-  {
    "source": "Graham Cluley",
    "category": "blog",
    "title": "n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers",
@@ -406,87 +640,6 @@
    "published": "2026-11-20T21:24:54Z",
    "summary": "Data belonging to customers of three of the biggest companies in global finance has been leaked online, after hackers breached third-party service providers working for JPMorgan Chase, Visa, and Mastercard.",
    "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-14914: RCE in TEGSOFT Management's Tegsoft Contact Center",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-14914",
-   "published": "2026-11-20T21:24:54Z",
-   "summary": "Unrestricted upload of file with dangerous type vulnerability in Tegsoft Yönetim ve Bilişim Hizmetleri Tic. Ltd. Şti. Tegsoft Contact Center allows Upload a Web Shell to a Web Server. This issue affects Tegsoft…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-80188: BuddyBoss Addons <= 1.2.1 - Unauthenticated Account Takeover via Unverified Social Login Identity Tokens",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-80188",
-   "published": "2026-11-20T21:24:53Z",
-   "summary": "The BuddyBoss Addons plugin for WordPress is vulnerable to Authentication Bypass leading to Account Takeover in versions up to, and including, 1.2.1. This is due to the Social Login REST endpoint trusting unverified…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-126054: Path Traversal in Dataform, BigQuery Studio and Colab Enterprise allows Cross-Tenant File Read and Write",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-126054",
-   "published": "2026-11-20T21:24:53Z",
-   "summary": "A Path Traversal vulnerability in workspace directory handling and Git integration in Google Cloud Dataform, BigQuery Studio and Colab Enterprise on Google Cloud Platform allows an authenticated remote attacker to…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-127027: Remote Code Execution in Poste.io",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-127027",
-   "published": "2026-11-20T21:24:52Z",
-   "summary": "Poste.io is vulnerable to remote code execution in DMARC report processing. Email sent to dmarc-reports@<domain is saved without sender verification. Script that runs as root unpacks the attachments using unsafe…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-132658",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132658",
-   "published": "2026-11-20T21:24:52Z",
-   "summary": "In Postgres Enterprise Manager (PEM), the pemagent role, which every PEM agent login inherits, is a member of the PostgreSQL pgreadserverfiles and pgwriteserverfiles roles on the PEM backend database. An attacker who…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-132659",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132659",
-   "published": "2026-11-20T21:24:51Z",
-   "summary": "In Postgres Enterprise Manager (PEM), the row-level security policies on pem.job and pem.jobstep that apply to PEM agents do not limit an agent to its own jobs. An attacker who controls one monitored host, and so its…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-132660",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-132660",
-   "published": "2026-11-20T21:24:49Z",
-   "summary": "In Postgres Enterprise Manager (PEM), several SECURITY DEFINER functions in the pem schema of the PEM backend database are owned by a superuser but do not set a safe searchpath. Any PEM user who can connect to the…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-115407",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-115407",
-   "published": "2026-11-20T21:24:48Z",
-   "summary": "In github.com/eclipse-keypont/crypto11/v2 versions <= 2.0.0-rc8 (and the deprecated v1 module paths github.com/eclipse-keypont/crypto11 <= 1.6.8, github.com/ThalesGroup/crypto11 <= 1.7.0-rc1 and…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-133872: LessPass Backend before Commit 9469b0c Missing Rate Limiting on JWT Login",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133872",
-   "published": "2026-11-20T21:24:48Z",
-   "summary": "LessPass self-hosted sync server backend before commit 9469b0c lacks rate limiting on the JWT login endpoints /tokens/auth/ and /auth/jwt/create/, allowing unlimited authentication attempts. Unauthenticated remote…",
-   "critical": true
   },
   {
    "source": "The Hacker News",
@@ -1459,456 +1612,6 @@
    "published": "2026-11-19T10:28:25Z",
    "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
    "critical": true
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "GYE (Guayaquil) on 2026-11-26",
-   "url": "https://www.cloudflarestatus.com/incidents/q3cma8wo9r2s",
-   "published": "2026-11-19T00:42:25Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in GYE (Guayaquil) datacenter on 2026-11-26 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MDE (Medellín) on 2026-11-26",
-   "url": "https://www.cloudflarestatus.com/incidents/dj0gwaqt52iv",
-   "published": "2026-11-19T00:42:25Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MDE (Medellín) datacenter on 2026-11-26 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "VCP (Campinas) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/7dxiocja147v",
-   "published": "2026-11-19T00:42:24Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in VCP (Campinas) datacenter on 2026-11-27 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "CNF (Belo Horizonte) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/5qdbs8ym18bs",
-   "published": "2026-11-19T00:42:24Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in CNF (Belo Horizonte) datacenter on 2026-11-27 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BSB (Brasilia) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/ye5vcqcwq2ep",
-   "published": "2026-11-19T00:42:24Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BSB (Brasilia) datacenter on 2026-11-27 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ARI (Arica) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/hnw6pejyd2u9",
-   "published": "2026-11-19T00:42:23Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ARI (Arica) datacenter on 2026-11-27 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "POS (Port of Spain) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/nlgho7zsh4tc",
-   "published": "2026-11-19T00:42:23Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in POS (Port of Spain) datacenter on 2026-11-27 between 06:00 and 10:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "BAQ (Barranquilla) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/g54eji91wm08",
-   "published": "2026-11-19T00:42:23Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in BAQ (Barranquilla) datacenter on 2026-11-27 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LIM (Lima) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/dnfihvpkx7op",
-   "published": "2026-11-19T00:42:22Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LIM (Lima) datacenter on 2026-11-27 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Microsoft's official Python agent framework hijacked to distribute malware",
-   "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
-   "published": "2026-11-19T00:29:06Z",
-   "summary": "Microsoft’s official agent framework package hosted on PyPI has been hijacked and now installs info-stealing malware, multiple security research firms have discovered. CEO Satya Nadella may be on stage trying to wow…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "published": "2026-11-19T00:29:06Z",
-   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "California tells Waymo to take the next exit after freeway mishaps",
-   "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
-   "published": "2026-11-19T00:29:06Z",
-   "summary": "Waymo has suspended driverless freeway rides across the US after California regulators intervened over robotaxis entering construction zones and trying to bypass highway patrol vehicles. California's DMV banned Waymo…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-   "published": "2026-11-19T00:29:06Z",
-   "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-   "published": "2026-11-19T00:29:05Z",
-   "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-   "published": "2026-11-19T00:29:05Z",
-   "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers.…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "AI found more critical bugs in another widely used technology running 225M websites",
-   "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
-   "published": "2026-11-19T00:29:05Z",
-   "summary": "Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX. These include critical…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-   "published": "2026-11-19T00:29:05Z",
-   "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-   "published": "2026-11-19T00:29:05Z",
-   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Get ready for another critical PHP security release to drop",
-   "url": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911",
-   "published": "2026-11-19T00:29:04Z",
-   "summary": "Apologies in advance to all patch managers and security teams that thought they might get a break this week. The PHP Foundation will release a “critical” security update on Thursday between 14:00 and 14:30 UTC. While…",
-   "critical": true
-  },
-  {
-   "source": "IT Governance",
-   "category": "news",
-   "title": "How to Spot a Phishing Email – with Real Examples and Red Flags",
-   "url": "https://grcsolutions.io/5-ways-to-detect-a-phishing-email/",
-   "published": "2026-11-19T00:29:04Z",
-   "summary": "The post [How to Spot a Phishing Email – with Real Examples and Red Flags](https://grcsolutions.io/5-ways-to-detect-a-phishing-email/) appeared first on [GRC Solutions](https://grcsolutions.io).",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "PTY (Panama City) on 2026-11-27",
-   "url": "https://www.cloudflarestatus.com/incidents/3rverth1gr58",
-   "published": "2026-11-18T17:29:52Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in PTY (Panama City) datacenter on 2026-11-27 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Degraded Availability for MAI Code 2 Flash in Copilot",
-   "url": "https://www.githubstatus.com/incidents/891rm8181xdf",
-   "published": "2026-11-18T17:29:47Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
-   "published": "2026-11-18T17:20:20Z",
-   "summary": "UK MPs want a watchdog with the power to pull the plug on dangerous AI models, rather than leave the likes of OpenAI and Anthropic to decide when they've gone too far. In a report shared with The Register ahead of…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "AI-powered cyber threats are changing the rules of enterprise recovery",
-   "url": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
-   "published": "2026-11-18T17:20:20Z",
-   "summary": "Cybersecurity has long been a contest between attackers finding new ways in and defenders trying to keep them out. Artificial intelligence is making that contest more complicated, giving cybercriminals new ways to…",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Cyber insurers now want proof you can actually recover",
-   "url": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
-   "published": "2026-11-18T17:20:19Z",
-   "summary": "Cyber insurance pricing has cooled. Marsh’s Global Insurance Market Index shows global cyber rates falling for a 13th consecutive quarter, with US rates recently stabilizing after the ransomware-driven spikes of 2020…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-   "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-   "published": "2026-11-18T17:20:14Z",
-   "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-   "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-   "published": "2026-11-18T17:20:13Z",
-   "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-   "published": "2026-11-18T17:20:13Z",
-   "summary": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-   "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-   "published": "2026-11-18T17:20:12Z",
-   "summary": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Chrome 158 Patches 204 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-   "published": "2026-11-18T17:20:12Z",
-   "summary": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-   "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-   "published": "2026-11-18T17:20:12Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4895 - Critical Vulnerability 'Java4Shell' affecting Java OpenJDK and Java SE (CVE-2026-114938)",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4895",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-   "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform,…",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft announces Windows Server 2028 with hardened security",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4896 - Oracle Releases November 2026 Critical Patch Update Advisory",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4896",
-   "published": "2026-11-18T17:20:11Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-   "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-   "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-   "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it…",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-   "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-   "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-   "published": "2026-11-18T17:20:10Z",
-   "summary": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-   "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "TL;DR",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-   "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
-   "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-   "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-   "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-   "published": "2026-11-18T17:20:09Z",
-   "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.",
-   "critical": false
   }
  ]
 }
