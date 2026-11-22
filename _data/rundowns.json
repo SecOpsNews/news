@@ -1,5 +1,182 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-22-pm",
+  "generated": "2026-11-22T15:20:39Z",
+  "title": "SecOps rundown, Sun 22 Nov afternoon: 20 critical, 6 advisories",
+  "counts": {
+   "last_24h": 18,
+   "critical": 20,
+   "advisories": 6,
+   "status": 10
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 10
+   }
+  ],
+  "critical": {
+   "total": 20,
+   "items": [
+    {
+     "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+     "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+     "source": "The Hacker News",
+     "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it."
+    },
+    {
+     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+     "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+     "source": "BleepingComputer",
+     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…"
+    },
+    {
+     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…"
+    },
+    {
+     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+     "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+     "source": "The Hacker News",
+     "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat…"
+    },
+    {
+     "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+     "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+     "source": "The Hacker News",
+     "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG."
+    },
+    {
+     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+     "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+     "source": "SecurityWeek",
+     "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 6,
+   "items": [
+    {
+     "title": "Chromium: CVE-2023-1531 Use after free in ANGLE",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1531",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "Chromium: CVE-2024-7533 Use after free in Sharing",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-7532",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+     "source": "Microsoft Security"
+    },
+    {
+     "title": "Too Lost - 724,323 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/TooLost",
+     "source": "Have I Been Pwned"
+    },
+    {
+     "title": "CC-4901 - Ruby Releases Security Advisories Addressing Critical Vulnerabilities",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4901",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "Careers360 - 3,609,421 breached accounts",
+     "url": "https://haveibeenpwned.com/Breach/Careers360",
+     "source": "Have I Been Pwned"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 39,
+   "items": [
+    {
+     "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+     "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+     "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+     "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+     "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+     "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+     "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+     "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+     "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+     "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+     "source": "Dark Reading"
+    },
+    {
+     "title": "In Security, Words Matter as Much as Tools, Maybe More",
+     "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+     "source": "Dark Reading"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 5,
+   "items": [
+    {
+     "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+     "url": "https://www.troyhunt.com/weekly-update-531/",
+     "source": "Troy Hunt"
+    },
+    {
+     "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+     "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+     "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "source": "Krebs on Security"
+    }
+   ]
+  },
+  "outages": {
+   "total": 0,
+   "items": []
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-21-pm",
   "generated": "2026-11-21T15:24:09Z",
   "title": "SecOps rundown, Sat 21 Nov afternoon: 40 critical, 11 advisories",
@@ -2222,140 +2399,6 @@
      "title": "Increase in timeouts for some unauthenticated users",
      "url": "https://www.githubstatus.com/incidents/pyynvrm1vskw",
      "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-08-pm",
-  "generated": "2026-11-08T14:19:23Z",
-  "title": "SecOps rundown, Sun 8 Nov afternoon: 4 critical, 0 advisories",
-  "counts": {
-   "last_24h": 5,
-   "critical": 4,
-   "advisories": 0,
-   "status": 30
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 28
-   },
-   {
-    "name": "AWS",
-    "notices": 2
-   }
-  ],
-  "critical": {
-   "total": 4,
-   "items": [
-    {
-     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-     "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-     "source": "SecurityWeek",
-     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA."
-    },
-    {
-     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]"
-    },
-    {
-     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-     "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-     "source": "The Hacker News",
-     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it."
-    },
-    {
-     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-     "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-     "source": "The Hacker News",
-     "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 0,
-   "items": []
-  },
-  "headlines": {
-   "total": 39,
-   "items": [
-    {
-     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-     "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Hackers pull off $133 million French bank heist via service provider",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
-     "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
-     "source": "The Register"
-    },
-    {
-     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-     "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-     "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Agents reveal secrets when offered to team up with each other",
-     "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
-     "source": "The Register"
-    },
-    {
-     "title": "Mac lookalikes multiply as Linux raids Apple's wardrobe",
-     "url": "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
-     "source": "The Register"
-    },
-    {
-     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-     "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
-     "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-     "source": "Scott Helme"
-    }
-   ]
-  },
-  "outages": {
-   "total": 2,
-   "items": [
-    {
-     "title": "Service is operating normally: [RESOLVED] Elevated Launch Failures",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
-    },
-    {
-     "title": "Service impact: Elevated Launch Failures",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
     }
    ]
   }

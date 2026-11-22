@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-21T15:24:09Z",
+ "generated": "2026-11-22T15:20:39Z",
  "stars": 75,
  "counts": {
-  "last_24h": 71,
-  "critical": 40,
-  "advisories": 11,
-  "status": 32
+  "last_24h": 18,
+  "critical": 20,
+  "advisories": 6,
+  "status": 10
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 30
+   "notices": 10
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 2
+   "notices": 0
   },
   {
    "name": "Slack",
@@ -38,6 +38,168 @@
   }
  ],
  "items": [
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "published": "2026-11-22T09:54:32Z",
+   "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "published": "2026-11-22T09:54:32Z",
+   "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.",
+   "critical": false
+  },
+  {
+   "source": "Troy Hunt",
+   "category": "blog",
+   "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+   "url": "https://www.troyhunt.com/weekly-update-531/",
+   "published": "2026-11-22T09:54:31Z",
+   "summary": "[Presently sponsored by: Find shadow AI fast. Origin's sensor catches every AI agent on your fleet, sanctioned or not, and shows what each one actually…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+   "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+   "published": "2026-11-22T02:19:01Z",
+   "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy.",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+   "published": "2026-11-22T02:19:01Z",
+   "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains.",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "published": "2026-11-22T02:19:00Z",
+   "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-74127",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-74127",
+   "published": "2026-11-21T20:35:19Z",
+   "summary": "Improper verification of a cryptographic signature in the PSP Boot ROM of AMD Zeppelin (Zen1/Zen+) processors could allow an attacker with local access to the SPI flash to bypass secure boot authentication,…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-124626: @fastify/express vulnerable to middleware bypass via empty route parameters and wildcards",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-124626",
+   "published": "2026-11-21T20:35:18Z",
+   "summary": "@fastify/express is a compatibility layer that lets Express middleware run inside the Fastify web framework. In versions 4.0.5 through 4.0.9, the plugin matches path-scoped Express middleware with a matcher that…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-129504: @fastify/express vulnerable to path-scoped middleware bypass via prefix and mount path join mismatch",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129504",
+   "published": "2026-11-21T20:35:18Z",
+   "summary": "@fastify/express is a compatibility layer that lets Express middleware run inside the Fastify web framework. In versions 4.0.0 through 4.0.9, the plugin joins a path-scoped middleware's mount path to the Fastify…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133120: @fastify/express vulnerable to path-scoped middleware bypass via request URL decoding and normalization mismatches",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133120",
+   "published": "2026-11-21T20:35:18Z",
+   "summary": "@fastify/express is a compatibility layer that lets Express middleware run inside the Fastify web framework. In versions before 4.0.10, the plugin passes Express a request URL that does not always match the path…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "published": "2026-11-21T20:35:18Z",
+   "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133250: @fastify/middie vulnerable to path-scoped middleware bypass via request path matching mismatches",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133250",
+   "published": "2026-11-21T20:35:17Z",
+   "summary": "@fastify/middie is the middleware engine for the Fastify web framework. In versions up to and including 9.3.7, middie matches path-scoped middleware against its own reading of the request path, which can differ from…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+   "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "published": "2026-11-21T20:35:17Z",
+   "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133867: @fastify/express vulnerable to middleware bypass via RegExp mount paths under parameterized prefixes",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133867",
+   "published": "2026-11-21T20:35:17Z",
+   "summary": "@fastify/express is a compatibility layer that lets Express middleware run inside the Fastify web framework. In versions 4.0.7 through 4.0.9, the plugin does not rewrite regular-expression mount paths to account for…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "published": "2026-11-21T20:35:17Z",
+   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-134292: SurrealDB 1.0.0 before 4.0.0 Function Capability Bypass via JavaScript Built-in Bridge",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-134292",
+   "published": "2026-11-21T20:35:16Z",
+   "summary": "SurrealDB 1.0.0 before 4.0.0 contains a capability check bypass in its embedded JavaScript scripting engine, where the surrealdb.functions bridge calls the internal fnc::synchronous() and fnc::asynchronous()…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133993: D-Link DIR-600L GENA Subscription gena.cgi FUN_0040efb0 stack-based overflow",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133993",
+   "published": "2026-11-21T20:35:16Z",
+   "summary": "A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function FUN0040efb0 of the file gena.cgi of the component GENA Subscription Handler. Performing a manipulation of the argument service…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-125294: Nexter Blocks Pro <= 5.0.10 - Unauthenticated Privilege Escalation to Unicode Collation Confusion in 'tpgb_acf_key' Parameter",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-125294",
+   "published": "2026-11-21T20:35:16Z",
+   "summary": "The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 5.0.10 via the tpgbajaxregisteruser() function. This is due to a byte-level denylist on the…",
+   "critical": true
+  },
   {
    "source": "Cloudflare Radar",
    "category": "cve",
@@ -1009,609 +1171,6 @@
    "published": "2026-11-20T03:27:46Z",
    "summary": "If you’ve got a moment to spare in between sorting out emergency patches for PHP, Java, and PostgreSQL, VMware has just bid for any remaining space on your schedule by publishing two critical-rated security…",
    "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-12-01",
-   "url": "https://www.cloudflarestatus.com/incidents/6r41imj46pvh",
-   "published": "2026-11-19T20:55:41Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-12-01 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AGR (Agra) on 2026-12-01",
-   "url": "https://www.cloudflarestatus.com/incidents/y9aw5isyv7mk",
-   "published": "2026-11-19T20:55:41Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AGR (Agra) datacenter between 2026-12-01 21:00 and 2026-12-02 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "PNQ (Pune) on 2026-12-01",
-   "url": "https://www.cloudflarestatus.com/incidents/xc88fcvzoagy",
-   "published": "2026-11-19T20:55:41Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in PNQ (Pune) datacenter between 2026-12-01 21:00 and 2026-12-02 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "UDR (Udaipur) on 2026-12-01",
-   "url": "https://www.cloudflarestatus.com/incidents/el4mm179uqri",
-   "published": "2026-11-19T20:55:40Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in UDR (Udaipur) datacenter between 2026-12-01 21:00 and 2026-12-02 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Degraded availability for GPT-6 Luna in Copilot",
-   "url": "https://www.githubstatus.com/incidents/gp7nhc88bwv9",
-   "published": "2026-11-19T20:55:40Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "JRG (Sambalpur) on 2026-12-01",
-   "url": "https://www.cloudflarestatus.com/incidents/101afvbco2xk",
-   "published": "2026-11-19T20:55:39Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in JRG (Sambalpur) datacenter between 2026-12-01 21:00 and 2026-12-02 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Disruption with some GitHub services",
-   "url": "https://www.githubstatus.com/incidents/m310qbkfm3ww",
-   "published": "2026-11-19T20:55:39Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "AKL (Auckland) on 2026-12-02",
-   "url": "https://www.cloudflarestatus.com/incidents/2f3zy7smmcl1",
-   "published": "2026-11-19T20:55:39Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in AKL (Auckland) datacenter on 2026-12-02 between 13:00 and 17:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LUH (Ludhiana) on 2026-12-02",
-   "url": "https://www.cloudflarestatus.com/incidents/tkp0np67req4",
-   "published": "2026-11-19T20:55:38Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LUH (Ludhiana) datacenter between 2026-12-02 21:00 and 2026-12-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "CJB (Coimbatore) on 2026-12-02",
-   "url": "https://www.cloudflarestatus.com/incidents/j0xtu2ifwhja",
-   "published": "2026-11-19T20:55:38Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in CJB (Coimbatore) datacenter between 2026-12-02 21:00 and 2026-12-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "COK (Kochi) on 2026-12-02",
-   "url": "https://www.cloudflarestatus.com/incidents/vy1tu9u47ua4",
-   "published": "2026-11-19T20:55:38Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in COK (Kochi) datacenter between 2026-12-02 21:00 and 2026-12-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IXC (Chandigarh) on 2026-12-02",
-   "url": "https://www.cloudflarestatus.com/incidents/6psccf4p9k4j",
-   "published": "2026-11-19T20:55:37Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IXC (Chandigarh) datacenter between 2026-12-02 21:00 and 2026-12-03 01:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/gjgsvg5r6bjf",
-   "published": "2026-11-19T20:55:37Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-12-03 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-12-04",
-   "url": "https://www.cloudflarestatus.com/incidents/5235akl40trk",
-   "published": "2026-11-19T20:55:36Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-12-04 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-07",
-   "url": "https://www.cloudflarestatus.com/incidents/e8fx60umqt0f",
-   "published": "2026-11-19T20:55:36Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-07 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-08",
-   "url": "https://www.cloudflarestatus.com/incidents/s12ecsoi8b8j",
-   "published": "2026-11-19T20:55:35Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-08 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-09",
-   "url": "https://www.cloudflarestatus.com/incidents/hot0raq2i9mh",
-   "published": "2026-11-19T20:55:35Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-09 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-10",
-   "url": "https://www.cloudflarestatus.com/incidents/mtfy8lt28ep5",
-   "published": "2026-11-19T20:55:34Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-10 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IAD (Ashburn) on 2026-12-11",
-   "url": "https://www.cloudflarestatus.com/incidents/sbh91nsf3jdz",
-   "published": "2026-11-19T20:55:34Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-12-11 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Everything Is a Web Application, Including Your Firewall",
-   "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-   "published": "2026-11-19T20:46:42Z",
-   "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619,…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-   "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-   "published": "2026-11-19T20:46:42Z",
-   "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-   "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-   "published": "2026-11-19T20:46:41Z",
-   "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-   "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-   "published": "2026-11-19T20:46:41Z",
-   "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-   "published": "2026-11-19T20:46:40Z",
-   "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-   "published": "2026-11-19T20:46:40Z",
-   "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-   "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-   "published": "2026-11-19T20:46:39Z",
-   "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-   "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-   "published": "2026-11-19T20:46:38Z",
-   "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "published": "2026-11-19T20:46:38Z",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-   "published": "2026-11-19T20:46:37Z",
-   "summary": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Another critical PHP security release has dropped",
-   "url": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911",
-   "published": "2026-11-19T20:46:37Z",
-   "summary": "Apologies in advance to all patch managers and security teams that thought they might get a break this week. The PHP Foundation has released several more patches, covering all supported versions, and including at…",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-   "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-   "published": "2026-11-19T20:46:37Z",
-   "summary": "The company will use the funds to accelerate the development and distribution of its security platform.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "TfL takes Oyster photocard website offline after attackers compromise customer accounts",
-   "url": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
-   "published": "2026-11-19T20:46:36Z",
-   "summary": "Transport for London (TfL) has copped to another cybersecurity breach, this time involving the account details of around 265,000 Oyster photocard customers. The capital's transport operator told The Register it first…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-   "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-   "published": "2026-11-19T20:46:36Z",
-   "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
-   "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
-   "published": "2026-11-19T20:46:36Z",
-   "summary": "An attack on software provider Wellington IT exposed saved payee details held by around 40 Irish credit unions, prompting a minister to criticize the company's delay in notifying them. Robert Troy, Ireland's minister…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-   "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-   "published": "2026-11-19T20:46:36Z",
-   "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim.",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
-   "url": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "A Russian national is being held in custody after being arrested for allegedly spying on a US defense tech company in Palo Alto, shoulder-surfing employees, and dropping remote surveillance devices at their homes.…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-   "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges.",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft confirms app installation, launch issues after hotpatch",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Nvidia adds possible hack to list of very bad things under investigation",
-   "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "Finding a new CEO is just one of their problems. Nvidia is investigating an alleged breach following claims by ransomware group The Gentlemen's affiliates that they hacked the AI giant and stole sensitive…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-   "published": "2026-11-19T20:46:35Z",
-   "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-   "published": "2026-11-19T20:46:34Z",
-   "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-   "published": "2026-11-19T20:46:34Z",
-   "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux…",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Five warning signs of ransomware breach before encryption or data theft",
-   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-   "published": "2026-11-19T20:46:34Z",
-   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect…",
-   "critical": true
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4897 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Open Source and NGINX Plus",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4897",
-   "published": "2026-11-19T20:46:33Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-   "published": "2026-11-19T20:46:33Z",
-   "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-   "critical": true
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4898 - F5 Releases Out-of-band Security Notification for Critical Vulnerabilities in BIG-IP",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4898",
-   "published": "2026-11-19T20:46:33Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-   "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-   "published": "2026-11-19T20:46:33Z",
-   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4899 - Critical Zero-Day Vulnerability in VMware vCenter",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4899",
-   "published": "2026-11-19T20:46:32Z",
-   "summary": "Severity: High",
-   "critical": true
-  },
-  {
-   "source": "Graham Cluley",
-   "category": "blog",
-   "title": "Cold Relic: What you need to know",
-   "url": "https://www.fortra.com/blog/cold-relic-what-you-need-know",
-   "published": "2026-11-19T20:46:32Z",
-   "summary": "A Russian spy group is breaking into organisations by pretending to be people they already trust. Meet Cold Relic, the hackers formerly known as COLDRIVER.",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4900 - PHP Releases Updates for Multiple Vulnerabilities",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4900",
-   "published": "2026-11-19T20:46:32Z",
-   "summary": "Severity: Medium",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SJK (São José dos Campos) on 2026-11-26",
-   "url": "https://www.cloudflarestatus.com/incidents/7u7s8ykc75wb",
-   "published": "2026-11-19T10:42:42Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SJK (São José dos Campos) datacenter on 2026-11-26 between 05:00 and 09:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "MAO (Manaus) on 2026-11-26",
-   "url": "https://www.cloudflarestatus.com/incidents/rxfrjvfavliq",
-   "published": "2026-11-19T10:42:41Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in MAO (Manaus) datacenter on 2026-11-26 between 06:00 and 10:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "PTY (Panama City) on 2026-11-26",
-   "url": "https://www.cloudflarestatus.com/incidents/tl9q3oey8y7l",
-   "published": "2026-11-19T10:42:41Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in PTY (Panama City) datacenter on 2026-11-26 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Full Disclosure",
-   "category": "advisory",
-   "title": "Fastly Next-Gen WAF (Signal Sciences) agent fails open before rules load in Kubernetes sidecar deployments (vendor disputes; CVE pending)",
-   "url": "https://seclists.org/fulldisclosure/2026/Nov/40",
-   "published": "2026-11-19T10:28:32Z",
-   "summary": "Posted by Zac Lohrenz on Nov 18",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
-   "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-   "published": "2026-11-19T10:28:32Z",
-   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-   "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
-   "published": "2026-11-19T10:28:32Z",
-   "summary": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-   "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-   "published": "2026-11-19T10:28:31Z",
-   "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed.",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-   "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-   "published": "2026-11-19T10:28:31Z",
-   "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-   "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-   "published": "2026-11-19T10:28:27Z",
-   "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-   "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-   "published": "2026-11-19T10:28:27Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-   "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-   "published": "2026-11-19T10:28:26Z",
-   "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code…",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Sticky note on monitor provided keys to the company’s kingdom",
-   "url": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
-   "published": "2026-11-19T10:28:26Z",
-   "summary": "Welcome, once again, to PWNED, where we talk smack about organizations that have smacked themselves down by practicing poor security hygiene. This week's story involves everyone's favorite low-tech password manager:…",
-   "critical": false
-  },
-  {
-   "source": "Graham Cluley",
-   "category": "blog",
-   "title": "Smashing Security podcast #493: Why your AI model could be a sleeper agent",
-   "url": "https://grahamcluley.com/smashing-security-podcast-493/",
-   "published": "2026-11-19T10:28:26Z",
-   "summary": "You join a video call, and your contact and a few colleagues are already there, waiting patiently. But they can't hear you, and a pop-up says you need to install an update to fix your microphone. What could possibly…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-   "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-   "published": "2026-11-19T10:28:26Z",
-   "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-   "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-   "published": "2026-11-19T10:28:25Z",
-   "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-   "published": "2026-11-19T10:28:25Z",
-   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-   "critical": true
   }
  ]
 }
