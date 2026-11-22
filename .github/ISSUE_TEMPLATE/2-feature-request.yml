@@ -1,0 +1,30 @@
+name: Feature request
+description: An idea for something new or better.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Requests from [sponsors](https://github.com/sponsors/thechelsuk) are looked at first. A one-off $10 **Feature request bump** moves yours to the top of the list for review (not a promise that it'll be built).
+  - type: textarea
+    id: would-like
+    attributes:
+      label: I would like…
+    validations:
+      required: true
+  - type: textarea
+    id: so-that
+    attributes:
+      label: …so that I can…
+    validations:
+      required: true
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+  - type: checkboxes
+    id: sponsored
+    attributes:
+      label: Sponsorship
+      options:
+        - label: I've sponsored a Feature request bump for this.

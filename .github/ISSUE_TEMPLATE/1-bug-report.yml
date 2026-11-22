@@ -1,0 +1,45 @@
+name: Bug report
+description: Something isn't working as it should.
+labels: [bug]
+body:
+  - type: dropdown
+    id: part
+    attributes:
+      label: Which part?
+      options:
+        - Dashboard (secops.thechels.uk)
+        - A feed
+        - A script or template
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where is it?
+      description: The page, screen or view, or a link if you have one.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can I make it happen?
+      description: The steps, one per line, if you know them.
+  - type: input
+    id: device
+    attributes:
+      label: Device and version
+      placeholder: Safari 26 on iPhone 16, or Python 3.13
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag images in here.

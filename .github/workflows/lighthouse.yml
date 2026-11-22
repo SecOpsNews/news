@@ -1,0 +1,53 @@
+---
+name: Lighthouse
+
+on:
+    push:
+        branches: [main]
+    schedule:
+        - cron: "41 6 * * 1"
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    lighthouse:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v7
+
+            - uses: ruby/setup-ruby@v1
+              with:
+                  ruby-version: ".ruby-version"
+                  bundler-cache: true
+
+            - name: Build the site
+              run: bundle exec jekyll build --trace
+
+            - name: Start a local server
+              run: |
+                  python .github/scripts/serve-gzip.py _site 8080 > /tmp/http-server.log 2>&1 &
+                  for _ in $(seq 1 30); do
+                    curl -sf http://127.0.0.1:8080/ > /dev/null && exit 0
+                    sleep 1
+                  done
+                  echo "Local server did not start" >&2
+                  exit 1
+
+            - name: Lighthouse
+              uses: foo-software/lighthouse-check-action@v12.0.1
+              id: lighthouseCheck
+              with:
+                  urls: >-
+                      http://127.0.0.1:8080/,http://127.0.0.1:8080/subscribe/,http://127.0.0.1:8080/sponsor/,http://127.0.0.1:8080/contact/,http://127.0.0.1:8080/privacy/
+                  device: all
+
+            - name: Check the scores
+              uses: foo-software/lighthouse-check-status-action@v3.0.1
+              with:
+                  minAccessibilityScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minBestPracticesScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minPerformanceScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minSeoScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}

@@ -1,0 +1,21 @@
+name: Question
+description: Ask how something works.
+labels: [question]
+body:
+  - type: dropdown
+    id: part
+    attributes:
+      label: Which part?
+      options:
+        - Dashboard (secops.thechels.uk)
+        - A feed
+        - A script or template
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true

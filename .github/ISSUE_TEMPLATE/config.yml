@@ -1,7 +1,8 @@
+blank_issues_enabled: false
 contact_links:
-  - name: Contributing
-    url: https://github.com/SecOpsNews/news/blob/main/.github/CONTRIBUTING.md
-    about: Please read about contributing.
-  - name: Code of conduct
-    url: https://github.com/SecOpsNews/news/blob/main/.github/CODE_OF_CONDUCT.md
-    about: Please read the code of conduct.
+  - name: Prefer to ask directly?
+    url: https://thechels.uk/c/ama
+    about: Send a message without a GitHub account.
+  - name: Sponsor a Feature request bump
+    url: https://github.com/sponsors/thechelsuk
+    about: A one-off $10 moves your feature request to the top of the list for review.
