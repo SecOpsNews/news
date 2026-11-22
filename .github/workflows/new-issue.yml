@@ -1,0 +1,12 @@
+name: New Issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  triage:
+    uses: thechelsuk/workflows/.github/workflows/new-issue.yml@main
