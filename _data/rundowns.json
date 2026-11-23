@@ -1,5 +1,131 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-23-pm",
+  "generated": "2026-11-23T19:15:30Z",
+  "title": "SecOps rundown, Mon 23 Nov afternoon: 8 critical, 0 advisories",
+  "counts": {
+   "last_24h": 5,
+   "critical": 8,
+   "advisories": 0,
+   "status": 0
+  },
+  "providers": [],
+  "critical": {
+   "total": 8,
+   "items": [
+    {
+     "title": "Google claims last week’s critical VMware bug was under attack in September",
+     "url": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
+     "source": "The Register",
+     "summary": "Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September.…"
+    },
+    {
+     "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+     "source": "BleepingComputer",
+     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]"
+    },
+    {
+     "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+     "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+     "source": "The Hacker News",
+     "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it."
+    },
+    {
+     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+     "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+     "source": "BleepingComputer",
+     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…"
+    },
+    {
+     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…"
+    },
+    {
+     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+     "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+     "source": "The Hacker News",
+     "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 0,
+   "items": []
+  },
+  "headlines": {
+   "total": 12,
+   "items": [
+    {
+     "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+     "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+     "source": "The Register"
+    },
+    {
+     "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+     "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+     "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+     "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+     "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+     "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+     "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+     "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+     "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+     "url": "https://www.troyhunt.com/weekly-update-531/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 0,
+   "items": []
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-22-pm",
   "generated": "2026-11-22T15:20:39Z",
   "title": "SecOps rundown, Sun 22 Nov afternoon: 20 critical, 6 advisories",
@@ -2283,121 +2409,6 @@
     {
      "title": "Increased timeouts due to surge in anonymous users",
      "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-09-pm",
-  "generated": "2026-11-09T17:31:45Z",
-  "title": "SecOps rundown, Mon 9 Nov afternoon: 1 critical, 0 advisories",
-  "counts": {
-   "last_24h": 19,
-   "critical": 1,
-   "advisories": 0,
-   "status": 14
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 11
-   },
-   {
-    "name": "GitHub",
-    "notices": 3
-   }
-  ],
-  "critical": {
-   "total": 1,
-   "items": [
-    {
-     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-     "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-     "source": "SecurityWeek",
-     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 0,
-   "items": []
-  },
-  "headlines": {
-   "total": 13,
-   "items": [
-    {
-     "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
-     "url": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
-     "source": "The Register"
-    },
-    {
-     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-     "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-     "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
-     "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-     "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Huawei says it’s made a 100 percent Chinese PC",
-     "url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
-     "source": "The Register"
-    },
-    {
-     "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-     "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
-     "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-     "source": "The Register"
-    },
-    {
-     "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-     "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-     "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 0,
-   "items": []
-  },
-  "outages": {
-   "total": 3,
-   "items": [
-    {
-     "title": "Increased timeouts due to surge in anonymous users",
-     "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Webhooks and Actions",
-     "url": "https://www.githubstatus.com/incidents/xxb3l2bm76dr",
-     "source": "GitHub"
-    },
-    {
-     "title": "Increase in timeouts for some unauthenticated users",
-     "url": "https://www.githubstatus.com/incidents/pyynvrm1vskw",
      "source": "GitHub"
     }
    ]
