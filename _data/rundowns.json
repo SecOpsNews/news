@@ -1,5 +1,192 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-24-pm",
+  "generated": "2026-11-24T18:54:33Z",
+  "title": "SecOps rundown, Tue 24 Nov afternoon: 20 critical, 13 advisories",
+  "counts": {
+   "last_24h": 174,
+   "critical": 20,
+   "advisories": 13,
+   "status": 12
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 11
+   },
+   {
+    "name": "GitHub",
+    "notices": 1
+   }
+  ],
+  "critical": {
+   "total": 20,
+   "items": [
+    {
+     "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…"
+    },
+    {
+     "title": "CC-4903 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware vCenter and ESX",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4903",
+     "source": "NHS Digital",
+     "summary": "Severity: Medium"
+    },
+    {
+     "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+     "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+     "source": "SecurityWeek",
+     "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts."
+    },
+    {
+     "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+     "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+     "source": "The Hacker News",
+     "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication."
+    },
+    {
+     "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw",
+     "url": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598",
+     "source": "The Register",
+     "summary": "Microsoft has issued a critical vulnerability advisory after attackers were caught raiding Azure API Management (APIM) instances for secrets and performing admin operations. According to a nonpublic advisory, seen by…"
+    },
+    {
+     "title": "Critical Cisco remote code execution bug under attack",
+     "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
+     "source": "The Register",
+     "summary": "Attackers are currently exploiting a critical vulnerability tracked as CVE-2026-76466 in Cisco Expressway that allows them to remotely execute commands as root without any authentication, according to warnings from…"
+    }
+   ]
+  },
+  "advisories": {
+   "total": 13,
+   "items": [
+    {
+     "title": "CC-4902 - Active Exploitation of Vulnerability in Cisco Expressway Series",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4902",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4903 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware vCenter and ESX",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4903",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CVE-2026-119848 Windows Message Queuing Denial of Service Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119848",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CVE-2026-109481 ASP.NET Core Elevation of Privilege Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CVE-2026-96233 ASP.NET Core Denial of Service Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96233",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CVE-2026-96225 .NET Elevation of Privilege Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96225",
+     "source": "Microsoft MSRC"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 63,
+   "items": [
+    {
+     "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+     "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+     "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+     "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+     "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+     "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+     "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "McDonald's Japan data breach exposes customer location information",
+     "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+     "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+     "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+     "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Signal blocks AI assistants from snooping on your encrypted messages",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+     "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
+     "source": "Troy Hunt"
+    },
+    {
+     "title": "Probing DNS at Cloudflare",
+     "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+     "url": "https://www.troyhunt.com/weekly-update-531/",
+     "source": "Troy Hunt"
+    }
+   ]
+  },
+  "outages": {
+   "total": 1,
+   "items": [
+    {
+     "title": "Degraded Availability for MAI Code 2 in Copilot",
+     "url": "https://www.githubstatus.com/incidents/d56dzxzzlw0b",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-23-pm",
   "generated": "2026-11-23T19:15:30Z",
   "title": "SecOps rundown, Mon 23 Nov afternoon: 8 critical, 0 advisories",
@@ -2252,163 +2439,6 @@
     {
      "title": "Incident with Actions and Checks API",
      "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-10-pm",
-  "generated": "2026-11-10T15:36:53Z",
-  "title": "SecOps rundown, Tue 10 Nov afternoon: 10 critical, 1 advisories",
-  "counts": {
-   "last_24h": 80,
-   "critical": 10,
-   "advisories": 1,
-   "status": 37
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 32
-   },
-   {
-    "name": "GitHub",
-    "notices": 5
-   }
-  ],
-  "critical": {
-   "total": 10,
-   "items": [
-    {
-     "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-     "source": "The Hacker News",
-     "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild."
-    },
-    {
-     "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-     "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
-     "source": "SecurityWeek",
-     "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks."
-    },
-    {
-     "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-     "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-     "source": "The Hacker News",
-     "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score."
-    },
-    {
-     "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-     "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-     "source": "SecurityWeek",
-     "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days."
-    },
-    {
-     "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-     "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-     "source": "BleepingComputer",
-     "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]"
-    },
-    {
-     "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-     "source": "BleepingComputer",
-     "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 1,
-   "items": [
-    {
-     "title": "CC-4486 - SonicWall Releases Security Advisory for SonicOS Platforms",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4886",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 55,
-   "items": [
-    {
-     "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
-     "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
-     "source": "The Register"
-    },
-    {
-     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-     "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-     "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-     "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-     "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-     "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
-     "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-     "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Fireworks AI discloses new breach after cloud provider hack",
-     "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-     "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
-     "url": "https://www.troyhunt.com/weekly-update-529/",
-     "source": "Troy Hunt"
-    }
-   ]
-  },
-  "outages": {
-   "total": 5,
-   "items": [
-    {
-     "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
-     "url": "https://www.githubstatus.com/incidents/6jm5k16vyhfg",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions and Checks API",
-     "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
-     "source": "GitHub"
-    },
-    {
-     "title": "Increased timeouts due to surge in anonymous users",
-     "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
      "source": "GitHub"
     }
    ]
