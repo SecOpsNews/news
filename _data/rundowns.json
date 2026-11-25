@@ -1,5 +1,197 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-25-pm",
+  "generated": "2026-11-25T17:58:48Z",
+  "title": "SecOps rundown, Wed 25 Nov afternoon: 24 critical, 15 advisories",
+  "counts": {
+   "last_24h": 130,
+   "critical": 24,
+   "advisories": 15,
+   "status": 23
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 21
+   },
+   {
+    "name": "GitHub",
+    "notices": 2
+   }
+  ],
+  "critical": {
+   "total": 24,
+   "items": [
+    {
+     "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+     "source": "BleepingComputer",
+     "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]"
+    },
+    {
+     "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+     "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+     "source": "The Hacker News",
+     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from."
+    },
+    {
+     "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+     "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days."
+    },
+    {
+     "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+     "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+     "source": "The Hacker News",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes…"
+    },
+    {
+     "title": "CC-4904 - Active Exploitation of Critical Vulnerability in Drupal Core",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4904",
+     "source": "NHS Digital",
+     "summary": "Severity: Medium"
+    },
+    {
+     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+     "source": "The Hacker News",
+     "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 15,
+   "items": [
+    {
+     "title": "CC-4904 - Active Exploitation of Critical Vulnerability in Drupal Core",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4904",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CVE-2026-112732 Microsoft Office Visio Remote Code Execution Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-112732",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CC-4902 - Active Exploitation of Vulnerability in Cisco Expressway Series",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4902",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CC-4903 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware vCenter and ESX",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4903",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "CVE-2026-119848 Windows Message Queuing Denial of Service Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119848",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CVE-2026-109481 ASP.NET Core Elevation of Privilege Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481",
+     "source": "Microsoft MSRC"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 83,
+   "items": [
+    {
+     "title": "Hackers reportedly breached CIA intelligence analysis system",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft confirms authentication issues after November updates",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Debian wakes up wearing Windows XP's actual skin",
+     "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
+     "source": "The Register"
+    },
+    {
+     "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+     "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+     "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+     "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+     "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+     "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+     "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+     "source": "The Hacker News"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 4,
+   "items": [
+    {
+     "title": "Introducing Search for Agents",
+     "url": "https://blog.cloudflare.com/search-for-agents/",
+     "source": "Cloudflare blog"
+    },
+    {
+     "title": "Signal blocks AI assistants from snooping on your encrypted messages",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+     "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
+     "source": "Troy Hunt"
+    },
+    {
+     "title": "Probing DNS at Cloudflare",
+     "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+     "source": "Cloudflare blog"
+    }
+   ]
+  },
+  "outages": {
+   "total": 2,
+   "items": [
+    {
+     "title": "Disruption with Code Completions and Next Edit Suggestions",
+     "url": "https://www.githubstatus.com/incidents/m0wx9qml7yjh",
+     "source": "GitHub"
+    },
+    {
+     "title": "Degraded Availability for MAI Code 2 in Copilot",
+     "url": "https://www.githubstatus.com/incidents/d56dzxzzlw0b",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-24-pm",
   "generated": "2026-11-24T18:54:33Z",
   "title": "SecOps rundown, Tue 24 Nov afternoon: 20 critical, 13 advisories",
@@ -2252,193 +2444,6 @@
     {
      "title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
      "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-11-pm",
-  "generated": "2026-11-11T15:15:25Z",
-  "title": "SecOps rundown, Wed 11 Nov afternoon: 23 critical, 4 advisories",
-  "counts": {
-   "last_24h": 83,
-   "critical": 23,
-   "advisories": 4,
-   "status": 48
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 43
-   },
-   {
-    "name": "GitHub",
-    "notices": 5
-   }
-  ],
-  "critical": {
-   "total": 23,
-   "items": [
-    {
-     "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
-     "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
-     "source": "SecurityWeek",
-     "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices."
-    },
-    {
-     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-     "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-     "source": "The Hacker News",
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV)…"
-    },
-    {
-     "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-     "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-     "source": "The Hacker News",
-     "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws."
-    },
-    {
-     "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
-     "url": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
-     "source": "The Register",
-     "summary": "It’s another doozy of a Patch Tuesday, with Microsoft fixing 1,094 bugs in its products, including one that attackers exploited before Redmond released a patch. Jake Knott, head of threat intelligence at exposure…"
-    },
-    {
-     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-     "source": "The Hacker News",
-     "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild."
-    },
-    {
-     "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-     "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-     "source": "SecurityWeek",
-     "summary": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 4,
-   "items": [
-    {
-     "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/SberSpasibo",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "YouHack - 7,160,849 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/YouHack",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "CC-4887 - Google Releases Security Update for Chrome",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4887",
-     "source": "NHS Digital"
-    },
-    {
-     "title": "CC-4486 - SonicWall Releases Security Advisory for SonicOS Platforms",
-     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4886",
-     "source": "NHS Digital"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 92,
-   "items": [
-    {
-     "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
-     "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-     "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
-     "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "OpenAI builds a kill switch for its research models",
-     "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-     "source": "The Register"
-    },
-    {
-     "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-     "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-     "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Anthropic tiptoes into MS Office territory",
-     "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
-     "source": "The Register"
-    },
-    {
-     "title": "Ring robots ready to patrol paranoids’ pads",
-     "url": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
-     "source": "The Register"
-    },
-    {
-     "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-     "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 4,
-   "items": [
-    {
-     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-     "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-     "source": "Krebs on Security"
-    },
-    {
-     "title": "Iranian hackers turned up the heat on French supermarket freezers, says France",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-     "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
-     "source": "Troy Hunt"
-    },
-    {
-     "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
-     "url": "https://www.troyhunt.com/weekly-update-529/",
-     "source": "Troy Hunt"
-    }
-   ]
-  },
-  "outages": {
-   "total": 5,
-   "items": [
-    {
-     "title": "Incident with Git Operations and Pull Requests",
-     "url": "https://www.githubstatus.com/incidents/hnf21m9jkl3c",
-     "source": "GitHub"
-    },
-    {
-     "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
-     "url": "https://www.githubstatus.com/incidents/6jm5k16vyhfg",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Actions and Checks API",
-     "url": "https://www.githubstatus.com/incidents/tp8cghg7tlc4",
      "source": "GitHub"
     }
    ]
