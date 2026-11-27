@@ -1,5 +1,187 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-27-pm",
+  "generated": "2026-11-27T17:28:54Z",
+  "title": "SecOps rundown, Fri 27 Nov afternoon: 18 critical, 4 advisories",
+  "counts": {
+   "last_24h": 79,
+   "critical": 18,
+   "advisories": 4,
+   "status": 21
+  },
+  "providers": [
+   {
+    "name": "Cloudflare",
+    "notices": 18
+   },
+   {
+    "name": "GitHub",
+    "notices": 3
+   }
+  ],
+  "critical": {
+   "total": 18,
+   "items": [
+    {
+     "title": "Drupal warns of new site takeover flaw exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
+    },
+    {
+     "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+     "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+     "source": "The Hacker News",
+     "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution."
+    },
+    {
+     "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+     "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+     "source": "The Hacker News",
+     "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday."
+    },
+    {
+     "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+     "url": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+     "source": "The Register",
+     "summary": "India’s free e-government platform has a critical SQL injection flaw that thousands of organizations must patch to protect up to two billion citizens. The platform is called the Digital Infrastructure for Governance…"
+    },
+    {
+     "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+     "source": "SecurityWeek",
+     "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign."
+    },
+    {
+     "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+     "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 4,
+   "items": [
+    {
+     "title": "CVE-2026-62840 Linux Kernel Elevation of Privilege Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62840",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CC-4905 - Active Exploitation of Critical Vulnerability in Drupal Core",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4905",
+     "source": "NHS Digital"
+    },
+    {
+     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
+     "source": "Microsoft Security"
+    },
+    {
+     "title": "CC-4904 - Active Exploitation of Critical Vulnerability in Drupal Core",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4904",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 66,
+   "items": [
+    {
+     "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+     "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "SAP confirms security incident after suspicious GitHub activity",
+     "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft removes WSUS server role in Windows Server 2028",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "British social security system techies yank services offline following 'cyber incident'",
+     "url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+     "source": "The Register"
+    },
+    {
+     "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+     "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Hex Package Manager Warns of Potential Data Breach",
+     "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "100,000 Potentially Impacted by Colorado Data Breach",
+     "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+     "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+     "source": "SecurityWeek"
+    },
+    {
+     "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+     "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+     "source": "The Hacker News"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 3,
+   "items": [
+    {
+     "title": "New York bans AI chatbot toys – but not in time for Christmas",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Smashing Security podcast #494: The Russian accused of spying on Palantir from Starbucks",
+     "url": "https://grahamcluley.com/smashing-security-podcast-494/",
+     "source": "Graham Cluley"
+    },
+    {
+     "title": "Introducing Search for Agents",
+     "url": "https://blog.cloudflare.com/search-for-agents/",
+     "source": "Cloudflare blog"
+    }
+   ]
+  },
+  "outages": {
+   "total": 3,
+   "items": [
+    {
+     "title": "LFS degradation for some customers",
+     "url": "https://www.githubstatus.com/incidents/m0wvf9pt3l0l",
+     "source": "GitHub"
+    },
+    {
+     "title": "MAI Code 2 Degredation",
+     "url": "https://www.githubstatus.com/incidents/189rrqcfhc75",
+     "source": "GitHub"
+    },
+    {
+     "title": "Investigating degraded experiences across GitHub products",
+     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+     "source": "GitHub"
+    }
+   ]
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-26-pm",
   "generated": "2026-11-26T17:44:10Z",
   "title": "SecOps rundown, Thu 26 Nov afternoon: 15 critical, 15 advisories",
@@ -2227,211 +2409,6 @@
      "title": "Incident with Webhooks API",
      "url": "https://www.githubstatus.com/incidents/gl7yhd7jx00v",
      "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-13-pm",
-  "generated": "2026-11-13T15:25:12Z",
-  "title": "SecOps rundown, Fri 13 Nov afternoon: 29 critical, 24 advisories",
-  "counts": {
-   "last_24h": 87,
-   "critical": 29,
-   "advisories": 24,
-   "status": 37
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 30
-   },
-   {
-    "name": "AWS",
-    "notices": 2
-   },
-   {
-    "name": "GitHub",
-    "notices": 4
-   },
-   {
-    "name": "Slack",
-    "notices": 1
-   }
-  ],
-  "critical": {
-   "total": 29,
-   "items": [
-    {
-     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-     "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-     "source": "SecurityWeek",
-     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges."
-    },
-    {
-     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-     "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-     "source": "SecurityWeek",
-     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root."
-    },
-    {
-     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-     "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-     "source": "SecurityWeek",
-     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process."
-    },
-    {
-     "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-     "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-     "source": "SecurityWeek",
-     "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions."
-    },
-    {
-     "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-     "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-     "source": "BleepingComputer",
-     "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]"
-    },
-    {
-     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-     "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-     "source": "BleepingComputer",
-     "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21…"
-    }
-   ]
-  },
-  "advisories": {
-   "total": 24,
-   "items": [
-    {
-     "title": "CastleRAT - 179,745 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/CastleRAT",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "AI Source Code Analysis Detection Evasion Techniques",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/18",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "[REVIVE-SA-2026-004] Revive Adserver Vulnerabilities",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/23",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-1 iOS 27.2.1 and iPadOS 27.2.1",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/24",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/25",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/26",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 76,
-   "items": [
-    {
-     "title": "C++26 stumbles at finish line over Contracts dispute",
-     "url": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
-     "source": "The Register"
-    },
-    {
-     "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-     "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-     "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "Developer cleverly shrank 2,600 lines of C into a six-line script but still ending up losing sleep",
-     "url": "https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264",
-     "source": "The Register"
-    },
-    {
-     "title": "Microsoft confirms Windows activation failures after November updates",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-     "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Palantir’s Karp takes a sharp left turn, says he and the company’s products are actually ‘progressive’",
-     "url": "https://www.theregister.com/software/2026/11/12/palantirs-karp-takes-a-sharp-left-turn-says-he-and-the-companys-products-are-actually-progressive/5309441",
-     "source": "The Register"
-    },
-    {
-     "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-     "source": "BleepingComputer"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 4,
-   "items": [
-    {
-     "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Smashing Security podcast #492: How hackers turned Russian cars into pumpkins",
-     "url": "https://grahamcluley.com/smashing-security-podcast-492/",
-     "source": "Graham Cluley"
-    },
-    {
-     "title": "Who Runs the Ransomware Group Qilin?",
-     "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-     "source": "Krebs on Security"
-    },
-    {
-     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-     "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-     "source": "Krebs on Security"
-    }
-   ]
-  },
-  "outages": {
-   "total": 7,
-   "items": [
-    {
-     "title": "Incident with Webhooks API",
-     "url": "https://www.githubstatus.com/incidents/gl7yhd7jx00v",
-     "source": "GitHub"
-    },
-    {
-     "title": "Disruption with Email Delivery",
-     "url": "https://www.githubstatus.com/incidents/nwbjzl7nfrc2",
-     "source": "GitHub"
-    },
-    {
-     "title": "Service is operating normally: [RESOLVED] Elevated API issues and Launch Failures",
-     "url": "https://status.aws.amazon.com/",
-     "source": "AWS"
     }
    ]
   }

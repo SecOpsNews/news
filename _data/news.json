@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-26T17:44:10Z",
+ "generated": "2026-11-27T17:28:54Z",
  "stars": 75,
  "counts": {
-  "last_24h": 77,
-  "critical": 15,
-  "advisories": 15,
-  "status": 38
+  "last_24h": 79,
+  "critical": 18,
+  "advisories": 4,
+  "status": 21
  },
  "providers": [
   {
    "name": "Cloudflare",
-   "notices": 33
+   "notices": 18
   },
   {
    "name": "Google Cloud",
@@ -26,7 +26,7 @@
   },
   {
    "name": "GitHub",
-   "notices": 5
+   "notices": 3
   },
   {
    "name": "Slack",
@@ -38,6 +38,717 @@
   }
  ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "published": "2026-11-27T13:59:14Z",
+   "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "published": "2026-11-27T13:59:13Z",
+   "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "SAP confirms security incident after suspicious GitHub activity",
+   "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "published": "2026-11-27T13:59:12Z",
+   "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "critical": false
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "published": "2026-11-27T13:59:11Z",
+   "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Microsoft removes WSUS server role in Windows Server 2028",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "published": "2026-11-27T13:59:09Z",
+   "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135279: @fastify/express vulnerable to middleware bypass via empty route parameters in Express routers and sub-applications",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135279",
+   "published": "2026-11-27T13:59:09Z",
+   "summary": "@fastify/express is the plugin that lets an application run Express middleware and Express applications inside the Fastify web framework. In versions before 4.0.14, a request with an empty dynamic route parameter…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137721",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137721",
+   "published": "2026-11-27T13:59:08Z",
+   "summary": "A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Manager could allow an attacker to conduct a command injection attack due to insufficient parameter sanitization. A successful…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137723",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137723",
+   "published": "2026-11-27T13:59:07Z",
+   "summary": "A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Manager could allow an attacker to conduct a command injection attack due to insufficient parameter sanitization. A successful…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137724",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137724",
+   "published": "2026-11-27T13:59:07Z",
+   "summary": "A vulnerability in the Platform component of Mitel OpenScape 4000, and OpenScape 4000 Manager could allow an unauthenticated attacker to conduct an unauthorized access attack due to improper authentication…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137738",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137738",
+   "published": "2026-11-27T13:59:06Z",
+   "summary": "In RealVNC Server before 7.19.1, UDP-based connections could potentially be exploited without authentication to execute code remotely or cause the software to crash. This could allow an attacker to remotely execute…",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "British social security system techies yank services offline following 'cyber incident'",
+   "url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+   "published": "2026-11-27T13:59:05Z",
+   "summary": "The UK's Department for Work and Pensions (DWP) has taken some services offline after detecting a \"cyber incident,\" but says regular benefit and pension payments are unaffected. The department announced the…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-59103: MONEO ERP unauthenticated session forging via the public Ping JSON-RPC method",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-59103",
+   "published": "2026-11-27T13:59:05Z",
+   "summary": "MONEO ERP exposes the Ping method of its slave JSON-RPC service over WebSocket as @rpc.openpublic, so it can be called without a valid session. The method's only guard compares the calling application name with…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135933: WordPress WebinarIgnition plugin <= 4.28.1 - Privilege Escalation vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135933",
+   "published": "2026-11-27T13:59:04Z",
+   "summary": "Incorrect Privilege Assignment vulnerability in Tobias WebinarIgnition webinar-ignition allows Privilege Escalation.This issue affects WebinarIgnition: from n/a through 4.28.1.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+   "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+   "published": "2026-11-27T13:59:04Z",
+   "summary": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-134963: WordPress WPMasterToolKit plugin <= 2.26.1 - Arbitrary Code Execution vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-134963",
+   "published": "2026-11-27T13:59:04Z",
+   "summary": "Improper Control of Generation of Code ('Code Injection') vulnerability in Webdeclic WPMasterToolKit wpmastertoolkit allows Code Injection.This issue affects WPMasterToolKit: from n/a through 2.26.1.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Hex Package Manager Warns of Potential Data Breach",
+   "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+   "published": "2026-11-27T13:59:03Z",
+   "summary": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135930: WordPress Amelia plugin <= 2.4.14 - Bypass Vulnerability vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135930",
+   "published": "2026-11-27T13:59:03Z",
+   "summary": "Authentication Bypass by Spoofing vulnerability in TMS Amelia ameliabooking allows Identity Spoofing.This issue affects Amelia: from n/a through 2.4.14.",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "100,000 Potentially Impacted by Colorado Data Breach",
+   "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+   "published": "2026-11-27T13:59:03Z",
+   "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-106169: Unsafe Java Deserialization in Application Integration allows Remote Code Execution",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-106169",
+   "published": "2026-11-27T13:59:03Z",
+   "summary": "A Deserialization of Untrusted Data vulnerability in the eventbus execution in Google Cloud Application Integration versions prior to 2026-09-22 on Google Cloud Platform allows an authenticated attacker to achieve…",
+   "critical": true
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+   "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+   "published": "2026-11-27T13:59:02Z",
+   "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-124981",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-124981",
+   "published": "2026-11-27T13:59:02Z",
+   "summary": "A vulnerability has been identified in Mendix OIDC Provider (Mendix 10 compatible) (All versions < V6.0.0), Mendix OIDC Provider (Mendix 11 compatible) (All versions < V6.0.0), Mendix OIDC Provider (Mendix 9…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+   "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+   "published": "2026-11-27T13:59:02Z",
+   "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+   "published": "2026-11-27T13:59:01Z",
+   "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-85258: Unauthorized Access to User Conversations in Google Cloud Vertex AI Assistant",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-85258",
+   "published": "2026-11-27T13:59:01Z",
+   "summary": "A Missing Authorization vulnerability in the private console API in Google Cloud Vertex AI (Vertex AI Assistant) versions prior to 2026-04-13 on Google Cloud Platform allows an unauthenticated remote attacker to…",
+   "critical": true
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+   "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+   "published": "2026-11-27T13:59:00Z",
+   "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "published": "2026-11-27T13:59:00Z",
+   "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells…",
+   "critical": false
+  },
+  {
+   "source": "Microsoft MSRC",
+   "category": "advisory",
+   "title": "CVE-2026-62840 Linux Kernel Elevation of Privilege Vulnerability",
+   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62840",
+   "published": "2026-11-27T13:59:00Z",
+   "summary": "Information published.",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "published": "2026-11-27T13:58:59Z",
+   "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-123912: Out-of-bounds write vulnerability in XHCI USB controller",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-123912",
+   "published": "2026-11-27T04:19:06Z",
+   "summary": "VMware ESXi, Workstation, and Fusion contain an out-of-bounds write vulnerability in the XHCI USB controller. Broadcom has evaluated the severity of this issue to be in the Critical severity range with a maximum…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-127163: pylxd: Improper certificate validation in websocket connections",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-127163",
+   "published": "2026-11-27T04:19:05Z",
+   "summary": "Improper certificate validation in websocket connections in Canonical pylxd before 2.4.3 allows a network attacker to read command stdin and spoof command output via impersonating a remote LXD endpoint.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135384: lxd: Improper authentication in OIDC bearer token verification",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135384",
+   "published": "2026-11-27T04:19:04Z",
+   "summary": "Improper authentication in OIDC bearer token verification in Canonical LXD before 5.0.12, 5.21.10, 6.10.2 allows a remote attacker holding a token signed by the configured identity provider to authenticate to the LXD…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-106125: Sneeit Framework <= 8.7 - Unauthenticated Remote Code Execution via sneeit_compact_menu_mega_content_callback",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-106125",
+   "published": "2026-11-27T04:19:04Z",
+   "summary": "The Sneeit Framework plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 8.7 via the 'callback' parameter of the sneeitcompactmenumegacontent AJAX action. The handler…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-115867: Database for Contact Form 7, WPforms, Elementor forms <= 1.5.5 - Unauthenticated Arbitrary File Upload via Ninja Forms Submission",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-115867",
+   "published": "2026-11-27T04:19:03Z",
+   "summary": "The Database for Contact Form 7, WPforms, Elementor forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 1.5.5 via the copyfiles function. This is due to missing…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137706: Direk Tech｜Smart Portal - Missing Authorization",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137706",
+   "published": "2026-11-27T04:19:02Z",
+   "summary": "Smart Portal developed by Direk Tech has a Missing Authorization vulnerability. Authenticated remote attackers can add a specified account to the Active Directory Domain Admins group, thereby obtaining domain…",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+   "url": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+   "published": "2026-11-27T04:18:56Z",
+   "summary": "India’s free e-government platform has a critical SQL injection flaw that thousands of organizations must patch to protect up to two billion citizens. The platform is called the Digital Infrastructure for Governance…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-136823: D-Link R32 flupl self Endpoint httpd os command injection",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-136823",
+   "published": "2026-11-26T21:41:41Z",
+   "summary": "A vulnerability was found in D-Link R32 1.10B02. This affects an unknown function of the file /usr/bin/httpd of the component flupl self Endpoint. Performing a manipulation of the argument fpath results in os command…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133971: Authentication Bypass Vulnerability in HPE Networking Management Software (Airwave)",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133971",
+   "published": "2026-11-26T21:41:40Z",
+   "summary": "An authentication bypass vulnerability exists in the web management interface of HPE Networking Management Software (Airwave). Successful exploitation could allow an unauthenticated remote attacker to gain…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133972: Authentication Bypass Vulnerabilities in API of HPE Networking Management Software (Airwave)",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133972",
+   "published": "2026-11-26T21:41:40Z",
+   "summary": "A vulnerability in system functionality could allow an attacker with network access to bypass authentication. Successful exploitation could potentially allow an attacker to perform unauthorized actions, affecting…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133973: Unauthenticated Command Injection Vulnerability in Web-Based Management Interface of HPE Networking Management Software (Airwave)",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133973",
+   "published": "2026-11-26T21:41:39Z",
+   "summary": "A command injection vulnerability exists in the web-based management interface of HPE Networking Management Software (Airwave). Successful exploitation could allow an unauthenticated remote attacker to execute…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135203: JavaScript payload-mapping sandbox escape allows arbitrary code execution in the connectivity service",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135203",
+   "published": "2026-11-26T21:41:39Z",
+   "summary": "In Eclipse Ditto versions 0.3.0-M1 through 3.8.15 and 3.9.0 through 3.9.9, the JavaScript payload mapper of the connectivity service executes user-supplied mapping scripts in a Mozilla Rhino engine without a…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-124840: Legacy GINA recovery-session purpose confusion permits takeover",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-124840",
+   "published": "2026-11-26T21:41:38Z",
+   "summary": "SEPPmail Secure Email Gateway before 15.1.2 reuses a broad legacy GINA session purpose across registration and recovery workflows. A remote attacker who knows an account security answer can use a recovery session in…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-124843: Hard-coded fallback cryptographic key enables token forgery",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-124843",
+   "published": "2026-11-26T21:41:38Z",
+   "summary": "SEPPmail Secure Email Gateway before 15.1.2 uses a source-visible hard-coded fallback secret for legacy GINA token and Large File Transfer cryptographic operations when expected key material is unavailable or…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-131767: WordPress FunnelKit Automations plugin <= 3.9.0.1 - PHP Object Injection vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-131767",
+   "published": "2026-11-26T21:41:37Z",
+   "summary": "Deserialization of Untrusted Data vulnerability in Aman FunnelKit Automations wp-marketing-automations allows Object Injection.This issue affects FunnelKit Automations: from n/a through 3.9.0.1.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-134481: WordPress Ultimate Member plugin <= 2.14.1 - PHP Object Injection vulnerability",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-134481",
+   "published": "2026-11-26T21:41:36Z",
+   "summary": "Deserialization of Untrusted Data vulnerability in Ultimate Member Ultimate Member ultimate-member allows Object Injection.This issue affects Ultimate Member: from n/a through 2.14.1.",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-130637: Pre-authentication server-side template injection in SEPPMAIL Secure E-Mail Gateway",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-130637",
+   "published": "2026-11-26T21:41:36Z",
+   "summary": "SEPPMAIL Secure E-Mail Gateway versions before 15.1.2 are affected by a pre-authentication server-side template injection vulnerability that allows unauthenticated remote attackers to disclose sensitive account…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137567: llama.cpp b11450 before b12658 Out-of-Bounds Write via RPC copy_tensor",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137567",
+   "published": "2026-11-26T21:41:35Z",
+   "summary": "llama.cpp b11450 before b12658 contains an out-of-bounds write vulnerability in the ggml RPC server that allows unauthenticated attackers to write to arbitrary heap addresses via zero-element destination tensors.…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-104998: Product Input Fields for WooCommerce <= 2.1.0 - Unauthenticated Arbitrary File Upload via Cart File Upload Field",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-104998",
+   "published": "2026-11-26T21:41:35Z",
+   "summary": "The Product Input Fields for WooCommerce plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 2.1.0 via the processfileinputfield function. This is due to missing file…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-133951: Simple Membership <= 4.8.9 - Unauthenticated Privilege Escalation to Editor via Forged 'swpm_level_hash'",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133951",
+   "published": "2026-11-26T21:41:34Z",
+   "summary": "The Simple Membership plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and including, 4.8.9 This is due to the site-wide signing secret swpmprivatekeyone being generated at install time…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-134173: Iptanus File Upload <= 5.3.1 - Unauthenticated Arbitrary File Deletion via 'wfu_ajax_action_handshake' and 'wfu_ajax_action_send_email_notification' AJAX Actions",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-134173",
+   "published": "2026-11-26T21:41:34Z",
+   "summary": "The WordPress File Upload plugin for WordPress is vulnerable to Arbitrary File Deletion in versions up to, and including, 5.3.1 via the 'wfuajaxactionhandshake' and 'wfuajaxactionsendemailnotification' AJAX Actions.…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-135641: WP Job Portal <= 2.7.2 - Unauthenticated Privilege Escalation via Account Takeover to 'wpjobportal-socialid' Cookie",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135641",
+   "published": "2026-11-26T21:41:33Z",
+   "summary": "The WP Job Portal – AI-Powered Recruitment System for Company or Job Board website plugin for WordPress is vulnerable to Authentication Bypass leading to Account Takeover in all versions up to, and including, 2.7.2…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-136240: PDF Invoice for WooCommerce + Drag and Drop Template Builder <= 7.2.0 - Unauthenticated PHP Object Injection to Arbitrary File Deletion via 'billing_address.first_name' Parameter via WC Store API Checkout",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-136240",
+   "published": "2026-11-26T21:41:33Z",
+   "summary": "The PDF Invoice for WooCommerce + Drag and Drop Template Builder plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 7.2.0 via deserialization of untrusted input . This…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-126984: Pulp_python: pulp_python: pull-through caching fetches a client-supplied url with the remote's credentials",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-126984",
+   "published": "2026-11-26T21:41:32Z",
+   "summary": "A server-side request forgery flaw has been found in the getremoteartifacturl() function in pulppython/app/models.py of the pull-through caching feature in the pulppython package. The function uses the redirect query…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137481: Traefik before 2.11.62 Authorization Bypass via sanitizePath Path-Parameter Dot-Segments",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137481",
+   "published": "2026-11-26T21:41:32Z",
+   "summary": "Traefik before 2.11.62, 3.x before 3.7.18, and 3.8.0-rc.1 contain an authorization bypass because the sanitizePath entry point option leaves dot-segments carrying path parameters, such as /..;x/, unresolved when…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137494: Budibase before 4.0.0 Cross-Tenant File Deletion via Attachment Key",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137494",
+   "published": "2026-11-26T21:41:31Z",
+   "summary": "Budibase before 4.0.0 contains a broken object-level authorization vulnerability that allows authenticated users with table write access to reference other tenants' files by supplying arbitrary attachment keys on row…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "published": "2026-11-26T21:41:31Z",
+   "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137498: Budibase Server 3.39.18 before 4.0.0 MongoDB Filter Erasure via __proto__ Keys",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137498",
+   "published": "2026-11-26T21:41:31Z",
+   "summary": "Budibase Server from 3.39.18 before 4.0.0 contains a prototype pollution vulnerability that allows unauthenticated attackers to erase MongoDB query filters by supplying proto as a dynamic JSON key in PUBLIC queries.…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "published": "2026-11-26T21:41:30Z",
+   "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137499: Budibase 3.41.0 before 4.0.0 Account Takeover via Unverified-Email OIDC Linking",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137499",
+   "published": "2026-11-26T21:41:30Z",
+   "summary": "Budibase from 3.41.0 before 4.0.0 contains an authentication bypass vulnerability that allows unauthenticated attackers to take over password-less global Builder accounts via unverified-email OIDC/SSO account…",
+   "critical": true
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137536: ToolJet before 3.21.94-beta Account Takeover via SSO Email-Based Account Linking",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137536",
+   "published": "2026-11-26T21:41:30Z",
+   "summary": "ToolJet before 3.21.94-beta contains an authentication bypass in its server OAuth SSO sign-in module, which resolves Google and Git SSO logins solely by the provider-asserted email without checking emailverified or…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "published": "2026-11-26T21:41:30Z",
+   "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert…",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137544: LaraDashboard before 1.5.0 Path Traversal RCE via module.json Namespace Parsing",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137544",
+   "published": "2026-11-26T21:41:29Z",
+   "summary": "LaraDashboard before 1.5.0 contains a path traversal vulnerability in module.json providers and composer.json psr-4 namespace parsing that derives destination folder names without excluding traversal characters.…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+   "published": "2026-11-26T21:41:29Z",
+   "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "critical": false
+  },
+  {
+   "source": "Graham Cluley",
+   "category": "blog",
+   "title": "New York bans AI chatbot toys – but not in time for Christmas",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys",
+   "published": "2026-11-26T21:41:28Z",
+   "summary": "Talking teddies that describe massacres and help kids break bedtime rules? New York has had enough, and has banned AI chatbot toys for five years. Just not in time for Christmas.",
+   "critical": false
+  },
+  {
+   "source": "Cloudflare Radar",
+   "category": "cve",
+   "title": "CVE-2026-137550: Frappe Framework before 15.122.0 Authorization Bypass via Document.update()",
+   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-137550",
+   "published": "2026-11-26T21:41:28Z",
+   "summary": "Frappe Framework before 15.122.0 and 16.x before 16.50.0 contains a missing authorization vulnerability in Document.update() that fails to validate whether the caller is permitted to submit or modify the target…",
+   "critical": true
+  },
+  {
+   "source": "BleepingComputer",
+   "category": "news",
+   "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "published": "2026-11-26T21:41:28Z",
+   "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "published": "2026-11-26T21:41:23Z",
+   "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Hackers help themselves to 1Password's source code and customer data",
+   "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317",
+   "published": "2026-11-26T21:41:23Z",
+   "summary": "1Password is reassuring customers that their vaults remain secure after an attacker breached its systems and stole account information and private source code. The Canadian security biz disclosed this week that an…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "published": "2026-11-26T21:41:22Z",
+   "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Company was religious about backups but sinned by leaving them exposed",
+   "url": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+   "published": "2026-11-26T21:41:22Z",
+   "summary": "Welcome, once again, to PWNED, where we’re thankful every time someone leaves a password sticky note on a monitor or fails to delete a terminated employee’s admin account. But neither of those common occurrences is…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign.",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Wyoming uranium operation shuts down after cyberattack",
+   "url": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "Peninsula Energy has temporarily shut down its Wyoming uranium operation after a \"cybersecurity incident\" affected plant and wellfield control systems. The Australian uranium producer said on Wednesday that it had…",
+   "critical": false
+  },
+  {
+   "source": "The Hacker News",
+   "category": "news",
+   "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Indie web browser Ladybird enters alpha testing",
+   "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "The independent Ladybird web browser has reached an important milestone: an alpha test version. What's more, it works well. These may not be the criteria by which some will judge it, though. Earlier this week, the…",
+   "critical": false
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+   "url": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "Travel giant Flight Centre Travel Group (FLT) says \"a significant number of customer records\" may have been accessed by \"unknown persons\" following a cyberattack. The Brisbane-headquartered company said the incident…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+   "published": "2026-11-26T21:41:21Z",
+   "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "UK privacy watchdog faces probe into its workplace culture",
+   "url": "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380",
+   "published": "2026-11-26T21:41:20Z",
+   "summary": "Britain's privacy watchdog is getting a taste of its own medicine, with an independent review set to examine the culture, governance, and accountability surrounding the events that led to former Information…",
+   "critical": false
+  },
+  {
+   "source": "SecurityWeek",
+   "category": "news",
+   "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+   "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+   "published": "2026-11-26T21:41:20Z",
+   "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information.",
+   "critical": false
+  },
+  {
+   "source": "NHS Digital",
+   "category": "advisory",
+   "title": "CC-4905 - Active Exploitation of Critical Vulnerability in Drupal Core",
+   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4905",
+   "published": "2026-11-26T21:41:20Z",
+   "summary": "Severity: Medium",
+   "critical": true
+  },
+  {
+   "source": "The Register",
+   "category": "news",
+   "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+   "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+   "published": "2026-11-26T21:41:20Z",
+   "summary": "Chinese and North Korean state-sponsored hacking crews are among the growing number of groups known for using the ARTEX pentesting tool in attacks, Microsoft said this week. ARTEX is an open source, AI-powered…",
+   "critical": false
+  },
   {
    "source": "Cloudflare Radar",
    "category": "cve",
@@ -109,15 +820,6 @@
    "published": "2026-11-26T11:01:38Z",
    "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.",
    "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-123912: Out-of-bounds write vulnerability in XHCI USB controller",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-123912",
-   "published": "2026-11-26T11:01:38Z",
-   "summary": "VMware ESXi, Workstation, and Fusion contain an out-of-bounds write vulnerability in the XHCI USB controller. Broadcom has evaluated the severity of this issue to be in the Critical severity range with a maximum…",
-   "critical": true
   },
   {
    "source": "The Hacker News",
@@ -426,15 +1128,6 @@
    "critical": true
   },
   {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-136823: D-Link R32 flupl self Endpoint httpd os command injection",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-136823",
-   "published": "2026-11-26T00:29:52Z",
-   "summary": "A vulnerability was found in D-Link R32 1.10B02. This affects an unknown function of the file /usr/bin/httpd of the component flupl self Endpoint. Performing a manipulation of the argument fpath results in os command…",
-   "critical": true
-  },
-  {
    "source": "The Register",
    "category": "news",
    "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
@@ -442,33 +1135,6 @@
    "published": "2026-11-26T00:29:51Z",
    "summary": "Microsoft has released a fix for a baffling bug that threw a blank window over Office applications and brought work to a standstill. The problem appeared when users launched an affected Office app, which could…",
    "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-133971: Authentication Bypass Vulnerability in HPE Networking Management Software (Airwave)",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133971",
-   "published": "2026-11-26T00:29:51Z",
-   "summary": "An authentication bypass vulnerability exists in the web management interface of HPE Networking Management Software (Airwave). Successful exploitation could allow an unauthenticated remote attacker to gain…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-133972: Authentication Bypass Vulnerabilities in API of HPE Networking Management Software (Airwave)",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133972",
-   "published": "2026-11-26T00:29:50Z",
-   "summary": "A vulnerability in system functionality could allow an attacker with network access to bypass authentication. Successful exploitation could potentially allow an attacker to perform unauthorized actions, affecting…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-133973: Unauthenticated Command Injection Vulnerability in Web-Based Management Interface of HPE Networking Management Software (Airwave)",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-133973",
-   "published": "2026-11-26T00:29:50Z",
-   "summary": "A command injection vulnerability exists in the web-based management interface of HPE Networking Management Software (Airwave). Successful exploitation could allow an unauthenticated remote attacker to execute…",
-   "critical": true
   },
   {
    "source": "BleepingComputer",
@@ -1612,1059 +2278,6 @@
    "published": "2026-11-25T02:34:49Z",
    "summary": "Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A…",
    "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-123986: Adobe Campaign Classic (ACC) | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-123986",
-   "published": "2026-11-25T02:34:48Z",
-   "summary": "Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-123987: Adobe Campaign Classic (ACC) | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-123987",
-   "published": "2026-11-25T02:34:47Z",
-   "summary": "Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A…",
-   "critical": true
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters",
-   "url": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978",
-   "published": "2026-11-25T02:34:38Z",
-   "summary": "Inception, a new data theft and extortion gang that security researchers have theorized is a rebrand of the ShinyHunters group, “reject[s] this attribution” and claims it has no affiliation with any prior cybercrime…",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-   "published": "2026-11-25T02:34:31Z",
-   "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-   "published": "2026-11-25T02:34:30Z",
-   "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
-   "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-   "published": "2026-11-25T02:34:30Z",
-   "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-   "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-   "published": "2026-11-25T02:34:30Z",
-   "summary": "It was not clear what specific information was compromised or who was responsible.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "New Inception extortion gang launches large-scale vishing campaign",
-   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-   "published": "2026-11-25T02:34:29Z",
-   "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "Satellites Have a Ground-Level Cybersecurity Problem",
-   "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
-   "published": "2026-11-25T02:34:29Z",
-   "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-   "published": "2026-11-25T02:34:29Z",
-   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-112732 Microsoft Office Visio Remote Code Execution Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-112732",
-   "published": "2026-11-25T02:34:29Z",
-   "summary": "Information published. This CVE was addressed by updates that were released in November 2026, but the CVE was inadvertently omitted from the November 2026 Security Updates. This is an informational change only.…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/gjgsvg5r6bjf",
-   "published": "2026-11-25T01:01:38Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-12-03 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "ATL (Atlanta) on 2026-12-04",
-   "url": "https://www.cloudflarestatus.com/incidents/5235akl40trk",
-   "published": "2026-11-25T01:01:37Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2026-12-04 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-07",
-   "url": "https://www.cloudflarestatus.com/incidents/e8fx60umqt0f",
-   "published": "2026-11-25T01:01:36Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-07 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-08",
-   "url": "https://www.cloudflarestatus.com/incidents/s12ecsoi8b8j",
-   "published": "2026-11-25T01:01:36Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-08 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-09",
-   "url": "https://www.cloudflarestatus.com/incidents/hot0raq2i9mh",
-   "published": "2026-11-25T01:01:35Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-09 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "EWR (Newark) on 2026-12-10",
-   "url": "https://www.cloudflarestatus.com/incidents/mtfy8lt28ep5",
-   "published": "2026-11-25T01:01:35Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in EWR (Newark) datacenter on 2026-12-10 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Disruption with Code Completions and Next Edit Suggestions",
-   "url": "https://www.githubstatus.com/incidents/m0wx9qml7yjh",
-   "published": "2026-11-25T01:01:34Z",
-   "summary": "Update - We are investigating reports of issues with Code Completions and Next Edit Suggestions. We will continue to keep users updated on progress towards mitigation.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "IAD (Ashburn) on 2026-12-11",
-   "url": "https://www.cloudflarestatus.com/incidents/sbh91nsf3jdz",
-   "published": "2026-11-25T01:01:34Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-12-11 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-128797: Web administration panel exposed over public IPv6",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-128797",
-   "published": "2026-11-24T17:55:19Z",
-   "summary": "Web administration panel (port 8080) binds to all network interfaces including public IPv6 addresses, making internal API endpoints reachable over WAN without firewall protection (related to CVE-2026-50224).",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-128798: Unauthorized access to device and recording metadata",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-128798",
-   "published": "2026-11-24T17:55:18Z",
-   "summary": "Any connected WiFi client can fetch device info and meeting recording metadata without credentials.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135202: WP connect Plugins (Various Versions - Unauthenticated Remote Code Execution via Backdoored Software",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135202",
-   "published": "2026-11-24T17:55:17Z",
-   "summary": "Several plugins for WordPress published by WP connect (Orders Sync to Airtable for WooCommerce, Add-On for Contact Form 7 to Notion, WP Sync for Notion – Notion to WordPress, Add-On for Contact Form 7 to Airtable,…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-59415: TypesenseVectorStore doDelete filter injection via document ID allows unintended document deletion",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-59415",
-   "published": "2026-11-24T17:55:17Z",
-   "summary": "TypesenseVectorStore is vulnerable to a document ID injection in its delete operation that can cause unintended documents to be deleted. TypesenseVectorStore.doDelete(List<String) builds a Typesense filterby…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-117593: Management System Authentication Bypass in ITG Computer's vSRM",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-117593",
-   "published": "2026-11-24T17:55:16Z",
-   "summary": "Weak Password Recovery Mechanism for Forgotten Password vulnerability in ITG Bilgisayar Teknoloji Grubu Tic. Ltd. Şti. VSRM allows Password Recovery Exploitation. This issue affects vSRM: from v14.08.3 before v14.08.5.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-119582: SQL Injection in ITG Computer's vSRM",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-119582",
-   "published": "2026-11-24T17:55:15Z",
-   "summary": "Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in ITG Bilgisayar Teknoloji Grubu Tic. Ltd. Şti. VSRM allows SQL Injection. This issue affects vSRM: from v14.08.3…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-129514: Unauthenticated remote code execution through struct values in Erlang term request bodies",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-129514",
-   "published": "2026-11-24T17:55:15Z",
-   "summary": "Deserialization of Untrusted Data vulnerability in the application/vnd.hex+erlang request body parser in hexpm hexpm allows an unauthenticated remote attacker to execute operating system commands via a crafted Erlang…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135501: Sandbox escape due to use-after-free in the Audio/Video: cubeb component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135501",
-   "published": "2026-11-24T17:55:14Z",
-   "summary": "Sandbox escape due to use-after-free in the Audio/Video: cubeb component. This vulnerability was fixed in Firefox 161 and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135508: Sandbox escape due to use-after-free in the Graphics component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135508",
-   "published": "2026-11-24T17:55:13Z",
-   "summary": "Sandbox escape due to use-after-free in the Graphics component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135509: Sandbox escape due to use-after-free in the Graphics: WebRender component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135509",
-   "published": "2026-11-24T17:55:12Z",
-   "summary": "Sandbox escape due to use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135513: Sandbox escape due to use-after-free in the Networking: HTTP component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135513",
-   "published": "2026-11-24T17:55:12Z",
-   "summary": "Sandbox escape due to use-after-free in the Networking: HTTP component. This vulnerability was fixed in Firefox 161 and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135519: Sandbox escape due to use-after-free in the Networking component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135519",
-   "published": "2026-11-24T17:55:11Z",
-   "summary": "Sandbox escape due to use-after-free in the Networking component. This vulnerability was fixed in Firefox 161, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135525: Sandbox escape due to use-after-free in the Graphics: WebRender component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135525",
-   "published": "2026-11-24T17:55:11Z",
-   "summary": "Sandbox escape due to use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135571: Sandbox escape due to use-after-free in the Panning and Zooming component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135571",
-   "published": "2026-11-24T17:55:10Z",
-   "summary": "Sandbox escape due to use-after-free in the Panning and Zooming component. This vulnerability was fixed in Firefox 161, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135578: Sandbox escape due to use-after-free in the Machine Learning: On Device component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135578",
-   "published": "2026-11-24T17:55:09Z",
-   "summary": "Sandbox escape due to use-after-free in the Machine Learning: On Device component. This vulnerability was fixed in Firefox 161 and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135582: Sandbox escape due to use-after-free in the Networking: HTTP component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135582",
-   "published": "2026-11-24T17:55:08Z",
-   "summary": "Sandbox escape due to use-after-free in the Networking: HTTP component. This vulnerability was fixed in Firefox 161 and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135597: Sandbox escape due to use-after-free in the DOM: Navigation component",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135597",
-   "published": "2026-11-24T17:55:08Z",
-   "summary": "Sandbox escape due to use-after-free in the DOM: Navigation component. This vulnerability was fixed in Firefox 161, Firefox ESR 153.8, and Thunderbird 161.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-65135",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-65135",
-   "published": "2026-11-24T17:55:07Z",
-   "summary": "NVIDIA Video Codec SDK for Linux contains a vulnerability where a user may cause a heap-based buffer overflow issue. A successful exploit of this vulnerability may lead to code execution, data tampering, and denial…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-65175",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-65175",
-   "published": "2026-11-24T17:55:06Z",
-   "summary": "NVIDIA AIStore contains a vulnerability in storage-target node-control authorization where an unauthenticated attacker could access administrative functions through a target's public interface. A successful exploit…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-124286: TLS 1.2 Client Completes Handshake Without a Server Certificate",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-124286",
-   "published": "2026-11-24T17:55:05Z",
-   "summary": "Improper Verification of Cryptographic Signature vulnerability in Erlang OTP ssl (sslhandshake module) allows an on-path attacker to impersonate any server to a TLS 1.2 or DTLS client. When a server sends no…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-130411: Code execution through deserialization of pagination cursors in flop",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-130411",
-   "published": "2026-11-24T17:55:04Z",
-   "summary": "Deserialization of Untrusted Data vulnerability in woylie flop allows a remote attacker to execute code on the server via a crafted pagination cursor. Flop.Cursor.decode/2 in lib/flop/cursor.ex decodes the after and…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-135788: D-Link DIR-X1860 anweb os command injection",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-135788",
-   "published": "2026-11-24T17:55:03Z",
-   "summary": "A weakness has been identified in D-Link DIR-X1860 4.5.2. Affected by this vulnerability is an unknown functionality of the file /usr/sbin/anweb. Executing a manipulation can lead to os command injection. It is…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-123167: Solarwinds Serv-U Privilege Escalation via Path Traversal Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-123167",
-   "published": "2026-11-24T17:54:57Z",
-   "summary": "SolarWinds Serv-U is affected by a privilege escalation vulnerability that, when exploited, can allow a domain administrator to access files that otherwise would require elevated privileges. The risk is lower for…",
-   "critical": true
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-   "published": "2026-11-24T17:54:54Z",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…",
-   "critical": true
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
-   "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
-   "published": "2026-11-24T17:54:53Z",
-   "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-   "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-   "published": "2026-11-24T17:54:53Z",
-   "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
-   "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
-   "published": "2026-11-24T17:54:52Z",
-   "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
-   "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-   "published": "2026-11-24T17:54:52Z",
-   "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-   "published": "2026-11-24T17:54:52Z",
-   "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-   "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-   "published": "2026-11-24T17:54:52Z",
-   "summary": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "McDonald's Japan data breach exposes customer location information",
-   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-   "published": "2026-11-24T17:54:51Z",
-   "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-   "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-   "published": "2026-11-24T17:54:51Z",
-   "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-   "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
-   "published": "2026-11-24T17:54:51Z",
-   "summary": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-   "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-   "published": "2026-11-24T17:54:51Z",
-   "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-   "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-   "published": "2026-11-24T17:54:51Z",
-   "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-   "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "9/UX brings a classic Mac feel to 9front",
-   "url": "https://www.theregister.com/software/2026/11/24/9/ux-brings-a-classic-mac-feel-to-9front/5311844",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "Bringing a classic MacOS Finder to Linux is all very well, but there's no shortage of Linux desktops… however, bringing one to 9front is even more unexpected – and even more useful. 9/UX is a new project by Jeff…",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4902 - Active Exploitation of Vulnerability in Cisco Expressway Series",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4902",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "Severity: Medium",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-   "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries.",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-   "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-   "published": "2026-11-24T17:54:50Z",
-   "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-   "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.",
-   "critical": false
-  },
-  {
-   "source": "NHS Digital",
-   "category": "advisory",
-   "title": "CC-4903 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware vCenter and ESX",
-   "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4903",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "Severity: Medium",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Hackers compromise Check Point Servers in 22 organizations",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt",
-   "url": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "Troy Hunt, the founder of data breach reporting site Have I Been Pwned (HIBP), has revealed how organizations respond when he informs them they’ve leaked data – if they respond at all. Hunt gave Anthropic’s Claude…",
-   "critical": false
-  },
-  {
-   "source": "SecurityWeek",
-   "category": "news",
-   "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-   "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.",
-   "critical": true
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "published": "2026-11-24T17:54:49Z",
-   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-   "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-   "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "The European Commission has confirmed that hackers made off with personal data in the AI-assisted cyberattack disclosed last week, but has relied on a website notice rather than contacting affected users directly.…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-   "critical": false
-  },
-  {
-   "source": "IT Governance",
-   "category": "news",
-   "title": "The Common Thread: What’s Behind Recent Cyber Attacks and How To Protect Your Organisation",
-   "url": "https://grcsolutions.io/whats-behind-recent-cyber-attacks-and-how-to-protect-your-organisation/",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "The post [The Common Thread: What’s Behind Recent Cyber Attacks and How To Protect Your Organisation](https://grcsolutions.io/whats-behind-recent-cyber-attacks-and-how-to-protect-your-organisation/) appeared first on…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.",
-   "critical": true
-  },
-  {
-   "source": "Graham Cluley",
-   "category": "blog",
-   "title": "Signal blocks AI assistants from snooping on your encrypted messages",
-   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages",
-   "published": "2026-11-24T17:54:48Z",
-   "summary": "Signal is blocking Siri and Gemini from reading your encrypted chats off the screen, and warning that AI agents built into operating systems are an \"existential threat\" to privacy.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
-   "url": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
-   "published": "2026-11-24T17:54:47Z",
-   "summary": "CrowdStrike has agreed to buy Zscaler for $43.9 billion in what would be the biggest cybersecurity acquisition on record, and customers are already bracing for pricier renewals. The all-stock deal, announced on…",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "published": "2026-11-24T17:54:47Z",
-   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was…",
-   "critical": false
-  },
-  {
-   "source": "The Hacker News",
-   "category": "news",
-   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-   "published": "2026-11-24T17:54:47Z",
-   "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
-   "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
-   "published": "2026-11-24T17:54:47Z",
-   "summary": "A Romanian hacker, armed with only an open source coding agent, a Chrome browser, and a Mac, tried multiple ways to break into a financial services firm, ultimately found an access key - luckily, it was a decoy - and…",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "TLH (Tallahassee) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/lnfh4mu7qryo",
-   "published": "2026-11-24T15:12:15Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in TLH (Tallahassee) datacenter on 2026-12-03 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "RIC (Richmond) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/hjaw8njpfmi5",
-   "published": "2026-11-24T15:12:14Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in RIC (Richmond) datacenter on 2026-12-03 between 07:00 and 11:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "GDL (Guadalajara) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/3fome5aealdi",
-   "published": "2026-11-24T15:12:14Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in GDL (Guadalajara) datacenter on 2026-12-03 between 08:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LAX (Los Angeles) on 2026-12-03",
-   "url": "https://www.cloudflarestatus.com/incidents/uaiagcfwnxje",
-   "published": "2026-11-24T15:12:13Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2026-12-03 between 10:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "LAX (Los Angeles) on 2026-12-04",
-   "url": "https://www.cloudflarestatus.com/incidents/od9hizpgkqvb",
-   "published": "2026-11-24T15:12:12Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2026-12-04 between 10:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SJC (San Jose) on 2026-12-07",
-   "url": "https://www.cloudflarestatus.com/incidents/m6imohad2odl",
-   "published": "2026-11-24T15:12:11Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-12-07 between 10:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "DFW (Dallas) on 2026-12-08",
-   "url": "https://www.cloudflarestatus.com/incidents/crudhf67wbz3",
-   "published": "2026-11-24T15:12:10Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-12-08 between 08:00 and 12:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "GitHub",
-   "category": "status",
-   "title": "Degraded Availability for MAI Code 2 in Copilot",
-   "url": "https://www.githubstatus.com/incidents/d56dzxzzlw0b",
-   "published": "2026-11-24T15:12:10Z",
-   "summary": "Resolved - This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare",
-   "category": "status",
-   "title": "SJC (San Jose) on 2026-12-09",
-   "url": "https://www.cloudflarestatus.com/incidents/4jhb307krp06",
-   "published": "2026-11-24T15:12:09Z",
-   "summary": "Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-12-09 between 10:00 and 14:00 UTC.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-109480: Profile Data Roaming Service (PDRS) Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-109480",
-   "published": "2026-11-24T04:50:47Z",
-   "summary": "Server-side request forgery in Profile Data Roaming Service (PDRS) allows an authorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-109490: Authentication Methods Portal Extension Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-109490",
-   "published": "2026-11-24T04:50:46Z",
-   "summary": "Improper neutralization of input during web page generation ('cross-site scripting') in Authentication Methods Portal Extension allows an unauthorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-113824: Microsoft Clarity Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-113824",
-   "published": "2026-11-24T04:50:46Z",
-   "summary": "Authorization bypass through user-controlled key in Microsoft Clarity allows an unauthorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-118285: Azure Machine Learning Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-118285",
-   "published": "2026-11-24T04:50:45Z",
-   "summary": "Server-side request forgery in Azure Machine Learning allows an authorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-118286: Azure Site Recovery Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-118286",
-   "published": "2026-11-24T04:50:44Z",
-   "summary": "Improper access control in Azure Site Recovery allows an unauthorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-50691: Microsoft 365 Copilot Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-50691",
-   "published": "2026-11-24T04:50:44Z",
-   "summary": "Improper authorization in M365 Copilot allows an authorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-62841: Azure Event Grid Elevation of Privilege Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-62841",
-   "published": "2026-11-24T04:50:43Z",
-   "summary": "Improper authentication in Azure Event Grid allows an unauthorized attacker to elevate privileges over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-69899: Azure DevTest Labs Spoofing Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-69899",
-   "published": "2026-11-24T04:50:42Z",
-   "summary": "Authentication bypass by spoofing in Azure DevTest Labs allows an unauthorized attacker to perform spoofing over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-70193: Microsoft Office SharePoint Remote Code Execution Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-70193",
-   "published": "2026-11-24T04:50:42Z",
-   "summary": "Improper limitation of a pathname to a restricted directory ('path traversal') in Microsoft Office SharePoint allows an authorized attacker to execute code over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-70305: Azure Portal Spoofing Vulnerability",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-70305",
-   "published": "2026-11-24T04:50:41Z",
-   "summary": "Improper neutralization of input during web page generation ('cross-site scripting') in Azure Portal allows an unauthorized attacker to perform spoofing over a network.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-93700",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-93700",
-   "published": "2026-11-24T04:50:40Z",
-   "summary": "An authenticated WHMCS client could potentially leverage this flaw to read sensitive configuration files on the WHMCS host, including database credentials, and to execute code on the server.",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-130169: AutoGPT: Hardcoded Default JWT Secret Enables Complete Authentication Bypass",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-130169",
-   "published": "2026-11-24T04:50:38Z",
-   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.26 through 0.7.4, AutoGPT Platform ships a publicly known, hardcoded default…",
-   "critical": true
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-134401",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-134401",
-   "published": "2026-11-24T04:50:38Z",
-   "summary": "Improper input validation in Variations in Google Chrome prior to 158.0.8127.88 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security…",
-   "critical": true
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-119848 Windows Message Queuing Denial of Service Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119848",
-   "published": "2026-11-24T04:50:38Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-109481 ASP.NET Core Elevation of Privilege Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481",
-   "published": "2026-11-24T04:50:37Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-114203",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-114203",
-   "published": "2026-11-24T04:50:37Z",
-   "summary": "An Improper Neutralization of Special Elements used in an OS Command（'OS Command Injection') in the ASUS GPU Tweak III allows a remote user to execute arbitrary OS commands via a crafted request to an HTTP endpoint…",
-   "critical": true
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-96233 ASP.NET Core Denial of Service Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96233",
-   "published": "2026-11-24T04:50:37Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Cloudflare Radar",
-   "category": "cve",
-   "title": "CVE-2026-18530: OS Command Injection in Lantronix S2220 Series 2 a3cli Restricted Shell",
-   "url": "https://radar.cloudflare.com/zero-wire/cves/CVE-2026-18530",
-   "published": "2026-11-24T04:50:36Z",
-   "summary": "OS command injection in the a3cli restricted shell in Lantronix S2220 Series 2 allows an authenticated attacker to bypass shell restrictions and execute arbitrary operating system commands via unsanitized command…",
-   "critical": true
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-96225 .NET Elevation of Privilege Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96225",
-   "published": "2026-11-24T04:50:36Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-70197 .NET and Visual Studio Remote Code Execution Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197",
-   "published": "2026-11-24T04:50:35Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-70175 ASP.NET Core Elevation of Privilege Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70175",
-   "published": "2026-11-24T04:50:35Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-87697 .NET Remote Code Execution Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87697",
-   "published": "2026-11-24T04:50:34Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-72965 Windows WebClient Service Elevation of Privilege Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72965",
-   "published": "2026-11-24T04:50:34Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-78462 Visual Studio Code Security Feature Bypass Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78462",
-   "published": "2026-11-24T04:50:33Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-   "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-   "published": "2026-11-24T04:50:33Z",
-   "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
-   "critical": false
-  },
-  {
-   "source": "Microsoft MSRC",
-   "category": "advisory",
-   "title": "CVE-2026-69291 Windows Volume Manager Extension Driver Remote Code Execution Vulnerability",
-   "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69291",
-   "published": "2026-11-24T04:50:33Z",
-   "summary": "Updated an acknowledgement. This is an informational change only.",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-   "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-   "published": "2026-11-24T04:50:33Z",
-   "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
-   "critical": false
-  },
-  {
-   "source": "BleepingComputer",
-   "category": "news",
-   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-   "published": "2026-11-24T04:50:32Z",
-   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
-   "url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
-   "published": "2026-11-24T04:50:32Z",
-   "summary": "Don't mind the recent arrests. The ShinyHunters extortion gang may still be operating, just under the new name of Inception, according to Okta's threat intelligence group. ShinyHunters is the brash cybercriminal…",
-   "critical": false
-  },
-  {
-   "source": "Dark Reading",
-   "category": "news",
-   "title": "Industrial Serial Gateways Broadcast That They're Insecure",
-   "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-   "published": "2026-11-24T04:50:32Z",
-   "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
-   "critical": false
-  },
-  {
-   "source": "The Register",
-   "category": "news",
-   "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
-   "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
-   "published": "2026-11-24T04:50:31Z",
-   "summary": "Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws. Shirudo…",
-   "critical": false
   }
  ]
 }
