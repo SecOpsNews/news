@@ -1,5 +1,142 @@
 [
  {
+  "id": "secopsnews-rundown-2026-11-28-pm",
+  "generated": "2026-11-28T16:12:13Z",
+  "title": "SecOps rundown, Sat 28 Nov afternoon: 8 critical, 2 advisories",
+  "counts": {
+   "last_24h": 16,
+   "critical": 8,
+   "advisories": 2,
+   "status": 0
+  },
+  "providers": [],
+  "critical": {
+   "total": 8,
+   "items": [
+    {
+     "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+     "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+     "source": "BleepingComputer",
+     "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]"
+    },
+    {
+     "title": "Drupal warns of new site takeover flaw exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
+    },
+    {
+     "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+     "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+     "source": "The Hacker News",
+     "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution."
+    },
+    {
+     "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+     "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+     "source": "The Hacker News",
+     "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday."
+    },
+    {
+     "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+     "url": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+     "source": "The Register",
+     "summary": "India’s free e-government platform has a critical SQL injection flaw that thousands of organizations must patch to protect up to two billion citizens. The platform is called the Digital Infrastructure for Governance…"
+    },
+    {
+     "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+     "source": "SecurityWeek",
+     "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign."
+    }
+   ]
+  },
+  "advisories": {
+   "total": 2,
+   "items": [
+    {
+     "title": "CVE-2026-62840 Linux Kernel Elevation of Privilege Vulnerability",
+     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62840",
+     "source": "Microsoft MSRC"
+    },
+    {
+     "title": "CC-4905 - Active Exploitation of Critical Vulnerability in Drupal Core",
+     "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4905",
+     "source": "NHS Digital"
+    }
+   ]
+  },
+  "headlines": {
+   "total": 35,
+   "items": [
+    {
+     "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+     "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+     "source": "The Hacker News"
+    },
+    {
+     "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+     "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+     "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+     "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "New Boston Scientific data breach exposes personal, medical info",
+     "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "pCloud confirms password manager hack after suspicious login alerts",
+     "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+     "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+     "source": "Dark Reading"
+    },
+    {
+     "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+     "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+     "source": "BleepingComputer"
+    },
+    {
+     "title": "SAP confirms security incident after suspicious GitHub activity",
+     "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+     "source": "BleepingComputer"
+    }
+   ]
+  },
+  "blogs": {
+   "total": 1,
+   "items": [
+    {
+     "title": "New York bans AI chatbot toys – but not in time for Christmas",
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys",
+     "source": "Graham Cluley"
+    }
+   ]
+  },
+  "outages": {
+   "total": 0,
+   "items": []
+  }
+ },
+ {
   "id": "secopsnews-rundown-2026-11-27-pm",
   "generated": "2026-11-27T17:28:54Z",
   "title": "SecOps rundown, Fri 27 Nov afternoon: 18 critical, 4 advisories",
@@ -2226,188 +2363,6 @@
     {
      "title": "Incident with Pull Requests",
      "url": "https://www.githubstatus.com/incidents/1xzmt89vv61l",
-     "source": "GitHub"
-    }
-   ]
-  }
- },
- {
-  "id": "secopsnews-rundown-2026-11-14-pm",
-  "generated": "2026-11-14T19:11:17Z",
-  "title": "SecOps rundown, Sat 14 Nov afternoon: 16 critical, 18 advisories",
-  "counts": {
-   "last_24h": 10,
-   "critical": 16,
-   "advisories": 18,
-   "status": 24
-  },
-  "providers": [
-   {
-    "name": "Cloudflare",
-    "notices": 20
-   },
-   {
-    "name": "GitHub",
-    "notices": 4
-   }
-  ],
-  "critical": {
-   "total": 16,
-   "items": [
-    {
-     "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-     "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-     "source": "The Hacker News",
-     "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also…"
-    },
-    {
-     "title": "Check Point warns of zero-day flaw exploited for root access",
-     "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-     "source": "BleepingComputer",
-     "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]"
-    },
-    {
-     "title": "How one AI agent exposed five critical enterprise security gaps",
-     "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-     "source": "BleepingComputer",
-     "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical…"
-    },
-    {
-     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-     "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-     "source": "SecurityWeek",
-     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges."
-    },
-    {
-     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-     "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-     "source": "SecurityWeek",
-     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root."
-    },
-    {
-     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-     "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-     "source": "SecurityWeek",
-     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process."
-    }
-   ]
-  },
-  "advisories": {
-   "total": 18,
-   "items": [
-    {
-     "title": "CastleRAT - 179,745 breached accounts",
-     "url": "https://haveibeenpwned.com/Breach/CastleRAT",
-     "source": "Have I Been Pwned"
-    },
-    {
-     "title": "AI Source Code Analysis Detection Evasion Techniques",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/18",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "[REVIVE-SA-2026-004] Revive Adserver Vulnerabilities",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/23",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-1 iOS 27.2.1 and iPadOS 27.2.1",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/24",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/25",
-     "source": "Full Disclosure"
-    },
-    {
-     "title": "APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12",
-     "url": "https://seclists.org/fulldisclosure/2026/Nov/26",
-     "source": "Full Disclosure"
-    }
-   ]
-  },
-  "headlines": {
-   "total": 63,
-   "items": [
-    {
-     "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-     "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-     "source": "The Hacker News"
-    },
-    {
-     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-     "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-     "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Is AI Making Us Worse at Cybersecurity?",
-     "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
-     "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
-     "source": "The Register"
-    },
-    {
-     "title": "This year’s bug count just passed 100K",
-     "url": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
-     "source": "The Register"
-    },
-    {
-     "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-     "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-     "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-     "source": "BleepingComputer"
-    },
-    {
-     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-     "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-     "source": "SecurityWeek"
-    },
-    {
-     "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-     "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-     "source": "SecurityWeek"
-    }
-   ]
-  },
-  "blogs": {
-   "total": 1,
-   "items": [
-    {
-     "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk",
-     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
-     "source": "Graham Cluley"
-    }
-   ]
-  },
-  "outages": {
-   "total": 4,
-   "items": [
-    {
-     "title": "Copilot experiencing degraded model availability for some GPT models",
-     "url": "https://www.githubstatus.com/incidents/51drrqvsv66g",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Pull Requests",
-     "url": "https://www.githubstatus.com/incidents/1xzmt89vv61l",
-     "source": "GitHub"
-    },
-    {
-     "title": "Incident with Webhooks API",
-     "url": "https://www.githubstatus.com/incidents/gl7yhd7jx00v",
      "source": "GitHub"
     }
    ]
